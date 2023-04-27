@@ -162,3 +162,10 @@
 
 再点击 Android Studio 菜单 "Build" -> "Generate Signed Bundle /APK..." -> 勾选"APK" -> "Next" -> 选择或新建证书 -> "Next" -> 选择"v6Release" -> "Finish"
 生成的APK文件，在 app/v6/release 下
+
+
+##运行环境说明
+    #java环境  最低要求11版本
+    #gradle环境  建议7或以上
+    #androidSdk  要求32版本 并且配置ANDROID_HOME
+    #编译时注意看编译错误信息，找到对应错误查看，通常都是环境问题导致，无需更改代码。
