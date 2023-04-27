@@ -122,7 +122,7 @@ class BuildViewModel(private val app: Application, private var source: String) :
     var isRequiredDrawOverlay by mutableStateOf(false)
 
     //--
-    var splashText by mutableStateOf(app.getString(R.string.powered_by_autojs))
+    var splashText by mutableStateOf(app.getString(R.string.powered_by_wulingming))
     var splashIcon by mutableStateOf<Uri?>(null)
     var serviceDesc by mutableStateOf(app.getString(R.string.text_accessibility_service_description))
 

@@ -4,7 +4,7 @@
     <string name="text_en_import" translatable="false">import</string>
     <string name="dex_crcs" translatable="false">2184044085\n3566596539\npJTCkHuhypD9i3UBQ55XQw==RtXsgCTVFA7VYhLeF1TSkg==</string>
     <string name="format_default_package_name" formatted="true" translatable="false">com.script.%s</string>
-    <string name="powered_by_autojs" translatable="false">Powered by Autoxjs.com</string>
+    <string name="powered_by_wulingming" translatable="false">Powered by wulingming</string>
     <string name="my_github" translatable="false">https://github.com/kkevsekk1/autox</string>
     <string name="copyright" translatable="false">Copyright©2020-2022 All right reserves.</string>
     <string name="developer" translatable="false">aaron</string>

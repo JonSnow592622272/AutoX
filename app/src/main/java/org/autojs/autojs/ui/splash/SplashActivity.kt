@@ -87,7 +87,7 @@ class SplashActivity : ComponentActivity() {
                     )
                 }
                 Text(
-                    text = stringResource(id = R.string.powered_by_autojs),
+                    text = stringResource(id = R.string.powered_by_wulingming),
                     color = Color(0xdd000000),
                     fontSize = 14.sp,
                     modifier = Modifier

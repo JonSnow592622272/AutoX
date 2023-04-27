@@ -325,7 +325,7 @@ class ApkBuilder(
 
         util.getResouces("string", "[DEFAULT]")
         val launchConfig = projectConfig!!.launchConfig
-        launchConfig.splashText.let { util.changeResource("powered_by_autojs", it) }
+        launchConfig.splashText.let { util.changeResource("powered_by_wulingming", it) }
         if (launchConfig.serviceDesc.isNotBlank()) {
             util.changeResource(
                 "text_accessibility_service_description",
