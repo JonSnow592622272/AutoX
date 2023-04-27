@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.console;
+package com.stardust.automyjsa.core.console;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,13 +10,13 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.view.WindowManager;
 
-import com.stardust.autojs.R;
-import com.stardust.autojs.annotation.ScriptInterface;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.api.AbstractConsole;
-import com.stardust.autojs.runtime.api.Console;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
-import com.stardust.autojs.util.FloatingPermission;
+import com.stardust.automyjsa.R;
+import com.stardust.automyjsa.annotation.ScriptInterface;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.api.AbstractConsole;
+import com.stardust.automyjsa.runtime.api.Console;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.util.FloatingPermission;
 import com.stardust.enhancedfloaty.FloatyService;
 import com.stardust.enhancedfloaty.ResizableExpandableFloatyWindow;
 import com.stardust.util.UiHandler;
@@ -222,7 +222,7 @@ public class ConsoleImpl extends AbstractConsole {
         mUiHandler.post(() -> {
             try {
                 FloatyService.addWindow(mFloatyWindow);
-                // SecurityException: https://github.com/hyb1996-guest/AutoJsIssueReport/issues/4781
+                // SecurityException: https://github.com/hyb1996-guest/AutomyjsaIssueReport/issues/4781
             } catch (WindowManager.BadTokenException | SecurityException e) {
                 e.printStackTrace();
                 mUiHandler.toast(R.string.text_no_floating_window_permission);

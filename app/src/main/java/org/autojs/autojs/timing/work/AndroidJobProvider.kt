@@ -1,4 +1,4 @@
-package org.autojs.autojs.timing.work
+package org.automyjsa.automyjsa.timing.work
 
 import android.annotation.SuppressLint
 import android.app.Application
@@ -6,15 +6,15 @@ import android.util.Log
 import com.evernote.android.job.Job
 import com.evernote.android.job.JobManager
 import com.evernote.android.job.JobRequest
-import org.autojs.autojs.App
-import org.autojs.autojs.timing.TimedTask
-import org.autojs.autojs.timing.TimedTaskManager
-import org.autojs.autojs.timing.TimedTaskScheduler
+import org.automyjsa.automyjsa.App
+import org.automyjsa.automyjsa.timing.TimedTask
+import org.automyjsa.automyjsa.timing.TimedTaskManager
+import org.automyjsa.automyjsa.timing.TimedTaskScheduler
 import java.util.concurrent.TimeUnit
 
 /**
  * Created by TonyJiangWJ(https://github.com/TonyJiangWJ).
- * From [TonyJiangWJ/Auto.js](https://github.com/TonyJiangWJ/Auto.js)
+ * From [TonyJiangWJ/Automyjsa.js](https://github.com/TonyJiangWJ/Automyjsa.js)
  */
 object AndroidJobProvider : TimedTaskScheduler() {
 

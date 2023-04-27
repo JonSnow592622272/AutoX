@@ -37,7 +37,7 @@
   <string name="github">ဆော့ဖ်ဝဲအရင်းအမြစ်ကုဒ်</string>
   <string name="text_already_copy_to_clip">ကလစ်ဘုတ်သို့ ကူးယူထားသည်။</string>
   <string name="text_qq_already_copy_to_clip">QQ အဖွဲ့နံပါတ်ကို ကလစ်ဘုတ်သို့ ကူးယူလိုက်ပါပြီ။</string>
-  <string name="share_app">[Autox.js] ဒေါင်းလုဒ်လိပ်စာ- https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ဒေါင်းလုဒ်လိပ်စာ- https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ရေပေါ်ပြတင်းပေါက်</string>
   <string name="text_error_report">အမှားအယွင်းအစီရင်ခံစာ</string>
   <string name="text_press_again_to_exit">ပရိုဂရမ်မှထွက်ရန် ထပ်မံနှိပ်ပါ။</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">တင်သွင်းမှု အောင်မြင်သည်။</string>
   <string name="text_current_activity">လက်ရှိလုပ်ဆောင်ချက်-</string>
   <string name="text_current_package">လက်ရှိ အပလီကေးရှင်း ပက်ကေ့ဂျ်အမည်-</string>
-  <string name="go_to_accessibility_settings">ကျေးဇူးပြု၍ Settings->Accessibility Services->Autox.js ကိုဖွင့်ပြီး ၎င်းကိုဖွင့်ပါ။</string>
+  <string name="go_to_accessibility_settings">ကျေးဇူးပြု၍ Settings->Accessibility Services->Automyjsx.js ကိုဖွင့်ပြီး ၎င်းကိုဖွင့်ပါ။</string>
   <string name="text_script_running">Script run ပါ။</string>
   <string name="text_use_volume_to_stop_running">Volume up key သည် script အားလုံးကို ရပ်တန့်စေသည်။</string>
   <string name="text_need_to_enable_accessibility_service">အများသုံးစွဲနိုင်မှု ဝန်ဆောင်မှုများကို ဖွင့်ထားရန် လိုအပ်သည်။</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Configuration file မရှိပါ။</string>
   <string name="text_foreground_service">ဧည့်ခံတယ်။</string>
   <string name="foreground_notification_channel_name">အိမ်ရှေ့ကောင်တာ ဝန်ဆောင်မှု အကြောင်းကြားစာ</string>
-  <string name="foreground_notification_title">Autox.js သည် ဆက်လက်လည်ပတ်နေပါသည်။</string>
+  <string name="foreground_notification_title">Automyjsx.js သည် ဆက်လက်လည်ပတ်နေပါသည်။</string>
   <string name="foreground_notification_text">ပင်မအင်တာဖေ့စ်ကို ဝင်ရောက်ရန် နှိပ်ပါ။</string>
   <string name="text_run_on_other_broadcast">အခြားပွဲများ (ထုတ်လွှင့်မှု)</string>
   <string name="text_broadcast_action">အသံလွှင့် အက်ရှင်</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">ပရောဂျက်ကို %s တွင် သိမ်းဆည်းထားသည်။</string>
   <string name="text_project_save_error">ပရောဂျက်သိမ်းဆည်းမှု %s မအောင်မြင်ပါ။</string>
   <string name="text_night_mode">ညမုဒ်</string>
-  <string name="text_run_on_startup">Autox.js စတင်သောအခါ</string>
+  <string name="text_run_on_startup">Automyjsx.js စတင်သောအခါ</string>
   <string name="text_usage_stats_permission">အသုံးပြုခွင့်</string>
   <string name="description_usage_stats_permission">\"အသုံးပြုမှုစာရင်းဇယားများကိုကြည့်ရှုရန်\" ခွင့်ပြုချက်ဖြင့်၊ သင်သည် လက်ရှိအပလီကေးရှင်း (currentPackage) ကိုရယူရန် ပိုမိုတိကျစေရန် ဤစက်ပစ္စည်း၏ယခင်အပလီကေးရှင်းအသုံးပြုမှုကို သင်ရယူနိုင်ပါသည်။</string>
   <string name="text_open_with">လမ်းဖွင့်</string>

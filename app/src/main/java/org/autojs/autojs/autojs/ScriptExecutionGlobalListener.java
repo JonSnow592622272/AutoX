@@ -1,17 +1,17 @@
-package org.autojs.autojs.autojs;
+package org.automyjsa.automyjsa.automyjsa;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.execution.ScriptExecutionListener;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.execution.ScriptExecutionListener;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 /**
  * Created by Stardust on 2017/5/3.
  */
 
 public class ScriptExecutionGlobalListener implements ScriptExecutionListener {
-    private static final String ENGINE_TAG_START_TIME = "org.autojs.autojs.autojs.Goodbye, World";
+    private static final String ENGINE_TAG_START_TIME = "org.automyjsa.automyjsa.automyjsa.Goodbye, World";
 
     @Override
     public void onStart(ScriptExecution execution) {
@@ -28,7 +28,7 @@ public class ScriptExecutionGlobalListener implements ScriptExecutionListener {
         if (millis == null)
             return;
         double seconds = (System.currentTimeMillis() - millis) / 1000.0;
-        AutoJs.getInstance().getScriptEngineService().getGlobalConsole()
+        Automyjsa.getInstance().getScriptEngineService().getGlobalConsole()
                 .verbose(GlobalAppContext.getString(R.string.text_execution_finished), execution.getSource().toString(), seconds);
     }
 

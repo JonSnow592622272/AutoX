@@ -37,7 +37,7 @@
   <string name="github">Kode sumber perangkat lunak</string>
   <string name="text_already_copy_to_clip">Disalin ke papan klip</string>
   <string name="text_qq_already_copy_to_clip">Nomor grup QQ telah disalin ke papan klip</string>
-  <string name="share_app">[Autox.js] Alamat unduhan: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Alamat unduhan: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Jendela mengambang</string>
   <string name="text_error_report">Laporan kesalahan</string>
   <string name="text_press_again_to_exit">Tekan lagi untuk keluar dari program</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Impor berhasil</string>
   <string name="text_current_activity">Aktivitas sekarang:</string>
   <string name="text_current_package">Nama paket aplikasi saat ini:</string>
-  <string name="go_to_accessibility_settings">Silakan buka Pengaturan->Layanan Aksesibilitas->Autox.js dan aktifkan</string>
+  <string name="go_to_accessibility_settings">Silakan buka Pengaturan->Layanan Aksesibilitas->Automyjsx.js dan aktifkan</string>
   <string name="text_script_running">Menjalankan skrip</string>
   <string name="text_use_volume_to_stop_running">Tombol volume atas menghentikan semua skrip</string>
   <string name="text_need_to_enable_accessibility_service">Layanan aksesibilitas harus diaktifkan</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Tidak ada file konfigurasi</string>
   <string name="text_foreground_service">Penerimaan</string>
   <string name="foreground_notification_channel_name">Pemberitahuan layanan meja depan</string>
-  <string name="foreground_notification_title">Autox.js terus berjalan</string>
+  <string name="foreground_notification_title">Automyjsx.js terus berjalan</string>
   <string name="foreground_notification_text">Klik untuk masuk ke antarmuka utama</string>
   <string name="text_run_on_other_broadcast">Acara lainnya (siaran)</string>
   <string name="text_broadcast_action">Aksi Siaran</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proyek telah disimpan ke %s</string>
   <string name="text_project_save_error">Penyimpanan proyek gagal %s</string>
   <string name="text_night_mode">Mode malam</string>
-  <string name="text_run_on_startup">Saat Autox.js dimulai</string>
+  <string name="text_run_on_startup">Saat Automyjsx.js dimulai</string>
   <string name="text_usage_stats_permission">Akses penggunaan</string>
   <string name="description_usage_stats_permission">Melalui izin \"lihat statistik penggunaan\", Anda dapat memperoleh penggunaan aplikasi sebelumnya dari perangkat ini, sehingga lebih akurat untuk mendapatkan aplikasi saat ini (Paket saat ini).</string>
   <string name="text_open_with">Jalan terbuka</string>

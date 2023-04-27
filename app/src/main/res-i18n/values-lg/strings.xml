@@ -37,7 +37,7 @@
   <string name="github">Ensibuko ya pulogulaamu</string>
   <string name="text_already_copy_to_clip">Ekoppeddwa ku clipboard</string>
   <string name="text_qq_already_copy_to_clip">Ennamba y\'ekibiina kya QQ ekoppeddwa ku kipande</string>
-  <string name="share_app">[Autox.js] Endagiriro y’okuwanula: https://github.com/kkevsekk1/AutoX/ebifulumizibwa</string>
+  <string name="share_app">[Automyjsx.js] Endagiriro y’okuwanula: https://github.com/kkevsekk1/Automyjsx/ebifulumizibwa</string>
   <string name="text_floating_window">Eddirisa eritengejja</string>
   <string name="text_error_report">Lipoota y’ensobi</string>
   <string name="text_press_again_to_exit">Ddamu onyige okufuluma mu pulogulaamu</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Okuyingiza obuwanguzi</string>
   <string name="text_current_activity">Ebikolebwa mu kiseera kino:</string>
   <string name="text_current_package">Erinnya ly\'ekipapula ky\'enkola eriwo kati:</string>
-  <string name="go_to_accessibility_settings">Nsaba oggulewo Settings->Accessibility Services->Autox.js era ogikole</string>
+  <string name="go_to_accessibility_settings">Nsaba oggulewo Settings->Accessibility Services->Automyjsx.js era ogikole</string>
   <string name="text_script_running">Script okudduka</string>
   <string name="text_use_volume_to_stop_running">Ekisumuluzo kya Volume up kiyimiriza script zonna</string>
   <string name="text_need_to_enable_accessibility_service">Empeereza z’okutuuka ku bantu zeetaaga okusobozesa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Tewali fayiro ya kusengeka</string>
   <string name="text_foreground_service">Lisepusoni</string>
   <string name="foreground_notification_channel_name">Okutegeeza ku mpeereza ya Front desk</string>
-  <string name="foreground_notification_title">Autox.js esigala ng’ekola</string>
+  <string name="foreground_notification_title">Automyjsx.js esigala ng’ekola</string>
   <string name="foreground_notification_text">Nyiga okuyingira mu interface enkulu</string>
   <string name="text_run_on_other_broadcast">Ebirala ebibaawo (okuweereza ku mpewo) .</string>
   <string name="text_broadcast_action">Okuweereza ku mpewo Ekikolwa</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Pulojekiti eterekeddwa ku %s</string>
   <string name="text_project_save_error">Okutereka pulojekiti kulemereddwa %s</string>
   <string name="text_night_mode">Mode y’ekiro</string>
-  <string name="text_run_on_startup">Autox.js bw’etandika</string>
+  <string name="text_run_on_startup">Automyjsx.js bw’etandika</string>
   <string name="text_usage_stats_permission">Okuyingira mu nkozesa</string>
   <string name="description_usage_stats_permission">Okuyita mu lukusa lwa \"laba ebibalo by\'enkozesa\", osobola okufuna enkozesa y\'enkola eyayita ey\'ekyuma kino, kibeere ekituufu okufuna enkola eriwo kati (currentPackage).</string>
   <string name="text_open_with">Ekkubo eriggule</string>

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating.layoutinspector
+package org.automyjsa.automyjsa.ui.floating.layoutinspector
 
 import android.content.Context
 import android.util.AttributeSet
@@ -13,7 +13,7 @@ import com.stardust.util.ClipboardUtil
 import com.stardust.util.sortedArrayOf
 import com.stardust.view.accessibility.NodeInfo
 import com.yqritc.recyclerviewflexibledivider.HorizontalDividerItemDecoration
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsx.R
 import java.lang.reflect.Field
 
 /**

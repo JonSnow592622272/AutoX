@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.keyboard;
+package org.automyjsa.automyjsa.ui.edit.keyboard;
 
 /**
  * Created by Stardust on 2017/12/9.

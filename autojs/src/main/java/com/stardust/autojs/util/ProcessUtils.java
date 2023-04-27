@@ -1,8 +1,8 @@
-package com.stardust.autojs.util;
+package com.stardust.automyjsa.util;
 
 import android.util.Log;
 
-import com.stardust.autojs.core.util.ProcessShell;
+import com.stardust.automyjsa.core.util.ProcessShell;
 
 import java.lang.reflect.Field;
 

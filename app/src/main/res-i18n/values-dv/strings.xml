@@ -37,7 +37,7 @@
   <string name="github">ސޮފްޓްވެއަރ ސޯސް ކޯޑް</string>
   <string name="text_already_copy_to_clip">ކްލިޕްބޯޑަށް ކޮޕީކޮށްފައި</string>
   <string name="text_qq_already_copy_to_clip">ކިއުކިޔު ގްރޫޕް ނަންބަރު ކްލިޕްބޯޑަށް ކޮޕީކޮށްފައިވެއެވެ</string>
-  <string name="share_app">[Autox.js] ޑައުންލޯޑް އެޑްރެސް: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ޑައުންލޯޑް އެޑްރެސް: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ފްލޯޓިންގ ވިންޑޯ</string>
   <string name="text_error_report">އެރަރ ރިޕޯޓް</string>
   <string name="text_press_again_to_exit">ޕްރޮގްރާމް އިން ނުކުތުމަށް އަނެއްކާވެސް ފިއްތާލާށެވެ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">އިމްޕޯޓް ކާމިޔާބު ވެއްޖެ</string>
   <string name="text_current_activity">މިހާރު ހިނގަމުންދާ ހަރަކާތްތައް:</string>
   <string name="text_current_package">މިހާރު ބޭނުންކުރާ އެޕްލިކޭޝަން ޕެކޭޖް ނަން:</string>
-  <string name="go_to_accessibility_settings">ސެޓިންގސް->އެކްސެސިބިލިޓީ ސާވިސަސް->Autox.js ހުޅުވާލުމަށްފަހު އެނެބަލް ކުރައްވާށެވެ</string>
+  <string name="go_to_accessibility_settings">ސެޓިންގސް->އެކްސެސިބިލިޓީ ސާވިސަސް->Automyjsx.js ހުޅުވާލުމަށްފަހު އެނެބަލް ކުރައްވާށެވެ</string>
   <string name="text_script_running">ސްކްރިޕްޓް ރަން</string>
   <string name="text_use_volume_to_stop_running">ވޮލިއުމް އަޕް ކީ އިން ހުރިހާ ސްކްރިޕްޓެއް ހުއްޓިގެންދެއެވެ</string>
   <string name="text_need_to_enable_accessibility_service">އެކްސެސިބިލިޓީގެ ހިދުމަތްތައް އެނެބަލް ކުރަން ޖެހެ އެވެ</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">ކޮންފިގްރޭޝަން ފައިލެއް ނެތެވެ</string>
   <string name="text_foreground_service">ރިސެޕްޝަން</string>
   <string name="foreground_notification_channel_name">ފްރަންޓް ޑެސްކް ސާވިސް ނޮޓިފިކޭޝަން</string>
-  <string name="foreground_notification_title">Autox.js ދުއްވަމުން ގެންދެއެވެ</string>
+  <string name="foreground_notification_title">Automyjsx.js ދުއްވަމުން ގެންދެއެވެ</string>
   <string name="foreground_notification_text">މައި އިންޓަރފޭސްއަށް ވަނުމަށް ކްލިކް ކުރާށެވެ</string>
   <string name="text_run_on_other_broadcast">އެހެން އިވެންޓްތައް (ބްރޯޑްކާސްޓް)</string>
   <string name="text_broadcast_action">ބްރޯޑްކާސްޓް އެކްޝަން</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">ޕްރޮޖެކްޓް %s އަށް ސޭވް ކުރެވިއްޖެއެވެ</string>
   <string name="text_project_save_error">ޕްރޮޖެކްޓް ސޭވް ނާކާމިޔާބު %s</string>
   <string name="text_night_mode">ނައިޓް މޯޑެވެ</string>
-  <string name="text_run_on_startup">Autox.js ފެށޭއިރު</string>
+  <string name="text_run_on_startup">Automyjsx.js ފެށޭއިރު</string>
   <string name="text_usage_stats_permission">ޔޫސޭޖް އެކްސެސް</string>
   <string name="description_usage_stats_permission">\"ވިއު ޔޫސޭޖް ސްޓެޓިސްޓިކްސް\" ހުއްދަ މެދުވެރިކޮށް، މި ޑިވައިސްގެ މާޒީގެ އެޕްލިކޭޝަން ޔޫސް ހޯދައި، މިހާރު ބޭނުންކުރާ އެޕްލިކޭޝަން (currentPackage) ހޯދުން މާ ޞައްޙަ ވެގެންދާނެއެވެ.</string>
   <string name="text_open_with">ހުޅުވާލެވިފައިވާ ގޮތަކަށެވެ</string>

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.toolbar;
+package org.automyjsa.automyjsa.ui.edit.toolbar;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -9,22 +9,22 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.rhino.debug.DebugCallback;
-import com.stardust.autojs.rhino.debug.Debugger;
-import com.stardust.autojs.rhino.debug.Dim;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.rhino.debug.DebugCallback;
+import com.stardust.automyjsa.rhino.debug.Debugger;
+import com.stardust.automyjsa.rhino.debug.Dim;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.pio.PFiles;
 
 import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EFragment;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.edit.EditorView;
-import org.autojs.autojs.ui.edit.debug.CodeEvaluator;
-import org.autojs.autojs.ui.edit.debug.DebugBar;
-import org.autojs.autojs.ui.edit.debug.DebuggerSingleton;
-import org.autojs.autojs.ui.edit.debug.WatchingVariable;
-import org.autojs.autojs.ui.edit.editor.CodeEditor;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.edit.EditorView;
+import org.automyjsa.automyjsa.ui.edit.debug.CodeEvaluator;
+import org.automyjsa.automyjsa.ui.edit.debug.DebugBar;
+import org.automyjsa.automyjsa.ui.edit.debug.DebuggerSingleton;
+import org.automyjsa.automyjsa.ui.edit.debug.WatchingVariable;
+import org.automyjsa.automyjsa.ui.edit.editor.CodeEditor;
 
 import java.lang.ref.WeakReference;
 import java.util.Arrays;

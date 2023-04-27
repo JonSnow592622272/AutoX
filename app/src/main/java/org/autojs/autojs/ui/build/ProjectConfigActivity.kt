@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.build
+package org.automyjsa.automyjsa.ui.build
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -15,9 +15,9 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.request.RequestOptions
 import com.google.android.material.textfield.TextInputLayout
-import com.stardust.autojs.project.ProjectConfig
-import com.stardust.autojs.project.ProjectConfig.Companion.configFileOfDir
-import com.stardust.autojs.project.ProjectConfig.Companion.fromProjectDirAsync
+import com.stardust.automyjsa.project.ProjectConfig
+import com.stardust.automyjsa.project.ProjectConfig.Companion.configFileOfDir
+import com.stardust.automyjsa.project.ProjectConfig.Companion.fromProjectDirAsync
 import com.stardust.pio.PFiles.ensureDir
 import com.stardust.pio.PFiles.write
 import io.reactivex.Observable
@@ -30,17 +30,17 @@ import org.androidannotations.annotations.AfterViews
 import org.androidannotations.annotations.Click
 import org.androidannotations.annotations.EActivity
 import org.androidannotations.annotations.ViewById
-import org.autojs.autojs.model.explorer.ExplorerDirPage
-import org.autojs.autojs.model.explorer.ExplorerFileItem
-import org.autojs.autojs.model.explorer.Explorers
-import org.autojs.autojs.model.project.ProjectTemplate
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder
-import org.autojs.autojs.tool.getRandomString
-import org.autojs.autojs.ui.BaseActivity
-import org.autojs.autojs.ui.shortcut.ShortcutIconSelectActivity.Companion.getBitmapFromIntent
-import org.autojs.autojs.ui.shortcut.ShortcutIconSelectActivity_
-import org.autojs.autojs.ui.widget.SimpleTextWatcher
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage
+import org.automyjsa.automyjsa.model.explorer.ExplorerFileItem
+import org.automyjsa.automyjsa.model.explorer.Explorers
+import org.automyjsa.automyjsa.model.project.ProjectTemplate
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder
+import org.automyjsa.automyjsa.tool.getRandomString
+import org.automyjsa.automyjsa.ui.BaseActivity
+import org.automyjsa.automyjsa.ui.shortcut.ShortcutIconSelectActivity.Companion.getBitmapFromIntent
+import org.automyjsa.automyjsa.ui.shortcut.ShortcutIconSelectActivity_
+import org.automyjsa.automyjsa.ui.widget.SimpleTextWatcher
+import org.automyjsa.automyjsx.R
 import java.io.File
 import java.io.FileOutputStream
 

@@ -1,4 +1,4 @@
-package org.autojs.autojs.network.download;
+package org.automyjsa.automyjsa.network.download;
 
 /**
  * Created by Stardust on 2017/10/20.

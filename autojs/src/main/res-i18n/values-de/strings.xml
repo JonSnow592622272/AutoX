@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Die Gestenüberwachung ist nicht aktiviert, bitte aktivieren Sie sie in den Softwareeinstellungen</string>
   <string name="no_write_settings_permissin">Keine Berechtigung zum Ändern der Systemeinstellungen</string>
   <string name="exception_notification_service_disabled">Der Benachrichtigungsdienst wird nicht ausgeführt, bitte aktivieren Sie die Benachrichtigungsberechtigung erneut</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Für die Ausführung dieses Skripts ist die Auto.js-Versionsnummer %d oder höher erforderlich</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Für die Ausführung dieses Skripts ist die Automyjsa.js-Versionsnummer %d oder höher erforderlich</string>
   <string name="text_drawer_open">Öffnen Sie das Dropdown-Menü</string>
   <string name="text_drawer_close">Schließen Sie das Dropdown-Menü</string>
   <string name="no_read_phone_state_permissin">Keine Berechtigung zum Lesen von Geräteinformationen</string>

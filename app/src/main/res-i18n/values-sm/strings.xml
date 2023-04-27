@@ -37,7 +37,7 @@
   <string name="github">Komipiuta puna code</string>
   <string name="text_already_copy_to_clip">Kopi i le laupapa kilipa</string>
   <string name="text_qq_already_copy_to_clip">Ua kopi le numera vaega QQ i le laupapa kilipa</string>
-  <string name="share_app">[Autox.js] Lauga tuatusi: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Lauga tuatusi: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Faamalama opeopea</string>
   <string name="text_error_report">Lipoti sese</string>
   <string name="text_press_again_to_exit">Toe fetaomi e alu ese mai le polokalame</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Manuia le faaulufale mai</string>
   <string name="text_current_activity">Gaoioiga o iai nei:</string>
   <string name="text_current_package">Igoa o le paketi talosaga o iai nei:</string>
-  <string name="go_to_accessibility_settings">Fa\'amolemole tatala Fa\'atonu->Accessibility Services->Autox.js ma mafai ai</string>
+  <string name="go_to_accessibility_settings">Fa\'amolemole tatala Fa\'atonu->Accessibility Services->Automyjsx.js ma mafai ai</string>
   <string name="text_script_running">Fa\'asologa o tusitusiga</string>
   <string name="text_use_volume_to_stop_running">Ole ki luga ole leo e taofi uma tusitusiga</string>
   <string name="text_need_to_enable_accessibility_service">E mana\'omia le fa\'agaoioi o auaunaga avanoa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Leai se faila faatulagaina</string>
   <string name="text_foreground_service">Taliaina</string>
   <string name="foreground_notification_channel_name">Fa\'asilasilaga auaunaga a le laulau i luma</string>
-  <string name="foreground_notification_title">Autox.js o lo\'o fa\'aauau pea</string>
+  <string name="foreground_notification_title">Automyjsx.js o lo\'o fa\'aauau pea</string>
   <string name="foreground_notification_text">Kiliki e ulufale i le fa\'aoga autu</string>
   <string name="text_run_on_other_broadcast">Isi mea tutupu (faasalalauga)</string>
   <string name="text_broadcast_action">Fa\'asalalauga Gaioiga</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Ua sefe le poloketi ile %s</string>
   <string name="text_project_save_error">Ua le manuia galuega faatino %s</string>
   <string name="text_night_mode">Faiga po</string>
-  <string name="text_run_on_startup">A amata le Autox.js</string>
+  <string name="text_run_on_startup">A amata le Automyjsx.js</string>
   <string name="text_usage_stats_permission">Avanoa fa\'aoga</string>
   <string name="description_usage_stats_permission">E ala i le faʻatagaga \"vaʻai faʻamaumauga faʻaaogaina\", e mafai ona e mauaina le faʻaaogaina o le faʻaaogaina o lenei masini, ina ia sili atu ona saʻo le mauaina o le talosaga o loʻo iai nei (currentPackage).</string>
   <string name="text_open_with">Ala tatala</string>

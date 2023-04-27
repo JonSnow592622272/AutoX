@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -25,8 +25,8 @@ import android.util.DisplayMetrics;
 import android.view.Display;
 import android.view.WindowManager;
 
-import com.stardust.autojs.R;
-import com.stardust.autojs.runtime.exception.ScriptException;
+import com.stardust.automyjsa.R;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
 import com.stardust.pio.PFiles;
 import com.stardust.pio.UncheckedIOException;
 import com.stardust.util.ScreenMetrics;

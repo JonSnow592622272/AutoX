@@ -37,7 +37,7 @@
   <string name="github">Kodi burimor i softuerit</string>
   <string name="text_already_copy_to_clip">Kopjuar në kujtesën e fragmenteve</string>
   <string name="text_qq_already_copy_to_clip">Numri i grupit QQ është kopjuar në kujtesën e fragmenteve</string>
-  <string name="share_app">[Autox.js] Adresa e shkarkimit: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Adresa e shkarkimit: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Dritare lundruese</string>
   <string name="text_error_report">Raport gabimi</string>
   <string name="text_press_again_to_exit">Shtypni sërish për të dalë nga programi</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importi me sukses</string>
   <string name="text_current_activity">Aktiviteti aktual:</string>
   <string name="text_current_package">Emri aktual i paketës së aplikacionit:</string>
-  <string name="go_to_accessibility_settings">Ju lutemi hapni Settings->Accessibility Services->Autox.js dhe aktivizoni atë</string>
+  <string name="go_to_accessibility_settings">Ju lutemi hapni Settings->Accessibility Services->Automyjsx.js dhe aktivizoni atë</string>
   <string name="text_script_running">Ekzekutimi i skenarit</string>
   <string name="text_use_volume_to_stop_running">Tasti i rritjes së volumit ndalon të gjitha skriptet</string>
   <string name="text_need_to_enable_accessibility_service">Shërbimet e aksesueshmërisë duhet të aktivizohen</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nuk ka skedar konfigurimi</string>
   <string name="text_foreground_service">Pritja</string>
   <string name="foreground_notification_channel_name">Njoftimi i shërbimit të recepsionit</string>
-  <string name="foreground_notification_title">Autox.js vazhdon të funksionojë</string>
+  <string name="foreground_notification_title">Automyjsx.js vazhdon të funksionojë</string>
   <string name="foreground_notification_text">Klikoni për të hyrë në ndërfaqen kryesore</string>
   <string name="text_run_on_other_broadcast">Ngjarje të tjera (transmetim)</string>
   <string name="text_broadcast_action">Veprimi i transmetimit</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekti është ruajtur në %s</string>
   <string name="text_project_save_error">Ruajtja e projektit dështoi %s</string>
   <string name="text_night_mode">Modaliteti i natës</string>
-  <string name="text_run_on_startup">Kur fillon Autox.js</string>
+  <string name="text_run_on_startup">Kur fillon Automyjsx.js</string>
   <string name="text_usage_stats_permission">Akses përdorimi</string>
   <string name="description_usage_stats_permission">Nëpërmjet lejes \"shikoni statistikat e përdorimit\", mund të merrni përdorimin e kaluar të aplikacionit të kësaj pajisjeje, në mënyrë që të jetë më e saktë të merrni aplikacionin aktual (Paketa aktuale).</string>
   <string name="text_open_with">Rrugë të hapur</string>

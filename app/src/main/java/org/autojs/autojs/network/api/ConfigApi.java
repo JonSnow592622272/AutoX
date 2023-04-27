@@ -1,6 +1,6 @@
-package org.autojs.autojs.network.api;
+package org.automyjsa.automyjsa.network.api;
 
-import org.autojs.autojs.network.entity.config.Config;
+import org.automyjsa.automyjsa.network.entity.config.Config;
 
 import io.reactivex.Observable;
 import retrofit2.http.GET;

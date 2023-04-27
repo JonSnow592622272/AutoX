@@ -1,4 +1,4 @@
-package com.stardust.autojs.execution
+package com.stardust.automyjsa.execution
 
 import android.app.Activity
 import android.content.Context
@@ -10,18 +10,18 @@ import android.view.Menu
 import android.view.MenuItem
 import android.view.MotionEvent
 import androidx.appcompat.app.AppCompatActivity
-import com.stardust.autojs.ScriptEngineService
-import com.stardust.autojs.core.eventloop.EventEmitter
-import com.stardust.autojs.core.eventloop.SimpleEvent
-import com.stardust.autojs.engine.JavaScriptEngine
-import com.stardust.autojs.engine.LoopBasedJavaScriptEngine
-import com.stardust.autojs.engine.LoopBasedJavaScriptEngine.ExecuteCallback
-import com.stardust.autojs.engine.ScriptEngine
-import com.stardust.autojs.engine.ScriptEngineManager
-import com.stardust.autojs.execution.ExecutionConfig.CREATOR.tag
-import com.stardust.autojs.execution.ScriptExecution.AbstractScriptExecution
-import com.stardust.autojs.runtime.ScriptRuntime
-import com.stardust.autojs.script.ScriptSource
+import com.stardust.automyjsa.ScriptEngineService
+import com.stardust.automyjsa.core.eventloop.EventEmitter
+import com.stardust.automyjsa.core.eventloop.SimpleEvent
+import com.stardust.automyjsa.engine.JavaScriptEngine
+import com.stardust.automyjsa.engine.LoopBasedJavaScriptEngine
+import com.stardust.automyjsa.engine.LoopBasedJavaScriptEngine.ExecuteCallback
+import com.stardust.automyjsa.engine.ScriptEngine
+import com.stardust.automyjsa.engine.ScriptEngineManager
+import com.stardust.automyjsa.execution.ExecutionConfig.CREATOR.tag
+import com.stardust.automyjsa.execution.ScriptExecution.AbstractScriptExecution
+import com.stardust.automyjsa.runtime.ScriptRuntime
+import com.stardust.automyjsa.script.ScriptSource
 import org.mozilla.javascript.ContinuationPending
 
 /**

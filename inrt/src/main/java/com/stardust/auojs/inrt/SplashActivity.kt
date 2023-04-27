@@ -26,16 +26,16 @@ import com.stardust.app.permission.DrawOverlaysPermission
 import com.stardust.app.permission.DrawOverlaysPermission.launchCanDrawOverlaysSettings
 import com.stardust.app.permission.Permissions
 import com.stardust.app.permission.PermissionsSettingsUtil.launchAppPermissionsSettings
-import com.stardust.auojs.inrt.autojs.AccessibilityServiceTool
-import com.stardust.auojs.inrt.autojs.AccessibilityServiceTool1
-import com.stardust.auojs.inrt.autojs.AutoJs
+import com.stardust.auojs.inrt.automyjsa.AccessibilityServiceTool
+import com.stardust.auojs.inrt.automyjsa.AccessibilityServiceTool1
+import com.stardust.auojs.inrt.automyjsa.Automyjsa
 import com.stardust.auojs.inrt.launch.GlobalProjectLauncher
-import com.stardust.autojs.project.ProjectConfig
+import com.stardust.automyjsa.project.ProjectConfig
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import org.autojs.autoxjs.inrt.R
+import org.automyjsa.automyjsx.inrt.R
 
 /**
  * Created by Stardust on 2018/2/2.
@@ -279,7 +279,7 @@ class SplashActivity : ComponentActivity() {
                 runOnUiThread {
                     Toast.makeText(this@SplashActivity, e.message, Toast.LENGTH_LONG).show()
                     startActivity(Intent(this@SplashActivity, LogActivity::class.java))
-                    AutoJs.instance.globalConsole.printAllStackTrace(e)
+                    Automyjsa.instance.globalConsole.printAllStackTrace(e)
                 }
             }
         }.start()

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.shortcut;
+package org.automyjsa.automyjsa.ui.shortcut;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -19,14 +19,14 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.external.ScriptIntents;
-import org.autojs.autojs.external.shortcut.Shortcut;
-import org.autojs.autojs.external.shortcut.ShortcutActivity;
-import org.autojs.autojs.external.shortcut.ShortcutManager;
-import org.autojs.autojs.model.script.ScriptFile;
-import org.autojs.autojs.tool.BitmapTool;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.external.ScriptIntents;
+import org.automyjsa.automyjsa.external.shortcut.Shortcut;
+import org.automyjsa.automyjsa.external.shortcut.ShortcutActivity;
+import org.automyjsa.automyjsa.external.shortcut.ShortcutManager;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
+import org.automyjsa.automyjsa.tool.BitmapTool;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

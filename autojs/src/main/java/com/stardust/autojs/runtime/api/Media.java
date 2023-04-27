@@ -1,11 +1,11 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.content.Context;
 import android.media.MediaPlayer;
 import android.media.MediaScannerConnection;
 import android.net.Uri;
 
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.pio.UncheckedIOException;
 import com.stardust.util.MimeTypes;
 

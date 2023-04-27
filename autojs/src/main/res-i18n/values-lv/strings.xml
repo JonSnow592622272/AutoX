@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Žestu uzraudzība nav iespējota. Lūdzu, iespējojiet to programmatūras iestatījumos</string>
   <string name="no_write_settings_permissin">Nav atļaujas mainīt sistēmas iestatījumus</string>
   <string name="exception_notification_service_disabled">Paziņojumu pakalpojums nedarbojas. Lūdzu, atkārtoti iespējojiet paziņojumu atļauju</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Šim skriptam ir nepieciešams Auto.js versijas numurs %d vai jaunāks</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Šim skriptam ir nepieciešams Automyjsa.js versijas numurs %d vai jaunāks</string>
   <string name="text_drawer_open">Atveriet nolaižamo izvēlni</string>
   <string name="text_drawer_close">Aizveriet nolaižamo izvēlni</string>
   <string name="no_read_phone_state_permissin">Nav atļaujas lasīt ierīces informāciju</string>

@@ -37,7 +37,7 @@
   <string name="github">මෘදුකාංග මූල කේතය</string>
   <string name="text_already_copy_to_clip">පසුරු පුවරුවට පිටපත් කර ඇත</string>
   <string name="text_qq_already_copy_to_clip">QQ කණ්ඩායම් අංකය පසුරු පුවරුවට පිටපත් කර ඇත</string>
-  <string name="share_app">[Autox.js] බාගත කිරීමේ ලිපිනය: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] බාගත කිරීමේ ලිපිනය: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">පාවෙන කවුළුව</string>
   <string name="text_error_report">දෝෂ වාර්තාව</string>
   <string name="text_press_again_to_exit">වැඩසටහනෙන් පිටවීමට නැවත ඔබන්න</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">ආනයනය සාර්ථකයි</string>
   <string name="text_current_activity">වත්මන් ක්‍රියාකාරකම්:</string>
   <string name="text_current_package">වත්මන් යෙදුම් පැකේජයේ නම:</string>
-  <string name="go_to_accessibility_settings">කරුණාකර Settings->Accessibility Services->Autox.js විවෘත කර එය සබල කරන්න</string>
+  <string name="go_to_accessibility_settings">කරුණාකර Settings->Accessibility Services->Automyjsx.js විවෘත කර එය සබල කරන්න</string>
   <string name="text_script_running">ස්ක්‍රිප්ට් ධාවනය</string>
   <string name="text_use_volume_to_stop_running">Volume up key සියලු scripts නවත්වයි</string>
   <string name="text_need_to_enable_accessibility_service">ප්‍රවේශ්‍යතා සේවා සබල කළ යුතුය</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">වින්‍යාස ගොනුවක් නොමැත</string>
   <string name="text_foreground_service">පිළිගැනීම</string>
   <string name="foreground_notification_channel_name">ඉදිරිපස මේස සේවා දැනුම්දීම</string>
-  <string name="foreground_notification_title">Autox.js දිගටම ක්‍රියාත්මක වේ</string>
+  <string name="foreground_notification_title">Automyjsx.js දිගටම ක්‍රියාත්මක වේ</string>
   <string name="foreground_notification_text">ප්‍රධාන අතුරු මුහුණත ඇතුළු කිරීමට ක්ලික් කරන්න</string>
   <string name="text_run_on_other_broadcast">වෙනත් සිදුවීම් (විකාශනය)</string>
   <string name="text_broadcast_action">විකාශන ක්‍රියාව</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">ව්‍යාපෘතිය %s වෙත සුරකින ලදී</string>
   <string name="text_project_save_error">ව්‍යාපෘති සුරැකීම අසාර්ථක විය %s</string>
   <string name="text_night_mode">රාත්රී මාදිලිය</string>
-  <string name="text_run_on_startup">Autox.js ආරම්භ වන විට</string>
+  <string name="text_run_on_startup">Automyjsx.js ආරම්භ වන විට</string>
   <string name="text_usage_stats_permission">භාවිත ප්රවේශය</string>
   <string name="description_usage_stats_permission">\"භාවිත සංඛ්‍යාලේඛන බලන්න\" අවසරය හරහා, ඔබට මෙම උපාංගයේ අතීත යෙදුම් භාවිතය ලබා ගත හැක, එවිට වත්මන් යෙදුම (currentPackage) ලබා ගැනීම වඩාත් නිවැරදි වේ.</string>
   <string name="text_open_with">විවෘත මාර්ගය</string>

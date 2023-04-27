@@ -1,4 +1,4 @@
-package com.stardust.autojs.rhino.debug;
+package com.stardust.automyjsa.rhino.debug;
 /* -*- Mode: java; tab-width: 8; indent-tabs-mode: nil; c-basic-offset: 4 -*-
  *
  * This Source Code Form is subject to the terms of the Mozilla Public
@@ -6,8 +6,8 @@ package com.stardust.autojs.rhino.debug;
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 
-import com.stardust.autojs.engine.RhinoJavaScriptEngine;
-import com.stardust.autojs.engine.ScriptEngine;
+import com.stardust.automyjsa.engine.RhinoJavaScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngine;
 
 import org.mozilla.javascript.Context;
 

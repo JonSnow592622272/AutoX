@@ -1,11 +1,11 @@
-package org.autojs.autojs.timing.work
+package org.automyjsa.automyjsa.timing.work
 
 import android.app.Application
-import org.autojs.autojs.timing.TimedTask
+import org.automyjsa.automyjsa.timing.TimedTask
 
 /**
  * Created by TonyJiangWJ(https://github.com/TonyJiangWJ).
- * From [TonyJiangWJ/Auto.js](https://github.com/TonyJiangWJ/Auto.js)
+ * From [TonyJiangWJ/Automyjsa.js](https://github.com/TonyJiangWJ/Automyjsa.js)
  */
 interface WorkProvider {
     /**

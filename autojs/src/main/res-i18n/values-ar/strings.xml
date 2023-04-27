@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">لم يتم تمكين مراقبة الإيماءات ، يرجى تمكينها في إعدادات البرنامج</string>
   <string name="no_write_settings_permissin">لا يوجد إذن لتعديل إعدادات النظام</string>
   <string name="exception_notification_service_disabled">خدمة الإعلام ليست قيد التشغيل ، يرجى إعادة تمكين إذن الإعلام</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">يتطلب هذا البرنامج النصي رقم إصدار Auto.js %d أو أعلى للتشغيل</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">يتطلب هذا البرنامج النصي رقم إصدار Automyjsa.js %d أو أعلى للتشغيل</string>
   <string name="text_drawer_open">افتح القائمة المنسدلة</string>
   <string name="text_drawer_close">أغلق القائمة المنسدلة</string>
   <string name="no_read_phone_state_permissin">لا يوجد إذن لقراءة معلومات الجهاز</string>

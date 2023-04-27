@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">অঙ্গভঙ্গি পর্যবেক্ষণ সক্ষম করা নেই, দয়া করে সফ্টওয়্যার সেটিংসে এটি সক্ষম করুন৷</string>
   <string name="no_write_settings_permissin">সিস্টেম সেটিংস পরিবর্তন করার জন্য কোন অনুমতি নেই</string>
   <string name="exception_notification_service_disabled">বিজ্ঞপ্তি পরিষেবা চলছে না, দয়া করে বিজ্ঞপ্তি অনুমতি পুনরায় সক্ষম করুন৷</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">এই স্ক্রিপ্টটি চালানোর জন্য Auto.js সংস্করণ নম্বর %d বা উচ্চতর প্রয়োজন৷</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">এই স্ক্রিপ্টটি চালানোর জন্য Automyjsa.js সংস্করণ নম্বর %d বা উচ্চতর প্রয়োজন৷</string>
   <string name="text_drawer_open">ড্রপ ডাউন মেনু খুলুন</string>
   <string name="text_drawer_close">ড্রপ ডাউন মেনু বন্ধ করুন</string>
   <string name="no_read_phone_state_permissin">ডিভাইসের তথ্য পড়ার অনুমতি নেই</string>

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.stardust.autojs.apkbuilder">
+    package="com.stardust.automyjsa.apkbuilder">
 
     <application
         android:allowBackup="true"

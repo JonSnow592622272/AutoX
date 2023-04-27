@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.compose.widget
+package org.automyjsa.automyjsa.ui.compose.widget
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -12,7 +12,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsx.R
 
 @Composable
 fun AskSaveDialog(

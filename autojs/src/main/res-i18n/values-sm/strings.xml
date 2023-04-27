@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">E le\'o mafai ona mata\'ituina taga, fa\'amolemole fa\'agaoioi i tulaga fa\'akomepiuta</string>
   <string name="no_write_settings_permissin">Leai se fa\'atagaga e sui ai le fa\'atulagaina o faiga</string>
   <string name="exception_notification_service_disabled">E le o ta\'avale le auaunaga fa\'asilasilaga, fa\'amolemole toe fa\'aaga le fa\'atagaga fa\'asilasilaga</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">E mana\'omia e lenei fa\'amaumauga le numera o le Auto.js %d pe sili atu e fa\'agaioi ai</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">E mana\'omia e lenei fa\'amaumauga le numera o le Automyjsa.js %d pe sili atu e fa\'agaioi ai</string>
   <string name="text_drawer_open">Tatala le lisi o le matāua</string>
   <string name="text_drawer_close">Tapuni le lisi o le matāua</string>
   <string name="no_read_phone_state_permissin">Leai se fa\'atagaga e faitau fa\'amatalaga masini</string>

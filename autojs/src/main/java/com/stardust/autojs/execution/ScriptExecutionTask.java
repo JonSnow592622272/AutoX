@@ -1,6 +1,6 @@
-package com.stardust.autojs.execution;
+package com.stardust.automyjsa.execution;
 
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.script.ScriptSource;
 
 import java.io.Serializable;
 

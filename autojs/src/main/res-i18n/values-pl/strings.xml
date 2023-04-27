@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Monitorowanie gestów nie jest włączone, włącz je w ustawieniach oprogramowania</string>
   <string name="no_write_settings_permissin">Brak uprawnień do zmiany ustawień systemu</string>
   <string name="exception_notification_service_disabled">Usługa powiadomień nie działa, włącz ponownie uprawnienia do powiadomień</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ten skrypt wymaga do uruchomienia wersji Auto.js %d lub wyższej</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ten skrypt wymaga do uruchomienia wersji Automyjsa.js %d lub wyższej</string>
   <string name="text_drawer_open">Otwórz menu rozwijane</string>
   <string name="text_drawer_close">Zamknij menu rozwijane</string>
   <string name="no_read_phone_state_permissin">Brak uprawnień do odczytu informacji o urządzeniu</string>

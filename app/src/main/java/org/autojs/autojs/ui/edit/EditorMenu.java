@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit;
+package org.automyjsa.automyjsa.ui.edit;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,19 +9,19 @@ import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.google.android.material.snackbar.Snackbar;
-import com.stardust.autojs.script.JavaScriptSource;
+import com.stardust.automyjsa.script.JavaScriptSource;
 import com.stardust.pio.PFiles;
 import com.stardust.util.ClipboardUtil;
 import com.stardust.util.IntentUtil;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.indices.AndroidClass;
-import org.autojs.autojs.model.indices.ClassSearchingItem;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
-import org.autojs.autojs.ui.common.NotAskAgainDialog;
-import org.autojs.autojs.ui.edit.editor.CodeEditor;
-import org.autojs.autojs.ui.log.LogActivityKt;
-import org.autojs.autojs.ui.build.BuildActivity;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.indices.AndroidClass;
+import org.automyjsa.automyjsa.model.indices.ClassSearchingItem;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.ui.common.NotAskAgainDialog;
+import org.automyjsa.automyjsa.ui.edit.editor.CodeEditor;
+import org.automyjsa.automyjsa.ui.log.LogActivityKt;
+import org.automyjsa.automyjsa.ui.build.BuildActivity;
 
 import java.util.Locale;
 

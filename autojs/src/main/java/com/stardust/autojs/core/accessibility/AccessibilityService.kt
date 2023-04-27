@@ -1,8 +1,8 @@
-package com.stardust.autojs.core.accessibility
+package com.stardust.automyjsa.core.accessibility
 
 import android.accessibilityservice.AccessibilityServiceInfo
 import android.os.Build
-import com.stardust.autojs.core.pref.Pref
+import com.stardust.automyjsa.core.pref.Pref
 import com.stardust.view.accessibility.AccessibilityService
 
 class AccessibilityService : AccessibilityService() {

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">手勢監聽未啟用，請在軟件設置中開啟</string>
   <string name="no_write_settings_permissin">沒有修改系統設置權限</string>
   <string name="exception_notification_service_disabled">通知服務未運行，請重新啟用通知權限</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">本腳本需要Auto.js版本號%d以上才能運行</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">本腳本需要Automyjsa.js版本號%d以上才能運行</string>
   <string name="text_drawer_open">打開側拉菜單</string>
   <string name="text_drawer_close">關閉側拉菜單</string>
   <string name="no_read_phone_state_permissin">沒有讀取設備信息權限</string>

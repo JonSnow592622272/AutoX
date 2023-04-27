@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
 import android.os.Build;
 import androidx.annotation.NonNull;

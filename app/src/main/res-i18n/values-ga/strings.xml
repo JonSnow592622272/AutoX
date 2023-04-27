@@ -37,7 +37,7 @@
   <string name="github">Cód foinse bogearraí</string>
   <string name="text_already_copy_to_clip">Cóipeáilte chuig an ngearrthaisce</string>
   <string name="text_qq_already_copy_to_clip">Tá uimhir an ghrúpa QQ cóipeáilte chuig an ngearrthaisce</string>
-  <string name="share_app">[Autox.js] Seoladh íoslódála: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Seoladh íoslódála: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Fuinneog ar snámh</string>
   <string name="text_error_report">Tuairisc earráide</string>
   <string name="text_press_again_to_exit">Brúigh arís chun an clár a fhágáil</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Iompórtáil rathúil</string>
   <string name="text_current_activity">Gníomhaíocht reatha:</string>
   <string name="text_current_package">Ainm an phacáiste feidhmchláir reatha:</string>
-  <string name="go_to_accessibility_settings">Oscail le do thoil Socruithe->Seirbhísí Inrochtaineachta-> Autox.js agus cumasaigh é</string>
+  <string name="go_to_accessibility_settings">Oscail le do thoil Socruithe->Seirbhísí Inrochtaineachta-> Automyjsx.js agus cumasaigh é</string>
   <string name="text_script_running">Rith script</string>
   <string name="text_use_volume_to_stop_running">Stopann an eochair toirt suas gach script</string>
   <string name="text_need_to_enable_accessibility_service">Ní mór seirbhísí inrochtaineachta a chumasú</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Gan aon chomhad cumraíochta</string>
   <string name="text_foreground_service">Fáiltiú</string>
   <string name="foreground_notification_channel_name">Fógra seirbhíse deasc tosaigh</string>
-  <string name="foreground_notification_title">Leanann Autox.js ag rith</string>
+  <string name="foreground_notification_title">Leanann Automyjsx.js ag rith</string>
   <string name="foreground_notification_text">Cliceáil chun an príomh-chomhéadan a chur isteach</string>
   <string name="text_run_on_other_broadcast">Imeachtaí eile (craoladh)</string>
   <string name="text_broadcast_action">Gníomh Craolacháin</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Sábháladh an tionscadal go %s</string>
   <string name="text_project_save_error">Theip ar shábháil an tionscadail %s</string>
   <string name="text_night_mode">Modh oíche</string>
-  <string name="text_run_on_startup">Nuair a thosaíonn Autox.js</string>
+  <string name="text_run_on_startup">Nuair a thosaíonn Automyjsx.js</string>
   <string name="text_usage_stats_permission">Rochtain úsáide</string>
   <string name="description_usage_stats_permission">Tríd an gcead \"féach ar staitisticí úsáide\", is féidir leat úsáid feidhmchláir san am atá thart a fháil ar an ngléas seo, ionas go mbeidh sé níos cruinne an feidhmchlár reatha (currentPackage) a fháil.</string>
   <string name="text_open_with">Bealach oscailte</string>

@@ -1,13 +1,13 @@
-package com.stardust.autojs.core.ui.nativeview;
+package com.stardust.automyjsa.core.ui.nativeview;
 
 import android.graphics.PorterDuff;
 import android.view.View;
 import android.widget.Button;
 
-import com.stardust.autojs.core.ui.JsViewHelper;
-import com.stardust.autojs.core.ui.ViewExtras;
-import com.stardust.autojs.core.ui.attribute.ViewAttributes;
-import com.stardust.autojs.rhino.NativeJavaObjectWithPrototype;
+import com.stardust.automyjsa.core.ui.JsViewHelper;
+import com.stardust.automyjsa.core.ui.ViewExtras;
+import com.stardust.automyjsa.core.ui.attribute.ViewAttributes;
+import com.stardust.automyjsa.rhino.NativeJavaObjectWithPrototype;
 
 import org.mozilla.javascript.NativeJavaObject;
 import org.mozilla.javascript.NativeObject;
@@ -45,7 +45,7 @@ public class NativeView extends NativeJavaObjectWithPrototype {
     private final View mView;
     private final ViewPrototype mViewPrototype;
 
-    public NativeView(Scriptable scope, View view, Class<?> staticType, com.stardust.autojs.runtime.ScriptRuntime runtime) {
+    public NativeView(Scriptable scope, View view, Class<?> staticType, com.stardust.automyjsa.runtime.ScriptRuntime runtime) {
         super(scope, view, staticType);
         mViewAttributes = ViewExtras.getViewAttributes(view, runtime.ui.getResourceParser());
         mView = view;

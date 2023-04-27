@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget;
+package org.automyjsa.automyjsa.ui.widget;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -11,7 +11,7 @@ import com.stardust.theme.ThemeColorHelper;
 import com.stardust.theme.ThemeColorManager;
 import com.stardust.theme.ThemeColorMutable;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 /**
  * Created by Stardust on 2017/8/6.

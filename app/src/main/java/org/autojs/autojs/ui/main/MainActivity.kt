@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.main
+package org.automyjsa.automyjsa.ui.main
 
 import android.Manifest
 import android.content.Context
@@ -31,25 +31,25 @@ import com.stardust.app.permission.DrawOverlaysPermission
 import com.stardust.util.IntentUtil
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
-import org.autojs.autojs.Pref
-import org.autojs.autoxjs.R
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.external.foreground.ForegroundService
-import org.autojs.autojs.timing.TimedTaskScheduler
-import org.autojs.autojs.ui.build.ProjectConfigActivity
-import org.autojs.autojs.ui.build.ProjectConfigActivity_
-import org.autojs.autojs.ui.common.ScriptOperations
-import org.autojs.autojs.ui.compose.theme.AutoXJsTheme
-import org.autojs.autojs.ui.compose.widget.MyIcon
-import org.autojs.autojs.ui.compose.widget.SearchBox2
-import org.autojs.autojs.ui.explorer.ExplorerViewKt
-import org.autojs.autojs.ui.floating.FloatyWindowManger
-import org.autojs.autojs.ui.log.LogActivityKt
-import org.autojs.autojs.ui.main.drawer.DrawerPage
-import org.autojs.autojs.ui.main.scripts.ScriptListFragment
-import org.autojs.autojs.ui.main.task.TaskManagerFragmentKt
-import org.autojs.autojs.ui.main.web.WebViewFragment
-import org.autojs.autojs.ui.widget.fillMaxSize
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.external.foreground.ForegroundService
+import org.automyjsa.automyjsa.timing.TimedTaskScheduler
+import org.automyjsa.automyjsa.ui.build.ProjectConfigActivity
+import org.automyjsa.automyjsa.ui.build.ProjectConfigActivity_
+import org.automyjsa.automyjsa.ui.common.ScriptOperations
+import org.automyjsa.automyjsa.ui.compose.theme.AutomyjsxTheme
+import org.automyjsa.automyjsa.ui.compose.widget.MyIcon
+import org.automyjsa.automyjsa.ui.compose.widget.SearchBox2
+import org.automyjsa.automyjsa.ui.explorer.ExplorerViewKt
+import org.automyjsa.automyjsa.ui.floating.FloatyWindowManger
+import org.automyjsa.automyjsa.ui.log.LogActivityKt
+import org.automyjsa.automyjsa.ui.main.drawer.DrawerPage
+import org.automyjsa.automyjsa.ui.main.scripts.ScriptListFragment
+import org.automyjsa.automyjsa.ui.main.task.TaskManagerFragmentKt
+import org.automyjsa.automyjsa.ui.main.web.WebViewFragment
+import org.automyjsa.automyjsa.ui.widget.fillMaxSize
 
 data class BottomNavigationItem(val icon: Int, val label: String)
 
@@ -82,7 +82,7 @@ class MainActivity : FragmentActivity() {
         }
         setContent {
             scope = rememberCoroutineScope()
-            AutoXJsTheme {
+            AutomyjsxTheme {
                 Surface(color = MaterialTheme.colors.background) {
                     val permission = rememberExternalStoragePermissionsState {
                         if (it) {
@@ -396,7 +396,7 @@ private fun TopBar(
                     }
                 }
                 1 -> {
-                    IconButton(onClick = { AutoJs.getInstance().scriptEngineService.stopAll() }) {
+                    IconButton(onClick = { Automyjsa.getInstance().scriptEngineService.stopAll() }) {
                         Icon(
                             imageVector = Icons.Default.Clear,
                             contentDescription = stringResource(id = R.string.desc_more)

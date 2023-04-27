@@ -1,11 +1,11 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import androidx.annotation.Nullable;
 
-import com.stardust.autojs.core.graphics.ScriptCanvasView;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.ViewCreator;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.graphics.ScriptCanvasView;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ViewCreator;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 /**
  * Created by Stardust on 2018/3/16.

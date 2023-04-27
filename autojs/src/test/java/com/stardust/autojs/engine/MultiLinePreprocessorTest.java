@@ -1,6 +1,6 @@
-package com.stardust.autojs.engine;
+package com.stardust.automyjsa.engine;
 
-import com.stardust.autojs.engine.preprocess.MultiLinePreprocessor;
+import com.stardust.automyjsa.engine.preprocess.MultiLinePreprocessor;
 
 import org.junit.Test;
 

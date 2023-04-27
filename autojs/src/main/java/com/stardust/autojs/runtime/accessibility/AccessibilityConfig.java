@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.accessibility;
+package com.stardust.automyjsa.runtime.accessibility;
 
 import android.util.ArraySet;
 

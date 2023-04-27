@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.content.Context;
 import android.content.Intent;
@@ -6,15 +6,15 @@ import android.os.Looper;
 import android.view.ContextThemeWrapper;
 import android.view.View;
 
-import com.stardust.autojs.R;
-import com.stardust.autojs.core.floaty.BaseResizableFloatyWindow;
-import com.stardust.autojs.core.floaty.RawWindow;
-import com.stardust.autojs.core.ui.JsViewHelper;
-import com.stardust.autojs.core.ui.inflater.DynamicLayoutInflater;
-import com.stardust.autojs.core.ui.inflater.inflaters.Exceptions;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
-import com.stardust.autojs.util.FloatingPermission;
+import com.stardust.automyjsa.R;
+import com.stardust.automyjsa.core.floaty.BaseResizableFloatyWindow;
+import com.stardust.automyjsa.core.floaty.RawWindow;
+import com.stardust.automyjsa.core.ui.JsViewHelper;
+import com.stardust.automyjsa.core.ui.inflater.DynamicLayoutInflater;
+import com.stardust.automyjsa.core.ui.inflater.inflaters.Exceptions;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.util.FloatingPermission;
 import com.stardust.enhancedfloaty.FloatyService;
 import com.stardust.util.UiHandler;
 import com.stardust.util.ViewUtil;

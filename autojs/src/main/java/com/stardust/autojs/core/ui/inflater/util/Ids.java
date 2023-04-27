@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.util;
+package com.stardust.automyjsa.core.ui.inflater.util;
 
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;

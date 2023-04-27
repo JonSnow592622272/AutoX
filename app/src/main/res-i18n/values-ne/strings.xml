@@ -37,7 +37,7 @@
   <string name="github">सफ्टवेयर स्रोत कोड</string>
   <string name="text_already_copy_to_clip">क्लिपबोर्डमा प्रतिलिपि गरियो</string>
   <string name="text_qq_already_copy_to_clip">QQ समूह नम्बर क्लिपबोर्डमा प्रतिलिपि गरिएको छ</string>
-  <string name="share_app">[Autox.js] ठेगाना डाउनलोड गर्नुहोस्: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ठेगाना डाउनलोड गर्नुहोस्: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">फ्लोटिंग विन्डो</string>
   <string name="text_error_report">त्रुटि रिपोर्ट</string>
   <string name="text_press_again_to_exit">कार्यक्रमबाट बाहिर निस्कन फेरि थिच्नुहोस्</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">आयात सफल भयो</string>
   <string name="text_current_activity">हालको गतिविधि:</string>
   <string name="text_current_package">हालको आवेदन प्याकेज नाम:</string>
-  <string name="go_to_accessibility_settings">कृपया Settings->Accessibility Services->Autox.js खोल्नुहोस् र यसलाई सक्षम गर्नुहोस्</string>
+  <string name="go_to_accessibility_settings">कृपया Settings->Accessibility Services->Automyjsx.js खोल्नुहोस् र यसलाई सक्षम गर्नुहोस्</string>
   <string name="text_script_running">स्क्रिप्ट रन</string>
   <string name="text_use_volume_to_stop_running">भोल्युम अप कुञ्जीले सबै स्क्रिप्टहरू रोक्छ</string>
   <string name="text_need_to_enable_accessibility_service">पहुँच सेवाहरू सक्षम गर्न आवश्यक छ</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">कुनै कन्फिगरेसन फाइल छैन</string>
   <string name="text_foreground_service">रिसेप्शन</string>
   <string name="foreground_notification_channel_name">फ्रन्ट डेस्क सेवा सूचना</string>
-  <string name="foreground_notification_title">Autox.js चलिरहन्छ</string>
+  <string name="foreground_notification_title">Automyjsx.js चलिरहन्छ</string>
   <string name="foreground_notification_text">मुख्य इन्टरफेस प्रविष्ट गर्न क्लिक गर्नुहोस्</string>
   <string name="text_run_on_other_broadcast">अन्य घटनाहरू (प्रसारण)</string>
   <string name="text_broadcast_action">प्रसारण कार्य</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">परियोजना %s मा बचत गरिएको छ</string>
   <string name="text_project_save_error">परियोजना बचत असफल %s</string>
   <string name="text_night_mode">रात मोड</string>
-  <string name="text_run_on_startup">जब Autox.js सुरु हुन्छ</string>
+  <string name="text_run_on_startup">जब Automyjsx.js सुरु हुन्छ</string>
   <string name="text_usage_stats_permission">उपयोग पहुँच</string>
   <string name="description_usage_stats_permission">\"उपयोग तथ्याङ्कहरू हेर्नुहोस्\" अनुमति मार्फत, तपाइँ यस यन्त्रको विगतको अनुप्रयोग प्रयोग प्राप्त गर्न सक्नुहुन्छ, ताकि यो हालको अनुप्रयोग (वर्तमान प्याकेज) प्राप्त गर्न अझ सही छ।</string>
   <string name="text_open_with">खुला बाटो</string>

@@ -1,12 +1,12 @@
-package org.autojs.autojs.devplugin
+package org.automyjsa.automyjsa.devplugin
 
 import android.annotation.SuppressLint
 import com.google.gson.JsonNull
 import com.google.gson.JsonObject
 import com.stardust.app.GlobalAppContext.toast
-import com.stardust.autojs.execution.ScriptExecution
-import com.stardust.autojs.project.ProjectLauncher
-import com.stardust.autojs.script.StringScriptSource
+import com.stardust.automyjsa.execution.ScriptExecution
+import com.stardust.automyjsa.project.ProjectLauncher
+import com.stardust.automyjsa.script.StringScriptSource
 import com.stardust.io.Zip
 import com.stardust.pio.PFiles
 import com.stardust.util.MD5
@@ -17,10 +17,10 @@ import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.flowOn
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import org.autojs.autojs.Pref
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.model.script.Scripts.run
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.model.script.Scripts.run
+import org.automyjsa.automyjsx.R
 import java.io.ByteArrayInputStream
 import java.io.File
 import java.io.FileInputStream
@@ -67,7 +67,7 @@ class DevPluginResponseHandler(private val cacheDir: File) : Handler {
                 true
             }
             .handler("stopAll") { data: JsonObject? ->
-                AutoJs.getInstance().scriptEngineService.stopAllAndToast()
+                Automyjsa.getInstance().scriptEngineService.stopAllAndToast()
                 true
             })
         .handler("bytes_command", Router("command")
@@ -103,7 +103,7 @@ class DevPluginResponseHandler(private val cacheDir: File) : Handler {
     private fun launchProject(dir: String) {
         try {
             ProjectLauncher(dir)
-                .launch(AutoJs.getInstance().scriptEngineService)
+                .launch(Automyjsa.getInstance().scriptEngineService)
         } catch (e: Exception) {
             e.printStackTrace()
             toast(R.string.text_invalid_project)

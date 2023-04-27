@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.permission;
+package com.stardust.automyjsa.core.permission;
 
 import android.os.Build;
 import androidx.annotation.NonNull;

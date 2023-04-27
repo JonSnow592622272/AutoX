@@ -1,4 +1,4 @@
-package com.stardust.autojs.execution;
+package com.stardust.automyjsa.execution;
 
 import java.io.Serializable;
 

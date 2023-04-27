@@ -1,12 +1,12 @@
-package org.autojs.autojs.ui.user;
+package org.automyjsa.automyjsa.ui.user;
 
 import android.content.Intent;
 import androidx.annotation.NonNull;
 
 import com.stardust.app.OnActivityResultDelegate;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.widget.EWebView;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.widget.EWebView;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EActivity;

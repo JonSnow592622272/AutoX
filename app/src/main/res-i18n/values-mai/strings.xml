@@ -37,7 +37,7 @@
   <string name="github">सॉफ्टवेयर स्रोत कोड</string>
   <string name="text_already_copy_to_clip">क्लिपबोर्ड पर कॉपी कएल गेल</string>
   <string name="text_qq_already_copy_to_clip">क्यूक्यू समूह नंबर कें क्लिपबोर्ड मे कॉपी कैल गेल छै</string>
-  <string name="share_app">[Autox.js] डाउनलोड पता: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] डाउनलोड पता: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">तैरैत खिड़की</string>
   <string name="text_error_report">त्रुटि रिपोर्ट</string>
   <string name="text_press_again_to_exit">कार्यक्रमसँ बाहर निकलबाक लेल फेर दबाउ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">आयात सफल</string>
   <string name="text_current_activity">वर्तमान गतिविधि : १.</string>
   <string name="text_current_package">वर्तमान अनुप्रयोग पैकेज नाम:</string>
-  <string name="go_to_accessibility_settings">कृपया सेटिंग्स->सुलभता सेवा->Autox.js खोलू आओर एकरा सक्षम करू</string>
+  <string name="go_to_accessibility_settings">कृपया सेटिंग्स->सुलभता सेवा->Automyjsx.js खोलू आओर एकरा सक्षम करू</string>
   <string name="text_script_running">स्क्रिप्ट चलाउ</string>
   <string name="text_use_volume_to_stop_running">वॉल्यूम अप कुंजी सभ स्क्रिप्टकेँ रोकैत अछि</string>
   <string name="text_need_to_enable_accessibility_service">सुलभता सेवाक कें सक्षम करय कें जरूरत छै</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">कोनो विन्यास फाइल नहि</string>
   <string name="text_foreground_service">स्वागत कक्ष</string>
   <string name="foreground_notification_channel_name">फ्रंट डेस्क सेवा सूचना</string>
-  <string name="foreground_notification_title">Autox.js चलैत रहैत अछि</string>
+  <string name="foreground_notification_title">Automyjsx.js चलैत रहैत अछि</string>
   <string name="foreground_notification_text">मुख्य इंटरफेस मे प्रवेश करबाक लेल क्लिक करू</string>
   <string name="text_run_on_other_broadcast">अन्य आयोजन (प्रसारण) २.</string>
   <string name="text_broadcast_action">प्रसारण क्रिया</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">परियोजना %s पर सहेजल गेल अछि</string>
   <string name="text_project_save_error">परियोजना सहेजब असफल %s</string>
   <string name="text_night_mode">रात मोड</string>
-  <string name="text_run_on_startup">जखन Autox.js शुरू होइत अछि</string>
+  <string name="text_run_on_startup">जखन Automyjsx.js शुरू होइत अछि</string>
   <string name="text_usage_stats_permission">उपयोग पहुँच</string>
   <string name="description_usage_stats_permission">\"उपयोग आँकड़ा देखू\" अनुमति कें माध्यम सं, अहां अइ डिवाइस कें पिछला अनुप्रयोग उपयोग प्राप्त कयर सकय छी, ताकि वर्तमान अनुप्रयोग (currentPackage) प्राप्त करनाय बेसि सटीक भ सकय.</string>
   <string name="text_open_with">खुला रास्ता</string>

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget;
+package org.automyjsa.automyjsa.ui.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.FrameLayout;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 /**
  * Created by Stardust on 2017/1/24.

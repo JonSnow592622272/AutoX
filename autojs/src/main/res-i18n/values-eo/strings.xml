@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesta monitorado ne estas ebligita, bonvolu aktivigi ĝin en programaraj agordoj</string>
   <string name="no_write_settings_permissin">Neniu permeso modifi sistemajn agordojn</string>
   <string name="exception_notification_service_disabled">Sciiga servo ne funkcias, bonvolu reŝalti sciigan permeson</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ĉi tiu skripto postulas la numeron de versio de Auto.js %d aŭ pli alta por funkcii</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ĉi tiu skripto postulas la numeron de versio de Automyjsa.js %d aŭ pli alta por funkcii</string>
   <string name="text_drawer_open">Malfermu la falmenuon</string>
   <string name="text_drawer_close">Fermu la falmenuon</string>
   <string name="no_read_phone_state_permissin">Neniu permeso legi informojn pri aparato</string>

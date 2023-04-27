@@ -1,4 +1,4 @@
-package com.stardust.autojs.rhino;
+package com.stardust.automyjsa.rhino;
 
 import androidx.annotation.VisibleForTesting;
 

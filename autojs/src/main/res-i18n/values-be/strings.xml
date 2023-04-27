@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Маніторынг жэстамі не ўключаны, уключыце яго ў наладах праграмнага забеспячэння</string>
   <string name="no_write_settings_permissin">Няма дазволу на змяненне налад сістэмы</string>
   <string name="exception_notification_service_disabled">Служба апавяшчэнняў не працуе, паўторна ўключыце дазвол на апавяшчэнні</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Для выканання гэтага сцэнарыя патрабуецца версія Auto.js з нумарам %d або вышэй</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Для выканання гэтага сцэнарыя патрабуецца версія Automyjsa.js з нумарам %d або вышэй</string>
   <string name="text_drawer_open">Адкрыйце выпадальнае меню</string>
   <string name="text_drawer_close">Зачыніце выпадальнае меню</string>
   <string name="no_read_phone_state_permissin">Няма дазволу на чытанне інфармацыі аб прыладзе</string>

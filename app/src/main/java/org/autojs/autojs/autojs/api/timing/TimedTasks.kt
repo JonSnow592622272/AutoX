@@ -1,8 +1,8 @@
-package org.autojs.autojs.autojs.api.timing
+package org.automyjsa.automyjsa.automyjsa.api.timing
 
-import com.stardust.autojs.execution.ExecutionConfig
-import org.autojs.autojs.timing.TimedTask
-import org.autojs.autojs.timing.TimedTaskManager
+import com.stardust.automyjsa.execution.ExecutionConfig
+import org.automyjsa.automyjsa.timing.TimedTask
+import org.automyjsa.automyjsa.timing.TimedTaskManager
 import org.joda.time.LocalDateTime
 import org.joda.time.LocalTime
 

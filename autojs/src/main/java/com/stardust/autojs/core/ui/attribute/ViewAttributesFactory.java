@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.attribute;
+package com.stardust.automyjsa.core.ui.attribute;
 
 import android.view.View;
 import android.widget.ImageView;
@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 import com.google.android.material.appbar.AppBarLayout;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
 
 import java.util.HashMap;
 

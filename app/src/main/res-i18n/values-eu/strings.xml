@@ -37,7 +37,7 @@
   <string name="github">Softwarearen iturburu kodea</string>
   <string name="text_already_copy_to_clip">Arbelean kopiatu da</string>
   <string name="text_qq_already_copy_to_clip">QQ taldearen zenbakia arbelean kopiatu da</string>
-  <string name="share_app">[Autox.js] Deskarga helbidea: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Deskarga helbidea: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Leiho flotagarria</string>
   <string name="text_error_report">Akatsen txostena</string>
   <string name="text_press_again_to_exit">Sakatu berriro programatik irteteko</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Inportatu ondo</string>
   <string name="text_current_activity">Egungo jarduera:</string>
   <string name="text_current_package">Uneko aplikazio-paketearen izena:</string>
-  <string name="go_to_accessibility_settings">Mesedez, ireki Ezarpenak->Irisgarritasun Zerbitzuak->Autox.js eta gaitu</string>
+  <string name="go_to_accessibility_settings">Mesedez, ireki Ezarpenak->Irisgarritasun Zerbitzuak->Automyjsx.js eta gaitu</string>
   <string name="text_script_running">Gidoia exekutatu</string>
   <string name="text_use_volume_to_stop_running">Bolumena igotzeko teklak script guztiak geldiarazten ditu</string>
   <string name="text_need_to_enable_accessibility_service">Irisgarritasun zerbitzuak gaitu behar dira</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ez dago konfigurazio fitxategirik</string>
   <string name="text_foreground_service">Harrera</string>
   <string name="foreground_notification_channel_name">Frontoiko zerbitzuaren jakinarazpena</string>
-  <string name="foreground_notification_title">Autox.js martxan jarraitzen du</string>
+  <string name="foreground_notification_title">Automyjsx.js martxan jarraitzen du</string>
   <string name="foreground_notification_text">Egin klik interfaze nagusian sartzeko</string>
   <string name="text_run_on_other_broadcast">Beste ekitaldi batzuk (emisioa)</string>
   <string name="text_broadcast_action">Igorpen Ekintza</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proiektua %s -en gorde da</string>
   <string name="text_project_save_error">Proiektua gordetzeak huts egin du %s</string>
   <string name="text_night_mode">Gaueko modua</string>
-  <string name="text_run_on_startup">Autox.js hasten denean</string>
+  <string name="text_run_on_startup">Automyjsx.js hasten denean</string>
   <string name="text_usage_stats_permission">Erabilerarako sarbidea</string>
   <string name="description_usage_stats_permission">\"Ikusi erabilera-estatistikak\" baimenaren bidez, gailu honen iraganeko aplikazioen erabilera lor dezakezu, uneko aplikazioa (egungoPaketea) eskuratzea zehatzagoa izan dadin.</string>
   <string name="text_open_with">Bide irekia</string>

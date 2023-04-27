@@ -1,4 +1,4 @@
-package org.autojs.autojs.build
+package org.automyjsa.automyjsa.build
 
 import java.io.Serializable
 

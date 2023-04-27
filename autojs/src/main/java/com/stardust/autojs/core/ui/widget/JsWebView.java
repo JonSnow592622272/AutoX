@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.widget;
+package com.stardust.automyjsa.core.ui.widget;
 
 import android.content.Context;
 import android.os.Build;

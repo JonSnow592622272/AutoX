@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Imo-ishoralar monitoringi yoqilmagan, uni dastur sozlamalarida yoqing</string>
   <string name="no_write_settings_permissin">Tizim sozlamalarini o\'zgartirishga ruxsat yo\'q</string>
   <string name="exception_notification_service_disabled">Bildirishnoma xizmati ishlamayapti, iltimos, bildirishnoma ruxsatini qayta yoqing</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Bu skriptni ishga tushirish uchun Auto.js versiya raqami %d yoki undan yuqori bo‘lishi kerak</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Bu skriptni ishga tushirish uchun Automyjsa.js versiya raqami %d yoki undan yuqori bo‘lishi kerak</string>
   <string name="text_drawer_open">Ochiladigan menyuni oching</string>
   <string name="text_drawer_close">Ochiladigan menyuni yoping</string>
   <string name="no_read_phone_state_permissin">Qurilma ma\'lumotlarini o\'qishga ruxsat yo\'q</string>

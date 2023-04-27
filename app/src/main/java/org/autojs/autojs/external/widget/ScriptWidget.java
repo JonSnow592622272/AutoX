@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.widget;
+package org.automyjsa.automyjsa.external.widget;
 
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
@@ -10,9 +10,9 @@ import android.util.Log;
 import android.widget.RemoteViews;
 
 import com.stardust.pio.PFiles;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.external.ScriptIntents;
-import org.autojs.autojs.external.open.RunIntentActivity;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.external.ScriptIntents;
+import org.automyjsa.automyjsa.external.open.RunIntentActivity;
 
 import java.util.HashSet;
 import java.util.Set;

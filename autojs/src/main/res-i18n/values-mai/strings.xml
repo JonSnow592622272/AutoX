@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">इशारा निगरानी सक्षम नहि अछि, कृपया एकरा सॉफ्टवेयर सेटिंग मे सक्षम करू</string>
   <string name="no_write_settings_permissin">सिस्टम सेटिंग्स केँ संशोधित करबाक कोनो अनुमति नहि</string>
   <string name="exception_notification_service_disabled">सूचना सेवा नहि चलि रहल अछि, कृपया सूचना अनुमतिकेँ पुनः सक्षम करू</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">एहि स्क्रिप्ट केँ चलाब\' लेल Auto.js संस्करण संख्या %d अथवा ओहि सँ बेसी केर आवश्यकता अछि</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">एहि स्क्रिप्ट केँ चलाब\' लेल Automyjsa.js संस्करण संख्या %d अथवा ओहि सँ बेसी केर आवश्यकता अछि</string>
   <string name="text_drawer_open">ड्रॉप डाउन मेनू खोलू</string>
   <string name="text_drawer_close">ड्रॉप डाउन मेनू बंद करू</string>
   <string name="no_read_phone_state_permissin">डिवाइस जानकारी पढ़बाक कोनो अनुमति नहि</string>

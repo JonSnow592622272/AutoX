@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.content.Context;
 import android.preference.PreferenceManager;
@@ -6,8 +6,8 @@ import androidx.annotation.NonNull;
 import android.text.TextUtils;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 import com.stardust.util.HashUtils;
 
 

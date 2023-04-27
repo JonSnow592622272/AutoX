@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.activity
+package com.stardust.automyjsa.core.activity
 
 import android.accessibilityservice.AccessibilityService
 import android.app.AppOpsManager
@@ -13,7 +13,7 @@ import android.view.accessibility.AccessibilityEvent
 import android.view.accessibility.AccessibilityWindowInfo
 import androidx.annotation.RequiresApi
 import com.stardust.app.isOpPermissionGranted
-import com.stardust.autojs.core.util.Shell
+import com.stardust.automyjsa.core.util.Shell
 import com.stardust.view.accessibility.AccessibilityDelegate
 import java.util.regex.Pattern
 

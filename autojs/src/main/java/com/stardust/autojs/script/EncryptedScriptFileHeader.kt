@@ -1,4 +1,4 @@
-package com.stardust.autojs.script
+package com.stardust.automyjsa.script
 
 import java.io.File
 import java.io.FileInputStream

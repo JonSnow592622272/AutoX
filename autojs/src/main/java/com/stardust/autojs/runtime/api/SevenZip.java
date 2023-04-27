@@ -1,11 +1,11 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.content.Context;
 import android.webkit.JavascriptInterface;
 
 import com.hzy.libp7zip.P7ZipApi;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.exception.ScriptException;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
 import com.stardust.pio.PFiles;
 
 

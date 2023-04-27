@@ -67,7 +67,7 @@
             app:layout_anchorGravity="bottom|right|end"
             app:layout_behavior=".ui.widget.ScrollAwareFABBehavior" />
 
-        <org.autojs.autojs.ui.main.FloatingActionMenu
+        <org.automyjsa.automyjsa.ui.main.FloatingActionMenu
             android:id="@+id/floating_action_menu"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -86,7 +86,7 @@
 
 <!--    <androidx.fragment.app.FragmentContainerView-->
 <!--        android:id="@+id/fragment_drawer"-->
-<!--        android:name="org.autojs.autojs.ui.main.drawer.DrawerFragment_"-->
+<!--        android:name="org.automyjsa.automyjsa.ui.main.drawer.DrawerFragment_"-->
 <!--        android:layout_width="wrap_content"-->
 <!--        android:layout_height="match_parent"-->
 <!--        android:layout_gravity="start"-->

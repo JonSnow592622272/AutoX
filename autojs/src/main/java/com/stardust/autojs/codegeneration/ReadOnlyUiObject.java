@@ -1,4 +1,4 @@
-package com.stardust.autojs.codegeneration;
+package com.stardust.automyjsa.codegeneration;
 
 import android.graphics.Rect;
 import androidx.annotation.NonNull;

@@ -1,4 +1,4 @@
-package org.autojs.autojs.network.entity.notification;
+package org.automyjsa.automyjsa.network.entity.notification;
 
 import java.util.List;
 

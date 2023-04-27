@@ -1,4 +1,4 @@
-package com.stardust.autojs.workground;
+package com.stardust.automyjsa.workground;
 
 import android.content.Context;
 import android.util.AttributeSet;

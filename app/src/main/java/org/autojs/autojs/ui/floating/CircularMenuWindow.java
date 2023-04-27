@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating;
+package org.automyjsa.automyjsa.ui.floating;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -13,7 +13,7 @@ import com.stardust.enhancedfloaty.FloatyWindow;
 import com.stardust.enhancedfloaty.WindowBridge;
 import com.stardust.util.ScreenMetrics;
 
-import org.autojs.autojs.ui.floating.gesture.BounceDragGesture;
+import org.automyjsa.automyjsa.ui.floating.gesture.BounceDragGesture;
 
 public class CircularMenuWindow extends FloatyWindow {
 

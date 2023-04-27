@@ -37,7 +37,7 @@
   <string name="github">Izvorni kod softvera</string>
   <string name="text_already_copy_to_clip">Kopirano u međuspremnik</string>
   <string name="text_qq_already_copy_to_clip">Broj QQ grupe je kopiran u međuspremnik</string>
-  <string name="share_app">[Autox.js] Adresa za preuzimanje: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Adresa za preuzimanje: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Plutajući prozor</string>
   <string name="text_error_report">Izvješće o pogrešci</string>
   <string name="text_press_again_to_exit">Pritisnite ponovno za izlaz iz programa</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Uvoz uspješan</string>
   <string name="text_current_activity">Trenutna aktivnost:</string>
   <string name="text_current_package">Trenutačni naziv paketa aplikacije:</string>
-  <string name="go_to_accessibility_settings">Otvorite Postavke->Usluge pristupačnosti->Autox.js i omogućite ga</string>
+  <string name="go_to_accessibility_settings">Otvorite Postavke->Usluge pristupačnosti->Automyjsx.js i omogućite ga</string>
   <string name="text_script_running">Pokretanje skripte</string>
   <string name="text_use_volume_to_stop_running">Tipka za povećanje glasnoće zaustavlja sve skripte</string>
   <string name="text_need_to_enable_accessibility_service">Usluge pristupačnosti moraju biti omogućene</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nema konfiguracijske datoteke</string>
   <string name="text_foreground_service">Recepcija</string>
   <string name="foreground_notification_channel_name">Obavijest o recepciji</string>
-  <string name="foreground_notification_title">Autox.js nastavlja raditi</string>
+  <string name="foreground_notification_title">Automyjsx.js nastavlja raditi</string>
   <string name="foreground_notification_text">Pritisnite za ulazak u glavno sučelje</string>
   <string name="text_run_on_other_broadcast">Ostali događaji (emitiranje)</string>
   <string name="text_broadcast_action">Akcija emitiranja</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekt je spremljen u %s</string>
   <string name="text_project_save_error">Spremanje projekta nije uspjelo %s</string>
   <string name="text_night_mode">Noćni način</string>
-  <string name="text_run_on_startup">Kada se pokrene Autox.js</string>
+  <string name="text_run_on_startup">Kada se pokrene Automyjsx.js</string>
   <string name="text_usage_stats_permission">Pristup korištenju</string>
   <string name="description_usage_stats_permission">Putem dopuštenja \"pregled statistike korištenja\", možete dobiti prošlu upotrebu aplikacije ovog uređaja, tako da je točnije dobiti trenutnu aplikaciju (currentPackage).</string>
   <string name="text_open_with">Otvoreni put</string>

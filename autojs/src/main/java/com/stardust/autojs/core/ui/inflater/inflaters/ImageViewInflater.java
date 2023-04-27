@@ -1,13 +1,13 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import android.os.Build;
 import android.view.InflateException;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.util.Colors;
-import com.stardust.autojs.core.ui.inflater.util.Dimensions;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.util.Colors;
+import com.stardust.automyjsa.core.ui.inflater.util.Dimensions;
 
 import java.util.Map;
 

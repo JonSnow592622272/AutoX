@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.build
+package org.automyjsa.automyjsa.ui.build
 
 import android.content.Context
 import android.content.Intent
@@ -11,8 +11,8 @@ import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.ViewModelProvider
 import com.afollestad.materialdialogs.MaterialDialog
-import org.autojs.autojs.ui.compose.theme.AutoXJsTheme
-import org.autojs.autojs.ui.compose.util.SetSystemUI
+import org.automyjsa.automyjsa.ui.compose.theme.AutomyjsxTheme
+import org.automyjsa.automyjsa.ui.compose.util.SetSystemUI
 
 /**
  * Modified by wilinz on 2022/5/23
@@ -54,7 +54,7 @@ open class BuildActivity : ComponentActivity() {
         )[BuildViewModel::class.java]
 
         setContent {
-            AutoXJsTheme {
+            AutomyjsxTheme {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background

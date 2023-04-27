@@ -1,6 +1,6 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
-import com.stardust.autojs.project.ProjectConfig;
+import com.stardust.automyjsa.project.ProjectConfig;
 import com.stardust.pio.PFile;
 
 import java.io.File;

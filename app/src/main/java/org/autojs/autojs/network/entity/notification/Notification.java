@@ -1,6 +1,6 @@
-package org.autojs.autojs.network.entity.notification;
+package org.automyjsa.automyjsa.network.entity.notification;
 
-import org.autojs.autojs.network.entity.user.User;
+import org.automyjsa.automyjsa.network.entity.user.User;
 
 public class Notification {
 

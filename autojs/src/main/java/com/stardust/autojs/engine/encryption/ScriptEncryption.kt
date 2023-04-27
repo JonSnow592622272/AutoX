@@ -1,4 +1,4 @@
-package com.stardust.autojs.engine.encryption
+package com.stardust.automyjsa.engine.encryption
 
 import android.util.Log
 import com.stardust.util.AdvancedEncryptionStandard

@@ -1,4 +1,4 @@
-package com.stardust.autojs.apkbuilder.util;
+package com.stardust.automyjsa.apkbuilder.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

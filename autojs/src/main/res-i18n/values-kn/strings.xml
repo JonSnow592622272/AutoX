@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ಗೆಸ್ಚರ್ ಮಾನಿಟರಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ, ದಯವಿಟ್ಟು ಅದನ್ನು ಸಾಫ್ಟ್‌ವೇರ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
   <string name="no_write_settings_permissin">ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿ ಇಲ್ಲ</string>
   <string name="exception_notification_service_disabled">ಅಧಿಸೂಚನೆ ಸೇವೆಯು ಚಾಲನೆಯಲ್ಲಿಲ್ಲ, ದಯವಿಟ್ಟು ಅಧಿಸೂಚನೆ ಅನುಮತಿಯನ್ನು ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ಈ ಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ಚಲಾಯಿಸಲು Auto.js ಆವೃತ್ತಿ ಸಂಖ್ಯೆ %d ಅಥವಾ ಹೆಚ್ಚಿನದು ಅಗತ್ಯವಿದೆ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ಈ ಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ಚಲಾಯಿಸಲು Automyjsa.js ಆವೃತ್ತಿ ಸಂಖ್ಯೆ %d ಅಥವಾ ಹೆಚ್ಚಿನದು ಅಗತ್ಯವಿದೆ</string>
   <string name="text_drawer_open">ಡ್ರಾಪ್ ಡೌನ್ ಮೆನು ತೆರೆಯಿರಿ</string>
   <string name="text_drawer_close">ಡ್ರಾಪ್ ಡೌನ್ ಮೆನುವನ್ನು ಮುಚ್ಚಿ</string>
   <string name="no_read_phone_state_permissin">ಸಾಧನದ ಮಾಹಿತಿಯನ್ನು ಓದಲು ಅನುಮತಿ ಇಲ್ಲ</string>

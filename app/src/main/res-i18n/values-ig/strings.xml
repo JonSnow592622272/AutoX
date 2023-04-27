@@ -37,7 +37,7 @@
   <string name="github">Koodu isi mmalite software</string>
   <string name="text_already_copy_to_clip">E depụtaghachiri ya na klipbọọdụ</string>
   <string name="text_qq_already_copy_to_clip">Eṅomila nọmba otu QQ na klipbọọdụ</string>
-  <string name="share_app">[Autox.js] Budata adreesị: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Budata adreesị: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Window na-ese n\'elu mmiri</string>
   <string name="text_error_report">Mkpesa njehie</string>
   <string name="text_press_again_to_exit">Pịa ọzọ ka ịpụ na mmemme</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Bubata nke ọma</string>
   <string name="text_current_activity">Ọrụ dị ugbu a:</string>
   <string name="text_current_package">Aha ngwugwu ngwa ugbu a:</string>
-  <string name="go_to_accessibility_settings">Biko mepee Ntọala-> Ọrụ nnweta->Autox.js wee mee ya</string>
+  <string name="go_to_accessibility_settings">Biko mepee Ntọala-> Ọrụ nnweta->Automyjsx.js wee mee ya</string>
   <string name="text_script_running">Script ọsọ</string>
   <string name="text_use_volume_to_stop_running">Igodo olu na-akwụsị edemede niile</string>
   <string name="text_need_to_enable_accessibility_service">Ekwesịrị ịgbalite ọrụ nnweta</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Enweghị nhazi faịlụ</string>
   <string name="text_foreground_service">Nnabata</string>
   <string name="foreground_notification_channel_name">Ngosi ọrụ oche oche</string>
-  <string name="foreground_notification_title">Autox.js na-aga n\'ihu</string>
+  <string name="foreground_notification_title">Automyjsx.js na-aga n\'ihu</string>
   <string name="foreground_notification_text">Pịa ka ịbanye isi interface</string>
   <string name="text_run_on_other_broadcast">Mmemme ndị ọzọ (mgbasa ozi)</string>
   <string name="text_broadcast_action">Omume Mgbasa Ozi</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Edokwala oru ngo na %s</string>
   <string name="text_project_save_error">Nchekwa oru ngo dara %s</string>
   <string name="text_night_mode">Abalị mode</string>
-  <string name="text_run_on_startup">Mgbe Autox.js malitere</string>
+  <string name="text_run_on_startup">Mgbe Automyjsx.js malitere</string>
   <string name="text_usage_stats_permission">Ohere ojiji</string>
   <string name="description_usage_stats_permission">Site na ikike “nlele ọnụ ọgụgụ ojiji”, ị nwere ike nweta ojiji ngwa ngwa gara aga nke ngwaọrụ a, ka ọ bụrụ ihe ziri ezi inweta ngwa ugbu a (currentPackage).</string>
   <string name="text_open_with">Ụzọ oghe</string>

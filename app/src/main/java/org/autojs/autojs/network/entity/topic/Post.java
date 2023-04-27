@@ -1,9 +1,9 @@
 
-package org.autojs.autojs.network.entity.topic;
+package org.automyjsa.automyjsa.network.entity.topic;
 
 import com.google.gson.annotations.SerializedName;
 
-import org.autojs.autojs.network.entity.user.User;
+import org.automyjsa.automyjsa.network.entity.user.User;
 
 @SuppressWarnings("unused")
 public class Post {

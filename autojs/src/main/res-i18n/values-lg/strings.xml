@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Okulondoola obubonero tekukozesebwa, nsaba okisobozese mu nteekateeka za pulogulaamu</string>
   <string name="no_write_settings_permissin">Tewali lukusa kukyusa nsengeka za nkola</string>
   <string name="exception_notification_service_disabled">Empeereza y\'okumanyisa tekola, nsaba oddemu okusobozesa olukusa lw\'okumanyisa</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script eno yeetaaga Auto.js version number %d oba okusingawo okukola</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script eno yeetaaga Automyjsa.js version number %d oba okusingawo okukola</string>
   <string name="text_drawer_open">Ggulawo menu egwa wansi</string>
   <string name="text_drawer_close">Ggalawo menu egwa wansi</string>
   <string name="no_read_phone_state_permissin">Tewali lukusa kusoma bikwata ku kyuma</string>

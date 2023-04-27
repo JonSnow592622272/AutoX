@@ -44,7 +44,7 @@
     *;
 }
 
--keep class org.autojs.autoxjs.inrt.BuildConfig{
+-keep class org.automyjsa.automyjsx.inrt.BuildConfig{
    *;
 }
 

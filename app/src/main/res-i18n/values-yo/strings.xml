@@ -37,7 +37,7 @@
   <string name="github">Koodu orisun software</string>
   <string name="text_already_copy_to_clip">Daakọ si sileti</string>
   <string name="text_qq_already_copy_to_clip">Nọmba ẹgbẹ QQ ti jẹ daakọ si agekuru agekuru</string>
-  <string name="share_app">[Autox.js] Ṣe igbasilẹ adirẹsi: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Ṣe igbasilẹ adirẹsi: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Ferese lilefoofo</string>
   <string name="text_error_report">Iroyin aṣiṣe</string>
   <string name="text_press_again_to_exit">Tẹ lẹẹkansi lati jade kuro ni eto naa</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Aṣeyọri gbe wọle</string>
   <string name="text_current_activity">Iṣẹ ṣiṣe lọwọlọwọ:</string>
   <string name="text_current_package">Orukọ idii ohun elo lọwọlọwọ:</string>
-  <string name="go_to_accessibility_settings">Jọwọ ṣii Eto-> Awọn iṣẹ Wiwọle->Autox.js ki o muu ṣiṣẹ</string>
+  <string name="go_to_accessibility_settings">Jọwọ ṣii Eto-> Awọn iṣẹ Wiwọle->Automyjsx.js ki o muu ṣiṣẹ</string>
   <string name="text_script_running">Ṣiṣe akosile</string>
   <string name="text_use_volume_to_stop_running">Bọtini iwọn didun da gbogbo awọn iwe afọwọkọ duro</string>
   <string name="text_need_to_enable_accessibility_service">Awọn iṣẹ iraye si nilo lati mu ṣiṣẹ</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ko si faili iṣeto ni</string>
   <string name="text_foreground_service">Gbigbawọle</string>
   <string name="foreground_notification_channel_name">Ifitonileti iṣẹ tabili iwaju</string>
-  <string name="foreground_notification_title">Autox.js n ṣiṣẹ</string>
+  <string name="foreground_notification_title">Automyjsx.js n ṣiṣẹ</string>
   <string name="foreground_notification_text">Tẹ lati tẹ akọkọ ni wiwo</string>
   <string name="text_run_on_other_broadcast">Awọn iṣẹlẹ miiran (igbohunsafẹfẹ)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Ise agbese ti wa ni ipamọ si %s</string>
   <string name="text_project_save_error">Ifipamọ ise agbese kuna %s</string>
   <string name="text_night_mode">Night mode</string>
-  <string name="text_run_on_startup">Nigbati Autox.js bẹrẹ</string>
+  <string name="text_run_on_startup">Nigbati Automyjsx.js bẹrẹ</string>
   <string name="text_usage_stats_permission">Wiwọle lilo</string>
   <string name="description_usage_stats_permission">Nipasẹ igbanilaaye “awọn iṣiro lilo wiwo”, o le gba ohun elo ohun elo ti o kọja ti ẹrọ yii, ki o jẹ deede diẹ sii lati gba ohun elo lọwọlọwọ (Package lọwọlọwọ).</string>
   <string name="text_open_with">Ọna ìmọ</string>

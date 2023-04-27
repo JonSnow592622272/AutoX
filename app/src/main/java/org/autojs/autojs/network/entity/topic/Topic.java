@@ -1,5 +1,5 @@
 
-package org.autojs.autojs.network.entity.topic;
+package org.automyjsa.automyjsa.network.entity.topic;
 
 import android.text.Html;
 
@@ -9,7 +9,7 @@ import java.util.List;
 import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;
 
-import org.autojs.autojs.network.entity.user.User;
+import org.automyjsa.automyjsa.network.entity.user.User;
 
 @SuppressWarnings("unused")
 public class Topic {

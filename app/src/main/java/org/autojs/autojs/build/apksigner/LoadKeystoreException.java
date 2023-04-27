@@ -1,4 +1,4 @@
-package org.autojs.autojs.build.apksigner;
+package org.automyjsa.automyjsa.build.apksigner;
 
 import java.io.IOException;
 

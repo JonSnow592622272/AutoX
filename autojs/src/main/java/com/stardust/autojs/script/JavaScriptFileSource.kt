@@ -1,6 +1,6 @@
-package com.stardust.autojs.script
+package com.stardust.automyjsa.script
 
-import com.stardust.autojs.script.EncryptedScriptFileHeader.getHeaderFlags
+import com.stardust.automyjsa.script.EncryptedScriptFileHeader.getHeaderFlags
 import com.stardust.pio.PFiles.read
 import com.stardust.pio.UncheckedIOException
 import java.io.File

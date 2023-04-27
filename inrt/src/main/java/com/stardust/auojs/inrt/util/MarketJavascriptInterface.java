@@ -10,10 +10,10 @@ import android.text.TextUtils;
 import android.widget.Toast;
 
 import com.stardust.auojs.inrt.Pref;
-import com.stardust.auojs.inrt.autojs.AutoJs;
-import com.stardust.autojs.execution.ExecutionConfig;
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.script.StringScriptSource;
+import com.stardust.auojs.inrt.automyjsa.Automyjsa;
+import com.stardust.automyjsa.execution.ExecutionConfig;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.script.StringScriptSource;
 
 
 import static android.content.Context.TELEPHONY_SERVICE;
@@ -29,7 +29,7 @@ public class MarketJavascriptInterface {
         StringScriptSource scriptSource = new StringScriptSource(name,code);
         ExecutionConfig config = new ExecutionConfig();
         config.setWorkingDirectory(Pref.getScriptDirPath());
-        execution=   AutoJs.Companion.getInstance().getScriptEngineService().execute(scriptSource, new ExecutionConfig());
+        execution=   Automyjsa.Companion.getInstance().getScriptEngineService().execute(scriptSource, new ExecutionConfig());
     }
 
 

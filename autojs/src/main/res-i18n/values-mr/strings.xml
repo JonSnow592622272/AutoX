@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">जेश्चर मॉनिटरिंग सक्षम नाही, कृपया ते सॉफ्टवेअर सेटिंग्जमध्ये सक्षम करा</string>
   <string name="no_write_settings_permissin">सिस्टम सेटिंग्जमध्ये बदल करण्याची परवानगी नाही</string>
   <string name="exception_notification_service_disabled">सूचना सेवा चालू नाही, कृपया सूचना परवानगी पुन्हा-सक्षम करा</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">या स्क्रिप्टला चालविण्यासाठी Auto.js आवृत्ती क्रमांक %d किंवा उच्च आवश्यक आहे</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">या स्क्रिप्टला चालविण्यासाठी Automyjsa.js आवृत्ती क्रमांक %d किंवा उच्च आवश्यक आहे</string>
   <string name="text_drawer_open">ड्रॉप डाउन मेनू उघडा</string>
   <string name="text_drawer_close">ड्रॉप डाउन मेनू बंद करा</string>
   <string name="no_read_phone_state_permissin">डिव्हाइस माहिती वाचण्याची परवानगी नाही</string>

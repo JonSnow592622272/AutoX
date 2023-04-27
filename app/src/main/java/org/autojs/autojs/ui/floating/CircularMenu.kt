@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating
+package org.automyjsa.automyjsa.ui.floating
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -13,29 +13,29 @@ import butterknife.Optional
 import com.afollestad.materialdialogs.MaterialDialog
 import com.makeramen.roundedimageview.RoundedImageView
 import com.stardust.app.DialogUtils
-import com.stardust.autojs.core.record.Recorder
+import com.stardust.automyjsa.core.record.Recorder
 import com.stardust.enhancedfloaty.FloatyService
 import com.stardust.enhancedfloaty.FloatyWindow
 import com.stardust.util.ClipboardUtil
 import com.stardust.view.accessibility.AccessibilityService.Companion.instance
 import com.stardust.view.accessibility.LayoutInspector.CaptureAvailableListener
 import com.stardust.view.accessibility.NodeInfo
-import org.autojs.autojs.Pref
-import org.autojs.autoxjs.R
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.autojs.record.GlobalActionRecorder
-import org.autojs.autojs.model.explorer.ExplorerDirPage
-import org.autojs.autojs.model.explorer.Explorers
-import org.autojs.autojs.model.script.Scripts.run
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder
-import org.autojs.autojs.tool.AccessibilityServiceTool
-import org.autojs.autojs.tool.RootTool
-import org.autojs.autojs.ui.common.NotAskAgainDialog
-import org.autojs.autojs.ui.common.OperationDialogBuilder
-import org.autojs.autojs.ui.explorer.ExplorerViewKt
-import org.autojs.autojs.ui.floating.layoutinspector.LayoutBoundsFloatyWindow
-import org.autojs.autojs.ui.floating.layoutinspector.LayoutHierarchyFloatyWindow
-import org.autojs.autojs.ui.main.MainActivity
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.automyjsa.record.GlobalActionRecorder
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage
+import org.automyjsa.automyjsa.model.explorer.Explorers
+import org.automyjsa.automyjsa.model.script.Scripts.run
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder
+import org.automyjsa.automyjsa.tool.AccessibilityServiceTool
+import org.automyjsa.automyjsa.tool.RootTool
+import org.automyjsa.automyjsa.ui.common.NotAskAgainDialog
+import org.automyjsa.automyjsa.ui.common.OperationDialogBuilder
+import org.automyjsa.automyjsa.ui.explorer.ExplorerViewKt
+import org.automyjsa.automyjsa.ui.floating.layoutinspector.LayoutBoundsFloatyWindow
+import org.automyjsa.automyjsa.ui.floating.layoutinspector.LayoutHierarchyFloatyWindow
+import org.automyjsa.automyjsa.ui.main.MainActivity
 import org.greenrobot.eventbus.EventBus
 import org.jdeferred.Deferred
 import org.jdeferred.impl.DeferredObject
@@ -65,7 +65,7 @@ class CircularMenu(context: Context?) : Recorder.OnStateChangedListener, Capture
                 mWindow?.collapse()
             } else {
                 mCaptureDeferred = DeferredObject()
-                AutoJs.getInstance().layoutInspector.captureCurrentWindow()
+                Automyjsa.getInstance().layoutInspector.captureCurrentWindow()
                 mWindow?.expand()
             }
         }
@@ -224,7 +224,7 @@ class CircularMenu(context: Context?) : Recorder.OnStateChangedListener, Capture
     @OnClick(R.id.stop_all_scripts)
     fun stopAllScripts() {
         mWindow?.collapse()
-        AutoJs.getInstance().scriptEngineService.stopAllAndToast()
+        Automyjsa.getInstance().scriptEngineService.stopAllAndToast()
     }
 
     override fun onCaptureAvailable(capture: NodeInfo?) {
@@ -237,8 +237,8 @@ class CircularMenu(context: Context?) : Recorder.OnStateChangedListener, Capture
     @OnClick(R.id.settings)
     fun settings() {
         mWindow?.collapse()
-        mRunningPackage = AutoJs.getInstance().infoProvider.getLatestPackageByUsageStatsIfGranted()
-        mRunningActivity = AutoJs.getInstance().infoProvider.latestActivity
+        mRunningPackage = Automyjsa.getInstance().infoProvider.getLatestPackageByUsageStatsIfGranted()
+        mRunningActivity = Automyjsa.getInstance().infoProvider.latestActivity
         mSettingsDialog = OperationDialogBuilder(mContext)
             .item(
                 R.id.accessibility_service,
@@ -329,7 +329,7 @@ class CircularMenu(context: Context?) : Recorder.OnStateChangedListener, Capture
             mState = STATE_CLOSED
         }
         mRecorder.removeOnStateChangedListener(this)
-        AutoJs.getInstance().layoutInspector.removeCaptureAvailableListener(this)
+        Automyjsa.getInstance().layoutInspector.removeCaptureAvailableListener(this)
     }
 
     override fun onStart() {
@@ -356,6 +356,6 @@ class CircularMenu(context: Context?) : Recorder.OnStateChangedListener, Capture
         setupListeners()
         mRecorder = GlobalActionRecorder.getSingleton(context)
         mRecorder.addOnStateChangedListener(this)
-        AutoJs.getInstance().layoutInspector.addCaptureAvailableListener(this)
+        Automyjsa.getInstance().layoutInspector.addCaptureAvailableListener(this)
     }
 }

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Monitoring ya ba gestes ezali activé te, svp activer yango na paramètres ya logiciel</string>
   <string name="no_write_settings_permissin">Ndingisa te ya kobongola ba paramètres ya système</string>
   <string name="exception_notification_service_disabled">Service ya notification ezali kosala te, svp activer lisusu permission ya notification</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script oyo esengi nimero ya version ya Auto.js %d to koleka mpo na kosala</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script oyo esengi nimero ya version ya Automyjsa.js %d to koleka mpo na kosala</string>
   <string name="text_drawer_open">Fungola menu oyo ezali kokita</string>
   <string name="text_drawer_close">Kangá menu oyo ezali kokita</string>
   <string name="no_read_phone_state_permissin">Ndingisa te ya kotánga makambo ya aparɛyi</string>

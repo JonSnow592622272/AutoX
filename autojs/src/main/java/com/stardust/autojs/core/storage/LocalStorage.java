@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.storage;
+package com.stardust.automyjsa.core.storage;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -9,7 +9,7 @@ import android.content.SharedPreferences;
 
 public class LocalStorage {
 
-    private static final String NAME_PREFIX = "autojs.localstorage.";
+    private static final String NAME_PREFIX = "automyjsa.localstorage.";
     private SharedPreferences mSharedPreferences;
 
     public LocalStorage(Context context, String name) {

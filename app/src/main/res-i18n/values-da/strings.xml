@@ -37,7 +37,7 @@
   <string name="github">Software kildekode</string>
   <string name="text_already_copy_to_clip">Kopieret til udklipsholder</string>
   <string name="text_qq_already_copy_to_clip">QQ-gruppenummeret er blevet kopieret til udklipsholderen</string>
-  <string name="share_app">[Autox.js] Download-adresse: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Download-adresse: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Flydende vindue</string>
   <string name="text_error_report">Fejlrapport</string>
   <string name="text_press_again_to_exit">Tryk igen for at afslutte programmet</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importen lykkedes</string>
   <string name="text_current_activity">Aktuel aktivitet:</string>
   <string name="text_current_package">Aktuelt programpakkenavn:</string>
-  <string name="go_to_accessibility_settings">Åbn venligst Indstillinger->Tilgængelighedstjenester->Autox.js og aktiver det</string>
+  <string name="go_to_accessibility_settings">Åbn venligst Indstillinger->Tilgængelighedstjenester->Automyjsx.js og aktiver det</string>
   <string name="text_script_running">Script køres</string>
   <string name="text_use_volume_to_stop_running">Lydstyrke op-tast stopper alle scripts</string>
   <string name="text_need_to_enable_accessibility_service">Tilgængelighedstjenester skal aktiveres</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ingen konfigurationsfil</string>
   <string name="text_foreground_service">Reception</string>
   <string name="foreground_notification_channel_name">Servicemeddelelse i receptionen</string>
-  <string name="foreground_notification_title">Autox.js fortsætter med at køre</string>
+  <string name="foreground_notification_title">Automyjsx.js fortsætter med at køre</string>
   <string name="foreground_notification_text">Klik for at gå ind i hovedgrænsefladen</string>
   <string name="text_run_on_other_broadcast">Andre begivenheder (udsendelse)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projektet er blevet gemt til %s</string>
   <string name="text_project_save_error">Projektlagring mislykkedes %s</string>
   <string name="text_night_mode">Nattilstand</string>
-  <string name="text_run_on_startup">Når Autox.js starter</string>
+  <string name="text_run_on_startup">Når Automyjsx.js starter</string>
   <string name="text_usage_stats_permission">Brugsadgang</string>
   <string name="description_usage_stats_permission">Gennem tilladelsen \"se brugsstatistikker\" kan du få den tidligere applikationsbrug af denne enhed, så det er mere nøjagtigt at få den aktuelle applikation (currentPackage).</string>
   <string name="text_open_with">Åben vej</string>

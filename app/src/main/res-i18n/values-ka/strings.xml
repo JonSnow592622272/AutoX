@@ -37,7 +37,7 @@
   <string name="github">პროგრამული უზრუნველყოფის წყარო კოდი</string>
   <string name="text_already_copy_to_clip">კოპირებულია ბუფერში</string>
   <string name="text_qq_already_copy_to_clip">QQ ჯგუფის ნომერი დაკოპირდა ბუფერში</string>
-  <string name="share_app">[Autox.js] ჩამოტვირთვის მისამართი: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ჩამოტვირთვის მისამართი: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">მცურავი ფანჯარა</string>
   <string name="text_error_report">შეცდომის ანგარიში</string>
   <string name="text_press_again_to_exit">დააჭირეთ ისევ პროგრამიდან გასასვლელად</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">იმპორტი წარმატებით დასრულდა</string>
   <string name="text_current_activity">მიმდინარე აქტივობა:</string>
   <string name="text_current_package">ამჟამინდელი განაცხადის პაკეტის სახელი:</string>
-  <string name="go_to_accessibility_settings">გთხოვთ, გახსენით Settings->Accessibility Services->Autox.js და ჩართოთ იგი</string>
+  <string name="go_to_accessibility_settings">გთხოვთ, გახსენით Settings->Accessibility Services->Automyjsx.js და ჩართოთ იგი</string>
   <string name="text_script_running">სკრიპტის გაშვება</string>
   <string name="text_use_volume_to_stop_running">ხმის გაზრდის ღილაკი აჩერებს ყველა სკრიპტს</string>
   <string name="text_need_to_enable_accessibility_service">ხელმისაწვდომობის სერვისები უნდა იყოს ჩართული</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">არ არის კონფიგურაციის ფაილი</string>
   <string name="text_foreground_service">მიღება</string>
   <string name="foreground_notification_channel_name">წინა მაგიდის სერვისის შეტყობინება</string>
-  <string name="foreground_notification_title">Autox.js აგრძელებს მუშაობას</string>
+  <string name="foreground_notification_title">Automyjsx.js აგრძელებს მუშაობას</string>
   <string name="foreground_notification_text">დააწკაპუნეთ მთავარ ინტერფეისში შესასვლელად</string>
   <string name="text_run_on_other_broadcast">სხვა ღონისძიებები (მაუწყებლობა)</string>
   <string name="text_broadcast_action">სამაუწყებლო მოქმედება</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">პროექტი შენახულია %s</string>
   <string name="text_project_save_error">პროექტის შენახვა ვერ მოხერხდა %s</string>
   <string name="text_night_mode">ღამის რეჟიმი</string>
-  <string name="text_run_on_startup">როდესაც Autox.js იწყება</string>
+  <string name="text_run_on_startup">როდესაც Automyjsx.js იწყება</string>
   <string name="text_usage_stats_permission">გამოყენების წვდომა</string>
   <string name="description_usage_stats_permission">\"გამოყენების სტატისტიკის ნახვა\" ნებართვის მეშვეობით შეგიძლიათ მიიღოთ ამ მოწყობილობის აპლიკაციის წარსული გამოყენება, რათა უფრო ზუსტი იყოს მიმდინარე აპლიკაციის (currentPackage) მიღება.</string>
   <string name="text_open_with">ღია გზა</string>

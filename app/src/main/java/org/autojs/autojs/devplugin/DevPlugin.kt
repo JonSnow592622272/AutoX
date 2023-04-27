@@ -1,4 +1,4 @@
-package org.autojs.autojs.devplugin
+package org.automyjsa.automyjsa.devplugin
 
 import android.os.Build
 import android.util.Log
@@ -13,12 +13,12 @@ import kotlinx.coroutines.*
 import kotlinx.coroutines.channels.ClosedReceiveChannelException
 import kotlinx.coroutines.flow.*
 import okio.ByteString.Companion.toByteString
-import org.autojs.autojs.devplugin.message.Hello
-import org.autojs.autojs.devplugin.message.HelloResponse
-import org.autojs.autojs.devplugin.message.LogData
-import org.autojs.autojs.devplugin.message.Message
-import org.autojs.autoxjs.BuildConfig
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.devplugin.message.Hello
+import org.automyjsa.automyjsa.devplugin.message.HelloResponse
+import org.automyjsa.automyjsa.devplugin.message.LogData
+import org.automyjsa.automyjsa.devplugin.message.Message
+import org.automyjsa.automyjsx.BuildConfig
+import org.automyjsa.automyjsx.R
 import java.io.File
 import java.net.SocketTimeoutException
 import java.util.*

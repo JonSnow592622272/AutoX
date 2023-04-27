@@ -1,13 +1,13 @@
-package org.autojs.autojs.model.autocomplete;
+package org.automyjsa.automyjsa.model.autocomplete;
 
 import android.content.Context;
 import android.os.Handler;
 import android.os.Looper;
 import android.widget.EditText;
 
-import org.autojs.autojs.model.indices.Module;
-import org.autojs.autojs.model.indices.Modules;
-import org.autojs.autojs.model.indices.Property;
+import org.automyjsa.automyjsa.model.indices.Module;
+import org.automyjsa.automyjsa.model.indices.Modules;
+import org.automyjsa.automyjsa.model.indices.Property;
 
 import java.util.ArrayList;
 import java.util.Collections;

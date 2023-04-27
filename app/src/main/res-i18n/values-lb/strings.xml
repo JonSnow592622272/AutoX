@@ -37,7 +37,7 @@
   <string name="github">Software Quellcode</string>
   <string name="text_already_copy_to_clip">Op Clipboard kopéiert</string>
   <string name="text_qq_already_copy_to_clip">D\'QQ Grupp Nummer gouf op de Clipboard kopéiert</string>
-  <string name="share_app">[Autox.js] Download Adress: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Download Adress: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Schwiewend Fënster</string>
   <string name="text_error_report">Feeler Rapport</string>
   <string name="text_press_again_to_exit">Dréckt nach eng Kéier fir de Programm ze verloossen</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import erfollegräich</string>
   <string name="text_current_activity">Aktuell Aktivitéit:</string>
   <string name="text_current_package">Aktuelle Applikatioun Package Numm:</string>
-  <string name="go_to_accessibility_settings">Gitt w.e.g. Astellungen-> Accessibilitéitsservicer-> Autox.js op an aktivéiert et</string>
+  <string name="go_to_accessibility_settings">Gitt w.e.g. Astellungen-> Accessibilitéitsservicer-> Automyjsx.js op an aktivéiert et</string>
   <string name="text_script_running">Skript lafen</string>
   <string name="text_use_volume_to_stop_running">Volume erop Schlëssel stoppt all Scripten</string>
   <string name="text_need_to_enable_accessibility_service">Accessibilitéitsservicer mussen aktivéiert ginn</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Keng Configuratiounsdatei</string>
   <string name="text_foreground_service">Réceptioun</string>
   <string name="foreground_notification_channel_name">Front Desk Service Notifikatioun</string>
-  <string name="foreground_notification_title">Autox.js leeft weider</string>
+  <string name="foreground_notification_title">Automyjsx.js leeft weider</string>
   <string name="foreground_notification_text">Klickt op d\'Haaptinterface anzeginn</string>
   <string name="text_run_on_other_broadcast">Aner Evenementer (Sendung)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">De Projet gouf op %s gespäichert</string>
   <string name="text_project_save_error">Projet späicheren net %s</string>
   <string name="text_night_mode">Nuecht Modus</string>
-  <string name="text_run_on_startup">Wann Autox.js fänkt</string>
+  <string name="text_run_on_startup">Wann Automyjsx.js fänkt</string>
   <string name="text_usage_stats_permission">Benotzung Zougang</string>
   <string name="description_usage_stats_permission">Duerch d\'Erlaabnis \"Gebrauchsstatistik kucken\" kënnt Dir déi vergaangen Uwendungsnotzung vun dësem Apparat kréien, sou datt et méi genau ass déi aktuell Applikatioun (currentPackage) ze kréien.</string>
   <string name="text_open_with">Oppene Wee</string>

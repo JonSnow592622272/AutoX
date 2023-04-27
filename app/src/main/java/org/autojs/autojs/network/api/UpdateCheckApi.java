@@ -1,7 +1,7 @@
-package org.autojs.autojs.network.api;
+package org.automyjsa.automyjsa.network.api;
 
-import org.autojs.autoxjs.BuildConfig;
-import org.autojs.autojs.network.entity.VersionInfo;
+import org.automyjsa.automyjsx.BuildConfig;
+import org.automyjsa.automyjsa.network.entity.VersionInfo;
 
 import io.reactivex.Observable;
 import okhttp3.ResponseBody;

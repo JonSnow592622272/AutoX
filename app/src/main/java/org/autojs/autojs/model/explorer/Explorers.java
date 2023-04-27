@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
 import com.stardust.app.GlobalAppContext;
 

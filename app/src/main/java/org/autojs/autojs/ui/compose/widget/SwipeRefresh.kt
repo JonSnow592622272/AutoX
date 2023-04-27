@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.compose.widget
+package org.automyjsa.automyjsa.ui.compose.widget
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.material.MaterialTheme

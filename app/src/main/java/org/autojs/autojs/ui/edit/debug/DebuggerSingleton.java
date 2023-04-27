@@ -1,13 +1,13 @@
-package org.autojs.autojs.ui.edit.debug;
+package org.automyjsa.automyjsa.ui.edit.debug;
 
-import com.stardust.autojs.rhino.debug.Debugger;
+import com.stardust.automyjsa.rhino.debug.Debugger;
 
-import org.autojs.autojs.autojs.AutoJs;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
 import org.mozilla.javascript.ContextFactory;
 
 public class DebuggerSingleton {
 
-    private static Debugger sDebugger = new Debugger(AutoJs.getInstance().getScriptEngineService(), ContextFactory.getGlobal());
+    private static Debugger sDebugger = new Debugger(Automyjsa.getInstance().getScriptEngineService(), ContextFactory.getGlobal());
 
     public static Debugger get(){
         return sDebugger;

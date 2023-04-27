@@ -1,11 +1,11 @@
-package org.autojs.autojs.ui.main
+package org.automyjsa.automyjsa.ui.main
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import org.autojs.autojs.ui.main.scripts.ScriptListFragment
-import org.autojs.autojs.ui.main.task.TaskManagerFragmentKt
-import org.autojs.autojs.ui.main.web.WebViewFragment
+import org.automyjsa.automyjsa.ui.main.scripts.ScriptListFragment
+import org.automyjsa.automyjsa.ui.main.task.TaskManagerFragmentKt
+import org.automyjsa.automyjsa.ui.main.web.WebViewFragment
 
 class ViewPager2Adapter(
     fragmentActivity: FragmentActivity,

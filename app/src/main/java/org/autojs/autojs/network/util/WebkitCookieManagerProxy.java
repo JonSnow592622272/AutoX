@@ -1,4 +1,4 @@
-package org.autojs.autojs.network.util;
+package org.automyjsa.automyjsa.network.util;
 
 import android.util.Log;
 

@@ -1,18 +1,18 @@
-package org.autojs.autojs.external;
+package org.automyjsa.automyjsa.external;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.stardust.autojs.execution.ExecutionConfig;
-import com.stardust.autojs.script.JavaScriptFileSource;
-import com.stardust.autojs.script.ScriptSource;
-import com.stardust.autojs.script.SequenceScriptSource;
-import com.stardust.autojs.script.StringScriptSource;
+import com.stardust.automyjsa.execution.ExecutionConfig;
+import com.stardust.automyjsa.script.JavaScriptFileSource;
+import com.stardust.automyjsa.script.ScriptSource;
+import com.stardust.automyjsa.script.SequenceScriptSource;
+import com.stardust.automyjsa.script.StringScriptSource;
 
-import org.autojs.autojs.Pref;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.model.script.PathChecker;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.model.script.PathChecker;
 
 import java.io.File;
 
@@ -60,7 +60,7 @@ public class ScriptIntents {
         if (source == null) {
             return false;
         }
-        AutoJs.getInstance().getScriptEngineService().execute(source, config);
+        Automyjsa.getInstance().getScriptEngineService().execute(source, config);
         return true;
     }
 

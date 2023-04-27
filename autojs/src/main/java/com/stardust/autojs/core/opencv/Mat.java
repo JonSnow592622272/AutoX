@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.opencv;
+package com.stardust.automyjsa.core.opencv;
 
 import com.stardust.util.ResourceMonitor;
 

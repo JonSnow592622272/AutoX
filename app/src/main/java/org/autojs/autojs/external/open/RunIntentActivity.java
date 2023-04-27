@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.open;
+package org.automyjsa.automyjsa.external.open;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -7,11 +7,11 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 import android.widget.Toast;
 
-import com.stardust.autojs.script.StringScriptSource;
+import com.stardust.automyjsa.script.StringScriptSource;
 import com.stardust.pio.PFiles;
-import org.autojs.autojs.external.ScriptIntents;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.script.Scripts;
+import org.automyjsa.automyjsa.external.ScriptIntents;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.script.Scripts;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;

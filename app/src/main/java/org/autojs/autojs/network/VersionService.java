@@ -1,4 +1,4 @@
-package org.autojs.autojs.network;
+package org.automyjsa.automyjsa.network;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -6,9 +6,9 @@ import android.content.SharedPreferences;
 import com.google.gson.GsonBuilder;
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
-import org.autojs.autojs.network.api.UpdateCheckApi;
-import org.autojs.autojs.network.entity.VersionInfo;
-import org.autojs.autojs.tool.SimpleObserver;
+import org.automyjsa.automyjsa.network.api.UpdateCheckApi;
+import org.automyjsa.automyjsa.network.entity.VersionInfo;
+import org.automyjsa.automyjsa.tool.SimpleObserver;
 
 import com.stardust.util.NetworkUtils;
 
@@ -33,7 +33,7 @@ public class VersionService {
 
     public VersionService() {
         mRetrofit = new Retrofit.Builder()
-                .baseUrl("https://www.autojs.org/")
+                .baseUrl("https://www.automyjsa.org/")
                 .addConverterFactory(GsonConverterFactory.create(new GsonBuilder()
                         .setLenient()
                         .create()))

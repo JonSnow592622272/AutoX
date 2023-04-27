@@ -25,7 +25,7 @@ object GlobalAppContext {
         private set
 
     @JvmStatic
-    val autojsPackageName
+    val automyjsaPackageName
         get() = buildConfig.APPLICATION_ID
 
     fun set(a: Application, buildConfig: BuildConfig) {

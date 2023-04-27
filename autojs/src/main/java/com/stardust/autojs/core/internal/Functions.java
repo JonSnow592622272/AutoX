@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.internal;
+package com.stardust.automyjsa.core.internal;
 
 /**
  * Created by Stardust on 2017/7/19.

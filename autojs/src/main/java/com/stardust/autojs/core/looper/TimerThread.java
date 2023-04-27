@@ -1,12 +1,12 @@
-package com.stardust.autojs.core.looper;
+package com.stardust.automyjsa.core.looper;
 
 import android.os.Handler;
 import android.os.Looper;
 import androidx.annotation.CallSuper;
 
-import com.stardust.autojs.engine.RhinoJavaScriptEngine;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.engine.RhinoJavaScriptEngine;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.concurrent.VolatileBox;
 import com.stardust.lang.ThreadCompat;
 

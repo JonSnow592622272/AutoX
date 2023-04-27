@@ -1,6 +1,6 @@
-package org.autojs.autojs.ui.edit.editor;
+package org.automyjsa.automyjsa.ui.edit.editor;
 
-import static org.autojs.autojs.ui.edit.editor.BracketMatching.UNMATCHED_BRACKET;
+import static org.automyjsa.automyjsa.ui.edit.editor.BracketMatching.UNMATCHED_BRACKET;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -24,8 +24,8 @@ import androidx.appcompat.widget.AppCompatEditText;
 
 import com.stardust.util.TextUtils;
 
-import org.autojs.autojs.ui.edit.theme.Theme;
-import org.autojs.autojs.ui.edit.theme.TokenMapping;
+import org.automyjsa.automyjsa.ui.edit.theme.Theme;
+import org.automyjsa.automyjsa.ui.edit.theme.TokenMapping;
 import org.mozilla.javascript.Token;
 
 import java.util.LinkedHashMap;

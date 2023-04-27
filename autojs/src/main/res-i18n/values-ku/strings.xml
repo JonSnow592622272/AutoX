@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Çavdêriya tevgerê ne çalak e, ji kerema xwe wê di mîhengên nermalavê de çalak bike</string>
   <string name="no_write_settings_permissin">Destûr tune ku mîhengên pergalê biguhezîne</string>
   <string name="exception_notification_service_disabled">Karûbarê ragihandinê nayê xebitandin, ji kerema xwe destûra ragihandinê ji nû ve çalak bikin</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ev skrîpt ji bo xebitandinê ji jimareya guhertoya Auto.js ya %d an mezintir hewce dike</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ev skrîpt ji bo xebitandinê ji jimareya guhertoya Automyjsa.js ya %d an mezintir hewce dike</string>
   <string name="text_drawer_open">Pêşeka dakêşanê vekin</string>
   <string name="text_drawer_close">Menûya dakêşanê bigire</string>
   <string name="no_read_phone_state_permissin">Destûra xwendina agahdariya amûrê tune</string>

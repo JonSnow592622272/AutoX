@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.open;
+package org.automyjsa.automyjsa.external.open;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -8,9 +8,9 @@ import android.text.TextUtils;
 import android.widget.Toast;
 
 import com.stardust.pio.PFiles;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.common.ScriptOperations;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.common.ScriptOperations;
+import org.automyjsa.automyjsx.R;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package com.stardust.autojs.codegeneration;
+package com.stardust.automyjsa.codegeneration;
 
 import androidx.core.view.accessibility.AccessibilityNodeInfoCompat;
 

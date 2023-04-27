@@ -1,9 +1,9 @@
-package com.stardust.auojs.inrt.autojs
+package com.stardust.auojs.inrt.automyjsa
 
 import com.stardust.app.GlobalAppContext
-import com.stardust.autojs.execution.ScriptExecution
-import com.stardust.autojs.execution.ScriptExecutionListener
-import org.autojs.autoxjs.inrt.R
+import com.stardust.automyjsa.execution.ScriptExecution
+import com.stardust.automyjsa.execution.ScriptExecutionListener
+import org.automyjsa.automyjsx.inrt.R
 
 /**
  * Created by Stardust on 2017/5/3.
@@ -22,7 +22,7 @@ class ScriptExecutionGlobalListener : ScriptExecutionListener {
     private fun onFinish(execution: ScriptExecution) {
         val millis = execution.engine.getTag(ENGINE_TAG_START_TIME) as Long? ?: return
         val seconds = (System.currentTimeMillis() - millis) / 1000.0
-        AutoJs.instance.scriptEngineService.globalConsole
+        Automyjsa.instance.scriptEngineService.globalConsole
                 .verbose(GlobalAppContext.getString(R.string.text_execution_finished), execution.source.toString(), seconds)
     }
 

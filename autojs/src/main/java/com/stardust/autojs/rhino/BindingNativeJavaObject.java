@@ -1,4 +1,4 @@
-package com.stardust.autojs.rhino;
+package com.stardust.automyjsa.rhino;
 
 import org.mozilla.javascript.NativeJavaObject;
 import org.mozilla.javascript.Scriptable;

@@ -1,13 +1,13 @@
-package org.autojs.autojs.ui.main.web
+package org.automyjsa.automyjsa.ui.main.web
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import org.autojs.autojs.ui.widget.SwipeRefreshWebView
-import org.autojs.autojs.ui.widget.WebDataKt
-import org.autojs.autojs.ui.widget.fillMaxSize
+import org.automyjsa.automyjsa.ui.widget.SwipeRefreshWebView
+import org.automyjsa.automyjsa.ui.widget.WebDataKt
+import org.automyjsa.automyjsa.ui.widget.fillMaxSize
 
 class WebViewFragment : Fragment() {
 

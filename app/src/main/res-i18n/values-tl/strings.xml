@@ -37,7 +37,7 @@
   <string name="github">Source code ng software</string>
   <string name="text_already_copy_to_clip">Kinopya sa clipboard</string>
   <string name="text_qq_already_copy_to_clip">Ang numero ng pangkat ng QQ ay nakopya sa clipboard</string>
-  <string name="share_app">[Autox.js] I-download ang address: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] I-download ang address: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Lumulutang na bintana</string>
   <string name="text_error_report">Ulat ng error</string>
   <string name="text_press_again_to_exit">Pindutin muli upang lumabas sa programa</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Matagumpay ang pag-import</string>
   <string name="text_current_activity">Kasalukuyang aktibidad:</string>
   <string name="text_current_package">Kasalukuyang pangalan ng package ng application:</string>
-  <string name="go_to_accessibility_settings">Mangyaring buksan ang Mga Setting->Accessibility Services->Autox.js at paganahin ito</string>
+  <string name="go_to_accessibility_settings">Mangyaring buksan ang Mga Setting->Accessibility Services->Automyjsx.js at paganahin ito</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Pinihinto ng volume up key ang lahat ng script</string>
   <string name="text_need_to_enable_accessibility_service">Kailangang paganahin ang mga serbisyo sa pagiging naa-access</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Walang configuration file</string>
   <string name="text_foreground_service">Pagtanggap</string>
   <string name="foreground_notification_channel_name">Notification ng serbisyo sa front desk</string>
-  <string name="foreground_notification_title">Patuloy na tumatakbo ang Autox.js</string>
+  <string name="foreground_notification_title">Patuloy na tumatakbo ang Automyjsx.js</string>
   <string name="foreground_notification_text">I-click upang makapasok sa pangunahing interface</string>
   <string name="text_run_on_other_broadcast">Iba pang mga kaganapan (broadcast)</string>
   <string name="text_broadcast_action">Pagkilos sa Pag-broadcast</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Ang proyekto ay na-save sa %s</string>
   <string name="text_project_save_error">Nabigo ang pag-save ng proyekto %s</string>
   <string name="text_night_mode">Night mode</string>
-  <string name="text_run_on_startup">Kapag nagsimula ang Autox.js</string>
+  <string name="text_run_on_startup">Kapag nagsimula ang Automyjsx.js</string>
   <string name="text_usage_stats_permission">Access sa paggamit</string>
   <string name="description_usage_stats_permission">Sa pamamagitan ng pahintulot na \"tingnan ang mga istatistika ng paggamit,\" maaari mong makuha ang nakaraang paggamit ng application ng device na ito, upang mas tumpak na makuha ang kasalukuyang application (currentPackage).</string>
   <string name="text_open_with">Bukas na daan</string>

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">የእጅ ምልክት ክትትል አልነቃም፣እባክዎ በሶፍትዌር መቼቶች ውስጥ ያንቁት</string>
   <string name="no_write_settings_permissin">የስርዓት ቅንብሮችን ለመቀየር ፈቃድ የለም።</string>
   <string name="exception_notification_service_disabled">የማሳወቂያ አገልግሎት እየሰራ አይደለም፣እባክዎ የማሳወቂያ ፍቃድን እንደገና አንቃ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ይህ ስክሪፕት ለማሄድ የAuto.js ስሪት ቁጥር %d ወይም ከዚያ በላይ ያስፈልገዋል</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ይህ ስክሪፕት ለማሄድ የAutomyjsa.js ስሪት ቁጥር %d ወይም ከዚያ በላይ ያስፈልገዋል</string>
   <string name="text_drawer_open">ተቆልቋይ ምናሌውን ይክፈቱ</string>
   <string name="text_drawer_close">ተቆልቋይ ምናሌውን ዝጋ</string>
   <string name="no_read_phone_state_permissin">የመሣሪያ መረጃ ለማንበብ ፍቃድ የለም።</string>

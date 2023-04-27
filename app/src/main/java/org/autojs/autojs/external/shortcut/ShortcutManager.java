@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.shortcut;
+package org.automyjsa.automyjsa.external.shortcut;
 
 import android.app.PendingIntent;
 import android.content.Context;

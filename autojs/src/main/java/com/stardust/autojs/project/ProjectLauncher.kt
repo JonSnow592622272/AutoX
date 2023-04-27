@@ -1,8 +1,8 @@
-package com.stardust.autojs.project
+package com.stardust.automyjsa.project
 
-import com.stardust.autojs.ScriptEngineService
-import com.stardust.autojs.execution.ExecutionConfig
-import com.stardust.autojs.script.JavaScriptFileSource
+import com.stardust.automyjsa.ScriptEngineService
+import com.stardust.automyjsa.execution.ExecutionConfig
+import com.stardust.automyjsa.script.JavaScriptFileSource
 import java.io.File
 
 /**

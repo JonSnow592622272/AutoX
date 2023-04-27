@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget;
+package org.automyjsa.automyjsa.ui.widget;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -17,9 +17,9 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
 import com.makeramen.roundedimageview.RoundedImageView;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.network.NodeBB;
-import org.autojs.autojs.network.entity.user.User;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.network.NodeBB;
+import org.automyjsa.automyjsa.network.entity.user.User;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

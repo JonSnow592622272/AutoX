@@ -22,7 +22,7 @@ reverse-engineering, and therefore I believe it is outside of Sun's
 power to enforce restrictions on reverse-engineering of their software,
 and it is irresponsible for them to claim they can.  */
 
-package org.autojs.autojs.build.apksigner;
+package org.automyjsa.automyjsa.build.apksigner;
 
 import java.io.ByteArrayInputStream;
 import java.io.DataInputStream;

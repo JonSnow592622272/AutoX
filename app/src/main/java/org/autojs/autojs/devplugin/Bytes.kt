@@ -1,4 +1,4 @@
-package org.autojs.autojs.devplugin
+package org.automyjsa.automyjsa.devplugin
 
 data class Bytes(val md5: String, val bytes: ByteArray, val timestamp: Long = System.currentTimeMillis()) {
     override fun equals(other: Any?): Boolean {

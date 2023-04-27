@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
 public interface ExplorerPage extends ExplorerItem, Iterable<ExplorerItem> {
 

@@ -37,7 +37,7 @@
   <string name="github">Kaody loharano loharano</string>
   <string name="text_already_copy_to_clip">Nadika ho amin\'ny solaitrabe</string>
   <string name="text_qq_already_copy_to_clip">Ny laharan\'ny vondrona QQ dia nadika amin\'ny solaitrabe</string>
-  <string name="share_app">[Autox.js] Adiresy fampidinana: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Adiresy fampidinana: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Varavarankely mitsingevana</string>
   <string name="text_error_report">Tatitra diso</string>
   <string name="text_press_again_to_exit">Tsindrio indray raha hivoaka ny fandaharana</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Tafita ny fanafarana</string>
   <string name="text_current_activity">Hetsika ankehitriny:</string>
   <string name="text_current_package">Anaran\'ny fonosana fampiharana ankehitriny:</string>
-  <string name="go_to_accessibility_settings">Sokafy azafady ny Settings-> Accessibility Services-> Autox.js ary avelao izy io</string>
+  <string name="go_to_accessibility_settings">Sokafy azafady ny Settings-> Accessibility Services-> Automyjsx.js ary avelao izy io</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Ny fanalahidin\'ny volume up dia manakana ny script rehetra</string>
   <string name="text_need_to_enable_accessibility_service">Mila alefa ny serivisy fidirana</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Tsy misy fichier configuration</string>
   <string name="text_foreground_service">Fandraisana</string>
   <string name="foreground_notification_channel_name">Fampandrenesana momba ny serivisy eo anoloana</string>
-  <string name="foreground_notification_title">Mitohy hatrany ny Autox.js</string>
+  <string name="foreground_notification_title">Mitohy hatrany ny Automyjsx.js</string>
   <string name="foreground_notification_text">Tsindrio raha te hiditra amin\'ny interface lehibe</string>
   <string name="text_run_on_other_broadcast">Hetsika hafa (broadcast)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Tetikasa dia voatahiry ao amin\'ny %s</string>
   <string name="text_project_save_error">Tsy nahomby ny tetik\'asa %s</string>
   <string name="text_night_mode">Fomba alina</string>
-  <string name="text_run_on_startup">Rehefa manomboka ny Autox.js</string>
+  <string name="text_run_on_startup">Rehefa manomboka ny Automyjsx.js</string>
   <string name="text_usage_stats_permission">Fidirana amin\'ny fampiasana</string>
   <string name="description_usage_stats_permission">Amin\'ny alàlan\'ny fahazoan-dàlana \"jereo ny antontan\'isa momba ny fampiasana\" dia azonao atao ny mahazo ny fampiasana taloha an\'ity fitaovana ity, mba ho marina kokoa ny fahazoana ny fampiharana ankehitriny (currentPackage).</string>
   <string name="text_open_with">Lalana misokatra</string>

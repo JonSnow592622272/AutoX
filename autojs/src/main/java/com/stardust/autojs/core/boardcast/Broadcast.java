@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.boardcast;
+package com.stardust.automyjsa.core.boardcast;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 

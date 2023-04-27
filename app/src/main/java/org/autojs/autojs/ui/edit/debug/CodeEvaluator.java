@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.debug;
+package org.automyjsa.automyjsa.ui.edit.debug;
 
 public interface CodeEvaluator {
     String eval(String code);

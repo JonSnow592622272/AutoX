@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Hordoffiin sochii qaamaa hin dandeessifamne, maaloo qindaa\'ina sooftiweerii keessatti dandeessisaa</string>
   <string name="no_write_settings_permissin">Sajoo sirna fooyyessuuf hayyama hin qabu</string>
   <string name="exception_notification_service_disabled">Tajaajilli beeksisaa hin hojjetu, maaloo hayyama beeksisa irra deebi\'ii dandeessisi</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Iskiriiptiin kun hojjechuuf lakkoofsa gosa Auto.js %d ykn isaa ol barbaada</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Iskiriiptiin kun hojjechuuf lakkoofsa gosa Automyjsa.js %d ykn isaa ol barbaada</string>
   <string name="text_drawer_open">Menuu gadi bu\'aa bani</string>
   <string name="text_drawer_close">Menuu gadi bu\'aa cufi</string>
   <string name="no_read_phone_state_permissin">Odeeffannoo meeshaa dubbisuuf hayyama hin qabu</string>

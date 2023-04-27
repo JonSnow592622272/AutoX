@@ -22,14 +22,14 @@ import com.fanjun.keeplive.config.ForegroundNotification
 import com.google.mlkit.common.MlKit
 import com.linsh.utilseverywhere.Utils
 import com.stardust.app.GlobalAppContext
-import com.stardust.auojs.inrt.autojs.AutoJs
-import com.stardust.auojs.inrt.autojs.GlobalKeyObserver
-import com.stardust.auojs.inrt.pluginclient.AutoXKeepLiveService
-import com.stardust.autojs.core.ui.inflater.ImageLoader
-import com.stardust.autojs.core.ui.inflater.util.Drawables
-import com.stardust.autojs.execution.ScriptExecuteActivity
-import org.autojs.autoxjs.inrt.BuildConfig
-import org.autojs.autoxjs.inrt.R
+import com.stardust.auojs.inrt.automyjsa.Automyjsa
+import com.stardust.auojs.inrt.automyjsa.GlobalKeyObserver
+import com.stardust.auojs.inrt.pluginclient.AutomyjsxKeepLiveService
+import com.stardust.automyjsa.core.ui.inflater.ImageLoader
+import com.stardust.automyjsa.core.ui.inflater.util.Drawables
+import com.stardust.automyjsa.execution.ScriptExecuteActivity
+import org.automyjsa.automyjsx.inrt.BuildConfig
+import org.automyjsa.automyjsx.inrt.R
 
 
 /**
@@ -46,7 +46,7 @@ class App : Application() {
         )
         MlKit.initialize(this)
         Utils.init(this);
-        AutoJs.initInstance(this)
+        Automyjsa.initInstance(this)
         GlobalKeyObserver.init()
         Drawables.setDefaultImageLoader(object : ImageLoader {
             override fun loadInto(imageView: ImageView, uri: Uri) {
@@ -128,7 +128,7 @@ class App : Application() {
                 this,
                 KeepLive.RunMode.ENERGY,
                 foregroundNotification,
-                AutoXKeepLiveService()
+                AutomyjsxKeepLiveService()
             );
         }
 

@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
@@ -14,13 +14,13 @@ import android.view.ViewGroup;
 import android.view.inputmethod.EditorInfo;
 import android.widget.TextView;
 
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.util.Colors;
-import com.stardust.autojs.core.ui.inflater.util.Dimensions;
-import com.stardust.autojs.core.ui.inflater.util.Gravities;
-import com.stardust.autojs.core.ui.inflater.util.Res;
-import com.stardust.autojs.core.ui.inflater.util.Strings;
-import com.stardust.autojs.core.ui.inflater.util.ValueMapper;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.util.Colors;
+import com.stardust.automyjsa.core.ui.inflater.util.Dimensions;
+import com.stardust.automyjsa.core.ui.inflater.util.Gravities;
+import com.stardust.automyjsa.core.ui.inflater.util.Res;
+import com.stardust.automyjsa.core.ui.inflater.util.Strings;
+import com.stardust.automyjsa.core.ui.inflater.util.ValueMapper;
 
 import java.util.Map;
 

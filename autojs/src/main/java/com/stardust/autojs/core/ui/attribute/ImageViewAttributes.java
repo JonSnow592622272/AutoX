@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.attribute;
+package com.stardust.automyjsa.core.ui.attribute;
 
 import android.graphics.Color;
 import android.graphics.PorterDuff;
@@ -7,11 +7,11 @@ import androidx.core.widget.ImageViewCompat;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
 import com.stardust.util.BiMap;
 import com.stardust.util.BiMaps;
 
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.TINT_MODES;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.TINT_MODES;
 
 public class ImageViewAttributes extends ViewAttributes {
 

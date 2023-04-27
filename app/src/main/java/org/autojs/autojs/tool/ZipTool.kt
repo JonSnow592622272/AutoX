@@ -1,4 +1,4 @@
-package org.autojs.autojs.tool
+package org.automyjsa.automyjsa.tool
 
 import java.io.File
 import java.util.zip.ZipEntry

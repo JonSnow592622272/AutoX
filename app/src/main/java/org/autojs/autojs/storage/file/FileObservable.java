@@ -1,4 +1,4 @@
-package org.autojs.autojs.storage.file;
+package org.automyjsa.automyjsa.storage.file;
 
 import com.stardust.pio.PFiles;
 

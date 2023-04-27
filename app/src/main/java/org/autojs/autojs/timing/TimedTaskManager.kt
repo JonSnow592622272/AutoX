@@ -1,17 +1,17 @@
-package org.autojs.autojs.timing
+package org.automyjsa.automyjsa.timing
 
 import android.annotation.SuppressLint
 import android.app.Application
 import android.text.TextUtils
 import io.reactivex.Flowable
 import io.reactivex.Observable
-import org.autojs.autojs.App
-import org.autojs.autojs.App.Companion.app
-import org.autojs.autojs.storage.database.IntentTaskDatabase
-import org.autojs.autojs.storage.database.ModelChange
-import org.autojs.autojs.storage.database.TimedTaskDatabase
-import org.autojs.autojs.timing.TimedTaskScheduler.Companion.getWorkProvider
-import org.autojs.autojs.tool.Observers
+import org.automyjsa.automyjsa.App
+import org.automyjsa.automyjsa.App.Companion.app
+import org.automyjsa.automyjsa.storage.database.IntentTaskDatabase
+import org.automyjsa.automyjsa.storage.database.ModelChange
+import org.automyjsa.automyjsa.storage.database.TimedTaskDatabase
+import org.automyjsa.automyjsa.timing.TimedTaskScheduler.Companion.getWorkProvider
+import org.automyjsa.automyjsa.tool.Observers
 
 /**
  * Created by Stardust on 2017/11/27.

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ang pagmonitor sa gesture wala gipagana, palihug i-enable kini sa mga setting sa software</string>
   <string name="no_write_settings_permissin">Walay pagtugot sa pag-usab sa mga setting sa sistema</string>
   <string name="exception_notification_service_disabled">Wala nagdagan ang serbisyo sa pagpahibalo, palihug i-enable pag-usab ang pagtugot sa pagpahibalo</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Kini nga script nagkinahanglan sa Auto.js version number %d o mas taas pa aron modagan</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Kini nga script nagkinahanglan sa Automyjsa.js version number %d o mas taas pa aron modagan</string>
   <string name="text_drawer_open">Ablihi ang drop down menu</string>
   <string name="text_drawer_close">Isira ang drop down menu</string>
   <string name="no_read_phone_state_permissin">Walay pagtugot sa pagbasa sa impormasyon sa device</string>

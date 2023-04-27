@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ჟესტების მონიტორინგი არ არის ჩართული, გთხოვთ, ჩართოთ იგი პროგრამული უზრუნველყოფის პარამეტრებში</string>
   <string name="no_write_settings_permissin">სისტემის პარამეტრების შეცვლის ნებართვა არ არის</string>
   <string name="exception_notification_service_disabled">შეტყობინებების სერვისი არ მუშაობს, გთხოვთ, ხელახლა ჩართოთ შეტყობინების ნებართვა</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ამ სკრიპტის გასაშვებად საჭიროა Auto.js ვერსიის ნომერი %d ან უფრო მაღალი</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ამ სკრიპტის გასაშვებად საჭიროა Automyjsa.js ვერსიის ნომერი %d ან უფრო მაღალი</string>
   <string name="text_drawer_open">გახსენით ჩამოსაშლელი მენიუ</string>
   <string name="text_drawer_close">დახურეთ ჩამოსაშლელი მენიუ</string>
   <string name="no_read_phone_state_permissin">მოწყობილობის ინფორმაციის წაკითხვის ნებართვა არ არის</string>

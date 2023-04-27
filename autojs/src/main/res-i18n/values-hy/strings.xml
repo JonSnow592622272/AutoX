@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ժեստերի մոնիտորինգը միացված չէ, խնդրում ենք միացնել այն ծրագրաշարի կարգավորումներում</string>
   <string name="no_write_settings_permissin">Համակարգի կարգավորումները փոփոխելու թույլտվություն չկա</string>
   <string name="exception_notification_service_disabled">Ծանուցման ծառայությունը չի աշխատում, խնդրում ենք նորից միացնել ծանուցման թույլտվությունը</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Այս սցենարը գործարկելու համար պահանջում է Auto.js տարբերակի %d կամ ավելի բարձր համարը</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Այս սցենարը գործարկելու համար պահանջում է Automyjsa.js տարբերակի %d կամ ավելի բարձր համարը</string>
   <string name="text_drawer_open">Բացեք բացվող ընտրացանկը</string>
   <string name="text_drawer_close">Փակեք բացվող ընտրացանկը</string>
   <string name="no_read_phone_state_permissin">Սարքի տեղեկությունները կարդալու թույլտվություն չկա</string>

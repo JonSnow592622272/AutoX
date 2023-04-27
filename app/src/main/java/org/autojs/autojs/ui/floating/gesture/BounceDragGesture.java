@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating.gesture;
+package org.automyjsa.automyjsa.ui.floating.gesture;
 
 import android.animation.ValueAnimator;
 import android.view.MotionEvent;

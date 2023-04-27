@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.cypto
+package com.stardust.automyjsa.core.cypto
 
 object Crypto {
 

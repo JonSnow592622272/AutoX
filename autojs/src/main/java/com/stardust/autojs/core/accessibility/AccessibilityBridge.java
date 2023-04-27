@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.accessibility;
+package com.stardust.automyjsa.core.accessibility;
 
 import android.app.ActivityManager;
 import android.app.AppOpsManager;
@@ -12,10 +12,10 @@ import android.view.accessibility.AccessibilityNodeInfo;
 import android.view.accessibility.AccessibilityWindowInfo;
 
 import com.stardust.app.AppOpsKt;
-import com.stardust.autojs.runtime.accessibility.AccessibilityConfig;
+import com.stardust.automyjsa.runtime.accessibility.AccessibilityConfig;
 import com.stardust.util.IntentUtil;
 import com.stardust.util.UiHandler;
-import com.stardust.autojs.core.activity.ActivityInfoProvider;
+import com.stardust.automyjsa.core.activity.ActivityInfoProvider;
 import com.stardust.view.accessibility.AccessibilityNotificationObserver;
 import com.stardust.view.accessibility.AccessibilityService;
 

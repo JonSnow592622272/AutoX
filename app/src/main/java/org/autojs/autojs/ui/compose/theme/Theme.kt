@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.compose.theme
+package org.automyjsa.automyjsa.ui.compose.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -39,7 +39,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun AutoXJsTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit) {
+fun AutomyjsxTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit) {
     val colors = if (darkTheme) {
         DarkColorPalette
     } else {
@@ -82,7 +82,7 @@ val LocalExtendedColors = staticCompositionLocalOf {
     )
 }
 
-object AutoXJsTheme {
+object AutomyjsxTheme {
     val colors: ExtendedColors
         @Composable
         get() = LocalExtendedColors.current

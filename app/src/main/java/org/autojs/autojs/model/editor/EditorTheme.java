@@ -1,5 +1,5 @@
 
-package org.autojs.autojs.model.editor;
+package org.automyjsa.automyjsa.model.editor;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,9 +1,9 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.content.Context;
 import android.text.TextUtils;
 
-import com.stardust.autojs.engine.RootAutomatorEngine;
+import com.stardust.automyjsa.engine.RootAutomatorEngine;
 import com.stardust.util.ScreenMetrics;
 
 /**

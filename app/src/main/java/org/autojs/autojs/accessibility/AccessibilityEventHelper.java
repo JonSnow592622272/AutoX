@@ -1,9 +1,9 @@
-package org.autojs.autojs.accessibility;
+package org.automyjsa.automyjsa.accessibility;
 
 import android.util.SparseArray;
 import android.view.accessibility.AccessibilityEvent;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 import com.stardust.util.SparseArrayEntries;
 
 import static android.view.accessibility.AccessibilityEvent.TYPE_VIEW_CLICKED;

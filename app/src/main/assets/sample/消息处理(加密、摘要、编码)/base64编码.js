@@ -1,4 +1,4 @@
-let message = "autox.js";
+let message = "automyjsx.js";
 log("明文: ", message);
 
 let base64encode = $base64.encode(message);

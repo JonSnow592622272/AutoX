@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.shortcut
+package org.automyjsa.automyjsa.ui.shortcut
 
 import android.content.Context
 import android.content.Intent

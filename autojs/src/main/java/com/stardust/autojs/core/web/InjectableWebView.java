@@ -1,11 +1,11 @@
-package com.stardust.autojs.core.web;
+package com.stardust.automyjsa.core.web;
 
 import android.content.Context;
 import android.webkit.ValueCallback;
 import android.webkit.WebView;
 
-import com.stardust.autojs.annotation.ScriptClass;
-import com.stardust.autojs.annotation.ScriptInterface;
+import com.stardust.automyjsa.annotation.ScriptClass;
+import com.stardust.automyjsa.annotation.ScriptInterface;
 
 import org.mozilla.javascript.Scriptable;
 

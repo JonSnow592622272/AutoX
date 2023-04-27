@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
 import androidx.annotation.Nullable;
 import android.util.LruCache;
@@ -10,7 +10,7 @@ import org.greenrobot.eventbus.EventBus;
 import io.reactivex.Single;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 
-import static org.autojs.autojs.model.explorer.ExplorerChangeEvent.*;
+import static org.automyjsa.automyjsa.model.explorer.ExplorerChangeEvent.*;
 
 
 public class Explorer {

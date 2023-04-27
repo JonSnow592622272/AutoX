@@ -31,7 +31,7 @@ module.exports = function (runtime, global) {
         attachToParent = !!attachToParent;
         let ctx;
         if(typeof(activity) == 'undefined') {
-            ctx = new android.view.ContextThemeWrapper(context, com.stardust.autojs.R.style.ScriptTheme);
+            ctx = new android.view.ContextThemeWrapper(context, com.stardust.automyjsa.R.style.ScriptTheme);
         } else {
             ctx = activity;
         }
@@ -126,7 +126,7 @@ module.exports = function (runtime, global) {
     }
 
     ui.findByStringId = function (view, id) {
-        return com.stardust.autojs.core.ui.JsViewHelper.findViewByStringId(view, id);
+        return com.stardust.automyjsa.core.ui.JsViewHelper.findViewByStringId(view, id);
     }
 
     runtime.ui.bindingContext = global;
@@ -167,15 +167,15 @@ module.exports = function (runtime, global) {
             return null;
         },
         afterCreateView: function (context, view, node, viewName, parent, attrs) {
-            if (view.getClass().getName() == "com.stardust.autojs.core.ui.widget.JsListView" ||
-                view.getClass().getName() == "com.stardust.autojs.core.ui.widget.JsGridView") {
+            if (view.getClass().getName() == "com.stardust.automyjsa.core.ui.widget.JsListView" ||
+                view.getClass().getName() == "com.stardust.automyjsa.core.ui.widget.JsGridView") {
                 initListView(view);
             }
             var widget = context.get("widget");
             if(widget != null){
                 widget.view = view;
                 view.widget = widget;
-                let viewAttrs = com.stardust.autojs.core.ui.ViewExtras.getViewAttributes(view, layoutInflater.resourceParser);
+                let viewAttrs = com.stardust.automyjsa.core.ui.ViewExtras.getViewAttributes(view, layoutInflater.resourceParser);
                 viewAttrs.setViewAttributeDelegate({
                     has: function(name) {
                         return widget.hasAttr(name);

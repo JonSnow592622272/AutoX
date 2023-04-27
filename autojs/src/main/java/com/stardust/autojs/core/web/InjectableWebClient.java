@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.web;
+package com.stardust.automyjsa.core.web;
 
 import android.annotation.SuppressLint;
 import android.util.Log;
@@ -10,7 +10,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 
 import org.mozilla.javascript.Context;
 import org.mozilla.javascript.Scriptable;

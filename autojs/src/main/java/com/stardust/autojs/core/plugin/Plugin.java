@@ -1,11 +1,11 @@
-package com.stardust.autojs.core.plugin;
+package com.stardust.automyjsa.core.plugin;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 
-import com.stardust.autojs.rhino.TopLevelScope;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.rhino.TopLevelScope;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import java.lang.reflect.Method;
 
@@ -21,7 +21,7 @@ public class Plugin {
         }
     }
 
-    private static final String KEY_REGISTRY = "org.autojs.plugin.sdk.registry";
+    private static final String KEY_REGISTRY = "org.automyjsa.plugin.sdk.registry";
 
     public static Plugin load(Context context, Context packageContext, ScriptRuntime runtime, TopLevelScope scope) {
         try {

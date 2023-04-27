@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Níl monatóireacht gothaí cumasaithe, le do thoil cumasaigh é i socruithe bogearraí</string>
   <string name="no_write_settings_permissin">Níl cead socruithe córais a mhodhnú</string>
   <string name="exception_notification_service_disabled">Níl an tseirbhís fógra ag rith, le do thoil athchumasaigh cead fógartha</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Teastaíonn uimhir leagain Auto.js %d nó níos airde chun an script seo a rith</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Teastaíonn uimhir leagain Automyjsa.js %d nó níos airde chun an script seo a rith</string>
   <string name="text_drawer_open">Oscail an roghchlár anuas</string>
   <string name="text_drawer_close">Dún an roghchlár anuas</string>
   <string name="no_read_phone_state_permissin">Níl cead faisnéis ghléis a léamh</string>

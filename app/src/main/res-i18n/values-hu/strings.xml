@@ -37,7 +37,7 @@
   <string name="github">Szoftver forráskódja</string>
   <string name="text_already_copy_to_clip">Vágólapra másolva</string>
   <string name="text_qq_already_copy_to_clip">A QQ csoport számát a vágólapra másolta</string>
-  <string name="share_app">[Autox.js] Letöltési cím: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Letöltési cím: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Lebegő ablak</string>
   <string name="text_error_report">Hibajelentés</string>
   <string name="text_press_again_to_exit">Nyomja meg újra a programból való kilépéshez</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Sikeres importálás</string>
   <string name="text_current_activity">Jelenlegi tevékenység:</string>
   <string name="text_current_package">Jelenlegi alkalmazáscsomag neve:</string>
-  <string name="go_to_accessibility_settings">Nyissa meg a Beállítások->Kisegítő lehetőségek->Autox.js-t, és engedélyezze</string>
+  <string name="go_to_accessibility_settings">Nyissa meg a Beállítások->Kisegítő lehetőségek->Automyjsx.js-t, és engedélyezze</string>
   <string name="text_script_running">Script futtatása</string>
   <string name="text_use_volume_to_stop_running">A hangerő növelése gomb leállítja az összes szkriptet</string>
   <string name="text_need_to_enable_accessibility_service">A kisegítő lehetőségeket engedélyezni kell</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nincs konfigurációs fájl</string>
   <string name="text_foreground_service">Recepció</string>
   <string name="foreground_notification_channel_name">Értesítés a recepción</string>
-  <string name="foreground_notification_title">Az Autox.js folyamatosan fut</string>
+  <string name="foreground_notification_title">Az Automyjsx.js folyamatosan fut</string>
   <string name="foreground_notification_text">Kattintson a fő felületre való belépéshez</string>
   <string name="text_run_on_other_broadcast">Egyéb események (közvetítés)</string>
   <string name="text_broadcast_action">Műsorszórási akció</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">A projekt elmentve ide: %s</string>
   <string name="text_project_save_error">A projekt mentése sikertelen %s</string>
   <string name="text_night_mode">Éjszakai mód</string>
-  <string name="text_run_on_startup">Amikor az Autox.js elindul</string>
+  <string name="text_run_on_startup">Amikor az Automyjsx.js elindul</string>
   <string name="text_usage_stats_permission">Használati hozzáférés</string>
   <string name="description_usage_stats_permission">A \"használati statisztika megtekintése\" engedéllyel megtekintheti az eszköz korábbi alkalmazáshasználatát, így pontosabb az aktuális alkalmazás (currentPackage) beszerzése.</string>
   <string name="text_open_with">Nyitott utat</string>

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.content.Context;
 import android.view.View;
@@ -9,9 +9,9 @@ import com.afollestad.materialdialogs.MaterialDialog;
 import com.stardust.app.DialogUtils;
 import com.stardust.app.GlobalAppContext;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.script.ScriptFile;
-import org.autojs.autojs.model.script.Scripts;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
+import org.automyjsa.automyjsa.model.script.Scripts;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

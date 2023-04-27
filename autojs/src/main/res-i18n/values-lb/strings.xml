@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Geste Iwwerwachung ass net aktivéiert, aktivéiert et w.e.g. an Software Astellungen</string>
   <string name="no_write_settings_permissin">Keng Erlaabnis System Astellungen ze änneren</string>
   <string name="exception_notification_service_disabled">Notifikatiounsservice leeft net, aktivéiert w.e.g. d\'Notifikatiounserlaabnes erëm</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dëse Skript erfuerdert d\'Auto.js Versiounsnummer %d oder méi héich fir ze lafen</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dëse Skript erfuerdert d\'Automyjsa.js Versiounsnummer %d oder méi héich fir ze lafen</string>
   <string name="text_drawer_open">Öffnen den Dropdown-Menü</string>
   <string name="text_drawer_close">Den Dropdown-Menü zoumaachen</string>
   <string name="no_read_phone_state_permissin">Keng Erlaabnis Apparat Informatiounen ze liesen</string>

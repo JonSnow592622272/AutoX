@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.dialog;
+package com.stardust.automyjsa.core.ui.dialog;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -40,7 +40,7 @@ import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.internal.MDButton;
 import com.stardust.app.DialogUtils;
-import com.stardust.autojs.core.eventloop.EventEmitter;
+import com.stardust.automyjsa.core.eventloop.EventEmitter;
 import com.stardust.util.UiHandler;
 
 import java.text.NumberFormat;

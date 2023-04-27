@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.settings;
+package org.automyjsa.automyjsa.ui.settings;
 
 import android.content.Context;
 import android.graphics.Canvas;

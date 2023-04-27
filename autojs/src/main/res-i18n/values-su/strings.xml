@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ngawaskeun sapuan teu diaktipkeun, mangga aktipkeun dina setélan software</string>
   <string name="no_write_settings_permissin">Taya idin pikeun ngarobah setelan sistem</string>
   <string name="exception_notification_service_disabled">Ladenan bewara teu jalan, mangga aktipkeun deui idin bewara</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Skrip ieu merlukeun nomer versi Auto.js %d atawa nu leuwih luhur pikeun ngajalankeun</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Skrip ieu merlukeun nomer versi Automyjsa.js %d atawa nu leuwih luhur pikeun ngajalankeun</string>
   <string name="text_drawer_open">Buka menu turun-handap</string>
   <string name="text_drawer_close">Tutup menu turun-handap</string>
   <string name="no_read_phone_state_permissin">Taya idin pikeun maca inpo alat</string>

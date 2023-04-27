@@ -1,7 +1,7 @@
 module.exports = function(__runtime__, scope){
     function RootAutomator(inputDevice, nonBlockingForReady){
         inputDevice = inputDevice == undefined ? null : inputDevice;
-        this.__ra__ = Object.create(new com.stardust.autojs.core.inputevent.RootAutomator(scope.context, inputDevice, !nonBlockingForReady));
+        this.__ra__ = Object.create(new com.stardust.automyjsa.core.inputevent.RootAutomator(scope.context, inputDevice, !nonBlockingForReady));
         var methods = ["sendEvent", "touch", "setScreenMetrics", "touchX", "touchY", "sendSync",  "sendMtSync", "tap",
             "swipe", "press", "longPress", "touchDown", "touchUp", "touchMove", "getDefaultId", "setDefaultId", "exit"];
         for(var i = 0; i < methods.length; i++){

@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.autocomplete;
+package org.automyjsa.automyjsa.model.autocomplete;
 
 import java.util.ArrayList;
 import java.util.List;

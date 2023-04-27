@@ -1,13 +1,13 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
-import com.stardust.autojs.ScriptEngineService;
-import com.stardust.autojs.engine.JavaScriptEngine;
-import com.stardust.autojs.execution.ExecutionConfig;
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.script.AutoFileSource;
-import com.stardust.autojs.script.JavaScriptFileSource;
-import com.stardust.autojs.script.StringScriptSource;
+import com.stardust.automyjsa.ScriptEngineService;
+import com.stardust.automyjsa.engine.JavaScriptEngine;
+import com.stardust.automyjsa.execution.ExecutionConfig;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.script.AutoFileSource;
+import com.stardust.automyjsa.script.JavaScriptFileSource;
+import com.stardust.automyjsa.script.StringScriptSource;
 
 /**
  * Created by Stardust on 2017/8/4.

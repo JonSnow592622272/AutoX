@@ -1,19 +1,19 @@
-package com.stardust.autojs.core.ui.widget;
+package com.stardust.automyjsa.core.ui.widget;
 
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.stardust.autojs.core.ui.ViewExtras;
-import com.stardust.autojs.core.ui.inflater.DynamicLayoutInflater;
-import com.stardust.autojs.core.ui.nativeview.NativeView;
-import com.stardust.autojs.core.ui.nativeview.ViewPrototype;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.ui.ViewExtras;
+import com.stardust.automyjsa.core.ui.inflater.DynamicLayoutInflater;
+import com.stardust.automyjsa.core.ui.nativeview.NativeView;
+import com.stardust.automyjsa.core.ui.nativeview.ViewPrototype;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import com.stardust.autojs.workground.WrapContentLinearLayoutManager;
+import com.stardust.automyjsa.workground.WrapContentLinearLayoutManager;
 
 import androidx.recyclerview.widget.RecyclerView;
 

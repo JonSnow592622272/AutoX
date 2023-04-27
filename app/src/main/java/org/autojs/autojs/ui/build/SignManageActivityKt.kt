@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.build
+package org.automyjsa.automyjsa.ui.build
 
 import android.content.Context
 import android.content.Intent
@@ -31,16 +31,16 @@ import com.stardust.app.DialogUtils
 import com.stardust.pio.PFiles
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
-import org.autojs.autojs.Pref
-import org.autojs.autoxjs.R
-import org.autojs.autojs.build.ApkKeyStore
-import org.autojs.autojs.build.ApkSigner
-import org.autojs.autojs.build.ApkSigner.checkKeyStore
-import org.autojs.autojs.build.ApkSigner.loadApkKeyStore
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder
-import org.autojs.autojs.ui.compose.theme.AutoXJsTheme
-import org.autojs.autojs.ui.compose.util.SetSystemUI
-import org.autojs.autojs.ui.compose.widget.MySwipeRefresh
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.build.ApkKeyStore
+import org.automyjsa.automyjsa.build.ApkSigner
+import org.automyjsa.automyjsa.build.ApkSigner.checkKeyStore
+import org.automyjsa.automyjsa.build.ApkSigner.loadApkKeyStore
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder
+import org.automyjsa.automyjsa.ui.compose.theme.AutomyjsxTheme
+import org.automyjsa.automyjsa.ui.compose.util.SetSystemUI
+import org.automyjsa.automyjsa.ui.compose.widget.MySwipeRefresh
 
 /**
  * @author wilinz
@@ -55,7 +55,7 @@ class SignManageActivityKt : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            AutoXJsTheme {
+            AutomyjsxTheme {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background

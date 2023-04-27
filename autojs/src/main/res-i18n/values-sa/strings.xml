@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">इशारानिरीक्षणं सक्षमं नास्ति, कृपया सॉफ्टवेयरसेटिंग्स् मध्ये सक्षमं कुर्वन्तु</string>
   <string name="no_write_settings_permissin">प्रणालीसेटिंग्स् परिवर्तयितुं अनुमतिः नास्ति</string>
   <string name="exception_notification_service_disabled">सूचनासेवा न चाल्यते, कृपया सूचनानुमतिम् पुनः सक्षमं कुर्वन्तु</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">अस्याः स्क्रिप्ट् चालयितुं Auto.js संस्करणसङ्ख्या %d अथवा उच्चतरस्य आवश्यकता अस्ति</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">अस्याः स्क्रिप्ट् चालयितुं Automyjsa.js संस्करणसङ्ख्या %d अथवा उच्चतरस्य आवश्यकता अस्ति</string>
   <string name="text_drawer_open">ड्रॉप् डाउन मेनू उद्घाटयन्तु</string>
   <string name="text_drawer_close">ड्रॉप् डाउन मेनू बन्दं कुर्वन्तु</string>
   <string name="no_read_phone_state_permissin">यन्त्रसूचना पठितुं अनुमतिः नास्ति</string>

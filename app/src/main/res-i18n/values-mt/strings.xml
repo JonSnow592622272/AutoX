@@ -37,7 +37,7 @@
   <string name="github">Kodiċi tas-sors tas-softwer</string>
   <string name="text_already_copy_to_clip">Ikkupjat fil-clipboard</string>
   <string name="text_qq_already_copy_to_clip">In-numru tal-grupp QQ ġie kkupjat fil-clipboard</string>
-  <string name="share_app">[Autox.js] Niżżel l-indirizz: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Niżżel l-indirizz: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Tieqa galleġġjanti</string>
   <string name="text_error_report">Rapport ta\' żball</string>
   <string name="text_press_again_to_exit">Agħfas mill-ġdid biex toħroġ mill-programm</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importazzjoni b\'suċċess</string>
   <string name="text_current_activity">Attività kurrenti:</string>
   <string name="text_current_package">Isem tal-pakkett tal-applikazzjoni attwali:</string>
-  <string name="go_to_accessibility_settings">Jekk jogħġbok iftaħ Settings->Accessibility Services->Autox.js u ppermettiha</string>
+  <string name="go_to_accessibility_settings">Jekk jogħġbok iftaħ Settings->Accessibility Services->Automyjsx.js u ppermettiha</string>
   <string name="text_script_running">Skript run</string>
   <string name="text_use_volume_to_stop_running">Iċ-ċavetta tal-volum up twaqqaf l-iskripts kollha</string>
   <string name="text_need_to_enable_accessibility_service">Is-servizzi ta\' aċċessibbiltà jeħtieġ li jkunu attivati</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ebda fajl tal-konfigurazzjoni</string>
   <string name="text_foreground_service">Akkoljenza</string>
   <string name="foreground_notification_channel_name">Notifika tas-servizz fuq il-front desk</string>
-  <string name="foreground_notification_title">Autox.js jibqa\' jaħdem</string>
+  <string name="foreground_notification_title">Automyjsx.js jibqa\' jaħdem</string>
   <string name="foreground_notification_text">Ikklikkja biex tidħol fl-interface prinċipali</string>
   <string name="text_run_on_other_broadcast">Avvenimenti oħra (xandira)</string>
   <string name="text_broadcast_action">Azzjoni tax-Xandir</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Il-proġett ġie salvat għal %s</string>
   <string name="text_project_save_error">Is-salvataġġ tal-proġett falla %s</string>
   <string name="text_night_mode">Modalità bil-lejl</string>
-  <string name="text_run_on_startup">Meta Autox.js jibda</string>
+  <string name="text_run_on_startup">Meta Automyjsx.js jibda</string>
   <string name="text_usage_stats_permission">Aċċess għall-użu</string>
   <string name="description_usage_stats_permission">Permezz tal-permess \"ara l-istatistika tal-użu\", tista \'tikseb l-użu tal-applikazzjoni tal-passat ta\' dan l-apparat, sabiex tkun aktar preċiża li tikseb l-applikazzjoni attwali (Pakkett kurrenti).</string>
   <string name="text_open_with">Triq miftuħa</string>

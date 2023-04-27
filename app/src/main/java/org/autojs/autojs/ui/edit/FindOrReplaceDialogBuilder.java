@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit;
+package org.automyjsa.automyjsa.ui.edit;
 
 import android.content.Context;
 import android.preference.PreferenceManager;
@@ -10,9 +10,9 @@ import android.widget.EditText;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
-import org.autojs.autojs.ui.edit.editor.CodeEditor;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.ui.edit.editor.CodeEditor;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

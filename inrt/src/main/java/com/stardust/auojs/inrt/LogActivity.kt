@@ -10,11 +10,11 @@ import androidx.appcompat.widget.Toolbar
 import androidx.core.content.ContextCompat
 import androidx.core.graphics.drawable.DrawableCompat
 import androidx.core.view.iterator
-import com.stardust.auojs.inrt.autojs.AutoJs
+import com.stardust.auojs.inrt.automyjsa.Automyjsa
 import com.stardust.auojs.inrt.launch.GlobalProjectLauncher
-import com.stardust.autojs.core.console.ConsoleImpl
-import com.stardust.autojs.core.console.ConsoleView
-import org.autojs.autoxjs.inrt.R
+import com.stardust.automyjsa.core.console.ConsoleImpl
+import com.stardust.automyjsa.core.console.ConsoleView
+import org.automyjsa.automyjsx.inrt.R
 
 
 class LogActivity : AppCompatActivity() {
@@ -34,7 +34,7 @@ class LogActivity : AppCompatActivity() {
         val toolbar = findViewById<Toolbar>(R.id.toolbar)
         setSupportActionBar(toolbar)
         val consoleView = findViewById<ConsoleView>(R.id.console)
-        consoleImpl = AutoJs.instance.globalConsole
+        consoleImpl = Automyjsa.instance.globalConsole
         consoleView.setConsole(consoleImpl)
         consoleView.findViewById<View>(R.id.input_container).visibility = View.GONE
     }

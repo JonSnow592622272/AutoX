@@ -1,4 +1,4 @@
-package org.autojs.autojs.devplugin
+package org.automyjsa.automyjsa.devplugin
 
 import com.google.gson.JsonElement
 import com.google.gson.JsonParseException

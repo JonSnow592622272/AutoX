@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.receiver;
+package org.automyjsa.automyjsa.external.receiver;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.os.Build;
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 import android.util.Log;
 
-import org.autojs.autojs.timing.IntentTask;
+import org.automyjsa.automyjsa.timing.IntentTask;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -19,7 +19,7 @@ import java.util.Set;
 
 public class DynamicBroadcastReceivers {
 
-    public static final String ACTION_STARTUP = "org.autojs.autojs.action.startup";
+    public static final String ACTION_STARTUP = "org.automyjsa.automyjsa.action.startup";
 
     private static final String LOG_TAG = "DynBroadcastReceivers";
 

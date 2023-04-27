@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Kaore i te whakahohea te aro turuki tohu, whakaaheitia ki nga tautuhinga rorohiko</string>
   <string name="no_write_settings_permissin">Kaore he whakaaetanga ki te whakarereke i nga tautuhinga punaha</string>
   <string name="exception_notification_service_disabled">Karekau te ratonga whakamohiotanga e whakahaere ana, whakaaheitia ano te whakaaetanga whakamohiotanga</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Me whai nama putanga Auto.js %d teitei ake ranei hei whakahaere i tenei tuhinga</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Me whai nama putanga Automyjsa.js %d teitei ake ranei hei whakahaere i tenei tuhinga</string>
   <string name="text_drawer_open">Whakatuwheratia te tahua taka-iho</string>
   <string name="text_drawer_close">Katia te tahua taka iho</string>
   <string name="no_read_phone_state_permissin">Kaore he whakaaetanga ki te panui i nga korero taputapu</string>

@@ -1,16 +1,16 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import androidx.annotation.Nullable;
 import android.view.ViewGroup;
 import android.widget.ImageView.ScaleType;
 
 import com.makeramen.roundedimageview.Corner;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.ViewCreator;
-import com.stardust.autojs.core.ui.inflater.util.Colors;
-import com.stardust.autojs.core.ui.inflater.util.Dimensions;
-import com.stardust.autojs.core.ui.inflater.util.ValueMapper;
-import com.stardust.autojs.core.ui.widget.JsImageView;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ViewCreator;
+import com.stardust.automyjsa.core.ui.inflater.util.Colors;
+import com.stardust.automyjsa.core.ui.inflater.util.Dimensions;
+import com.stardust.automyjsa.core.ui.inflater.util.ValueMapper;
+import com.stardust.automyjsa.core.ui.widget.JsImageView;
 
 
 import java.util.Map;

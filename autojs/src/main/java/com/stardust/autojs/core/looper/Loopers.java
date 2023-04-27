@@ -1,15 +1,15 @@
-package com.stardust.autojs.core.looper;
+package com.stardust.automyjsa.core.looper;
 
 import android.os.Handler;
 import android.os.Looper;
 import android.os.MessageQueue;
 import android.util.Log;
 
-import com.stardust.autojs.rhino.AutoJsContext;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.api.Threads;
-import com.stardust.autojs.runtime.api.Timers;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.rhino.AutomyjsaContext;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.api.Threads;
+import com.stardust.automyjsa.runtime.api.Timers;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.lang.ThreadCompat;
 
 import org.mozilla.javascript.Context;
@@ -105,7 +105,7 @@ public class Loopers implements MessageQueue.IdleHandler {
         if (waitWhenIdle.get() || !waitIds.get().isEmpty()) {
             return false;
         }
-        if (((AutoJsContext) Context.getCurrentContext()).hasPendingContinuation()) {
+        if (((AutomyjsaContext) Context.getCurrentContext()).hasPendingContinuation()) {
             return false;
         }
         CopyOnWriteArrayList<LooperQuitHandler> handlers = looperQuitHandlers.get();

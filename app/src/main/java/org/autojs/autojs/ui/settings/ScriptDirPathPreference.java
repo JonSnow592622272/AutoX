@@ -1,11 +1,11 @@
-package org.autojs.autojs.ui.settings;
+package org.automyjsa.automyjsa.ui.settings;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
 import androidx.preference.EditTextPreference;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 /**
  * create by aaron 2022年1月16日

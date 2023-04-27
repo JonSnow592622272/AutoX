@@ -37,7 +37,7 @@
   <string name="github">ସଫ୍ଟୱେର୍ ଉତ୍ସ କୋଡ୍ |</string>
   <string name="text_already_copy_to_clip">କ୍ଲିପବୋର୍ଡରେ କପି କରାଯାଇଛି |</string>
   <string name="text_qq_already_copy_to_clip">QQ ଗ୍ରୁପ୍ ନମ୍ବର କ୍ଲିପବୋର୍ଡରେ କପି କରାଯାଇଛି |</string>
-  <string name="share_app">[Autox.js] ଡାଉନଲୋଡ୍ ଠିକଣା: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ଡାଉନଲୋଡ୍ ଠିକଣା: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ଭାସମାନ ୱିଣ୍ଡୋ |</string>
   <string name="text_error_report">ତ୍ରୁଟି ରିପୋର୍ଟ</string>
   <string name="text_press_again_to_exit">ପ୍ରୋଗ୍ରାମରୁ ବାହାରିବା ପାଇଁ ପୁନର୍ବାର ଦବାନ୍ତୁ |</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">ସଫଳ ଆମଦାନୀ କରନ୍ତୁ |</string>
   <string name="text_current_activity">ସାମ୍ପ୍ରତିକ କାର୍ଯ୍ୟକଳାପ:</string>
   <string name="text_current_package">ସାମ୍ପ୍ରତିକ ପ୍ରୟୋଗ ପ୍ୟାକେଜ୍ ନାମ:</string>
-  <string name="go_to_accessibility_settings">ଦୟାକରି ସେଟିଂସମୂହ-> ଆକ୍ସେସିବିଲିଟି ସର୍ଭିସେସ୍-> Autox.js ଖୋଲନ୍ତୁ ଏବଂ ଏହାକୁ ସକ୍ଷମ କରନ୍ତୁ |</string>
+  <string name="go_to_accessibility_settings">ଦୟାକରି ସେଟିଂସମୂହ-> ଆକ୍ସେସିବିଲିଟି ସର୍ଭିସେସ୍-> Automyjsx.js ଖୋଲନ୍ତୁ ଏବଂ ଏହାକୁ ସକ୍ଷମ କରନ୍ତୁ |</string>
   <string name="text_script_running">ସ୍କ୍ରିପ୍ଟ ଚଲାନ୍ତୁ |</string>
   <string name="text_use_volume_to_stop_running">ଭଲ୍ୟୁମ୍ ଅପ୍ କୀ ସମସ୍ତ ସ୍କ୍ରିପ୍ଟକୁ ବନ୍ଦ କରିଦିଏ |</string>
   <string name="text_need_to_enable_accessibility_service">ଅଭିଗମ୍ୟତା ସେବାଗୁଡିକ ସକ୍ଷମ ହେବା ଆବଶ୍ୟକ |</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">କ config ଣସି ବିନ୍ୟାସ ଫାଇଲ ନାହିଁ |</string>
   <string name="text_foreground_service">ଗ୍ରହଣ</string>
   <string name="foreground_notification_channel_name">ସାମ୍ନା ଡେସ୍କ ସେବା ବିଜ୍ଞପ୍ତି |</string>
-  <string name="foreground_notification_title">Autox.js ଚାଲୁଥାଏ |</string>
+  <string name="foreground_notification_title">Automyjsx.js ଚାଲୁଥାଏ |</string>
   <string name="foreground_notification_text">ମୁଖ୍ୟ ଇଣ୍ଟରଫେସ୍ ପ୍ରବେଶ କରିବାକୁ କ୍ଲିକ୍ କରନ୍ତୁ |</string>
   <string name="text_run_on_other_broadcast">ଅନ୍ୟାନ୍ୟ ଘଟଣା (ପ୍ରସାରଣ)</string>
   <string name="text_broadcast_action">ପ୍ରସାରଣ କାର୍ଯ୍ୟ</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">ପ୍ରୋଜେକ୍ଟ %s କୁ ସେଭ୍ ହୋଇଛି |</string>
   <string name="text_project_save_error">ପ୍ରୋଜେକ୍ଟ ସେଭ୍ ବିଫଳ %s</string>
   <string name="text_night_mode">ନାଇଟ୍ ମୋଡ୍ |</string>
-  <string name="text_run_on_startup">ଯେତେବେଳେ Autox.js ଆରମ୍ଭ ହୁଏ |</string>
+  <string name="text_run_on_startup">ଯେତେବେଳେ Automyjsx.js ଆରମ୍ଭ ହୁଏ |</string>
   <string name="text_usage_stats_permission">ବ୍ୟବହାର ପ୍ରବେଶ</string>
   <string name="description_usage_stats_permission">\"ବ୍ୟବହାର ପରିସଂଖ୍ୟାନକୁ ଦର୍ଶନ\" ଅନୁମତି ମାଧ୍ୟମରେ, ଆପଣ ଏହି ଉପକରଣର ଅତୀତର ପ୍ରୟୋଗ ବ୍ୟବହାର ପାଇପାରିବେ, ଯାହା ଦ୍ the ାରା ସାମ୍ପ୍ରତିକ ପ୍ରୟୋଗ (କରେଣ୍ଟ୍ ପ୍ୟାକେଜ୍) ପାଇବା ଅଧିକ ସଠିକ୍ ଅଟେ |</string>
   <string name="text_open_with">ଖୋଲା ରାସ୍ତା</string>

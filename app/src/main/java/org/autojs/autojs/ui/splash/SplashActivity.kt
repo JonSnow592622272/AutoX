@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.splash
+package org.automyjsa.automyjsa.ui.splash
 
 import android.content.Intent
 import android.os.Build
@@ -26,8 +26,8 @@ import coil.compose.rememberAsyncImagePainter
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
-import org.autojs.autojs.ui.main.MainActivity
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.ui.main.MainActivity
+import org.automyjsa.automyjsx.R
 
 /**
  * Created by Stardust on 2017/7/7.
@@ -81,7 +81,7 @@ class SplashActivity : ComponentActivity() {
                         .fillMaxWidth(), contentAlignment = Alignment.Center
                 ) {
                     Image(
-                        painter = rememberAsyncImagePainter(R.drawable.autojs_logo1),
+                        painter = rememberAsyncImagePainter(R.drawable.automyjsa_logo1),
                         contentDescription = null,
                         modifier = Modifier.size(120.dp),
                     )

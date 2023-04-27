@@ -1,4 +1,4 @@
-package com.stardust.autojs.codegeneration;
+package com.stardust.automyjsa.codegeneration;
 
 import com.stardust.automator.UiGlobalSelector;
 import com.stardust.automator.UiObject;
@@ -6,9 +6,9 @@ import com.stardust.util.Consumer;
 
 import androidx.appcompat.widget.AppCompatEditText;
 
-import static com.stardust.autojs.codegeneration.CodeGenerator.FIND_ONE;
-import static com.stardust.autojs.codegeneration.CodeGenerator.UNTIL_FIND;
-import static com.stardust.autojs.codegeneration.CodeGenerator.WAIT_FOR;
+import static com.stardust.automyjsa.codegeneration.CodeGenerator.FIND_ONE;
+import static com.stardust.automyjsa.codegeneration.CodeGenerator.UNTIL_FIND;
+import static com.stardust.automyjsa.codegeneration.CodeGenerator.WAIT_FOR;
 
 /**
  * Created by Stardust on 2017/12/7.

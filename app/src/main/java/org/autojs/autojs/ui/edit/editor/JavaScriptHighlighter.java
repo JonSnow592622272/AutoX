@@ -1,15 +1,15 @@
-package org.autojs.autojs.ui.edit.editor;
+package org.automyjsa.automyjsa.ui.edit.editor;
 
 
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.TimingLogger;
 
-import com.stardust.autojs.rhino.TokenStream;
+import com.stardust.automyjsa.rhino.TokenStream;
 import com.stardust.pio.UncheckedIOException;
 
-import org.autojs.autojs.ui.edit.theme.Theme;
-import org.autojs.autojs.ui.widget.SimpleTextWatcher;
+import org.automyjsa.automyjsa.ui.edit.theme.Theme;
+import org.automyjsa.automyjsa.ui.widget.SimpleTextWatcher;
 
 import org.mozilla.javascript.Token;
 

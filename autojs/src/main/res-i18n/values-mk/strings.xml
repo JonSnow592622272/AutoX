@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Следењето со гестови не е овозможено, ве молиме овозможете го во поставките на софтверот</string>
   <string name="no_write_settings_permissin">Нема дозвола за менување на системските поставки</string>
   <string name="exception_notification_service_disabled">Услугата за известување не работи, ве молиме повторно овозможете ја дозволата за известување</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Оваа скрипта бара верзија на Auto.js број %d или повисок за да се изврши</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Оваа скрипта бара верзија на Automyjsa.js број %d или повисок за да се изврши</string>
   <string name="text_drawer_open">Отворете го паѓачкото мени</string>
   <string name="text_drawer_close">Затворете го паѓачкото мени</string>
   <string name="no_read_phone_state_permissin">Нема дозвола за читање информации за уредот</string>

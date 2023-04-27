@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Elevalvonta ei ole käytössä, ota se käyttöön ohjelmistoasetuksissa</string>
   <string name="no_write_settings_permissin">Ei lupaa muuttaa järjestelmäasetuksia</string>
   <string name="exception_notification_service_disabled">Ilmoituspalvelu ei ole käynnissä, ota ilmoitusoikeus uudelleen käyttöön</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tämä komentosarja vaatii Auto.js-version %d tai uudemman suorittaakseen</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tämä komentosarja vaatii Automyjsa.js-version %d tai uudemman suorittaakseen</string>
   <string name="text_drawer_open">Avaa pudotusvalikko</string>
   <string name="text_drawer_close">Sulje pudotusvalikko</string>
   <string name="no_read_phone_state_permissin">Ei lupaa lukea laitetietoja</string>

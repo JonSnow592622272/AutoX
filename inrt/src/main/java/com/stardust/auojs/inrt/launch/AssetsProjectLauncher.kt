@@ -9,17 +9,17 @@ import android.text.TextUtils
 import android.util.Log
 import com.stardust.auojs.inrt.LogActivity
 import com.stardust.auojs.inrt.Pref
-import com.stardust.auojs.inrt.autojs.AutoJs
-import com.stardust.autojs.engine.encryption.ScriptEncryption
-import com.stardust.autojs.execution.ExecutionConfig
-import com.stardust.autojs.execution.ScriptExecution
-import com.stardust.autojs.project.ProjectConfig
-import com.stardust.autojs.script.JavaScriptFileSource
-import com.stardust.autojs.script.JavaScriptSource
+import com.stardust.auojs.inrt.automyjsa.Automyjsa
+import com.stardust.automyjsa.engine.encryption.ScriptEncryption
+import com.stardust.automyjsa.execution.ExecutionConfig
+import com.stardust.automyjsa.execution.ScriptExecution
+import com.stardust.automyjsa.project.ProjectConfig
+import com.stardust.automyjsa.script.JavaScriptFileSource
+import com.stardust.automyjsa.script.JavaScriptSource
 import com.stardust.pio.PFiles
 import com.stardust.pio.UncheckedIOException
 import com.stardust.util.MD5
-import org.autojs.autoxjs.inrt.BuildConfig
+import org.automyjsa.automyjsx.inrt.BuildConfig
 import java.io.File
 import java.io.IOException
 
@@ -87,9 +87,9 @@ open class AssetsProjectLauncher(
             } else {
                 activity?.finish()
             }
-            mScriptExecution = AutoJs.instance.scriptEngineService.execute(source, config)
+            mScriptExecution = Automyjsa.instance.scriptEngineService.execute(source, config)
         } catch (e: Exception) {
-            AutoJs.instance.globalConsole.error(e)
+            Automyjsa.instance.globalConsole.error(e)
         }
 
     }

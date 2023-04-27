@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.receiver;
+package org.automyjsa.automyjsa.external.receiver;
 
 import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;
@@ -8,12 +8,12 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.execution.ExecutionConfig;
+import com.stardust.automyjsa.execution.ExecutionConfig;
 
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.model.script.ScriptFile;
-import org.autojs.autojs.timing.IntentTask;
-import org.autojs.autojs.timing.TimedTaskManager;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
+import org.automyjsa.automyjsa.timing.IntentTask;
+import org.automyjsa.automyjsa.timing.TimedTaskManager;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
@@ -42,7 +42,7 @@ public class BaseBroadcastReceiver extends BroadcastReceiver {
         config.setArgument("intent", intent.clone());
         config.setWorkingDirectory(file.getParent());
         try {
-            AutoJs.getInstance().getScriptEngineService().execute(file.toSource(), config);
+            Automyjsa.getInstance().getScriptEngineService().execute(file.toSource(), config);
         } catch (Exception e) {
             e.printStackTrace();
             Toast.makeText(context, e.getMessage(), Toast.LENGTH_LONG).show();

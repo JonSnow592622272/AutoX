@@ -37,7 +37,7 @@
   <string name="github">Software nisqamanta pukyuta</string>
   <string name="text_already_copy_to_clip">Portapapeles nisqaman copiasqa</string>
   <string name="text_qq_already_copy_to_clip">QQ qutu yupayqa portapapeles nisqaman copiasqañam kachkan</string>
-  <string name="share_app">[Autox.js] Dirección de descarga: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Dirección de descarga: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Unupi puriq ventana</string>
   <string name="text_error_report">Pantasqa willakuy</string>
   <string name="text_press_again_to_exit">Hukmanta ñit’iy programamanta lloqsinaykipaq</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importar allin ruwasqa</string>
   <string name="text_current_activity">Kunan rurasqa:</string>
   <string name="text_current_package">Kunan kaq llamkana paquete suti:</string>
-  <string name="go_to_accessibility_settings">Ama hina kaspa, Ajustes->Yaykuna Serviciokuna->Autox.js kichay chaymanta atichiy</string>
+  <string name="go_to_accessibility_settings">Ama hina kaspa, Ajustes->Yaykuna Serviciokuna->Automyjsx.js kichay chaymanta atichiy</string>
   <string name="text_script_running">Script purichiy</string>
   <string name="text_use_volume_to_stop_running">Volumen wichay llave llapa scriptkunata sayachin</string>
   <string name="text_need_to_enable_accessibility_service">Serviciokuna accesibilidad nisqapaqmi atichisqa kanan</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Mana wakichisqa willañiqiyuq</string>
   <string name="text_foreground_service">Recepcion</string>
   <string name="foreground_notification_channel_name">Notificación de servicio de recepción</string>
-  <string name="foreground_notification_title">Autox.js purichkallanpuni</string>
+  <string name="foreground_notification_title">Automyjsx.js purichkallanpuni</string>
   <string name="foreground_notification_text">Hatun interfazman yaykunaykipaq ñit’iy</string>
   <string name="text_run_on_other_broadcast">Huk ruwaykuna (difusión) .</string>
   <string name="text_broadcast_action">Difusión Acción</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proyectoqa %s nisqapi waqaychasqam kachkan</string>
   <string name="text_project_save_error">Proyecto waqaychay %s mana atisqachu</string>
   <string name="text_night_mode">Modo de noche</string>
-  <string name="text_run_on_startup">Autox.js qallariptin</string>
+  <string name="text_run_on_startup">Automyjsx.js qallariptin</string>
   <string name="text_usage_stats_permission">Utilización nisqaman haykuy</string>
   <string name="description_usage_stats_permission">\"Qhaway llamkana estadísticas\" atiywan, kay dispositivopa ñawpaq ruwana llamk\'achiyninta tariyta atikunki, chaymanta aswan chiqan kunan ruwana (currentPackage) tarinapaq.</string>
   <string name="text_open_with">Kichasqa ñan</string>

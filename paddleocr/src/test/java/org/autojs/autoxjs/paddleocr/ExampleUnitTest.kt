@@ -1,4 +1,4 @@
-package org.autojs.autoxjs.paddleocr
+package org.automyjsa.automyjsx.paddleocr
 
 import org.junit.Test
 

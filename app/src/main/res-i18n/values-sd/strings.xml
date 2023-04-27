@@ -37,7 +37,7 @@
   <string name="github">سافٽ ويئر جو ذريعو ڪوڊ</string>
   <string name="text_already_copy_to_clip">ڪلپ بورڊ تي نقل ڪيو ويو</string>
   <string name="text_qq_already_copy_to_clip">QQ گروپ نمبر ڪلپ بورڊ تي نقل ڪيو ويو آھي</string>
-  <string name="share_app">[Autox.js] ايڊريس ڊائون لوڊ ڪريو: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ايڊريس ڊائون لوڊ ڪريو: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">سچل ونڊو</string>
   <string name="text_error_report">غلطي جي رپورٽ</string>
   <string name="text_press_again_to_exit">پروگرام مان نڪرڻ لاء ٻيهر پريس ڪريو</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">درآمد ڪامياب</string>
   <string name="text_current_activity">موجوده سرگرمي:</string>
   <string name="text_current_package">موجوده ايپليڪيشن پيڪيج جو نالو:</string>
-  <string name="go_to_accessibility_settings">مھرباني ڪري Settings->Accessibility Services->Autox.js کوليو ۽ ان کي فعال ڪريو</string>
+  <string name="go_to_accessibility_settings">مھرباني ڪري Settings->Accessibility Services->Automyjsx.js کوليو ۽ ان کي فعال ڪريو</string>
   <string name="text_script_running">اسڪرپٽ هلائڻ</string>
   <string name="text_use_volume_to_stop_running">حجم اپ ڪيچ سڀني اسڪرپٽ کي روڪي ٿو</string>
   <string name="text_need_to_enable_accessibility_service">رسائي جي خدمتن کي فعال ڪرڻ جي ضرورت آهي</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">ڪا به ترتيب واري فائل ناهي</string>
   <string name="text_foreground_service">استقبال</string>
   <string name="foreground_notification_channel_name">فرنٽ ڊيسڪ سروس نوٽيفڪيشن</string>
-  <string name="foreground_notification_title">Autox.js هلندو رهي ٿو</string>
+  <string name="foreground_notification_title">Automyjsx.js هلندو رهي ٿو</string>
   <string name="foreground_notification_text">مکيه انٽرفيس داخل ڪرڻ لاء ڪلڪ ڪريو</string>
   <string name="text_run_on_other_broadcast">ٻيا واقعا (نشر)</string>
   <string name="text_broadcast_action">براڊڪاسٽ ايڪشن</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">پروجيڪٽ %s ۾ محفوظ ڪيو ويو آهي</string>
   <string name="text_project_save_error">پروجيڪٽ محفوظ ڪرڻ ناڪام ٿيو %s</string>
   <string name="text_night_mode">رات جو موڊ</string>
-  <string name="text_run_on_startup">جڏهن Autox.js شروع ٿئي ٿو</string>
+  <string name="text_run_on_startup">جڏهن Automyjsx.js شروع ٿئي ٿو</string>
   <string name="text_usage_stats_permission">استعمال جي رسائي</string>
   <string name="description_usage_stats_permission">\"ڏسو استعمال جا انگ اکر\" جي اجازت ذريعي، توهان حاصل ڪري سگهو ٿا هن ڊوائيس جي اڳوڻي ايپليڪيشن استعمال، انهي ڪري ته اهو موجوده ايپليڪيشن (موجوده پيڪيج) حاصل ڪرڻ لاء وڌيڪ صحيح آهي.</string>
   <string name="text_open_with">کليل رستو</string>

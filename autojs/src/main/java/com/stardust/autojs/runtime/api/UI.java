@@ -1,21 +1,21 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import androidx.annotation.Nullable;
 
-import com.stardust.autojs.core.graphics.ScriptCanvasView;
-import com.stardust.autojs.core.ui.inflater.DynamicLayoutInflater;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.inflaters.CanvasViewInflater;
-import com.stardust.autojs.core.ui.inflater.inflaters.JsGridViewInflater;
-import com.stardust.autojs.core.ui.inflater.inflaters.JsImageViewInflater;
-import com.stardust.autojs.core.ui.inflater.inflaters.JsListViewInflater;
-import com.stardust.autojs.core.ui.widget.JsGridView;
-import com.stardust.autojs.core.ui.widget.JsImageView;
-import com.stardust.autojs.core.ui.widget.JsListView;
-import com.stardust.autojs.rhino.ProxyObject;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.graphics.ScriptCanvasView;
+import com.stardust.automyjsa.core.ui.inflater.DynamicLayoutInflater;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.inflaters.CanvasViewInflater;
+import com.stardust.automyjsa.core.ui.inflater.inflaters.JsGridViewInflater;
+import com.stardust.automyjsa.core.ui.inflater.inflaters.JsImageViewInflater;
+import com.stardust.automyjsa.core.ui.inflater.inflaters.JsListViewInflater;
+import com.stardust.automyjsa.core.ui.widget.JsGridView;
+import com.stardust.automyjsa.core.ui.widget.JsImageView;
+import com.stardust.automyjsa.core.ui.widget.JsListView;
+import com.stardust.automyjsa.rhino.ProxyObject;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import org.mozilla.javascript.Scriptable;
 
@@ -107,7 +107,7 @@ public class UI extends ProxyObject {
         mDynamicLayoutInflater.setContext(null);
     }
 
-    private class Drawables extends com.stardust.autojs.core.ui.inflater.util.Drawables {
+    private class Drawables extends com.stardust.automyjsa.core.ui.inflater.util.Drawables {
 
         @Override
         public Drawable decodeImage(String path) {

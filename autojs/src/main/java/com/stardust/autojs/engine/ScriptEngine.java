@@ -1,9 +1,9 @@
-package com.stardust.autojs.engine;
+package com.stardust.automyjsa.engine;
 
 import androidx.annotation.CallSuper;
 
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.script.ScriptSource;
 
 import java.util.HashMap;
 import java.util.Map;

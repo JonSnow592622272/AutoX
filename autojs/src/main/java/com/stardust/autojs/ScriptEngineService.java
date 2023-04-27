@@ -1,24 +1,24 @@
-package com.stardust.autojs;
+package com.stardust.automyjsa;
 
 import android.content.Context;
 import androidx.annotation.Nullable;
 
-import com.stardust.autojs.engine.JavaScriptEngine;
-import com.stardust.autojs.engine.ScriptEngine;
-import com.stardust.autojs.engine.ScriptEngineManager;
-import com.stardust.autojs.execution.ExecutionConfig;
-import com.stardust.autojs.execution.LoopedBasedJavaScriptExecution;
-import com.stardust.autojs.execution.RunnableScriptExecution;
-import com.stardust.autojs.execution.ScriptExecuteActivity;
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.execution.ScriptExecutionListener;
-import com.stardust.autojs.execution.ScriptExecutionObserver;
-import com.stardust.autojs.execution.ScriptExecutionTask;
-import com.stardust.autojs.execution.SimpleScriptExecutionListener;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.api.Console;
-import com.stardust.autojs.script.JavaScriptSource;
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.engine.JavaScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngineManager;
+import com.stardust.automyjsa.execution.ExecutionConfig;
+import com.stardust.automyjsa.execution.LoopedBasedJavaScriptExecution;
+import com.stardust.automyjsa.execution.RunnableScriptExecution;
+import com.stardust.automyjsa.execution.ScriptExecuteActivity;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.execution.ScriptExecutionListener;
+import com.stardust.automyjsa.execution.ScriptExecutionObserver;
+import com.stardust.automyjsa.execution.ScriptExecutionTask;
+import com.stardust.automyjsa.execution.SimpleScriptExecutionListener;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.api.Console;
+import com.stardust.automyjsa.script.JavaScriptSource;
+import com.stardust.automyjsa.script.ScriptSource;
 import com.stardust.lang.ThreadCompat;
 import com.stardust.util.UiHandler;
 
@@ -30,7 +30,7 @@ import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-import static com.stardust.autojs.runtime.exception.ScriptInterruptedException.causedByInterrupted;
+import static com.stardust.automyjsa.runtime.exception.ScriptInterruptedException.causedByInterrupted;
 
 /**
  * Created by Stardust on 2017/1/23.

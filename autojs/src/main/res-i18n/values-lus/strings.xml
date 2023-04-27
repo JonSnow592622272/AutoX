@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesture monitoring hi enable a ni lo a, software setting ah khan enable rawh</string>
   <string name="no_write_settings_permissin">System settings siam danglam phalna a awm lo</string>
   <string name="exception_notification_service_disabled">Notification service a kal lo a, notification phalna kha enable leh rawh</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">He script hi a kal theih nan Auto.js version number %d emaw a aia sang emaw a ngai a ni</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">He script hi a kal theih nan Automyjsa.js version number %d emaw a aia sang emaw a ngai a ni</string>
   <string name="text_drawer_open">Drop down menu chu hawng la</string>
   <string name="text_drawer_close">Drop down menu chu khar rawh</string>
   <string name="no_read_phone_state_permissin">Device information chhiar phalna a awm lo</string>

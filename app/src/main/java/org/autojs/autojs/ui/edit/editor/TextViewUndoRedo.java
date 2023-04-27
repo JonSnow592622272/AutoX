@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.editor;
+package org.automyjsa.automyjsa.ui.edit.editor;
 
 /*
  * THIS CLASS IS PROVIDED TO THE PUBLIC DOMAIN FOR FREE WITHOUT ANY

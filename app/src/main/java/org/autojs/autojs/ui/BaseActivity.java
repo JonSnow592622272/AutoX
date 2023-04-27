@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui;
+package org.automyjsa.automyjsa.ui;
 
 import static android.content.pm.PackageManager.PERMISSION_DENIED;
 import static android.content.pm.PackageManager.PERMISSION_GRANTED;
@@ -22,8 +22,8 @@ import androidx.core.content.ContextCompat;
 import com.stardust.app.GlobalAppContext;
 import com.stardust.theme.ThemeColorManager;
 
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
 
 import java.util.ArrayList;
 import java.util.Arrays;

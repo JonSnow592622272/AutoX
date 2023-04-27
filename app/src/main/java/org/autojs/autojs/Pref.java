@@ -1,4 +1,4 @@
-package org.autojs.autojs;
+package org.automyjsa.automyjsa;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -6,10 +6,10 @@ import android.os.Environment;
 import android.preference.PreferenceManager;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.runtime.accessibility.AccessibilityConfig;
+import com.stardust.automyjsa.runtime.accessibility.AccessibilityConfig;
 
-import org.autojs.autojs.autojs.key.GlobalKeyObserver;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsa.automyjsa.key.GlobalKeyObserver;
+import org.automyjsa.automyjsx.R;
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
@@ -133,7 +133,7 @@ public class Pref {
 
     public static String getDocumentationUrl() {
 //        String docSource = def().getString(getString(R.string.key_documentation_source), null);
-        return "http://doc.autoxjs.com/";
+        return "http://doc.automyjsx.com/";
     }
 
     public static boolean isFloatingMenuShown() {

@@ -37,7 +37,7 @@
   <string name="github">Programara fontkodo</string>
   <string name="text_already_copy_to_clip">Kopiita al tondujo</string>
   <string name="text_qq_already_copy_to_clip">La QQ grupnumero estis kopiita al la tondujo</string>
-  <string name="share_app">[Autox.js] Elŝuta adreso: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Elŝuta adreso: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Ŝveba fenestro</string>
   <string name="text_error_report">Erara raporto</string>
   <string name="text_press_again_to_exit">Premu denove por eliri la programon</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importo sukcesa</string>
   <string name="text_current_activity">Nuna agado:</string>
   <string name="text_current_package">Nuna aplika pakaĵo nomo:</string>
-  <string name="go_to_accessibility_settings">Bonvolu malfermi Agordojn->Alireblaj Servoj->Autox.js kaj ebligi ĝin</string>
+  <string name="go_to_accessibility_settings">Bonvolu malfermi Agordojn->Alireblaj Servoj->Automyjsx.js kaj ebligi ĝin</string>
   <string name="text_script_running">Skripto rulita</string>
   <string name="text_use_volume_to_stop_running">Volumo-klavo haltigas ĉiujn skriptojn</string>
   <string name="text_need_to_enable_accessibility_service">Servoj pri alirebleco devas esti ebligitaj</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Neniu agorda dosiero</string>
   <string name="text_foreground_service">Akcepto</string>
   <string name="foreground_notification_channel_name">Servo-sciigo</string>
-  <string name="foreground_notification_title">Autox.js daŭre funkcias</string>
+  <string name="foreground_notification_title">Automyjsx.js daŭre funkcias</string>
   <string name="foreground_notification_text">Klaku por eniri la ĉefan interfacon</string>
   <string name="text_run_on_other_broadcast">Aliaj okazaĵoj (elsendo)</string>
   <string name="text_broadcast_action">Elsendo Ago</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekto estas konservita en %s</string>
   <string name="text_project_save_error">Projekta konservado malsukcesis %s</string>
   <string name="text_night_mode">Nokta reĝimo</string>
-  <string name="text_run_on_startup">Kiam Autox.js komenciĝas</string>
+  <string name="text_run_on_startup">Kiam Automyjsx.js komenciĝas</string>
   <string name="text_usage_stats_permission">Uzado aliro</string>
   <string name="description_usage_stats_permission">Per la permeso \"vidi uzadon statistikon\", vi povas akiri la pasintan aplikaĵon de ĉi tiu aparato, por ke estu pli precize akiri la nunan aplikaĵon (nuna Pako).</string>
   <string name="text_open_with">Malferma vojo</string>

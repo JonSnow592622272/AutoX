@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.autocomplete;
+package org.automyjsa.automyjsa.model.autocomplete;
 
 import androidx.annotation.NonNull;
 

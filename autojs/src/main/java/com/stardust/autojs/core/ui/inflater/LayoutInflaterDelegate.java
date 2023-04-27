@@ -1,9 +1,9 @@
-package com.stardust.autojs.core.ui.inflater;
+package com.stardust.automyjsa.core.ui.inflater;
 
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.stardust.autojs.core.ui.inflater.inflaters.ViewGroupInflater;
+import com.stardust.automyjsa.core.ui.inflater.inflaters.ViewGroupInflater;
 
 import org.w3c.dom.Node;
 

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget
+package org.automyjsa.automyjsa.ui.widget
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -9,7 +9,7 @@ import android.view.KeyEvent
 import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
-import org.autojs.autojs.theme.widget.ThemeColorSwipeRefreshLayout
+import org.automyjsa.automyjsa.theme.widget.ThemeColorSwipeRefreshLayout
 
 class SwipeRefreshWebView : ThemeColorSwipeRefreshLayout {
 

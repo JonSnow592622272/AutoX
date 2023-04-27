@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.theme
+package org.automyjsa.automyjsa.ui.edit.theme
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -6,8 +6,8 @@ import com.stardust.pio.UncheckedIOException
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
 import io.reactivex.subjects.PublishSubject
-import org.autojs.autojs.Pref
-import org.autojs.autojs.ui.util.isSystemNightMode
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsa.ui.util.isSystemNightMode
 import java.io.IOException
 import java.io.InputStream
 import java.io.InputStreamReader

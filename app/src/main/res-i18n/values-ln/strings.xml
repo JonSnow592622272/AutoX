@@ -37,7 +37,7 @@
   <string name="github">Code source ya logiciel</string>
   <string name="text_already_copy_to_clip">Esalemi kopi na clipboard</string>
   <string name="text_qq_already_copy_to_clip">Numéro ya groupe QQ esili kosala copie na clipboard</string>
-  <string name="share_app">[Autox.js] Addresse ya téléchargement: https://github.com/kkevsekk1/AutoX/bimisi</string>
+  <string name="share_app">[Automyjsx.js] Addresse ya téléchargement: https://github.com/kkevsekk1/Automyjsx/bimisi</string>
   <string name="text_floating_window">Fenêtre oyo ezali kopumbwapumbwa</string>
   <string name="text_error_report">Lapolo ya libunga</string>
   <string name="text_press_again_to_exit">Finá lisusu mpo na kobima na programɛ yango</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importer elongi</string>
   <string name="text_current_activity">Mosala oyo ezali kosalema lelo oyo:</string>
   <string name="text_current_package">Nkombo ya paquet ya application ya lelo:</string>
-  <string name="go_to_accessibility_settings">Svp fungola Paramètres->Services d\'accessibilité->Autox.js mpe activer yango</string>
+  <string name="go_to_accessibility_settings">Svp fungola Paramètres->Services d\'accessibilité->Automyjsx.js mpe activer yango</string>
   <string name="text_script_running">Script etambolaka</string>
   <string name="text_use_volume_to_stop_running">Volume up touche etelemisaka ba scripts nionso</string>
   <string name="text_need_to_enable_accessibility_service">Esengeli ko activer ba services ya accessibilité</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Fichier ya configuration te</string>
   <string name="text_foreground_service">Koyamba</string>
   <string name="foreground_notification_channel_name">Notification ya service ya réception</string>
-  <string name="foreground_notification_title">Autox.js ezali kaka kosala</string>
+  <string name="foreground_notification_title">Automyjsx.js ezali kaka kosala</string>
   <string name="foreground_notification_text">Finá mpo na kokɔta na interface monene</string>
   <string name="text_run_on_other_broadcast">Makambo mosusu (emission) .</string>
   <string name="text_broadcast_action">Action ya émission</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projet ebombami na %s</string>
   <string name="text_project_save_error">Bobateli ya projet elongi te %s</string>
   <string name="text_night_mode">Mode ya butu</string>
-  <string name="text_run_on_startup">Tango Autox.js ebandi</string>
+  <string name="text_run_on_startup">Tango Automyjsx.js ebandi</string>
   <string name="text_usage_stats_permission">Nzela ya kosalela yango</string>
   <string name="description_usage_stats_permission">Na nzela ya ndingisa ya \"tala ba statistiques ya bosaleli\", okoki kozwa bosaleli ya application ya kala ya dispositif oyo, mpo ete ezala na bosikisiki mingi kozwa application ya lelo (currentPackage).</string>
   <string name="text_open_with">Nzela ya polele</string>

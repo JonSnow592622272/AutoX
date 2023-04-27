@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.os.Handler;
 import android.os.Looper;
@@ -6,10 +6,10 @@ import android.os.SystemClock;
 import android.util.Log;
 import android.util.SparseArray;
 
-import com.stardust.autojs.core.looper.Timer;
-import com.stardust.autojs.core.looper.TimerThread;
-import com.stardust.autojs.runtime.ScriptBridges;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.looper.Timer;
+import com.stardust.automyjsa.core.looper.TimerThread;
+import com.stardust.automyjsa.runtime.ScriptBridges;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.concurrent.VolatileBox;
 
 /**

@@ -37,7 +37,7 @@
   <string name="github">Software ukax mä jamuqaw uñt’ayi</string>
   <string name="text_already_copy_to_clip">Ukat portapapeles ukar copiaña</string>
   <string name="text_qq_already_copy_to_clip">QQ qutu jakhüwix portapapeles ukar uñt’ayatawa</string>
-  <string name="share_app">[Autox.js] Ukax akham uñt’ayatawa: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Ukax akham uñt’ayatawa: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Ukax mä ventana ukankiwa</string>
   <string name="text_error_report">Pantjasiwi yatiyawi</string>
   <string name="text_press_again_to_exit">Programat mistuñatakix mayamp ch’iqt’añamawa</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importañax wali askiwa</string>
   <string name="text_current_activity">Jichha lurawi: 1.1.</string>
   <string name="text_current_package">Jichhax aplikasiyun paquete sutipax akhamawa:</string>
-  <string name="go_to_accessibility_settings">Ukhamaraki, Configuración->Servicios de Accesibilidad->Autox.js uka jist’arañamawa ukatxa ch’amanchañamawa</string>
+  <string name="go_to_accessibility_settings">Ukhamaraki, Configuración->Servicios de Accesibilidad->Automyjsx.js uka jist’arañamawa ukatxa ch’amanchañamawa</string>
   <string name="text_script_running">Script ukax t’ijt’ayatawa</string>
   <string name="text_use_volume_to_stop_running">Volumen up tecla ukax taqi scripts ukanakaruw sayt’ayi</string>
   <string name="text_need_to_enable_accessibility_service">Servicios de accesibilidad ukaxa wakisiwa ch’amanchaña</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Janiwa configuración qillqataxa utjkiti</string>
   <string name="text_foreground_service">Katuqa</string>
   <string name="foreground_notification_channel_name">Servicio de recepción ukan yatiyawipa</string>
-  <string name="foreground_notification_title">Autox.js ukax sarantaskakiwa</string>
+  <string name="foreground_notification_title">Automyjsx.js ukax sarantaskakiwa</string>
   <string name="foreground_notification_text">Ukax mä jach’a interfaz ukar mantañatakiw ch’iqt’añama</string>
   <string name="text_run_on_other_broadcast">Yaqha lurawinakampi (transmisión) .</string>
   <string name="text_broadcast_action">Ukax Acción de Transmisión satawa</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proyecto ukax %s ukar qhispiyatawa</string>
   <string name="text_project_save_error">Proyecto qhispiyañatakix %s</string>
   <string name="text_night_mode">Arumax modalidad</string>
-  <string name="text_run_on_startup">Kunapachatixa Autox.js ukaxa qalltaraki</string>
+  <string name="text_run_on_startup">Kunapachatixa Automyjsx.js ukaxa qalltaraki</string>
   <string name="text_usage_stats_permission">Apnaqawiru mantañataki</string>
   <string name="description_usage_stats_permission">\"Estadísticas de uso uñakipaña\" permiso tuqixa, aka dispositivo ukanxa nayra apnaqawi apnaqawi katuqañatakixa, ukhamata juk’ampi chiqapa jichha apnaqawi (currentPackage) apsuñataki.</string>
   <string name="text_open_with">Jist’arat thakhi</string>

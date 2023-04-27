@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.script
+package org.automyjsa.automyjsa.model.script
 
 import android.content.Context
 import android.content.Intent
@@ -7,21 +7,21 @@ import androidx.annotation.Nullable
 import android.widget.Toast
 
 import com.stardust.app.GlobalAppContext
-import com.stardust.autojs.execution.ExecutionConfig
-import com.stardust.autojs.execution.ScriptExecution
-import com.stardust.autojs.execution.SimpleScriptExecutionListener
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException
-import com.stardust.autojs.script.ScriptSource
+import com.stardust.automyjsa.execution.ExecutionConfig
+import com.stardust.automyjsa.execution.ScriptExecution
+import com.stardust.automyjsa.execution.SimpleScriptExecutionListener
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException
+import com.stardust.automyjsa.script.ScriptSource
 import com.stardust.util.IntentUtil
 
-import org.autojs.autojs.Pref
-import org.autojs.autoxjs.R
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.external.ScriptIntents
-import org.autojs.autojs.external.fileprovider.AppFileProvider
-import org.autojs.autojs.external.shortcut.Shortcut
-import org.autojs.autojs.external.shortcut.ShortcutActivity
-import org.autojs.autojs.ui.edit.EditActivity
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.external.ScriptIntents
+import org.automyjsa.automyjsa.external.fileprovider.AppFileProvider
+import org.automyjsa.automyjsa.external.shortcut.Shortcut
+import org.automyjsa.automyjsa.external.shortcut.ShortcutActivity
+import org.automyjsa.automyjsa.ui.edit.EditActivity
 
 import org.mozilla.javascript.RhinoException
 
@@ -100,7 +100,7 @@ object Scripts {
 
     fun run(file: ScriptFile): ScriptExecution? {
         return try {
-            AutoJs.getInstance().scriptEngineService.execute(file.toSource(),
+            Automyjsa.getInstance().scriptEngineService.execute(file.toSource(),
                     ExecutionConfig(workingDirectory = file.parent))
         } catch (e: Exception) {
             e.printStackTrace()
@@ -113,7 +113,7 @@ object Scripts {
 
     fun run(source: ScriptSource): ScriptExecution? {
         return try {
-            AutoJs.getInstance().scriptEngineService.execute(source, ExecutionConfig(workingDirectory = Pref.getScriptDirPath()))
+            Automyjsa.getInstance().scriptEngineService.execute(source, ExecutionConfig(workingDirectory = Pref.getScriptDirPath()))
         } catch (e: Exception) {
             e.printStackTrace()
             Toast.makeText(GlobalAppContext.get(), e.message, Toast.LENGTH_LONG).show()
@@ -123,7 +123,7 @@ object Scripts {
     }
 
     fun runWithBroadcastSender(file: File): ScriptExecution {
-        return AutoJs.getInstance().scriptEngineService.execute(ScriptFile(file).toSource(), BROADCAST_SENDER_SCRIPT_EXECUTION_LISTENER,
+        return Automyjsa.getInstance().scriptEngineService.execute(ScriptFile(file).toSource(), BROADCAST_SENDER_SCRIPT_EXECUTION_LISTENER,
                 ExecutionConfig(workingDirectory = file.parent))
     }
 
@@ -131,7 +131,7 @@ object Scripts {
     fun runRepeatedly(scriptFile: ScriptFile, loopTimes: Int, delay: Long, interval: Long): ScriptExecution {
         val source = scriptFile.toSource()
         val directoryPath = scriptFile.parent
-        return AutoJs.getInstance().scriptEngineService.execute(source, ExecutionConfig(workingDirectory = directoryPath,
+        return Automyjsa.getInstance().scriptEngineService.execute(source, ExecutionConfig(workingDirectory = directoryPath,
                 delay = delay, loopTimes = loopTimes, interval = interval))
     }
 

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesture monitoring is not enabled, please enable it in software settings</string>
   <string name="no_write_settings_permissin">No permission to modify system settings</string>
   <string name="exception_notification_service_disabled">Notification service is not running, please re-enable notification permission</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">This script requires Auto.js version number %d or higher to run</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">This script requires Automyjsa.js version number %d or higher to run</string>
   <string name="text_drawer_open">Open the drop down menu</string>
   <string name="text_drawer_close">Close the drop down menu</string>
   <string name="no_read_phone_state_permissin">No permission to read device information</string>

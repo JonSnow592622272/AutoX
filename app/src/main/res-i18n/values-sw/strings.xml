@@ -37,7 +37,7 @@
   <string name="github">Msimbo wa chanzo cha programu</string>
   <string name="text_already_copy_to_clip">Imenakiliwa kwenye ubao wa kunakili</string>
   <string name="text_qq_already_copy_to_clip">Nambari ya kikundi cha QQ imenakiliwa kwenye ubao wa kunakili</string>
-  <string name="share_app">[Autox.js] Pakua anwani: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Pakua anwani: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Dirisha linaloelea</string>
   <string name="text_error_report">Ripoti ya makosa</string>
   <string name="text_press_again_to_exit">Bonyeza tena ili kuondoka kwenye programu</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Imefaulu kuleta</string>
   <string name="text_current_activity">Shughuli ya sasa:</string>
   <string name="text_current_package">Jina la sasa la kifurushi cha programu:</string>
-  <string name="go_to_accessibility_settings">Tafadhali fungua Mipangilio->Huduma za Ufikivu->Autox.js na uiwashe</string>
+  <string name="go_to_accessibility_settings">Tafadhali fungua Mipangilio->Huduma za Ufikivu->Automyjsx.js na uiwashe</string>
   <string name="text_script_running">Script kukimbia</string>
   <string name="text_use_volume_to_stop_running">Kitufe cha kuongeza sauti husimamisha hati zote</string>
   <string name="text_need_to_enable_accessibility_service">Huduma za ufikiaji zinahitaji kuwezeshwa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Hakuna faili ya usanidi</string>
   <string name="text_foreground_service">Mapokezi</string>
   <string name="foreground_notification_channel_name">Arifa ya huduma ya meza ya mbele</string>
-  <string name="foreground_notification_title">Autox.js inaendelea kufanya kazi</string>
+  <string name="foreground_notification_title">Automyjsx.js inaendelea kufanya kazi</string>
   <string name="foreground_notification_text">Bofya ili kuingia kiolesura kuu</string>
   <string name="text_run_on_other_broadcast">Matukio mengine (matangazo)</string>
   <string name="text_broadcast_action">Kitendo cha Kutangaza</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Mradi umehifadhiwa kwa %s</string>
   <string name="text_project_save_error">Uhifadhi wa mradi umeshindwa %s</string>
   <string name="text_night_mode">Hali ya usiku</string>
-  <string name="text_run_on_startup">Wakati Autox.js inapoanza</string>
+  <string name="text_run_on_startup">Wakati Automyjsx.js inapoanza</string>
   <string name="text_usage_stats_permission">Ufikiaji wa matumizi</string>
   <string name="description_usage_stats_permission">Kupitia ruhusa ya \"tazama takwimu za matumizi\", unaweza kupata matumizi ya awali ya programu ya kifaa hiki, ili iwe sahihi zaidi kupata programu ya sasa (currentPackage).</string>
   <string name="text_open_with">Njia wazi</string>

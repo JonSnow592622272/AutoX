@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ʻAʻole ʻae ʻia ka mākaʻikaʻi ʻana, e ʻoluʻolu e ʻae iā ia ma nā hoʻonohonoho polokalamu</string>
   <string name="no_write_settings_permissin">ʻAʻohe ʻae e hoʻololi i nā hoʻonohonoho ʻōnaehana</string>
   <string name="exception_notification_service_disabled">ʻAʻole holo ka lawelawe hoʻolaha, e ʻoluʻolu e hoʻā hou i ka ʻae hoʻolaha</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Pono kēia palapala i ka helu mana Auto.js %d a i ʻole e holo</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Pono kēia palapala i ka helu mana Automyjsa.js %d a i ʻole e holo</string>
   <string name="text_drawer_open">E wehe i ka papa kuhikuhi</string>
   <string name="text_drawer_close">Pani i ka papa kuhikuhi koho</string>
   <string name="no_read_phone_state_permissin">ʻAʻole ʻae ʻia e heluhelu i ka ʻike mea hana</string>

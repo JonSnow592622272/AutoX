@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.main.drawer
+package org.automyjsa.automyjsa.ui.main.drawer
 
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -47,28 +47,28 @@ import io.github.g00fy2.quickie.QRResult
 import io.github.g00fy2.quickie.ScanQRCode
 import io.noties.markwon.Markwon
 import kotlinx.coroutines.*
-import org.autojs.autojs.Pref
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.devplugin.DevPlugin
-import org.autojs.autojs.external.foreground.ForegroundService
-import org.autojs.autojs.tool.AccessibilityServiceTool
-import org.autojs.autojs.tool.WifiTool
-import org.autojs.autojs.ui.build.MyTextField
-import org.autojs.autojs.ui.compose.theme.AutoXJsTheme
-import org.autojs.autojs.ui.compose.widget.MyAlertDialog1
-import org.autojs.autojs.ui.compose.widget.MyIcon
-import org.autojs.autojs.ui.compose.widget.MySwitch
-import org.autojs.autojs.ui.floating.FloatyWindowManger
-import org.autojs.autojs.ui.settings.SettingsActivity_
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.devplugin.DevPlugin
+import org.automyjsa.automyjsa.external.foreground.ForegroundService
+import org.automyjsa.automyjsa.tool.AccessibilityServiceTool
+import org.automyjsa.automyjsa.tool.WifiTool
+import org.automyjsa.automyjsa.ui.build.MyTextField
+import org.automyjsa.automyjsa.ui.compose.theme.AutomyjsxTheme
+import org.automyjsa.automyjsa.ui.compose.widget.MyAlertDialog1
+import org.automyjsa.automyjsa.ui.compose.widget.MyIcon
+import org.automyjsa.automyjsa.ui.compose.widget.MySwitch
+import org.automyjsa.automyjsa.ui.floating.FloatyWindowManger
+import org.automyjsa.automyjsa.ui.settings.SettingsActivity_
+import org.automyjsa.automyjsx.R
 import org.joda.time.DateTimeZone
 import org.joda.time.Instant
 
 private const val TAG = "DrawerPage"
-private const val URL_DEV_PLUGIN = "https://github.com/kkevsekk1/Auto.js-VSCode-Extension"
-private const val PROJECT_ADDRESS = "https://github.com/kkevsekk1/AutoX"
-private const val DOWNLOAD_ADDRESS = "https://github.com/kkevsekk1/AutoX/releases"
-private const val FEEDBACK_ADDRESS = "https://github.com/kkevsekk1/AutoX/issues"
+private const val URL_DEV_PLUGIN = "https://github.com/kkevsekk1/Automyjsa.js-VSCode-Extension"
+private const val PROJECT_ADDRESS = "https://github.com/kkevsekk1/Automyjsx"
+private const val DOWNLOAD_ADDRESS = "https://github.com/kkevsekk1/Automyjsx/releases"
+private const val FEEDBACK_ADDRESS = "https://github.com/kkevsekk1/Automyjsx/issues"
 
 @Composable
 fun DrawerPage() {
@@ -90,7 +90,7 @@ fun DrawerPage() {
         ) {
             Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.Center) {
                 Image(
-                    painter = rememberAsyncImagePainter(R.drawable.autojs_logo1),
+                    painter = rememberAsyncImagePainter(R.drawable.automyjsa_logo1),
                     contentDescription = null,
                     modifier = Modifier.size(120.dp),
                 )
@@ -122,7 +122,7 @@ fun DrawerPage() {
             modifier = Modifier
                 .height(1.dp)
                 .fillMaxWidth()
-                .background(AutoXJsTheme.colors.divider)
+                .background(AutomyjsxTheme.colors.divider)
         )
         BottomButtons()
         Spacer(
@@ -311,7 +311,7 @@ fun exitCompletely(context: Context) {
     FloatyWindowManger.hideCircularMenu()
     ForegroundService.stop(context)
     context.stopService(Intent(context, FloatyService::class.java))
-    AutoJs.getInstance().scriptEngineService.stopAll()
+    Automyjsa.getInstance().scriptEngineService.stopAll()
 }
 
 @Composable

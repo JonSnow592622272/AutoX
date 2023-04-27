@@ -37,7 +37,7 @@
   <string name="github">চফ্টৱেৰৰ উৎস ক\'ড</string>
   <string name="text_already_copy_to_clip">ক্লিপবোৰ্ডলৈ কপি কৰা হৈছে</string>
   <string name="text_qq_already_copy_to_clip">QQ গোট নম্বৰটো ক্লিপবৰ্ডলৈ কপি কৰা হৈছে</string>
-  <string name="share_app">[Autox.js] ডাউনলোড ঠিকনা: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ডাউনলোড ঠিকনা: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ভাসমান খিৰিকী</string>
   <string name="text_error_report">ভুলৰ প্ৰতিবেদন</string>
   <string name="text_press_again_to_exit">প্ৰগ্ৰেমৰ পৰা ওলাই যাবলৈ আকৌ টিপক</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">আমদানি সফল</string>
   <string name="text_current_activity">বৰ্তমানৰ কাৰ্য্যকলাপ:</string>
   <string name="text_current_package">বৰ্তমান এপ্লিকেচন পেকেইজৰ নাম:</string>
-  <string name="go_to_accessibility_settings">অনুগ্ৰহ কৰি সংহতিসমূহ->প্ৰৱেশযোগ্যতা সেৱাসমূহ->Autox.js খোলক আৰু ইয়াক সক্ৰিয় কৰক</string>
+  <string name="go_to_accessibility_settings">অনুগ্ৰহ কৰি সংহতিসমূহ->প্ৰৱেশযোগ্যতা সেৱাসমূহ->Automyjsx.js খোলক আৰু ইয়াক সক্ৰিয় কৰক</string>
   <string name="text_script_running">লিপি চলাওক</string>
   <string name="text_use_volume_to_stop_running">ভলিউম আপ কি\'ই সকলো লিপি বন্ধ কৰে</string>
   <string name="text_need_to_enable_accessibility_service">অভিগম্যতা সেৱাসমূহ সক্ৰিয় কৰিব লাগিব</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">কোনো বিন্যাস নথিপত্ৰ নাই</string>
   <string name="text_foreground_service">অভ্যৰ্থনা</string>
   <string name="foreground_notification_channel_name">ফ্ৰন্ট ডেস্ক সেৱাৰ অধিসূচনা</string>
-  <string name="foreground_notification_title">Autox.js চলি থাকে</string>
+  <string name="foreground_notification_title">Automyjsx.js চলি থাকে</string>
   <string name="foreground_notification_text">মূল আন্তঃপৃষ্ঠত প্ৰৱেশ কৰিবলৈ ক্লিক কৰক</string>
   <string name="text_run_on_other_broadcast">অন্যান্য অনুষ্ঠান (প্ৰচাৰ)</string>
   <string name="text_broadcast_action">সম্প্ৰচাৰ একচন</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">প্ৰকল্প %s লে সংৰক্ষণ কৰা হৈছে</string>
   <string name="text_project_save_error">প্ৰকল্প সংৰক্ষণ ব্যৰ্থ %s</string>
   <string name="text_night_mode">ৰাতিৰ মোড</string>
-  <string name="text_run_on_startup">যেতিয়া Autox.js আৰম্ভ হয়</string>
+  <string name="text_run_on_startup">যেতিয়া Automyjsx.js আৰম্ভ হয়</string>
   <string name="text_usage_stats_permission">ব্যৱহাৰৰ প্ৰৱেশ</string>
   <string name="description_usage_stats_permission">\"ব্যৱহাৰ পৰিসংখ্যা চাওক\" অনুমতিৰ যোগেদি, আপুনি এই ডিভাইচৰ অতীত এপ্লিকেচন ব্যৱহাৰ লাভ কৰিব পাৰে, যাতে বৰ্তমান এপ্লিকেচন (currentPackage) লাভ কৰাটো অধিক সঠিক হয়।</string>
   <string name="text_open_with">মুকলি পথ</string>

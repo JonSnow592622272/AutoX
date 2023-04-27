@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.main.task;
+package org.automyjsa.automyjsa.ui.main.task;
 
 import android.content.Context;
 import android.graphics.drawable.GradientDrawable;
@@ -16,19 +16,19 @@ import android.widget.TextView;
 import com.bignerdranch.expandablerecyclerview.ChildViewHolder;
 import com.bignerdranch.expandablerecyclerview.ExpandableRecyclerAdapter;
 import com.bignerdranch.expandablerecyclerview.ParentViewHolder;
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.execution.ScriptExecutionListener;
-import com.stardust.autojs.execution.SimpleScriptExecutionListener;
-import com.stardust.autojs.script.AutoFileSource;
-import com.stardust.autojs.workground.WrapContentLinearLayoutManager;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.execution.ScriptExecutionListener;
+import com.stardust.automyjsa.execution.SimpleScriptExecutionListener;
+import com.stardust.automyjsa.script.AutoFileSource;
+import com.stardust.automyjsa.workground.WrapContentLinearLayoutManager;
 import com.yqritc.recyclerviewflexibledivider.HorizontalDividerItemDecoration;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.storage.database.ModelChange;
-import org.autojs.autojs.timing.TimedTaskManager;
-import org.autojs.autojs.ui.timing.TimedTaskSettingActivity;
-import org.autojs.autojs.ui.timing.TimedTaskSettingActivity_;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.storage.database.ModelChange;
+import org.automyjsa.automyjsa.timing.TimedTaskManager;
+import org.automyjsa.automyjsa.ui.timing.TimedTaskSettingActivity;
+import org.automyjsa.automyjsa.ui.timing.TimedTaskSettingActivity_;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -126,7 +126,7 @@ public class TaskListRecyclerView extends ThemeColorRecyclerView {
     @Override
     protected void onAttachedToWindow() {
         super.onAttachedToWindow();
-        AutoJs.getInstance().getScriptEngineService().registerGlobalScriptExecutionListener(mScriptExecutionListener);
+        Automyjsa.getInstance().getScriptEngineService().registerGlobalScriptExecutionListener(mScriptExecutionListener);
         mTimedTaskChangeDisposable = TimedTaskManager.INSTANCE.getTimeTaskChanges()
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(this::onTaskChange);
@@ -146,7 +146,7 @@ public class TaskListRecyclerView extends ThemeColorRecyclerView {
     @Override
     protected void onDetachedFromWindow() {
         super.onDetachedFromWindow();
-        AutoJs.getInstance().getScriptEngineService().unregisterGlobalScriptExecutionListener(mScriptExecutionListener);
+        Automyjsa.getInstance().getScriptEngineService().unregisterGlobalScriptExecutionListener(mScriptExecutionListener);
         mTimedTaskChangeDisposable.dispose();
         mIntentTaskChangeDisposable.dispose();
     }

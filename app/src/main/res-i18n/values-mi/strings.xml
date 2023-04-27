@@ -37,7 +37,7 @@
   <string name="github">Waehere puna rorohiko</string>
   <string name="text_already_copy_to_clip">Kua tāruatia ki te papatopenga</string>
   <string name="text_qq_already_copy_to_clip">Kua kapehia te nama roopu QQ ki te papatopenga</string>
-  <string name="share_app">[Autox.js] Tikiake wāhitau: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Tikiake wāhitau: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Matapihi mānu</string>
   <string name="text_error_report">Pūrongo hapa</string>
   <string name="text_press_again_to_exit">Patohia ano kia puta atu i te papatono</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">I angitu te kawemai</string>
   <string name="text_current_activity">Mahi onāianei:</string>
   <string name="text_current_package">Ingoa mōkihi tono ināianei:</string>
-  <string name="go_to_accessibility_settings">Whakatuwheratia nga Tautuhinga->Ratonga Whakaaetanga->Autox.js ka taea</string>
+  <string name="go_to_accessibility_settings">Whakatuwheratia nga Tautuhinga->Ratonga Whakaaetanga->Automyjsx.js ka taea</string>
   <string name="text_script_running">Rere tuhi</string>
   <string name="text_use_volume_to_stop_running">Ka mutu te taviri ake i nga tuhinga katoa</string>
   <string name="text_need_to_enable_accessibility_service">Me whakahohea nga ratonga uru</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Kahore he kōnae whirihoranga</string>
   <string name="text_foreground_service">Te manaakitanga</string>
   <string name="foreground_notification_channel_name">Whakamōhiotanga ratonga tēpu o mua</string>
-  <string name="foreground_notification_title">Kei te rere tonu a Autox.js</string>
+  <string name="foreground_notification_title">Kei te rere tonu a Automyjsx.js</string>
   <string name="foreground_notification_text">Pāwhiri ki te tomo i te atanga matua</string>
   <string name="text_run_on_other_broadcast">Ētahi atu kaupapa (pāhotanga)</string>
   <string name="text_broadcast_action">Mahi Paoho</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Kua tiakina te kaupapa ki %s</string>
   <string name="text_project_save_error">I rahua te tiaki kaupapa %s</string>
   <string name="text_night_mode">Aratau po</string>
-  <string name="text_run_on_startup">Ina timata a Autox.js</string>
+  <string name="text_run_on_startup">Ina timata a Automyjsx.js</string>
   <string name="text_usage_stats_permission">Urunga whakamahi</string>
   <string name="description_usage_stats_permission">Na roto i te whakaaetanga \"tirohia nga tatauranga whakamahinga\", ka taea e koe te tiki i nga whakamahinga o mua o tenei taputapu, kia tika ake ai te tiki i te tono o naianei (currentPackage).</string>
   <string name="text_open_with">Ara tuwhera</string>

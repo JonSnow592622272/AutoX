@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ଅଙ୍ଗଭଙ୍ଗୀ ମନିଟରିଂ ସକ୍ଷମ ନୁହେଁ, ଦୟାକରି ଏହାକୁ ସଫ୍ଟୱେର୍ ସେଟିଂରେ ସକ୍ଷମ କରନ୍ତୁ |</string>
   <string name="no_write_settings_permissin">ସିଷ୍ଟମ୍ ସେଟିଂସମୂହକୁ ପରିବର୍ତ୍ତନ କରିବାକୁ କ No ଣସି ଅନୁମତି ନାହିଁ |</string>
   <string name="exception_notification_service_disabled">ବିଜ୍ଞପ୍ତି ସେବା ଚାଲୁ ନାହିଁ, ଦୟାକରି ବିଜ୍ଞପ୍ତି ଅନୁମତି ପୁନ - ସକ୍ଷମ କରନ୍ତୁ |</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ଏହି ସ୍କ୍ରିପ୍ଟ ଚଲାଇବା ପାଇଁ Auto.js ସଂସ୍କରଣ ସଂଖ୍ୟା %d କିମ୍ବା ଅଧିକ ଆବଶ୍ୟକ କରେ |</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ଏହି ସ୍କ୍ରିପ୍ଟ ଚଲାଇବା ପାଇଁ Automyjsa.js ସଂସ୍କରଣ ସଂଖ୍ୟା %d କିମ୍ବା ଅଧିକ ଆବଶ୍ୟକ କରେ |</string>
   <string name="text_drawer_open">ଡ୍ରପ୍ ଡାଉନ୍ ମେନୁ ଖୋଲ |</string>
   <string name="text_drawer_close">ଡ୍ରପ୍ ଡାଉନ୍ ମେନୁ ବନ୍ଦ କରନ୍ତୁ |</string>
   <string name="no_read_phone_state_permissin">ଉପକରଣ ସୂଚନା ପ read ିବାକୁ କ permission ଣସି ଅନୁମତି ନାହିଁ |</string>

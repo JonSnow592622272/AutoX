@@ -37,7 +37,7 @@
   <string name="github">Ikhodi yomthombo wesofthiwe</string>
   <string name="text_already_copy_to_clip">Ikopishelwe ebhodini lokunamathisela</string>
   <string name="text_qq_already_copy_to_clip">Inombolo yeqembu le-QQ ikopishelwe ebhodini lokunamathisela</string>
-  <string name="share_app">[Autox.js] Landa ikheli: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Landa ikheli: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Iwindi elintantayo</string>
   <string name="text_error_report">Umbiko wephutha</string>
   <string name="text_press_again_to_exit">Cindezela futhi ukuphuma ohlelweni</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Ukungenisa kuphumelele</string>
   <string name="text_current_activity">Umsebenzi wamanje:</string>
   <string name="text_current_package">Igama lephakheji yohlelo lokusebenza lwamanje:</string>
-  <string name="go_to_accessibility_settings">Sicela uvule Izilungiselelo->Amasevisi Okufinyelela->Autox.js bese uyivula</string>
+  <string name="go_to_accessibility_settings">Sicela uvule Izilungiselelo->Amasevisi Okufinyelela->Automyjsx.js bese uyivula</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Ukhiye wevolumu umisa zonke izikripthi</string>
   <string name="text_need_to_enable_accessibility_service">Amasevisi okufinyeleleka adinga ukuvunyelwa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Alikho ifayela lokumisa</string>
   <string name="text_foreground_service">Ukwamukela</string>
   <string name="foreground_notification_channel_name">Isaziso sesevisi yedeski elingaphambili</string>
-  <string name="foreground_notification_title">I-Autox.js iyaqhubeka nokusebenza</string>
+  <string name="foreground_notification_title">I-Automyjsx.js iyaqhubeka nokusebenza</string>
   <string name="foreground_notification_text">Chofoza ukuze ufake isixhumi esibonakalayo esikhulu</string>
   <string name="text_run_on_other_broadcast">Eminye imicimbi (ukusakazwa)</string>
   <string name="text_broadcast_action">Isenzo Sokusakaza</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Iphrojekthi ilondolozwe ku- %s</string>
   <string name="text_project_save_error">Ukulondoloza iphrojekthi kuhlulekile %s</string>
   <string name="text_night_mode">Imodi yasebusuku</string>
-  <string name="text_run_on_startup">Uma i-Autox.js iqala</string>
+  <string name="text_run_on_startup">Uma i-Automyjsx.js iqala</string>
   <string name="text_usage_stats_permission">Ukufinyelela ukusetshenziswa</string>
   <string name="description_usage_stats_permission">Ngemvume \"yokubuka izibalo zokusetshenziswa\", ungathola ukusetshenziswa kohlelo lokusebenza okwedlule kwalolu cingo, ukuze lunembe kakhulu ukuthola uhlelo lokusebenza lwamanje (currentPackage).</string>
   <string name="text_open_with">Indlela evulekile</string>

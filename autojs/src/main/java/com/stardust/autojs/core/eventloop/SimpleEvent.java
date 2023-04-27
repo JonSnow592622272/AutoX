@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.eventloop;
+package com.stardust.automyjsa.core.eventloop;
 
 public class SimpleEvent {
 

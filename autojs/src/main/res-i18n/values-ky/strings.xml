@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Жаңсоолорду көзөмөлдөө иштетилген эмес, аны программалык камсыздоонун жөндөөлөрүнөн иштетиңиз</string>
   <string name="no_write_settings_permissin">Системанын жөндөөлөрүн өзгөртүүгө уруксат жок</string>
   <string name="exception_notification_service_disabled">Эскертме кызматы иштебей жатат, эскертме уруксатын кайра иштетиңиз</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Бул скрипт иштетүү үчүн Auto.js версиясынын номери %d же андан жогору болушу керек</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Бул скрипт иштетүү үчүн Automyjsa.js версиясынын номери %d же андан жогору болушу керек</string>
   <string name="text_drawer_open">Ашылма менюну ачыңыз</string>
   <string name="text_drawer_close">Ашылма менюну жабыңыз</string>
   <string name="no_read_phone_state_permissin">Түзмөк маалыматын окууга уруксат жок</string>

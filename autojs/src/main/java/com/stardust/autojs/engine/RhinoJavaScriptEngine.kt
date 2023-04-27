@@ -1,15 +1,15 @@
-package com.stardust.autojs.engine
+package com.stardust.automyjsa.engine
 
 import android.util.Log
 import android.view.View
-import com.stardust.autojs.core.ui.ViewExtras
-import com.stardust.autojs.engine.module.AssetAndUrlModuleSourceProvider
-import com.stardust.autojs.execution.ExecutionConfig
-import com.stardust.autojs.project.ScriptConfig
-import com.stardust.autojs.rhino.RhinoAndroidHelper
-import com.stardust.autojs.rhino.TopLevelScope
-import com.stardust.autojs.runtime.ScriptRuntime
-import com.stardust.autojs.script.JavaScriptSource
+import com.stardust.automyjsa.core.ui.ViewExtras
+import com.stardust.automyjsa.engine.module.AssetAndUrlModuleSourceProvider
+import com.stardust.automyjsa.execution.ExecutionConfig
+import com.stardust.automyjsa.project.ScriptConfig
+import com.stardust.automyjsa.rhino.RhinoAndroidHelper
+import com.stardust.automyjsa.rhino.TopLevelScope
+import com.stardust.automyjsa.runtime.ScriptRuntime
+import com.stardust.automyjsa.script.JavaScriptSource
 import com.stardust.automator.UiObjectCollection
 import com.stardust.pio.UncheckedIOException
 import org.mozilla.javascript.*

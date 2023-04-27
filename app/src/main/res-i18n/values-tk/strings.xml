@@ -37,7 +37,7 @@
   <string name="github">Programma üpjünçiliginiň deslapky kody</string>
   <string name="text_already_copy_to_clip">Paneli göçürildi</string>
   <string name="text_qq_already_copy_to_clip">QQ topar belgisi bufer paneline göçürildi</string>
-  <string name="share_app">[Autox.js] Downloadükleme salgysy: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Downloadükleme salgysy: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Floüzýän penjire</string>
   <string name="text_error_report">Ýalňyş hasabaty</string>
   <string name="text_press_again_to_exit">Programmadan çykmak üçin ýene basyň</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Üstünlikli import ediň</string>
   <string name="text_current_activity">Häzirki işjeňlik:</string>
   <string name="text_current_package">Häzirki programma bukjasynyň ady:</string>
-  <string name="go_to_accessibility_settings">Sazlamalar-> Elýeterlilik hyzmatlary-> Autox.js açyň we işlediň</string>
+  <string name="go_to_accessibility_settings">Sazlamalar-> Elýeterlilik hyzmatlary-> Automyjsx.js açyň we işlediň</string>
   <string name="text_script_running">Skript işledilýär</string>
   <string name="text_use_volume_to_stop_running">Sesiň açary ähli skriptleri saklaýar</string>
   <string name="text_need_to_enable_accessibility_service">Elýeterlilik hyzmatlary açyk bolmaly</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Konfigurasiýa faýly ýok</string>
   <string name="text_foreground_service">Kabul edişlik</string>
   <string name="foreground_notification_channel_name">Öňki stol hyzmaty habarnamasy</string>
-  <string name="foreground_notification_title">Autox.js işlemegini dowam etdirýär</string>
+  <string name="foreground_notification_title">Automyjsx.js işlemegini dowam etdirýär</string>
   <string name="foreground_notification_text">Esasy interfeýsi girizmek üçin basyň</string>
   <string name="text_run_on_other_broadcast">Beýleki wakalar (ýaýlym)</string>
   <string name="text_broadcast_action">Broadaýlym Hereketi</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Taslama %s -e ýazdyryldy</string>
   <string name="text_project_save_error">Taslamany tygşytlamak şowsuz %s</string>
   <string name="text_night_mode">Gijeki tertip</string>
-  <string name="text_run_on_startup">“Autox.js” başlanda</string>
+  <string name="text_run_on_startup">“Automyjsx.js” başlanda</string>
   <string name="text_usage_stats_permission">Ulanmaga giriş</string>
   <string name="description_usage_stats_permission">\"Ulanyş statistikasyny görmek\" rugsady bilen, häzirki programmany (häzirkiPackage) almak has takyk bolar ýaly, bu enjamyň öňki ulanylyşyny alyp bilersiňiz.</string>
   <string name="text_open_with">Açyk ýol</string>

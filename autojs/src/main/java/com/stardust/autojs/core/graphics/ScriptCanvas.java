@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.graphics;
+package com.stardust.automyjsa.core.graphics;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -17,8 +17,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
-import com.stardust.autojs.core.image.ImageWrapper;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.image.ImageWrapper;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 /**
  * Created by Stardust on 2018/3/22.

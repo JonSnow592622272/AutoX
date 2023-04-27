@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.mlkit
+package com.stardust.automyjsa.core.mlkit
 
 import android.graphics.Rect
 import kotlin.math.abs

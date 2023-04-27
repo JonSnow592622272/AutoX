@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ujongo lwentshukumo alwenziwanga lusebenze, nceda uluvule kuseto lwesoftware</string>
   <string name="no_write_settings_permissin">Akukho mvume yokuguqula imimiselo yenkqubo</string>
   <string name="exception_notification_service_disabled">Inkonzo yesaziso ayisebenzi, nceda uvule kwakhona imvume yesaziso</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Le script ifuna i-Auto.js inombolo yoguqulelo %d okanye ngaphezulu ukuze isebenze</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Le script ifuna i-Automyjsa.js inombolo yoguqulelo %d okanye ngaphezulu ukuze isebenze</string>
   <string name="text_drawer_open">Vula imenyu eyehlayo</string>
   <string name="text_drawer_close">Vala imenyu eyehlayo</string>
   <string name="no_read_phone_state_permissin">Akukho mvume yokufunda ulwazi lwesixhobo</string>

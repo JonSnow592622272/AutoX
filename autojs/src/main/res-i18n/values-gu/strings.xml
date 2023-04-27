@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">હાવભાવ મોનિટરિંગ સક્ષમ નથી, કૃપા કરીને તેને સોફ્ટવેર સેટિંગ્સમાં સક્ષમ કરો</string>
   <string name="no_write_settings_permissin">સિસ્ટમ સેટિંગ્સમાં ફેરફાર કરવાની પરવાનગી નથી</string>
   <string name="exception_notification_service_disabled">સૂચના સેવા ચાલી રહી નથી, કૃપા કરીને સૂચના પરવાનગીને ફરીથી સક્ષમ કરો</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">આ સ્ક્રિપ્ટને ચલાવવા માટે Auto.js સંસ્કરણ નંબર %d અથવા ઉચ્ચની જરૂર છે</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">આ સ્ક્રિપ્ટને ચલાવવા માટે Automyjsa.js સંસ્કરણ નંબર %d અથવા ઉચ્ચની જરૂર છે</string>
   <string name="text_drawer_open">ડ્રોપ ડાઉન મેનુ ખોલો</string>
   <string name="text_drawer_close">ડ્રોપ ડાઉન મેનુ બંધ કરો</string>
   <string name="no_read_phone_state_permissin">ઉપકરણની માહિતી વાંચવાની પરવાનગી નથી</string>

@@ -37,7 +37,7 @@
   <string name="github">સોફ્ટવેર સ્ત્રોત કોડ</string>
   <string name="text_already_copy_to_clip">ક્લિપબોર્ડ પર કૉપિ કરી</string>
   <string name="text_qq_already_copy_to_clip">QQ જૂથ નંબર ક્લિપબોર્ડ પર કૉપિ કરવામાં આવ્યો છે</string>
-  <string name="share_app">[Autox.js] સરનામું ડાઉનલોડ કરો: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] સરનામું ડાઉનલોડ કરો: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ફ્લોટિંગ વિન્ડો</string>
   <string name="text_error_report">ભૂલ અહેવાલ</string>
   <string name="text_press_again_to_exit">પ્રોગ્રામમાંથી બહાર નીકળવા માટે ફરીથી દબાવો</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">આયાત સફળ</string>
   <string name="text_current_activity">વર્તમાન પ્રવૃત્તિ:</string>
   <string name="text_current_package">વર્તમાન એપ્લિકેશન પેકેજ નામ:</string>
-  <string name="go_to_accessibility_settings">કૃપા કરીને Settings->Accessibility Services->Autox.js ખોલો અને તેને સક્ષમ કરો</string>
+  <string name="go_to_accessibility_settings">કૃપા કરીને Settings->Accessibility Services->Automyjsx.js ખોલો અને તેને સક્ષમ કરો</string>
   <string name="text_script_running">સ્ક્રિપ્ટ રન</string>
   <string name="text_use_volume_to_stop_running">વોલ્યુમ અપ કી બધી સ્ક્રિપ્ટોને રોકે છે</string>
   <string name="text_need_to_enable_accessibility_service">ઍક્સેસિબિલિટી સેવાઓને સક્ષમ કરવાની જરૂર છે</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">કોઈ રૂપરેખાંકન ફાઇલ નથી</string>
   <string name="text_foreground_service">સ્વાગત</string>
   <string name="foreground_notification_channel_name">ફ્રન્ટ ડેસ્ક સેવા સૂચના</string>
-  <string name="foreground_notification_title">Autox.js ચાલુ રહે છે</string>
+  <string name="foreground_notification_title">Automyjsx.js ચાલુ રહે છે</string>
   <string name="foreground_notification_text">મુખ્ય ઈન્ટરફેસ દાખલ કરવા માટે ક્લિક કરો</string>
   <string name="text_run_on_other_broadcast">અન્ય ઇવેન્ટ્સ (પ્રસારણ)</string>
   <string name="text_broadcast_action">બ્રોડકાસ્ટ ક્રિયા</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">પ્રોજેક્ટ %s માં સાચવવામાં આવ્યો છે</string>
   <string name="text_project_save_error">પ્રોજેક્ટ સાચવવામાં નિષ્ફળ %s</string>
   <string name="text_night_mode">નાઇટ મોડ</string>
-  <string name="text_run_on_startup">જ્યારે Autox.js શરૂ થાય છે</string>
+  <string name="text_run_on_startup">જ્યારે Automyjsx.js શરૂ થાય છે</string>
   <string name="text_usage_stats_permission">વપરાશ ઍક્સેસ</string>
   <string name="description_usage_stats_permission">\"વપરાશના આંકડા જુઓ\" પરવાનગી દ્વારા, તમે આ ઉપકરણના ભૂતકાળના એપ્લિકેશન વપરાશને મેળવી શકો છો, જેથી વર્તમાન એપ્લિકેશન (વર્તમાન પેકેજ) મેળવવા માટે તે વધુ સચોટ હોય.</string>
   <string name="text_open_with">ખુલ્લો રસ્તો</string>

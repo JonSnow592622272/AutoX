@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.widget;
+package com.stardust.automyjsa.core.ui.widget;
 
 import android.content.Context;
 import androidx.core.widget.ImageViewCompat;
@@ -7,8 +7,8 @@ import android.util.AttributeSet;
 
 import com.makeramen.roundedimageview.RoundedImageView;
 
-import com.stardust.autojs.core.image.ImageWrapper;
-import com.stardust.autojs.core.ui.inflater.util.Drawables;
+import com.stardust.automyjsa.core.image.ImageWrapper;
+import com.stardust.automyjsa.core.ui.inflater.util.Drawables;
 
 /**
  * Created by Stardust on 2017/11/30.

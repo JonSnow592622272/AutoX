@@ -1,8 +1,8 @@
-package com.stardust.autojs.core.boardcast;
+package com.stardust.automyjsa.core.boardcast;
 
-import com.stardust.autojs.core.eventloop.EventEmitter;
-import com.stardust.autojs.core.looper.Timer;
-import com.stardust.autojs.runtime.ScriptBridges;
+import com.stardust.automyjsa.core.eventloop.EventEmitter;
+import com.stardust.automyjsa.core.looper.Timer;
+import com.stardust.automyjsa.runtime.ScriptBridges;
 
 /**
  * Created by Stardust on 2018/4/1.

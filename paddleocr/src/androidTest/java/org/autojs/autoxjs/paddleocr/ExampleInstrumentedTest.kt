@@ -1,4 +1,4 @@
-package org.autojs.autoxjs.paddleocr
+package org.automyjsa.automyjsx.paddleocr
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("org.autojs.autoxjs.paddleocr.test", appContext.packageName)
+        assertEquals("org.automyjsa.automyjsx.paddleocr.test", appContext.packageName)
     }
 }

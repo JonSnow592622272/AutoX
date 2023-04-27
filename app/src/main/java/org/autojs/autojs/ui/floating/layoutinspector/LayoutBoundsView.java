@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating.layoutinspector;
+package org.automyjsa.automyjsa.ui.floating.layoutinspector;
 
 import android.content.Context;
 import android.graphics.Canvas;

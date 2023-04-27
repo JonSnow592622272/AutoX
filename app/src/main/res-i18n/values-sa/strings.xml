@@ -37,7 +37,7 @@
   <string name="github">सॉफ्टवेयर स्रोत कोड</string>
   <string name="text_already_copy_to_clip">क्लिप्बोर्ड् मध्ये प्रतिलिखितम्</string>
   <string name="text_qq_already_copy_to_clip">QQ समूहसङ्ख्या क्लिप्बोर्ड् मध्ये प्रतिलिपिता अस्ति</string>
-  <string name="share_app">[Autox.js] डाउनलोड पता: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] डाउनलोड पता: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">प्लवमान खिडकी</string>
   <string name="text_error_report">त्रुटि रिपोर्ट</string>
   <string name="text_press_again_to_exit">कार्यक्रमात् निर्गन्तुं पुनः नुदन्तु</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">आयात सफल</string>
   <string name="text_current_activity">वर्तमान गतिविधिः १.</string>
   <string name="text_current_package">वर्तमान अनुप्रयोग संकुल नाम:</string>
-  <string name="go_to_accessibility_settings">कृपया Settings->Accessibility Services->Autox.js उद्घाट्य सक्षमं कुर्वन्तु</string>
+  <string name="go_to_accessibility_settings">कृपया Settings->Accessibility Services->Automyjsx.js उद्घाट्य सक्षमं कुर्वन्तु</string>
   <string name="text_script_running">स्क्रिप्ट चाल</string>
   <string name="text_use_volume_to_stop_running">Volume up key सर्वाणि स्क्रिप्ट् स्थगयति</string>
   <string name="text_need_to_enable_accessibility_service">सुलभतासेवाः सक्षमीकरणस्य आवश्यकता वर्तते</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">विन्याससञ्चिका नास्ति</string>
   <string name="text_foreground_service">ग्रहण</string>
   <string name="foreground_notification_channel_name">फ्रंट डेस्क सेवा सूचना</string>
-  <string name="foreground_notification_title">Autox.js चलति एव</string>
+  <string name="foreground_notification_title">Automyjsx.js चलति एव</string>
   <string name="foreground_notification_text">मुख्य-अन्तरफलकं प्रविष्टुं क्लिक् कुर्वन्तु</string>
   <string name="text_run_on_other_broadcast">अन्ये आयोजनानि (प्रसारणम्) २.</string>
   <string name="text_broadcast_action">प्रसारण क्रिया</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">परियोजना %s मध्ये रक्षिता अस्ति</string>
   <string name="text_project_save_error">परियोजना रक्षणं विफलम् %s</string>
   <string name="text_night_mode">रात्रि मोड</string>
-  <string name="text_run_on_startup">यदा Autox.js आरभ्यते</string>
+  <string name="text_run_on_startup">यदा Automyjsx.js आरभ्यते</string>
   <string name="text_usage_stats_permission">उपयोगप्रवेशः</string>
   <string name="description_usage_stats_permission">\"view usage statistics\" अनुमतियाः माध्यमेन, भवान् अस्य यन्त्रस्य पूर्वानुप्रयोगस्य उपयोगं प्राप्तुं शक्नोति, येन वर्तमानस्य अनुप्रयोगस्य (currentPackage) प्राप्तुं अधिकं सटीकं भवति</string>
   <string name="text_open_with">खुला मार्ग</string>

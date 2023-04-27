@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -22,23 +22,23 @@ import com.stardust.pio.PFiles;
 import com.stardust.pio.UncheckedIOException;
 import com.tencent.bugly.crashreport.BuglyLog;
 
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.external.ScriptIntents;
-import org.autojs.autojs.model.explorer.Explorer;
-import org.autojs.autojs.model.explorer.ExplorerDirPage;
-import org.autojs.autojs.model.explorer.ExplorerFileItem;
-import org.autojs.autojs.model.explorer.ExplorerPage;
-import org.autojs.autojs.model.explorer.Explorers;
-import org.autojs.autojs.storage.file.TmpScriptFiles;
-import org.autojs.autojs.model.sample.SampleFile;
-import org.autojs.autojs.model.script.ScriptFile;
-import org.autojs.autojs.model.script.Scripts;
-import org.autojs.autojs.network.download.DownloadManager;
-import org.autojs.autojs.ui.filechooser.FileChooserDialogBuilder;
-import org.autojs.autojs.ui.shortcut.ShortcutCreateActivity;
-import org.autojs.autojs.ui.timing.TimedTaskSettingActivity_;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.external.ScriptIntents;
+import org.automyjsa.automyjsa.model.explorer.Explorer;
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerFileItem;
+import org.automyjsa.automyjsa.model.explorer.ExplorerPage;
+import org.automyjsa.automyjsa.model.explorer.Explorers;
+import org.automyjsa.automyjsa.storage.file.TmpScriptFiles;
+import org.automyjsa.automyjsa.model.sample.SampleFile;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
+import org.automyjsa.automyjsa.model.script.Scripts;
+import org.automyjsa.automyjsa.network.download.DownloadManager;
+import org.automyjsa.automyjsa.ui.filechooser.FileChooserDialogBuilder;
+import org.automyjsa.automyjsa.ui.shortcut.ShortcutCreateActivity;
+import org.automyjsa.automyjsa.ui.timing.TimedTaskSettingActivity_;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 import org.reactivestreams.Publisher;
 

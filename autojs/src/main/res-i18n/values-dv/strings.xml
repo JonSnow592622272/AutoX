@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ޖެސްޗަރ މޮނިޓަރިންގ އެނެބަލް ނުވާތީ، ސޮފްޓްވެއަރ ސެޓިންގސްގައި އެނެބަލް ކޮށްލައްވާށެވެ</string>
   <string name="no_write_settings_permissin">ސިސްޓަމް ސެޓިންގސް ބަދަލުކުރުމުގެ ހުއްދައެއް ނެތެވެ</string>
   <string name="exception_notification_service_disabled">ނޮޓިފިކޭޝަން ޚިދުމަތް ނުހިނގާތީ، ނޮޓިފިކޭޝަން ހުއްދަ އަލުން އެނެބަލް ކުރައްވާށެވެ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">މި ސްކްރިޕްޓް ހިންގުމަށްޓަކައި Auto.js ވަރޝަން ނަންބަރު %d ނުވަތަ އެއަށްވުރެ މަތީ ނަންބަރު ބޭނުންވެއެވެ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">މި ސްކްރިޕްޓް ހިންގުމަށްޓަކައި Automyjsa.js ވަރޝަން ނަންބަރު %d ނުވަތަ އެއަށްވުރެ މަތީ ނަންބަރު ބޭނުންވެއެވެ</string>
   <string name="text_drawer_open">ޑްރޮޕް ޑައުން މެނޫ ހުޅުވާލާށެވެ</string>
   <string name="text_drawer_close">ޑްރޮޕް ޑައުން މެނޫ ބަންދުކޮށްލާށެވެ</string>
   <string name="no_read_phone_state_permissin">ޑިވައިސްގެ މައުލޫމާތު ކިޔުމުގެ ހުއްދައެއް ނެތެވެ</string>

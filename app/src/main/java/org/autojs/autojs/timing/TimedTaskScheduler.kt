@@ -1,31 +1,31 @@
-package org.autojs.autojs.timing
+package org.automyjsa.automyjsa.timing
 
 import android.annotation.SuppressLint
 import android.app.Application
 import android.util.Log
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
-import org.autojs.autojs.App
-import org.autojs.autojs.Pref
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.external.ScriptIntents
-import org.autojs.autojs.timing.work.WorkProvider
-import org.autojs.autojs.timing.work.WorkManagerProvider
-import org.autojs.autojs.timing.work.AndroidJobProvider
-import org.autojs.autojs.timing.work.AlarmManagerProvider
+import org.automyjsa.automyjsa.App
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.external.ScriptIntents
+import org.automyjsa.automyjsa.timing.work.WorkProvider
+import org.automyjsa.automyjsa.timing.work.WorkManagerProvider
+import org.automyjsa.automyjsa.timing.work.AndroidJobProvider
+import org.automyjsa.automyjsa.timing.work.AlarmManagerProvider
 import java.lang.Exception
 import java.util.concurrent.TimeUnit
 
 /**
  * Created by Stardust on 2017/11/27.
  * Improvedd by TonyJiangWJ(https://github.com/TonyJiangWJ).
- * From [TonyJiangWJ/Auto.js](https://github.com/TonyJiangWJ/Auto.js)
+ * From [TonyJiangWJ/Automyjsa.js](https://github.com/TonyJiangWJ/Automyjsa.js)
  */
 abstract class TimedTaskScheduler : WorkProvider {
 
     @SuppressLint("CheckResult")
     override fun checkTasks(context: Application, force: Boolean) {
-        autoJsLog("check tasks: force = $force")
+        automyjsaLog("check tasks: force = $force")
         TimedTaskManager.allTasks
             .subscribeOn(Schedulers.io())
             .observeOn(AndroidSchedulers.mainThread())
@@ -35,7 +35,7 @@ abstract class TimedTaskScheduler : WorkProvider {
     override fun scheduleTaskIfNeeded(context: Application, timedTask: TimedTask, force: Boolean) {
         val millis = timedTask.nextTime
         if (millis <= System.currentTimeMillis()) {
-            autoJsLog("task out date, just run it: $timedTask")
+            automyjsaLog("task out date, just run it: $timedTask")
             runTask(context, timedTask)
             return
         }
@@ -67,12 +67,12 @@ abstract class TimedTaskScheduler : WorkProvider {
         val timeWindow = millis - System.currentTimeMillis()
         timedTask.isScheduled = true
         TimedTaskManager.updateTaskWithoutReScheduling(timedTask)
-        autoJsLog("schedule task: task = $timedTask, millis = $millis, timeWindow = $timeWindow")
+        automyjsaLog("schedule task: task = $timedTask, millis = $millis, timeWindow = $timeWindow")
         getWorkProvider(context).enqueueWork(timedTask, timeWindow)
     }
 
-    open fun autoJsLog(content: String) {
-        AutoJs.getInstance().debugInfo(content)
+    open fun automyjsaLog(content: String) {
+        Automyjsa.getInstance().debugInfo(content)
     }
 
     companion object {
@@ -93,13 +93,13 @@ abstract class TimedTaskScheduler : WorkProvider {
         }
 
         private fun createCheckWorker(context: Application, delay: Int) {
-            autoJsLog("创建定期检测任务")
+            automyjsaLog("创建定期检测任务")
             getWorkProvider(context).enqueuePeriodicWork(delay)
         }
 
         @JvmStatic
         protected fun runTask(context: Application, task: TimedTask) {
-            autoJsLog("run task: task = $task")
+            automyjsaLog("run task: task = $task")
             val intent = task.createIntent()
             ScriptIntents.handleIntent(context, intent)
             TimedTaskManager.notifyTaskFinished(task.id)
@@ -115,14 +115,14 @@ abstract class TimedTaskScheduler : WorkProvider {
                 val currentMillis = System.currentTimeMillis()
                 val anyLost = TimedTaskManager.allTasks.any { task: TimedTask ->
                     if (task.nextTime < currentMillis) {
-                        autoJsLog("task timeout: " + task.toString() + " nextTime:" + task.nextTime + " current millis:" + currentMillis)
+                        automyjsaLog("task timeout: " + task.toString() + " nextTime:" + task.nextTime + " current millis:" + currentMillis)
                         return@any true
                     } else {
                         return@any false
                     }
                 }.blockingGet()
                 if (!workFine || anyLost) {
-                    autoJsLog("ensureCheckTaskWorks: " + if (workFine) "PeriodicWork works fine, but missed some work" else "PeriodicWork died")
+                    automyjsaLog("ensureCheckTaskWorks: " + if (workFine) "PeriodicWork works fine, but missed some work" else "PeriodicWork died")
                     createCheckWorker(context, 0)
                     getWorkProvider(context).checkTasks(context, true)
                 }
@@ -149,9 +149,9 @@ abstract class TimedTaskScheduler : WorkProvider {
             }
         }
 
-        private fun autoJsLog(content: String) {
+        private fun automyjsaLog(content: String) {
             Log.d(LOG_TAG, content)
-            AutoJs.getInstance().debugInfo(content)
+            Automyjsa.getInstance().debugInfo(content)
         }
     }
 

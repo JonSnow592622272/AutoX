@@ -1,9 +1,9 @@
-package org.autojs.autojs.ui.edit;
+package org.automyjsa.automyjsa.ui.edit;
 
-import static org.autojs.autojs.ui.edit.EditorView.EXTRA_CONTENT;
-import static org.autojs.autojs.ui.edit.EditorView.EXTRA_NAME;
-import static org.autojs.autojs.ui.edit.EditorView.EXTRA_PATH;
-import static org.autojs.autojs.ui.edit.EditorView.EXTRA_READ_ONLY;
+import static org.automyjsa.automyjsa.ui.edit.EditorView.EXTRA_CONTENT;
+import static org.automyjsa.automyjsa.ui.edit.EditorView.EXTRA_NAME;
+import static org.automyjsa.automyjsa.ui.edit.EditorView.EXTRA_PATH;
+import static org.automyjsa.automyjsa.ui.edit.EditorView.EXTRA_READ_ONLY;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -20,21 +20,21 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.stardust.app.OnActivityResultDelegate;
-import com.stardust.autojs.core.permission.OnRequestPermissionsResultCallback;
-import com.stardust.autojs.core.permission.PermissionRequestProxyActivity;
-import com.stardust.autojs.core.permission.RequestPermissionCallbacks;
-import com.stardust.autojs.execution.ScriptExecution;
+import com.stardust.automyjsa.core.permission.OnRequestPermissionsResultCallback;
+import com.stardust.automyjsa.core.permission.PermissionRequestProxyActivity;
+import com.stardust.automyjsa.core.permission.RequestPermissionCallbacks;
+import com.stardust.automyjsa.execution.ScriptExecution;
 import com.stardust.pio.PFiles;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EActivity;
 import org.androidannotations.annotations.ViewById;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.storage.file.TmpScriptFiles;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
-import org.autojs.autojs.tool.Observers;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.main.MainActivity;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.storage.file.TmpScriptFiles;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.tool.Observers;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.main.MainActivity;
 
 import java.io.File;
 import java.io.IOException;

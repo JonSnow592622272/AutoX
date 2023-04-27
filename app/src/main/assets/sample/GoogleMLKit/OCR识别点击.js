@@ -1,8 +1,8 @@
 //requestScreenCapture()
-var mainActivity = "org.autojs.autojs.ui.main.MainActivity"
+var mainActivity = "org.automyjsa.automyjsa.ui.main.MainActivity"
 if (currentActivity != mainActivity) {
     app.startActivity({
-        packageName: "org.autojs.autoxjs.v6",
+        packageName: "org.automyjsa.automyjsx.v6",
         className: mainActivity,
     });
     waitForActivity(mainActivity)

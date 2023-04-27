@@ -1,4 +1,4 @@
-package com.stardust.autojs;
+package com.stardust.automyjsa;
 
 import android.app.Activity;
 import android.app.Application;
@@ -11,23 +11,23 @@ import androidx.annotation.RequiresApi;
 
 import com.stardust.app.OnActivityResultDelegate;
 import com.stardust.app.SimpleActivityLifecycleCallbacks;
-import com.stardust.autojs.core.accessibility.AccessibilityBridge;
-import com.stardust.autojs.core.activity.ActivityInfoProvider;
-import com.stardust.autojs.core.console.ConsoleImpl;
-import com.stardust.autojs.core.console.GlobalConsole;
-import com.stardust.autojs.core.image.capture.ScreenCaptureRequestActivity;
-import com.stardust.autojs.core.image.capture.ScreenCaptureRequester;
-import com.stardust.autojs.core.record.accessibility.AccessibilityActionRecorder;
-import com.stardust.autojs.core.util.Shell;
-import com.stardust.autojs.engine.LoopBasedJavaScriptEngine;
-import com.stardust.autojs.engine.RootAutomatorEngine;
-import com.stardust.autojs.engine.ScriptEngineManager;
-import com.stardust.autojs.rhino.InterruptibleAndroidContextFactory;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.accessibility.AccessibilityConfig;
-import com.stardust.autojs.runtime.api.AppUtils;
-import com.stardust.autojs.script.AutoFileSource;
-import com.stardust.autojs.script.JavaScriptSource;
+import com.stardust.automyjsa.core.accessibility.AccessibilityBridge;
+import com.stardust.automyjsa.core.activity.ActivityInfoProvider;
+import com.stardust.automyjsa.core.console.ConsoleImpl;
+import com.stardust.automyjsa.core.console.GlobalConsole;
+import com.stardust.automyjsa.core.image.capture.ScreenCaptureRequestActivity;
+import com.stardust.automyjsa.core.image.capture.ScreenCaptureRequester;
+import com.stardust.automyjsa.core.record.accessibility.AccessibilityActionRecorder;
+import com.stardust.automyjsa.core.util.Shell;
+import com.stardust.automyjsa.engine.LoopBasedJavaScriptEngine;
+import com.stardust.automyjsa.engine.RootAutomatorEngine;
+import com.stardust.automyjsa.engine.ScriptEngineManager;
+import com.stardust.automyjsa.rhino.InterruptibleAndroidContextFactory;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.accessibility.AccessibilityConfig;
+import com.stardust.automyjsa.runtime.api.AppUtils;
+import com.stardust.automyjsa.script.AutoFileSource;
+import com.stardust.automyjsa.script.JavaScriptSource;
 import com.stardust.util.ResourceMonitor;
 import com.stardust.util.ScreenMetrics;
 import com.stardust.util.UiHandler;
@@ -44,7 +44,7 @@ import java.io.File;
  * Created by Stardust on 2017/11/29.
  */
 
-public abstract class AutoJs {
+public abstract class Automyjsa {
 
     private final AccessibilityActionRecorder mAccessibilityActionRecorder = new AccessibilityActionRecorder();
     private final AccessibilityNotificationObserver mNotificationObserver;
@@ -60,7 +60,7 @@ public abstract class AutoJs {
     private final GlobalConsole mGlobalConsole;
 
 
-    protected AutoJs(final Application application) {
+    protected Automyjsa(final Application application) {
         mContext = application.getApplicationContext();
         mApplication = application;
         mLayoutInspector = new LayoutInspector(mContext);
@@ -218,12 +218,12 @@ public abstract class AutoJs {
 
         @Override
         public void ensureServiceEnabled() {
-            AutoJs.this.ensureAccessibilityServiceEnabled();
+            Automyjsa.this.ensureAccessibilityServiceEnabled();
         }
 
         @Override
         public void waitForServiceEnabled() {
-            AutoJs.this.waitForAccessibilityServiceEnabled();
+            Automyjsa.this.waitForAccessibilityServiceEnabled();
         }
 
         @Nullable

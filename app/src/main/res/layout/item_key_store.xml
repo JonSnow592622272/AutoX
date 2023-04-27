@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/black"
                 android:textSize="16sp"
-                tools:text="Hello, Auto.js" />
+                tools:text="Hello, Automyjsa.js" />
 
             <TextView
                 android:id="@+id/item_key_alias"
@@ -39,7 +39,7 @@
                 android:layout_marginTop="4dp"
                 android:textColor="@android:color/darker_gray"
                 android:textSize="14sp"
-                tools:text="Hello, Auto.js" />
+                tools:text="Hello, Automyjsa.js" />
 
         </LinearLayout>
 

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">La supervisió de gestos no està activada, si us plau, activeu-la a la configuració del programari</string>
   <string name="no_write_settings_permissin">No hi ha permís per modificar la configuració del sistema</string>
   <string name="exception_notification_service_disabled">El servei de notificació no s\'està executant, torneu a activar el permís de notificació</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Aquest script requereix el número de versió d\'Auto.js %d o superior per executar-se</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Aquest script requereix el número de versió d\'Automyjsa.js %d o superior per executar-se</string>
   <string name="text_drawer_open">Obriu el menú desplegable</string>
   <string name="text_drawer_close">Tanqueu el menú desplegable</string>
   <string name="no_read_phone_state_permissin">No hi ha permís per llegir la informació del dispositiu</string>

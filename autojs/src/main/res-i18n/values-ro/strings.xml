@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Monitorizarea gesturilor nu este activată, vă rugăm să o activați în setările software</string>
   <string name="no_write_settings_permissin">Fără permisiunea de a modifica setările sistemului</string>
   <string name="exception_notification_service_disabled">Serviciul de notificare nu rulează, vă rugăm să reactivați permisiunea de notificare</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Acest script necesită versiunea Auto.js cu numărul %d sau mai mare pentru a rula</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Acest script necesită versiunea Automyjsa.js cu numărul %d sau mai mare pentru a rula</string>
   <string name="text_drawer_open">Deschideți meniul drop-down</string>
   <string name="text_drawer_close">Închideți meniul drop-down</string>
   <string name="no_read_phone_state_permissin">Fără permisiunea de a citi informațiile despre dispozitiv</string>

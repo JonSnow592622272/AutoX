@@ -1,11 +1,11 @@
-package org.autojs.autojs.ui.update;
+package org.automyjsa.automyjsa.ui.update;
 
 import android.app.Activity;
 
-import org.autojs.autoxjs.BuildConfig;
-import org.autojs.autojs.network.VersionService;
-import org.autojs.autojs.network.entity.VersionInfo;
-import org.autojs.autojs.tool.SimpleObserver;
+import org.automyjsa.automyjsx.BuildConfig;
+import org.automyjsa.automyjsa.network.VersionService;
+import org.automyjsa.automyjsa.network.entity.VersionInfo;
+import org.automyjsa.automyjsa.tool.SimpleObserver;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 /**

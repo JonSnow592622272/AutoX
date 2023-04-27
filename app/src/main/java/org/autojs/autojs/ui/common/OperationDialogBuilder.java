@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -16,7 +16,7 @@ import com.afollestad.materialdialogs.MaterialDialog;
 import com.stardust.theme.ThemeColor;
 import com.stardust.theme.widget.ThemeColorImageView;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import java.util.ArrayList;
 

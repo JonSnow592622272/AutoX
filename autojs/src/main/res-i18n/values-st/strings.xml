@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Tlhokomelo ea boitšisinyo ha e ea etsoa, ​​ka kopo e lumelle ho litlhophiso tsa software</string>
   <string name="no_write_settings_permissin">Ha ho tumello ea ho fetola litlhophiso tsa sistimi</string>
   <string name="exception_notification_service_disabled">Ts\'ebeletso ea tsebiso ha e sebetse, ka kopo lumella tumello ea tsebiso hape</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Sengoloa sena se hloka nomoro ea mofuta oa Auto.js %d kapa ho feta ho sebetsa</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Sengoloa sena se hloka nomoro ea mofuta oa Automyjsa.js %d kapa ho feta ho sebetsa</string>
   <string name="text_drawer_open">Bula menu e theoha</string>
   <string name="text_drawer_close">Koala menu e theoha</string>
   <string name="no_read_phone_state_permissin">Ha ho tumello ea ho bala lintlha tsa sesebelisoa</string>

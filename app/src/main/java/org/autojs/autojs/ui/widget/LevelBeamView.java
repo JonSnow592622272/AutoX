@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget;
+package org.automyjsa.automyjsa.ui.widget;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -7,7 +7,7 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.View;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 /**
  * Created by Stardust on 2017/3/10.

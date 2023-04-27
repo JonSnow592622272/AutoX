@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.user;
+package org.automyjsa.automyjsa.ui.user;
 
 import android.content.Intent;
 import android.view.Menu;
@@ -8,10 +8,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.network.NodeBB;
-import org.autojs.autojs.network.UserService;
-import org.autojs.autojs.ui.BaseActivity;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.network.NodeBB;
+import org.automyjsa.automyjsa.network.UserService;
+import org.automyjsa.automyjsa.ui.BaseActivity;
 import com.stardust.theme.ThemeColorManager;
 
 import org.androidannotations.annotations.AfterViews;

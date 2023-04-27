@@ -37,7 +37,7 @@
   <string name="github">Software boarne koade</string>
   <string name="text_already_copy_to_clip">Kopiearre nei klamboerd</string>
   <string name="text_qq_already_copy_to_clip">It QQ-groepnûmer is kopiearre nei it klamboerd</string>
-  <string name="share_app">[Autox.js] Downloadadres: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Downloadadres: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Floating finster</string>
   <string name="text_error_report">Flater rapport</string>
   <string name="text_press_again_to_exit">Druk nochris om it programma te ferlitten</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Ymportearje suksesfol</string>
   <string name="text_current_activity">Aktuele aktiviteit:</string>
   <string name="text_current_package">Aktuele namme fan it tapassingspakket:</string>
-  <string name="go_to_accessibility_settings">Iepenje asjebleaft Ynstellings->Tsjinsten foar tagonklikens->Autox.js en ynskeakelje it</string>
+  <string name="go_to_accessibility_settings">Iepenje asjebleaft Ynstellings->Tsjinsten foar tagonklikens->Automyjsx.js en ynskeakelje it</string>
   <string name="text_script_running">Skript útfiere</string>
   <string name="text_use_volume_to_stop_running">Folume omheech kaai stopt alle skripts</string>
   <string name="text_need_to_enable_accessibility_service">Tsjinsten foar tagonklikens moatte ynskeakele wurde</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Gjin konfiguraasjetriem</string>
   <string name="text_foreground_service">Resepsje</string>
   <string name="foreground_notification_channel_name">Notifikaasje fan \'e front desk tsjinst</string>
-  <string name="foreground_notification_title">Autox.js bliuwt rinnen</string>
+  <string name="foreground_notification_title">Automyjsx.js bliuwt rinnen</string>
   <string name="foreground_notification_text">Klikje om de haadynterface yn te gean</string>
   <string name="text_run_on_other_broadcast">Oare eveneminten (útstjoering)</string>
   <string name="text_broadcast_action">Broadcast Aksje</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekt is bewarre yn %s</string>
   <string name="text_project_save_error">Projekt opslaan mislearre %s</string>
   <string name="text_night_mode">Nachtmodus</string>
-  <string name="text_run_on_startup">Wannear\'t Autox.js begjint</string>
+  <string name="text_run_on_startup">Wannear\'t Automyjsx.js begjint</string>
   <string name="text_usage_stats_permission">Gebrûk tagong</string>
   <string name="description_usage_stats_permission">Troch de tastimming \"besjoch gebrûksstatistiken\" kinne jo it eardere applikaasjegebrûk fan dit apparaat krije, sadat it krekter is om de hjoeddeistige applikaasje (currentPackage) te krijen.</string>
   <string name="text_open_with">Iepen wei</string>

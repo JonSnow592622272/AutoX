@@ -1,7 +1,7 @@
-package org.autojs.autojs.ui.edit.toolbar;
+package org.automyjsa.automyjsa.ui.edit.toolbar;
 
 import org.androidannotations.annotations.EFragment;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import java.util.Arrays;
 import java.util.List;

@@ -37,7 +37,7 @@
   <string name="github">Software source code</string>
   <string name="text_already_copy_to_clip">Kukopwa kune clipboard</string>
   <string name="text_qq_already_copy_to_clip">Nhamba yeboka reQQ yakopwa kuclipboard</string>
-  <string name="share_app">[Autox.js] Dhawunirodha kero: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Dhawunirodha kero: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Hwindo rinoyangarara</string>
   <string name="text_error_report">Chikanganiso report</string>
   <string name="text_press_again_to_exit">Dzvanya zvakare kuti ubude muchirongwa</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Kupinza kunze zvabudirira</string>
   <string name="text_current_activity">Zviitwa zvazvino</string>
   <string name="text_current_package">Zita repasuru rekushandisa razvino:</string>
-  <string name="go_to_accessibility_settings">Ndokumbira uvhure Settings-> Accessibility Services-> Autox.js uye woigonesa</string>
+  <string name="go_to_accessibility_settings">Ndokumbira uvhure Settings-> Accessibility Services-> Automyjsx.js uye woigonesa</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Volume up kiyi inomisa zvinyorwa zvese</string>
   <string name="text_need_to_enable_accessibility_service">Masevhisi ekuwanika anoda kugoneswa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Hapana faira rekugadzirisa</string>
   <string name="text_foreground_service">Reception</string>
   <string name="foreground_notification_channel_name">Front desk service notification</string>
-  <string name="foreground_notification_title">Autox.js inoramba ichishanda</string>
+  <string name="foreground_notification_title">Automyjsx.js inoramba ichishanda</string>
   <string name="foreground_notification_text">Dzvanya kuti uise iyo huru interface</string>
   <string name="text_run_on_other_broadcast">Zvimwe zviitiko (nhepfenyuro)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Chirongwa chakachengetedzwa ku %s</string>
   <string name="text_project_save_error">Kuchengetedza chirongwa chakundikana %s</string>
   <string name="text_night_mode">Husiku mode</string>
-  <string name="text_run_on_startup">Apo Autox.js inotanga</string>
+  <string name="text_run_on_startup">Apo Automyjsx.js inotanga</string>
   <string name="text_usage_stats_permission">Kushandiswa kwekushandisa</string>
   <string name="description_usage_stats_permission">Kuburikidza nemvumo ye \"ona mashandisirwo ekushandisa\", unogona kuwana yakapfuura mashandisirwo echishandiso chechishandiso ichi, kuitira kuti ive yakarurama kuwana iyo yazvino application (yazvinoPackage).</string>
   <string name="text_open_with">Nzira yakazaruka</string>

@@ -1,12 +1,12 @@
-package org.autojs.autojs.external.tasker;
+package org.automyjsa.automyjsa.external.tasker;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import androidx.annotation.NonNull;
 
-import org.autojs.autojs.external.ScriptIntents;
-import org.autojs.autojs.external.open.RunIntentActivity;
+import org.automyjsa.automyjsa.external.ScriptIntents;
+import org.automyjsa.automyjsa.external.open.RunIntentActivity;
 import com.twofortyfouram.locale.sdk.client.receiver.AbstractPluginSettingReceiver;
 
 /**

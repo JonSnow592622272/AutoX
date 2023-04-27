@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesture monitoring tɛ baara kɛ, aw bɛ se k’a daminɛ porogaramuw sigicogo la</string>
   <string name="no_write_settings_permissin">Izini tɛ yen ka sitɛmu sigicogo caman sɛmɛntiya</string>
   <string name="exception_notification_service_disabled">Ladɔnniyali baarakɛyɔrɔ tɛ baara la, aw bɛ se ka kunnafonidi yamaruya daminɛ kokura</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Nin sɛbɛnni in bɛ Auto.js bɔko nimɔrɔ %d walima a sanfɛta de wajibiya walasa ka baara kɛ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Nin sɛbɛnni in bɛ Automyjsa.js bɔko nimɔrɔ %d walima a sanfɛta de wajibiya walasa ka baara kɛ</string>
   <string name="text_drawer_open">Meniw min bɛ duguma, o da wuli</string>
   <string name="text_drawer_close">Meniw min bɛ duguma, o da tugu</string>
   <string name="no_read_phone_state_permissin">Izini tɛ yen ka minɛnw kunnafoniw kalan</string>

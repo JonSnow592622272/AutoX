@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.stardust.autojs">
+    package="com.stardust.automyjsa">
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -31,19 +31,19 @@
 
 
         <activity
-            android:name="com.stardust.autojs.core.permission.PermissionRequestActivity"
+            android:name="com.stardust.automyjsa.core.permission.PermissionRequestActivity"
             android:excludeFromRecents="true"
-            android:taskAffinity="com.stardust.autojs.runtime.api.image.ScreenCaptureRequestActivity"
+            android:taskAffinity="com.stardust.automyjsa.runtime.api.image.ScreenCaptureRequestActivity"
             android:theme="@style/ScriptTheme.Transparent" />
 
         <activity
-            android:name="com.stardust.autojs.core.image.capture.ScreenCaptureRequestActivity"
+            android:name="com.stardust.automyjsa.core.image.capture.ScreenCaptureRequestActivity"
             android:excludeFromRecents="true"
-            android:taskAffinity="com.stardust.autojs.runtime.api.image.ScreenCaptureRequestActivity"
+            android:taskAffinity="com.stardust.automyjsa.runtime.api.image.ScreenCaptureRequestActivity"
             android:theme="@style/ScriptTheme.Transparent" />
 
         <service
-            android:name="com.stardust.autojs.core.accessibility.AccessibilityService"
+            android:name="com.stardust.automyjsa.core.accessibility.AccessibilityService"
             android:exported="false"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
             <intent-filter>
@@ -55,7 +55,7 @@
                 android:resource="@xml/accessibility_service_config" />
         </service>
         <service
-            android:name="com.stardust.autojs.core.image.capture.CaptureForegroundService"
+            android:name="com.stardust.automyjsa.core.image.capture.CaptureForegroundService"
             android:exported="false"
             android:foregroundServiceType="mediaProjection" />
 

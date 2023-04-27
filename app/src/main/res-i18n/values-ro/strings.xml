@@ -37,7 +37,7 @@
   <string name="github">Codul sursă al software-ului</string>
   <string name="text_already_copy_to_clip">Copiat în clipboard</string>
   <string name="text_qq_already_copy_to_clip">Numărul grupului QQ a fost copiat în clipboard</string>
-  <string name="share_app">[Autox.js] Adresa de descărcare: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Adresa de descărcare: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Fereastra plutitoare</string>
   <string name="text_error_report">Raport de eroare</string>
   <string name="text_press_again_to_exit">Apăsați din nou pentru a ieși din program</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import cu succes</string>
   <string name="text_current_activity">Activitate curenta:</string>
   <string name="text_current_package">Numele actual al pachetului de aplicații:</string>
-  <string name="go_to_accessibility_settings">Deschideți Setări->Servicii de accesibilitate->Autox.js și activați-l</string>
+  <string name="go_to_accessibility_settings">Deschideți Setări->Servicii de accesibilitate->Automyjsx.js și activați-l</string>
   <string name="text_script_running">Rularea scriptului</string>
   <string name="text_use_volume_to_stop_running">Tasta de creștere a volumului oprește toate scripturile</string>
   <string name="text_need_to_enable_accessibility_service">Serviciile de accesibilitate trebuie să fie activate</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nici un fișier de configurare</string>
   <string name="text_foreground_service">Recepţie</string>
   <string name="foreground_notification_channel_name">Notificare serviciu recepție</string>
-  <string name="foreground_notification_title">Autox.js continuă să ruleze</string>
+  <string name="foreground_notification_title">Automyjsx.js continuă să ruleze</string>
   <string name="foreground_notification_text">Faceți clic pentru a intra în interfața principală</string>
   <string name="text_run_on_other_broadcast">Alte evenimente (difuzare)</string>
   <string name="text_broadcast_action">Acțiune de difuzare</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proiectul a fost salvat în %s</string>
   <string name="text_project_save_error">Salvarea proiectului a eșuat %s</string>
   <string name="text_night_mode">Modul de noapte</string>
-  <string name="text_run_on_startup">Când pornește Autox.js</string>
+  <string name="text_run_on_startup">Când pornește Automyjsx.js</string>
   <string name="text_usage_stats_permission">Acces de utilizare</string>
   <string name="description_usage_stats_permission">Prin permisiunea „Vizualizare statistici de utilizare”, puteți obține utilizarea aplicației anterioare a acestui dispozitiv, astfel încât să fie mai precis să obțineți aplicația curentă (currentPackage).</string>
   <string name="text_open_with">Cale deschisă</string>

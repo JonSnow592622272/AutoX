@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Kev saib xyuas taw qhia tsis tau qhib, thov qhib nws hauv software nqis</string>
   <string name="no_write_settings_permissin">Tsis muaj kev tso cai los hloov kho qhov system</string>
   <string name="exception_notification_service_disabled">Kev ceeb toom tsis ua haujlwm, thov rov qhib kev tso cai ceeb toom</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tsab ntawv no yuav tsum tau Auto.js version naj npawb %d lossis siab dua los khiav</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tsab ntawv no yuav tsum tau Automyjsa.js version naj npawb %d lossis siab dua los khiav</string>
   <string name="text_drawer_open">Qhib cov ntawv qhia zaub mov</string>
   <string name="text_drawer_close">Kaw cov ntawv qhia zaub mov</string>
   <string name="no_read_phone_state_permissin">Tsis muaj kev tso cai los nyeem cov ntaub ntawv ntaus ntawv</string>

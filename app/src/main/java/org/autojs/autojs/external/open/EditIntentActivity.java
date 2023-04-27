@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.open;
+package org.automyjsa.automyjsa.external.open;
 
 import android.content.ContentResolver;
 import android.content.Intent;
@@ -13,9 +13,9 @@ import android.widget.Toast;
 
 import com.stardust.pio.PFiles;
 
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.edit.EditActivity;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.edit.EditActivity;
+import org.automyjsa.automyjsx.R;
 
 import java.io.File;
 

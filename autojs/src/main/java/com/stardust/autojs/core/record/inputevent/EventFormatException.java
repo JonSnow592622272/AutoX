@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.record.inputevent;
+package com.stardust.automyjsa.core.record.inputevent;
 
 /**
  * Created by Stardust on 2017/3/7.

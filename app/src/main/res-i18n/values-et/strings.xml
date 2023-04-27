@@ -37,7 +37,7 @@
   <string name="github">Tarkvara lähtekood</string>
   <string name="text_already_copy_to_clip">Lõikelauale kopeeritud</string>
   <string name="text_qq_already_copy_to_clip">QQ rühma number on lõikepuhvrisse kopeeritud</string>
-  <string name="share_app">[Autox.js] Allalaadimise aadress: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Allalaadimise aadress: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Ujuv aken</string>
   <string name="text_error_report">Veaaruanne</string>
   <string name="text_press_again_to_exit">Programmist väljumiseks vajutage uuesti</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import õnnestus</string>
   <string name="text_current_activity">Praegune tegevus:</string>
   <string name="text_current_package">Praeguse rakenduse paketi nimi:</string>
-  <string name="go_to_accessibility_settings">Avage Seaded->Juurdepääsetavusteenused->Autox.js ja lubage see</string>
+  <string name="go_to_accessibility_settings">Avage Seaded->Juurdepääsetavusteenused->Automyjsx.js ja lubage see</string>
   <string name="text_script_running">Skripti käivitamine</string>
   <string name="text_use_volume_to_stop_running">Helitugevuse suurendamise klahv peatab kõik skriptid</string>
   <string name="text_need_to_enable_accessibility_service">Juurdepääsetavusteenused peavad olema lubatud</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Konfiguratsioonifaili pole</string>
   <string name="text_foreground_service">Vastuvõtt</string>
   <string name="foreground_notification_channel_name">Vastuvõtuteenuse märguanne</string>
-  <string name="foreground_notification_title">Autox.js töötab jätkuvalt</string>
+  <string name="foreground_notification_title">Automyjsx.js töötab jätkuvalt</string>
   <string name="foreground_notification_text">Klõpsake põhiliidese sisenemiseks</string>
   <string name="text_run_on_other_broadcast">Muud sündmused (saade)</string>
   <string name="text_broadcast_action">Saatetegevus</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekt on salvestatud asukohta %s</string>
   <string name="text_project_save_error">Projekti salvestamine nurjus %s</string>
   <string name="text_night_mode">Öörežiim</string>
-  <string name="text_run_on_startup">Kui Autox.js käivitub</string>
+  <string name="text_run_on_startup">Kui Automyjsx.js käivitub</string>
   <string name="text_usage_stats_permission">Kasutusjuurdepääs</string>
   <string name="description_usage_stats_permission">Kasutusstatistika vaatamise loa kaudu saate teavet selle seadme varasema rakenduse kasutuse kohta, nii et praeguse rakenduse (praegune pakett) hankimine on täpsem.</string>
   <string name="text_open_with">Avatud teed</string>

@@ -1,8 +1,8 @@
-package com.stardust.autojs;
+package com.stardust.automyjsa;
 
-import com.stardust.autojs.engine.ScriptEngineManager;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.api.Console;
+import com.stardust.automyjsa.engine.ScriptEngineManager;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.api.Console;
 import com.stardust.util.Supplier;
 import com.stardust.util.UiHandler;
 

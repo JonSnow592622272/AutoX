@@ -1,4 +1,4 @@
-package org.autojs.autojs.tool;
+package org.automyjsa.automyjsa.tool;
 
 /**
  * Created by Stardust on 2017/2/2.
@@ -12,7 +12,7 @@ import android.util.Log;
 
 import com.stardust.app.GlobalAppContext;
 
-import org.autojs.autoxjs.BuildConfig;
+import org.automyjsa.automyjsx.BuildConfig;
 import org.mozilla.javascript.RhinoException;
 
 import com.stardust.view.accessibility.AccessibilityService;

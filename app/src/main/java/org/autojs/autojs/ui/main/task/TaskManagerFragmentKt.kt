@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.main.task
+package org.automyjsa.automyjsa.ui.main.task
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -13,8 +13,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.ComposeView
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.fragment.app.Fragment
-import org.autojs.autojs.theme.widget.ThemeColorSwipeRefreshLayout
-import org.autojs.autojs.ui.widget.fillMaxSize
+import org.automyjsa.automyjsa.theme.widget.ThemeColorSwipeRefreshLayout
+import org.automyjsa.automyjsa.ui.widget.fillMaxSize
 
 class TaskManagerFragmentKt : Fragment() {
 
@@ -50,7 +50,7 @@ class TaskManagerFragmentKt : Fragment() {
 //        }
         Scaffold(
             floatingActionButton = {
-//                FloatingActionButton(onClick = { AutoJs.getInstance().scriptEngineService.stopAll() }) {
+//                FloatingActionButton(onClick = { Automyjsa.getInstance().scriptEngineService.stopAll() }) {
 //                    Icon(
 //                        imageVector = Icons.Default.Clear,
 //                        contentDescription = stringResource(id = R.string.text_clear),

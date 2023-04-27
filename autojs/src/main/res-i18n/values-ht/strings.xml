@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Siveyans jès pa pèmèt, tanpri pèmèt li nan anviwònman lojisyèl</string>
   <string name="no_write_settings_permissin">Pa gen pèmisyon pou modifye paramèt sistèm lan</string>
   <string name="exception_notification_service_disabled">Sèvis notifikasyon pa fonksyone, tanpri re-aktive pèmisyon notifikasyon</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script sa a egzije nimewo vèsyon Auto.js %d oswa pi wo pou kouri</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script sa a egzije nimewo vèsyon Automyjsa.js %d oswa pi wo pou kouri</string>
   <string name="text_drawer_open">Louvri meni an drop-down</string>
   <string name="text_drawer_close">Fèmen meni an desann</string>
   <string name="no_read_phone_state_permissin">Pa gen pèmisyon pou li enfòmasyon sou aparèy la</string>

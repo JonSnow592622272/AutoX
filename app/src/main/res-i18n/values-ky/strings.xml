@@ -37,7 +37,7 @@
   <string name="github">Программалык камсыздоонун булак коду</string>
   <string name="text_already_copy_to_clip">Алмашуу буферине көчүрүлдү</string>
   <string name="text_qq_already_copy_to_clip">QQ тобунун номери алмашуу буферине көчүрүлдү</string>
-  <string name="share_app">[Autox.js] Жүктөө дареги: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Жүктөө дареги: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Калкыма терезе</string>
   <string name="text_error_report">Ката отчету</string>
   <string name="text_press_again_to_exit">Программадан чыгуу үчүн кайра басыңыз</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Импорт ийгиликтүү</string>
   <string name="text_current_activity">Учурдагы иш-аракет:</string>
   <string name="text_current_package">Учурдагы колдонмо пакетинин аталышы:</string>
-  <string name="go_to_accessibility_settings">Сураныч, Орнотуулар-> Жеткиликтүүлүк кызматтары->Autox.js ачып, аны иштетиңиз</string>
+  <string name="go_to_accessibility_settings">Сураныч, Орнотуулар-> Жеткиликтүүлүк кызматтары->Automyjsx.js ачып, аны иштетиңиз</string>
   <string name="text_script_running">Скрипт иштетүү</string>
   <string name="text_use_volume_to_stop_running">Үнүн жогорулатуу баскычы бардык скрипттерди токтотот</string>
   <string name="text_need_to_enable_accessibility_service">Атайын мүмкүнчүлүктөр кызматтары иштетилиши керек</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Конфигурация файлы жок</string>
   <string name="text_foreground_service">Кабыл алуу</string>
   <string name="foreground_notification_channel_name">Front-desk кызматы кабарлоо</string>
-  <string name="foreground_notification_title">Autox.js иштей берет</string>
+  <string name="foreground_notification_title">Automyjsx.js иштей берет</string>
   <string name="foreground_notification_text">Негизги интерфейске кирүү үчүн чыкылдатыңыз</string>
   <string name="text_run_on_other_broadcast">Башка окуялар (берүү)</string>
   <string name="text_broadcast_action">Берүү аракети</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Долбоор %s sке сакталды</string>
   <string name="text_project_save_error">Долбоор сакталбай калды %s</string>
   <string name="text_night_mode">Түн режими</string>
-  <string name="text_run_on_startup">Autox.js башталганда</string>
+  <string name="text_run_on_startup">Automyjsx.js башталганда</string>
   <string name="text_usage_stats_permission">Колдонуу мүмкүнчүлүгү</string>
   <string name="description_usage_stats_permission">\"Колдонуу статистикасын көрүү\" уруксаты аркылуу сиз бул аппараттын мурунку тиркеменин колдонулушун ала аласыз, андыктан учурдагы тиркемени (currentPackage) алуу такыраак болот.</string>
   <string name="text_open_with">Ачык жол</string>

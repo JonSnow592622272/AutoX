@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.graphics
+package com.stardust.automyjsa.core.graphics
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -8,9 +8,9 @@ import android.os.SystemClock
 import android.util.Log
 import android.view.TextureView
 import android.view.View
-import com.stardust.autojs.core.eventloop.EventEmitter
-import com.stardust.autojs.runtime.ScriptRuntime
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException
+import com.stardust.automyjsa.core.eventloop.EventEmitter
+import com.stardust.automyjsa.runtime.ScriptRuntime
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException
 import com.stardust.ext.ifNull
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors

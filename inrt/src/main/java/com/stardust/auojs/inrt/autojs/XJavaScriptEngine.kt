@@ -1,12 +1,12 @@
-package com.stardust.auojs.inrt.autojs
+package com.stardust.auojs.inrt.automyjsa
 
 import android.content.Context
-import com.stardust.autojs.engine.LoopBasedJavaScriptEngine
-import com.stardust.autojs.engine.encryption.ScriptEncryption
-import com.stardust.autojs.script.EncryptedScriptFileHeader
-import com.stardust.autojs.script.JavaScriptFileSource
-import com.stardust.autojs.script.ScriptSource
-import com.stardust.autojs.script.StringScriptSource
+import com.stardust.automyjsa.engine.LoopBasedJavaScriptEngine
+import com.stardust.automyjsa.engine.encryption.ScriptEncryption
+import com.stardust.automyjsa.script.EncryptedScriptFileHeader
+import com.stardust.automyjsa.script.JavaScriptFileSource
+import com.stardust.automyjsa.script.ScriptSource
+import com.stardust.automyjsa.script.StringScriptSource
 import com.stardust.pio.PFiles
 import java.io.File
 import java.security.GeneralSecurityException

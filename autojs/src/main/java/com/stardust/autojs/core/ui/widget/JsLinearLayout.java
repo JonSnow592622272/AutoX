@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.widget;
+package com.stardust.automyjsa.core.ui.widget;
 
 import android.content.Context;
 import android.os.Build;
@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.stardust.autojs.core.ui.JsViewHelper;
+import com.stardust.automyjsa.core.ui.JsViewHelper;
 
 /**
  * Created by Stardust on 2017/5/14.

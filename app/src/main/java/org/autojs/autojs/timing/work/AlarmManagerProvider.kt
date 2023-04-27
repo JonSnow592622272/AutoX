@@ -1,4 +1,4 @@
-package org.autojs.autojs.timing.work
+package org.automyjsa.automyjsa.timing.work
 
 import android.annotation.SuppressLint
 import android.app.AlarmManager
@@ -12,21 +12,21 @@ import android.content.Intent
 import android.os.Build
 import android.os.SystemClock
 import android.util.Log
-import org.autojs.autojs.App
-import org.autojs.autoxjs.BuildConfig
-import org.autojs.autojs.external.ScriptIntents
-import org.autojs.autojs.timing.TimedTask
-import org.autojs.autojs.timing.TimedTaskManager
-import org.autojs.autojs.timing.TimedTaskScheduler
+import org.automyjsa.automyjsa.App
+import org.automyjsa.automyjsx.BuildConfig
+import org.automyjsa.automyjsa.external.ScriptIntents
+import org.automyjsa.automyjsa.timing.TimedTask
+import org.automyjsa.automyjsa.timing.TimedTaskManager
+import org.automyjsa.automyjsa.timing.TimedTaskScheduler
 import java.util.concurrent.TimeUnit
 
 /**
  * Created by TonyJiangWJ(https://github.com/TonyJiangWJ).
- * From [TonyJiangWJ/Auto.js](https://github.com/TonyJiangWJ/Auto.js)
+ * From [TonyJiangWJ/Automyjsa.js](https://github.com/TonyJiangWJ/Automyjsa.js)
  */
 object AlarmManagerProvider : TimedTaskScheduler() {
 
-    private const val ACTION_CHECK_TASK = "org.autojs.autojs.action.check_task"
+    private const val ACTION_CHECK_TASK = "org.automyjsa.automyjsa.action.check_task"
     private const val LOG_TAG = "AlarmManagerProvider"
     private const val REQUEST_CODE_CHECK_TASK_REPEATEDLY = 4000
     private val INTERVAL = TimeUnit.MINUTES.toMillis(15)
@@ -37,7 +37,7 @@ object AlarmManagerProvider : TimedTaskScheduler() {
 
     internal class AlarmManagerBroadcastReceiver : BroadcastReceiver() {
         override fun onReceive(context: Context, intent: Intent) {
-            autoJsLog("onReceiveRtcWakeUp")
+            automyjsaLog("onReceiveRtcWakeUp")
             checkTasks(AlarmManagerProvider.context, false)
             setupNextRtcWakeup(context, System.currentTimeMillis() + INTERVAL)
         }
@@ -46,26 +46,26 @@ object AlarmManagerProvider : TimedTaskScheduler() {
     private var context: Application = App.app
 
     override fun enqueueWork(timedTask: TimedTask, timeWindow: Long) {
-        autoJsLog("enqueue task:$timedTask")
+        automyjsaLog("enqueue task:$timedTask")
         val alarmManager = context.getSystemService(Context.ALARM_SERVICE) as AlarmManager
         val op = timedTask.createPendingIntent(context)
         setExactCompat(alarmManager, op, System.currentTimeMillis() + timeWindow)
     }
 
     override fun enqueuePeriodicWork(delay: Int) {
-        autoJsLog("checkTasksRepeatedlyIfNeeded")
+        automyjsaLog("checkTasksRepeatedlyIfNeeded")
         checkTasksRepeatedlyIfNeeded(context)
     }
 
     override fun cancel(context: Application, timedTask: TimedTask) {
-        autoJsLog("cancel task:$timedTask")
+        automyjsaLog("cancel task:$timedTask")
         val alarmManager = getAlarmManager(context)
         alarmManager.cancel(timedTask.createPendingIntent(context))
     }
 
     @SuppressLint("CheckResult")
     override fun cancelAllWorks() {
-        autoJsLog("cancel all tasks")
+        automyjsaLog("cancel all tasks")
         stopRtcRepeating(context)
         TimedTaskManager
             .allTasks
@@ -102,7 +102,7 @@ object AlarmManagerProvider : TimedTaskScheduler() {
             // 该时钟可以被使用在当测量时间间隔可能跨越系统睡眠的时间段。
             millis = SystemClock.elapsedRealtime() + gapMillis
             type = AlarmManager.ELAPSED_REALTIME_WAKEUP
-            autoJsLog("less then 5 minutes, millis changed from $oldMillis to $millis")
+            automyjsaLog("less then 5 minutes, millis changed from $oldMillis to $millis")
         }
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             alarmManager.setExactAndAllowWhileIdle(type, millis, op)
@@ -112,7 +112,7 @@ object AlarmManagerProvider : TimedTaskScheduler() {
     }
 
     private fun checkTasksRepeatedlyIfNeeded(context: Context) {
-        autoJsLog("checkTasksRepeatedlyIfNeeded count:" + TimedTaskManager.countTasks())
+        automyjsaLog("checkTasksRepeatedlyIfNeeded count:" + TimedTaskManager.countTasks())
         if (TimedTaskManager.countTasks() > 0) {
             // 设置周期性时间6分钟
             setupNextRtcWakeup(context, System.currentTimeMillis() + INTERVAL)
@@ -120,14 +120,14 @@ object AlarmManagerProvider : TimedTaskScheduler() {
     }
 
     private fun setupNextRtcWakeup(context: Context, millis: Long) {
-        autoJsLog("setupNextRtcWakeup: at $millis")
+        automyjsaLog("setupNextRtcWakeup: at $millis")
         require(millis > 0) { "millis <= 0: $millis" }
         val alarmManager = getAlarmManager(context)
         setExactCompat(alarmManager, createTaskCheckPendingIntent(context), millis)
     }
 
     private fun stopRtcRepeating(context: Context) {
-        autoJsLog("stopRtcRepeating")
+        automyjsaLog("stopRtcRepeating")
         val alarmManager = getAlarmManager(context)
         alarmManager.cancel(createTaskCheckPendingIntent(context))
     }
@@ -146,7 +146,7 @@ object AlarmManagerProvider : TimedTaskScheduler() {
                     .setComponent(
                         ComponentName(
                             BuildConfig.APPLICATION_ID,
-                            "org.autojs.autojs.timing.work.AlarmManagerProvider"
+                            "org.automyjsa.automyjsa.timing.work.AlarmManagerProvider"
                         )
                     ),
                 flags
@@ -155,9 +155,9 @@ object AlarmManagerProvider : TimedTaskScheduler() {
         return sCheckTasksPendingIntent!!
     }
 
-    override fun autoJsLog(content: String) {
+    override fun automyjsaLog(content: String) {
         Log.d(LOG_TAG, content)
-        super.autoJsLog(content)
+        super.automyjsaLog(content)
     }
 
 }

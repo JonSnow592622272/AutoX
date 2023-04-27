@@ -37,7 +37,7 @@
   <string name="github">קוד מקור תוכנה</string>
   <string name="text_already_copy_to_clip">הועתק ללוח</string>
   <string name="text_qq_already_copy_to_clip">מספר קבוצת QQ הועתק ללוח</string>
-  <string name="share_app">[Autox.js] כתובת להורדה: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] כתובת להורדה: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">חלון צף</string>
   <string name="text_error_report">דו\"ח שגיאה</string>
   <string name="text_press_again_to_exit">לחץ שוב כדי לצאת מהתוכנית</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">הייבוא ​​הצליח</string>
   <string name="text_current_activity">פעילות נוכחית:</string>
   <string name="text_current_package">שם חבילת האפליקציה הנוכחית:</string>
-  <string name="go_to_accessibility_settings">אנא פתח את הגדרות->שירותי נגישות->Autox.js והפעל זאת</string>
+  <string name="go_to_accessibility_settings">אנא פתח את הגדרות->שירותי נגישות->Automyjsx.js והפעל זאת</string>
   <string name="text_script_running">הפעלת סקריפט</string>
   <string name="text_use_volume_to_stop_running">מקש הגברת עוצמת הקול עוצר את כל התסריטים</string>
   <string name="text_need_to_enable_accessibility_service">יש להפעיל שירותי נגישות</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">אין קובץ תצורה</string>
   <string name="text_foreground_service">קבלה</string>
   <string name="foreground_notification_channel_name">הודעת שירות דלפק הקבלה</string>
-  <string name="foreground_notification_title">Autox.js ממשיך לפעול</string>
+  <string name="foreground_notification_title">Automyjsx.js ממשיך לפעול</string>
   <string name="foreground_notification_text">לחץ כדי להיכנס לממשק הראשי</string>
   <string name="text_run_on_other_broadcast">אירועים אחרים (שידור)</string>
   <string name="text_broadcast_action">שידור פעולה</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">הפרויקט נשמר ב- %s</string>
   <string name="text_project_save_error">שמירת הפרויקט נכשלה %s</string>
   <string name="text_night_mode">מצב לילה</string>
-  <string name="text_run_on_startup">כאשר Autox.js מתחיל</string>
+  <string name="text_run_on_startup">כאשר Automyjsx.js מתחיל</string>
   <string name="text_usage_stats_permission">גישה לשימוש</string>
   <string name="description_usage_stats_permission">באמצעות הרשאת \"הצג סטטיסטיקות שימוש\", ניתן לקבל את השימוש בעבר באפליקציה במכשיר זה, כך שיהיה מדויק יותר להשיג את האפליקציה הנוכחית (currentPackage).</string>
   <string name="text_open_with">דרך פתוחה</string>

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Bevegelsesovervåking er ikke aktivert, vennligst aktiver det i programvareinnstillingene</string>
   <string name="no_write_settings_permissin">Ingen tillatelse til å endre systeminnstillinger</string>
   <string name="exception_notification_service_disabled">Varslingstjenesten kjører ikke. Aktiver varslingstillatelsen på nytt</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dette skriptet krever Auto.js versjonsnummer %d eller høyere for å kjøre</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dette skriptet krever Automyjsa.js versjonsnummer %d eller høyere for å kjøre</string>
   <string name="text_drawer_open">Åpne rullegardinmenyen</string>
   <string name="text_drawer_close">Lukk rullegardinmenyen</string>
   <string name="no_read_phone_state_permissin">Ingen tillatelse til å lese enhetsinformasjon</string>

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">האַווייַע מאָניטאָרינג איז נישט ענייבאַלד, ביטע געבן עס אין ווייכווארג סעטטינגס</string>
   <string name="no_write_settings_permissin">קיין דערלויבעניש צו מאָדיפיצירן סיסטעם סעטטינגס</string>
   <string name="exception_notification_service_disabled">אָנזאָג דינסט איז נישט פליסנדיק, ביטע שייַעך-געבן אָנזאָג דערלויבעניש</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">דעם שריפט ריקווייערז Auto.js ווערסיע נומער %d אָדער העכער צו לויפן</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">דעם שריפט ריקווייערז Automyjsa.js ווערסיע נומער %d אָדער העכער צו לויפן</string>
   <string name="text_drawer_open">עפענען די פאַלן אַראָפּ מעניו</string>
   <string name="text_drawer_close">פאַרמאַכן די פאַלן אַראָפּ מעניו</string>
   <string name="no_read_phone_state_permissin">קיין דערלויבעניש צו לייענען מיטל אינפֿאָרמאַציע</string>

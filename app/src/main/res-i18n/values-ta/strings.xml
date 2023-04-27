@@ -37,7 +37,7 @@
   <string name="github">மென்பொருள் மூல குறியீடு</string>
   <string name="text_already_copy_to_clip">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
   <string name="text_qq_already_copy_to_clip">QQ குழு எண் கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
-  <string name="share_app">[Autox.js] பதிவிறக்க முகவரி: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] பதிவிறக்க முகவரி: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">மிதக்கும் ஜன்னல்</string>
   <string name="text_error_report">பிழை அறிக்கை</string>
   <string name="text_press_again_to_exit">நிரலிலிருந்து வெளியேற மீண்டும் அழுத்தவும்</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">இறக்குமதி வெற்றி</string>
   <string name="text_current_activity">தற்போதைய செயல்பாடு:</string>
   <string name="text_current_package">தற்போதைய பயன்பாட்டு தொகுப்பு பெயர்:</string>
-  <string name="go_to_accessibility_settings">தயவு செய்து Settings->Accessibility Services->Autox.jsஐ திறந்து அதை இயக்கவும்</string>
+  <string name="go_to_accessibility_settings">தயவு செய்து Settings->Accessibility Services->Automyjsx.jsஐ திறந்து அதை இயக்கவும்</string>
   <string name="text_script_running">ஸ்கிரிப்ட் ரன்</string>
   <string name="text_use_volume_to_stop_running">வால்யூம் அப் கீ அனைத்து ஸ்கிரிப்ட்களையும் நிறுத்துகிறது</string>
   <string name="text_need_to_enable_accessibility_service">அணுகல் சேவைகள் இயக்கப்பட வேண்டும்</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">கட்டமைப்பு கோப்பு இல்லை</string>
   <string name="text_foreground_service">வரவேற்பு</string>
   <string name="foreground_notification_channel_name">முன் மேசை சேவை அறிவிப்பு</string>
-  <string name="foreground_notification_title">Autox.js தொடர்ந்து இயங்குகிறது</string>
+  <string name="foreground_notification_title">Automyjsx.js தொடர்ந்து இயங்குகிறது</string>
   <string name="foreground_notification_text">முக்கிய இடைமுகத்தை உள்ளிட கிளிக் செய்யவும்</string>
   <string name="text_run_on_other_broadcast">மற்ற நிகழ்வுகள் (ஒளிபரப்பு)</string>
   <string name="text_broadcast_action">ஒளிபரப்பு நடவடிக்கை</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">திட்டம் %s இல் சேமிக்கப்பட்டது</string>
   <string name="text_project_save_error">திட்ட சேமிப்பு தோல்வியடைந்தது %s</string>
   <string name="text_night_mode">இரவு நிலை</string>
-  <string name="text_run_on_startup">Autox.js தொடங்கும் போது</string>
+  <string name="text_run_on_startup">Automyjsx.js தொடங்கும் போது</string>
   <string name="text_usage_stats_permission">பயன்பாட்டு அணுகல்</string>
   <string name="description_usage_stats_permission">\"பயன்பாட்டு புள்ளிவிவரங்களைக் காண்க\" அனுமதியின் மூலம், இந்தச் சாதனத்தின் கடந்தகால பயன்பாட்டுப் பயன்பாட்டை நீங்கள் பெறலாம், இதனால் தற்போதைய பயன்பாட்டைப் (currentPackage) பெறுவது மிகவும் துல்லியமாக இருக்கும்.</string>
   <string name="text_open_with">திறந்த வழி</string>

@@ -37,7 +37,7 @@
   <string name="github">Software source code a ni</string>
   <string name="text_already_copy_to_clip">Clipboard-ah copy a ni</string>
   <string name="text_qq_already_copy_to_clip">QQ group number chu clipboard ah copy a ni tawh</string>
-  <string name="share_app">[Autox.js] A download theihna tur hmun: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] A download theihna tur hmun: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Floating window a awm</string>
   <string name="text_error_report">Tihsual report a awm</string>
   <string name="text_press_again_to_exit">Program atanga chhuak turin hmet leh rawh</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import hlawhtling tak a ni</string>
   <string name="text_current_activity">Tuna hnathawh mek:</string>
   <string name="text_current_package">Tuna application package hming hman mek:</string>
-  <string name="go_to_accessibility_settings">Khawngaihin Settings->Accessibility Services->Autox.js kha hawng la, enable rawh</string>
+  <string name="go_to_accessibility_settings">Khawngaihin Settings->Accessibility Services->Automyjsx.js kha hawng la, enable rawh</string>
   <string name="text_script_running">Script run a ni</string>
   <string name="text_use_volume_to_stop_running">Volume up key hian script zawng zawng a titawp vek</string>
   <string name="text_need_to_enable_accessibility_service">Accessibility services te pawh enable a ngai a ni</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Configuration file a awm lo</string>
   <string name="text_foreground_service">Inhmuahna</string>
   <string name="foreground_notification_channel_name">Front desk service hriattirna pek a ni</string>
-  <string name="foreground_notification_title">Autox.js chu a kal zel a</string>
+  <string name="foreground_notification_title">Automyjsx.js chu a kal zel a</string>
   <string name="foreground_notification_text">Main interface ah lut turin click la</string>
   <string name="text_run_on_other_broadcast">Thil thleng dangte (broadcast) .</string>
   <string name="text_broadcast_action">Broadcast Action tih a ni</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Project chu %s ah save a ni tawh</string>
   <string name="text_project_save_error">Project save a hlawhchham %s</string>
   <string name="text_night_mode">Zan lam mode a ni</string>
-  <string name="text_run_on_startup">Autox.js a rawn intan hunah</string>
+  <string name="text_run_on_startup">Automyjsx.js a rawn intan hunah</string>
   <string name="text_usage_stats_permission">Hman dan tur a ni</string>
   <string name="description_usage_stats_permission">\"View usage statistics\" phalna hmang hian he device hman tawh application hman tawhte chu i hmu thei a, chutiang chuan application hman mek (currentPackage) hmuh chu a dik zawk ang.</string>
   <string name="text_open_with">Kawng hawn a ni</string>

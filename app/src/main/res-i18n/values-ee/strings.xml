@@ -37,7 +37,7 @@
   <string name="github">Kɔmpiutadziɖoɖowo ƒe dzɔtsoƒe ƒe kɔpi</string>
   <string name="text_already_copy_to_clip">Wowɔ eƒe kɔpi ɖe clipboard dzi</string>
   <string name="text_qq_already_copy_to_clip">Wowɔ QQ ƒuƒoƒo ƒe xexlẽdzesi la ƒe kɔpi ɖe clipboard la dzi</string>
-  <string name="share_app">[Autox.js] Tsɔe ƒe adrɛs: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Tsɔe ƒe adrɛs: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Fesre si le tsia dzi</string>
   <string name="text_error_report">Vodada ŋuti nyatakaka</string>
   <string name="text_press_again_to_exit">Gazi edzi ake be nàdo le ɖoɖowɔɖia me</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import dzidzedzetɔe</string>
   <string name="text_current_activity">Dɔ si wɔm nèle fifia:</string>
   <string name="text_current_package">Dɔdamɔnu ƒe agbalẽvi ƒe ŋkɔ si li fifia:</string>
-  <string name="go_to_accessibility_settings">Taflatse ʋu Settings->Accessibility Services->Autox.js eye nàna wòawɔ dɔ</string>
+  <string name="go_to_accessibility_settings">Taflatse ʋu Settings->Accessibility Services->Automyjsx.js eye nàna wòawɔ dɔ</string>
   <string name="text_script_running">Ŋɔŋlɔdzesiwo ƒe duƒuƒu</string>
   <string name="text_use_volume_to_stop_running">Volume up key la tɔ te ŋɔŋlɔdzesiwo katã</string>
   <string name="text_need_to_enable_accessibility_service">Ele be woawɔ ɖoɖo ɖe mɔnukpɔkpɔwo ŋu ƒe dɔwɔnawo ŋudɔ</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ɖoɖowɔɖi ƒe faɛl aɖeke meli o</string>
   <string name="text_foreground_service">Amexɔƒe</string>
   <string name="foreground_notification_channel_name">Xɔxlɔ̃ ƒe subɔsubɔdɔ ŋuti nyatakaka</string>
-  <string name="foreground_notification_title">Autox.js yia edzi le dɔ wɔm</string>
+  <string name="foreground_notification_title">Automyjsx.js yia edzi le dɔ wɔm</string>
   <string name="foreground_notification_text">Zi edzi be nàge ɖe ŋgɔdonya vevitɔa me</string>
   <string name="text_run_on_other_broadcast">Nudzɔdzɔ bubuwo (woɖea gbeƒãe) .</string>
   <string name="text_broadcast_action">Nyadzɔdzɔgblɔmɔnuwo ƒe Afɔɖeɖe</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Wodzra dɔa ɖo ɖe %s</string>
   <string name="text_project_save_error">Dɔwɔwɔ ƒe dzadzraɖo do kpo %s</string>
   <string name="text_night_mode">Zã ƒe nɔnɔme</string>
-  <string name="text_run_on_startup">Ne Autox.js dze egɔme</string>
+  <string name="text_run_on_startup">Ne Automyjsx.js dze egɔme</string>
   <string name="text_usage_stats_permission">Zazã ƒe mɔnukpɔkpɔ</string>
   <string name="description_usage_stats_permission">To \"kpɔ zazã ƒe akɔntabubuwo\" ƒe mɔɖeɖe me la, àteŋu axɔ mɔ̃ sia ƒe dɔwɔnu zazã va yi, ale be wòade pɛpɛpɛ wu be nàxɔ dɔwɔnu si li fifia (currentPackage).</string>
   <string name="text_open_with">Mɔ si ʋu ɖi</string>

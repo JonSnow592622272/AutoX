@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gestų stebėjimas neįjungtas, įjunkite jį programinės įrangos nustatymuose</string>
   <string name="no_write_settings_permissin">Nėra leidimo keisti sistemos nustatymų</string>
   <string name="exception_notification_service_disabled">Pranešimų paslauga neveikia, iš naujo įgalinkite pranešimų leidimą</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Šiam scenarijui paleisti reikalingas Auto.js versijos numeris %d arba didesnis</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Šiam scenarijui paleisti reikalingas Automyjsa.js versijos numeris %d arba didesnis</string>
   <string name="text_drawer_open">Atidarykite išskleidžiamąjį meniu</string>
   <string name="text_drawer_close">Uždarykite išskleidžiamąjį meniu</string>
   <string name="no_read_phone_state_permissin">Nėra leidimo skaityti įrenginio informaciją</string>

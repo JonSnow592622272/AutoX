@@ -1,9 +1,9 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.content.Context;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 import io.reactivex.Observable;
 import io.reactivex.subjects.PublishSubject;

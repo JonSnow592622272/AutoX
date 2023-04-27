@@ -1,8 +1,8 @@
-package com.stardust.autojs.core.ui.widget;
+package com.stardust.automyjsa.core.ui.widget;
 
 import android.content.Context;
 
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;

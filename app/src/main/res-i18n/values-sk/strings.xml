@@ -37,7 +37,7 @@
   <string name="github">Zdrojový kód softvéru</string>
   <string name="text_already_copy_to_clip">Skopírované do schránky</string>
   <string name="text_qq_already_copy_to_clip">Číslo skupiny QQ bolo skopírované do schránky</string>
-  <string name="share_app">[Autox.js] Adresa na stiahnutie: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Adresa na stiahnutie: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Plávajúce okno</string>
   <string name="text_error_report">Chybové hlásenie</string>
   <string name="text_press_again_to_exit">Opätovným stlačením opustíte program</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import bol úspešný</string>
   <string name="text_current_activity">Aktuálna aktivita:</string>
   <string name="text_current_package">Aktuálny názov balíka aplikácie:</string>
-  <string name="go_to_accessibility_settings">Otvorte Nastavenia-> Služby prístupnosti-> Autox.js a povoľte ho</string>
+  <string name="go_to_accessibility_settings">Otvorte Nastavenia-> Služby prístupnosti-> Automyjsx.js a povoľte ho</string>
   <string name="text_script_running">Spustenie skriptu</string>
   <string name="text_use_volume_to_stop_running">Tlačidlo zvýšenia hlasitosti zastaví všetky skripty</string>
   <string name="text_need_to_enable_accessibility_service">Je potrebné povoliť služby dostupnosti</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Žiadny konfiguračný súbor</string>
   <string name="text_foreground_service">Recepcia</string>
   <string name="foreground_notification_channel_name">Upozornenie na obsluhu na recepcii</string>
-  <string name="foreground_notification_title">Autox.js stále beží</string>
+  <string name="foreground_notification_title">Automyjsx.js stále beží</string>
   <string name="foreground_notification_text">Kliknutím vstúpite do hlavného rozhrania</string>
   <string name="text_run_on_other_broadcast">Iné udalosti (vysielané)</string>
   <string name="text_broadcast_action">Akcia vysielania</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekt bol uložený do %s</string>
   <string name="text_project_save_error">Uloženie projektu zlyhalo %s</string>
   <string name="text_night_mode">Nočný mód</string>
-  <string name="text_run_on_startup">Keď sa spustí Autox.js</string>
+  <string name="text_run_on_startup">Keď sa spustí Automyjsx.js</string>
   <string name="text_usage_stats_permission">Prístup k používaniu</string>
   <string name="description_usage_stats_permission">Prostredníctvom povolenia „zobraziť štatistiky používania“ môžete získať minulé používanie aplikácie tohto zariadenia, aby bolo presnejšie získať aktuálnu aplikáciu (aktuálny balík).</string>
   <string name="text_open_with">Otvorená cesta</string>

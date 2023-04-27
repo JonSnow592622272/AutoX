@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.widget;
+package org.automyjsa.automyjsa.external.widget;
 
 import android.appwidget.AppWidgetManager;
 import android.content.Intent;
@@ -10,13 +10,13 @@ import android.view.MenuItem;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EActivity;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.explorer.Explorer;
-import org.autojs.autojs.model.explorer.ExplorerDirPage;
-import org.autojs.autojs.model.explorer.ExplorerFileProvider;
-import org.autojs.autojs.model.script.Scripts;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.explorer.ExplorerViewKt;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.explorer.Explorer;
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerFileProvider;
+import org.automyjsa.automyjsa.model.script.Scripts;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.explorer.ExplorerViewKt;
 
 /**
  * Created by Stardust on 2017/7/11.

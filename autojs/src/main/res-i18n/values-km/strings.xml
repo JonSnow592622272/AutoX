@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ការត្រួតពិនិត្យកាយវិការមិនត្រូវបានបើកទេ សូមបើកវានៅក្នុងការកំណត់កម្មវិធី</string>
   <string name="no_write_settings_permissin">គ្មានការអនុញ្ញាតឱ្យកែប្រែការកំណត់ប្រព័ន្ធទេ។</string>
   <string name="exception_notification_service_disabled">សេវាកម្មជូនដំណឹងមិនដំណើរការទេ សូមបើកការអនុញ្ញាតការជូនដំណឹងឡើងវិញ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ស្គ្រីបនេះទាមទារលេខកំណែ Auto.js %d ឬខ្ពស់ជាងនេះដើម្បីដំណើរការ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ស្គ្រីបនេះទាមទារលេខកំណែ Automyjsa.js %d ឬខ្ពស់ជាងនេះដើម្បីដំណើរការ</string>
   <string name="text_drawer_open">បើកម៉ឺនុយទម្លាក់ចុះ</string>
   <string name="text_drawer_close">បិទម៉ឺនុយទម្លាក់ចុះ</string>
   <string name="no_read_phone_state_permissin">គ្មានការអនុញ្ញាតឱ្យអានព័ត៌មានឧបករណ៍ទេ។</string>

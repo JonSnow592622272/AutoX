@@ -1,11 +1,11 @@
-package org.autojs.autojs.external.fileprovider;
+package org.automyjsa.automyjsa.external.fileprovider;
 
 import android.content.Context;
 import android.net.Uri;
 
 import androidx.core.content.FileProvider;
 
-import org.autojs.autoxjs.BuildConfig;
+import org.automyjsa.automyjsx.BuildConfig;
 
 import java.io.File;
 

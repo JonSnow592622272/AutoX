@@ -37,7 +37,7 @@
   <string name="github">Software source code</string>
   <string name="text_already_copy_to_clip">Copied to clipboard</string>
   <string name="text_qq_already_copy_to_clip">The QQ group number has been copied to the clipboard</string>
-  <string name="share_app">[Autox.js] Download address: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Download address: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Floating window</string>
   <string name="text_error_report">Error report</string>
   <string name="text_press_again_to_exit">Press again to exit the program</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import successful</string>
   <string name="text_current_activity">Current activity:</string>
   <string name="text_current_package">Current application package name:</string>
-  <string name="go_to_accessibility_settings">Please open Settings->Accessibility Services->Autox.js and enable it</string>
+  <string name="go_to_accessibility_settings">Please open Settings->Accessibility Services->Automyjsx.js and enable it</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Volume up key stops all scripts</string>
   <string name="text_need_to_enable_accessibility_service">Accessibility services need to be enabled</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">No configuration file</string>
   <string name="text_foreground_service">Reception</string>
   <string name="foreground_notification_channel_name">Front desk service notification</string>
-  <string name="foreground_notification_title">Autox.js keeps running</string>
+  <string name="foreground_notification_title">Automyjsx.js keeps running</string>
   <string name="foreground_notification_text">Click to enter the main interface</string>
   <string name="text_run_on_other_broadcast">Other events (broadcast)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Project has been saved to %s</string>
   <string name="text_project_save_error">Project save failed %s</string>
   <string name="text_night_mode">Night mode</string>
-  <string name="text_run_on_startup">When Autox.js starts</string>
+  <string name="text_run_on_startup">When Automyjsx.js starts</string>
   <string name="text_usage_stats_permission">Usage access</string>
   <string name="description_usage_stats_permission">Through the \"View Usage Statistics\" permission, you can obtain the past application usage of this device, so that it is more accurate to obtain the current application (currentPackage).</string>
   <string name="text_open_with">Open way</string>

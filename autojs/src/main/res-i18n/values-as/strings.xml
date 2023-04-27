@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ইংগিত নিৰীক্ষণ সামৰ্থবান কৰা হোৱা নাই, অনুগ্ৰহ কৰি চফ্টৱেৰ সংহতিসমূহত ইয়াক সামৰ্থবান কৰক</string>
   <string name="no_write_settings_permissin">ব্যৱস্থাপ্ৰণালীৰ সংহতিসমূহ পৰিবৰ্তন কৰাৰ কোনো অনুমতি নাই</string>
   <string name="exception_notification_service_disabled">অধিসূচনা সেৱা চলি থকা নাই, অনুগ্ৰহ কৰি অধিসূচনা অনুমতি পুনৰ সামৰ্থবান কৰক</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">এই স্ক্ৰিপ্ট চলাবলৈ Auto.js সংস্কৰণ সংখ্যা %d বা উচ্চতৰ প্ৰয়োজন</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">এই স্ক্ৰিপ্ট চলাবলৈ Automyjsa.js সংস্কৰণ সংখ্যা %d বা উচ্চতৰ প্ৰয়োজন</string>
   <string name="text_drawer_open">ড্ৰপ ডাউন মেনু খোলক</string>
   <string name="text_drawer_close">ড্ৰপ ডাউন মেনু বন্ধ কৰক</string>
   <string name="no_read_phone_state_permissin">ডিভাইচৰ তথ্য পঢ়িবলৈ কোনো অনুমতি নাই</string>

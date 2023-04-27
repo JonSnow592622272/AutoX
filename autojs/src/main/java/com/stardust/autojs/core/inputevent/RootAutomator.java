@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.inputevent;
+package com.stardust.automyjsa.core.inputevent;
 
 import android.content.Context;
 import android.os.SystemClock;
@@ -7,16 +7,16 @@ import android.util.Log;
 import android.util.SparseIntArray;
 import android.view.ViewConfiguration;
 
-import com.stardust.autojs.core.util.Shell;
-import com.stardust.autojs.engine.RootAutomatorEngine;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.core.util.Shell;
+import com.stardust.automyjsa.engine.RootAutomatorEngine;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.util.ScreenMetrics;
 
 import java.io.IOException;
 import java.util.Locale;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import static com.stardust.autojs.core.inputevent.InputEventCodes.*;
+import static com.stardust.automyjsa.core.inputevent.InputEventCodes.*;
 
 /**
  * Created by Stardust on 2017/7/16.

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating.layoutinspector
+package org.automyjsa.automyjsa.ui.floating.layoutinspector
 
 import android.content.Context
 import android.view.ContextThemeWrapper
@@ -12,11 +12,11 @@ import com.stardust.enhancedfloaty.FloatyService
 import com.stardust.view.accessibility.LayoutInspector
 import com.stardust.view.accessibility.LayoutInspector.CaptureAvailableListener
 import com.stardust.view.accessibility.NodeInfo
-import org.autojs.autoxjs.R
-import org.autojs.autojs.ui.codegeneration.CodeGenerateDialog
-import org.autojs.autojs.ui.floating.FloatyWindowManger
-import org.autojs.autojs.ui.floating.FullScreenFloatyWindow
-import org.autojs.autojs.ui.widget.BubblePopupMenu
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.ui.codegeneration.CodeGenerateDialog
+import org.automyjsa.automyjsa.ui.floating.FloatyWindowManger
+import org.automyjsa.automyjsa.ui.floating.FullScreenFloatyWindow
+import org.automyjsa.automyjsa.ui.widget.BubblePopupMenu
 import java.util.*
 
 /**

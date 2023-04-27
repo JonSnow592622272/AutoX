@@ -1,10 +1,10 @@
-package org.autojs.autojs.ui.viewmodel;
+package org.automyjsa.automyjsa.ui.viewmodel;
 
 import android.content.SharedPreferences;
 
-import org.autojs.autojs.model.explorer.ExplorerItem;
-import org.autojs.autojs.model.explorer.ExplorerPage;
-import org.autojs.autojs.model.explorer.ExplorerSorter;
+import org.automyjsa.automyjsa.model.explorer.ExplorerItem;
+import org.automyjsa.automyjsa.model.explorer.ExplorerPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerSorter;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -17,7 +17,7 @@ public class ExplorerItemList {
 
     public static class SortConfig {
 
-        private static final String CLASS_NAME = "org.autojs.autojs.ui.viewmodel.ScriptList.SortConfig";
+        private static final String CLASS_NAME = "org.automyjsa.automyjsa.ui.viewmodel.ScriptList.SortConfig";
 
         private int mDirSortType = SORT_TYPE_NAME;
         private boolean mDirSortedAscending;

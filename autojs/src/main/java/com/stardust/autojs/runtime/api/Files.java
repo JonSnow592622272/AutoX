@@ -1,8 +1,8 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.webkit.JavascriptInterface;
 
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.pio.PFileInterface;
 import com.stardust.pio.PFiles;
 import com.stardust.pio.UncheckedIOException;

@@ -1,4 +1,4 @@
-package com.stardust.autojs.project
+package com.stardust.automyjsa.project
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -6,7 +6,7 @@ import androidx.annotation.Keep
 import com.google.gson.GsonBuilder
 import com.google.gson.annotations.SerializedName
 import com.stardust.app.GlobalAppContext
-import com.stardust.autojs.R
+import com.stardust.automyjsa.R
 import com.stardust.pio.PFiles
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -204,7 +204,7 @@ data class LaunchConfig(
     @SerializedName("splashIcon")
     var splashIcon: String? = null,
     @SerializedName("splashText")
-    var splashText: String = "Powered by Autoxjs.com",
+    var splashText: String = "Powered by Automyjsx.com",
     @SerializedName("stableMode")
     var isStableMode: Boolean = false,
     @SerializedName("volumeUpcontrol")

@@ -1,4 +1,4 @@
-package org.autojs.autojs.workground;
+package org.automyjsa.automyjsa.workground;
 
 import android.content.Context;
 import androidx.recyclerview.widget.GridLayoutManager;

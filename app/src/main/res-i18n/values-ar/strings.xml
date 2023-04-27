@@ -37,7 +37,7 @@
   <string name="github">كود مصدر البرنامج</string>
   <string name="text_already_copy_to_clip">نسخ إلى الحافظة</string>
   <string name="text_qq_already_copy_to_clip">تم نسخ رقم مجموعة QQ إلى الحافظة</string>
-  <string name="share_app">[Autox.js] عنوان التنزيل: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] عنوان التنزيل: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">نافذة عائمة</string>
   <string name="text_error_report">تقرير الخطأ</string>
   <string name="text_press_again_to_exit">اضغط مرة أخرى للخروج من البرنامج</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">نجح الاستيراد</string>
   <string name="text_current_activity">النشاط الحالي:</string>
   <string name="text_current_package">اسم حزمة التطبيق الحالي:</string>
-  <string name="go_to_accessibility_settings">يرجى فتح الإعدادات-> خدمات إمكانية الوصول-> Autox.js وتمكينه</string>
+  <string name="go_to_accessibility_settings">يرجى فتح الإعدادات-> خدمات إمكانية الوصول-> Automyjsx.js وتمكينه</string>
   <string name="text_script_running">تشغيل البرنامج النصي</string>
   <string name="text_use_volume_to_stop_running">يوقف مفتاح رفع الصوت جميع البرامج النصية</string>
   <string name="text_need_to_enable_accessibility_service">يجب تمكين خدمات الوصول</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">لا يوجد ملف التكوين</string>
   <string name="text_foreground_service">استقبال</string>
   <string name="foreground_notification_channel_name">إشعار خدمة مكتب الاستقبال</string>
-  <string name="foreground_notification_title">يستمر تشغيل Autox.js</string>
+  <string name="foreground_notification_title">يستمر تشغيل Automyjsx.js</string>
   <string name="foreground_notification_text">انقر للدخول إلى الواجهة الرئيسية</string>
   <string name="text_run_on_other_broadcast">أحداث أخرى (البث)</string>
   <string name="text_broadcast_action">بث العمل</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">تم حفظ المشروع في %s</string>
   <string name="text_project_save_error">فشل حفظ المشروع %s</string>
   <string name="text_night_mode">وضع الليل</string>
-  <string name="text_run_on_startup">عند بدء تشغيل Autox.js</string>
+  <string name="text_run_on_startup">عند بدء تشغيل Automyjsx.js</string>
   <string name="text_usage_stats_permission">الوصول إلى الاستخدام</string>
   <string name="description_usage_stats_permission">من خلال إذن \"عرض إحصائيات الاستخدام\" ، يمكنك الحصول على استخدام التطبيق السابق لهذا الجهاز ، بحيث يكون الحصول على التطبيق الحالي أكثر دقة (CurrentPackage).</string>
   <string name="text_open_with">طريق مفتوح</string>

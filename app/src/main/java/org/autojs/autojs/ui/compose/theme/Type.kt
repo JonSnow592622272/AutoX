@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.compose.theme
+package org.automyjsa.automyjsa.ui.compose.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating.layoutinspector;
+package org.automyjsa.automyjsa.ui.floating.layoutinspector;
 
 import com.stardust.view.accessibility.NodeInfo;
 

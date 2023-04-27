@@ -1,8 +1,8 @@
-package com.stardust.autojs.apkbuilder;
+package com.stardust.automyjsa.apkbuilder;
 
 import android.text.TextUtils;
 
-import com.stardust.autojs.apkbuilder.util.StreamUtils;
+import com.stardust.automyjsa.apkbuilder.util.StreamUtils;
 
 import java.io.File;
 import java.io.FileInputStream;

@@ -37,7 +37,7 @@
   <string name="github">Código fonte do software</string>
   <string name="text_already_copy_to_clip">Copiado para a área de transferência</string>
   <string name="text_qq_already_copy_to_clip">O número do grupo QQ foi copiado para a área de transferência</string>
-  <string name="share_app">[Autox.js] Endereço de download: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Endereço de download: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Janela flutuante</string>
   <string name="text_error_report">Relatório de erro</string>
   <string name="text_press_again_to_exit">Pressione novamente para sair do programa</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importação bem-sucedida</string>
   <string name="text_current_activity">Atividade atual:</string>
   <string name="text_current_package">Nome do pacote de aplicativos atual:</string>
-  <string name="go_to_accessibility_settings">Por favor, abra Configurações->Serviços de Acessibilidade->Autox.js e habilite-o</string>
+  <string name="go_to_accessibility_settings">Por favor, abra Configurações->Serviços de Acessibilidade->Automyjsx.js e habilite-o</string>
   <string name="text_script_running">Execução de script</string>
   <string name="text_use_volume_to_stop_running">A tecla de aumento de volume interrompe todos os scripts</string>
   <string name="text_need_to_enable_accessibility_service">Os serviços de acessibilidade precisam ser ativados</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nenhum arquivo de configuração</string>
   <string name="text_foreground_service">Recepção</string>
   <string name="foreground_notification_channel_name">Notificação de serviço de recepção</string>
-  <string name="foreground_notification_title">Autox.js continua em execução</string>
+  <string name="foreground_notification_title">Automyjsx.js continua em execução</string>
   <string name="foreground_notification_text">Clique para entrar na interface principal</string>
   <string name="text_run_on_other_broadcast">Outros eventos (transmissão)</string>
   <string name="text_broadcast_action">Ação de transmissão</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">O projeto foi salvo em %s</string>
   <string name="text_project_save_error">Falha ao salvar projeto %s</string>
   <string name="text_night_mode">Modo noturno</string>
-  <string name="text_run_on_startup">Quando o Autox.js é iniciado</string>
+  <string name="text_run_on_startup">Quando o Automyjsx.js é iniciado</string>
   <string name="text_usage_stats_permission">Acesso de uso</string>
   <string name="description_usage_stats_permission">Através da permissão \"ver estatísticas de uso\", você pode obter o uso anterior do aplicativo deste dispositivo, para que seja mais preciso obter o aplicativo atual (currentPackage).</string>
   <string name="text_open_with">Caminho aberto</string>

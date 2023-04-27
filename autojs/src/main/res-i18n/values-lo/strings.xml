@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ການຕິດຕາມທ່າທາງບໍ່ໄດ້ເປີດໃຊ້ງານ, ກະລຸນາເປີດໃຊ້ມັນຢູ່ໃນການຕັ້ງຄ່າຊອບແວ</string>
   <string name="no_write_settings_permissin">ບໍ່ມີການອະນຸຍາດໃຫ້ແກ້ໄຂການຕັ້ງຄ່າລະບົບ</string>
   <string name="exception_notification_service_disabled">ບໍລິການການແຈ້ງເຕືອນບໍ່ເຮັດວຽກ, ກະລຸນາເປີດການອະນຸຍາດການແຈ້ງເຕືອນຄືນໃໝ່</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ສະຄຣິບນີ້ຕ້ອງການ Auto.js ເວີຊັນ %d ຫຼືສູງກວ່າເພື່ອແລ່ນ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ສະຄຣິບນີ້ຕ້ອງການ Automyjsa.js ເວີຊັນ %d ຫຼືສູງກວ່າເພື່ອແລ່ນ</string>
   <string name="text_drawer_open">ເປີດເມນູເລື່ອນລົງ</string>
   <string name="text_drawer_close">ປິດເມນູເລື່ອນລົງ</string>
   <string name="no_read_phone_state_permissin">ບໍ່ມີການອະນຸຍາດໃຫ້ອ່ານຂໍ້ມູນອຸປະກອນ</string>

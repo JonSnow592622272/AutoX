@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.debug;
+package org.automyjsa.automyjsa.ui.edit.debug;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -10,8 +10,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 public class CodeEvaluateDialogBuilder extends ThemeColorMaterialDialogBuilder {
 

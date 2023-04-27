@@ -1,9 +1,9 @@
-package com.stardust.autojs.rhino;
+package com.stardust.automyjsa.rhino;
 
 import android.os.Looper;
 import android.util.Log;
 
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 
 import org.mozilla.javascript.Context;
 
@@ -33,7 +33,7 @@ public class InterruptibleAndroidContextFactory extends AndroidContextFactory {
 
     @Override
     protected Context makeContext() {
-        Context cx = new AutoJsContext(this);
+        Context cx = new AutomyjsaContext(this);
         cx.setInstructionObserverThreshold(10000);
         return cx;
     }

@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import android.os.Build;
 import androidx.annotation.Nullable;
@@ -8,9 +8,9 @@ import android.view.ViewGroup;
 import android.widget.DatePicker;
 
 
-import com.stardust.autojs.R;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.ViewCreator;
+import com.stardust.automyjsa.R;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ViewCreator;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

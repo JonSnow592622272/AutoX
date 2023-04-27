@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Дохио хяналтыг идэвхжүүлээгүй тул програм хангамжийн тохиргооноос идэвхжүүлнэ үү</string>
   <string name="no_write_settings_permissin">Системийн тохиргоог өөрчлөх зөвшөөрөл байхгүй</string>
   <string name="exception_notification_service_disabled">Мэдэгдлийн үйлчилгээ ажиллахгүй байгаа тул мэдэгдлийн зөвшөөрлийг дахин идэвхжүүлнэ үү</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Энэ скриптийг ажиллуулахын тулд Auto.js хувилбарын дугаар %d буюу түүнээс дээш байх шаардлагатай</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Энэ скриптийг ажиллуулахын тулд Automyjsa.js хувилбарын дугаар %d буюу түүнээс дээш байх шаардлагатай</string>
   <string name="text_drawer_open">Унждаг цэсийг нээнэ үү</string>
   <string name="text_drawer_close">Унждаг цэсийг хаа</string>
   <string name="no_read_phone_state_permissin">Төхөөрөмжийн мэдээллийг унших зөвшөөрөл байхгүй</string>

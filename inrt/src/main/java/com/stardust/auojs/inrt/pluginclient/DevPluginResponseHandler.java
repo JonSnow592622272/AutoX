@@ -6,10 +6,10 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonNull;
 import com.google.gson.JsonObject;
 import com.stardust.auojs.inrt.Pref;
-import com.stardust.auojs.inrt.autojs.AutoJs;
-import com.stardust.autojs.execution.ExecutionConfig;
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.script.StringScriptSource;
+import com.stardust.auojs.inrt.automyjsa.Automyjsa;
+import com.stardust.automyjsa.execution.ExecutionConfig;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.script.StringScriptSource;
 import com.stardust.io.Zip;
 import com.stardust.pio.PFiles;
 import com.stardust.util.MD5;
@@ -56,7 +56,7 @@ public class DevPluginResponseHandler implements Handler {
                         return true;
                     })
                     .handler("stopAll", data -> {
-                        AutoJs.Companion.getInstance().getScriptEngineService().stopAllAndToast();
+                        Automyjsa.Companion.getInstance().getScriptEngineService().stopAllAndToast();
                         return true;
                     }));
 
@@ -97,7 +97,7 @@ public class DevPluginResponseHandler implements Handler {
         StringScriptSource scriptSource = new StringScriptSource(name,script);
         ExecutionConfig config = new ExecutionConfig();
         config.setWorkingDirectory(Pref.getScriptDirPath());
-        ScriptExecution scriptExecution = AutoJs.Companion.getInstance().getScriptEngineService().execute(scriptSource, new ExecutionConfig());
+        ScriptExecution scriptExecution = Automyjsa.Companion.getInstance().getScriptEngineService().execute(scriptSource, new ExecutionConfig());
        mScriptExecutions.put(viewId, scriptExecution);
     }
 

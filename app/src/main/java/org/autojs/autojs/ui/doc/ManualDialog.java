@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.doc;
+package org.automyjsa.automyjsa.ui.doc;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.stardust.util.IntentUtil;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.widget.EWebView;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.widget.EWebView;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

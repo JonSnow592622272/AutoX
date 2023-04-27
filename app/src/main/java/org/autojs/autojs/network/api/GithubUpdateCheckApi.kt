@@ -1,22 +1,22 @@
-package org.autojs.autojs.network.api
+package org.automyjsa.automyjsa.network.api
 
-import org.autojs.autojs.network.entity.GithubReleaseInfo
-import org.autojs.autojs.network.entity.GithubReleaseInfoList
+import org.automyjsa.automyjsa.network.entity.GithubReleaseInfo
+import org.automyjsa.automyjsa.network.entity.GithubReleaseInfoList
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Headers
 import retrofit2.http.Path
 
 interface GithubUpdateCheckApi {
-    @GET("/repos/kkevsekk1/AutoX/releases/latest")
+    @GET("/repos/kkevsekk1/Automyjsx/releases/latest")
     @Headers("Cache-Control: no-cache")
     suspend fun getGithubLastReleaseInfo(): GithubReleaseInfo
 
-    @GET("/repos/kkevsekk1/AutoX/releases/tags/{tag}")
+    @GET("/repos/kkevsekk1/Automyjsx/releases/tags/{tag}")
     @Headers("Cache-Control: no-cache")
     suspend fun getGithubLastReleaseInfo(@Path("tag") tag: String): Response<GithubReleaseInfo>
 
-    @GET("/repos/kkevsekk1/AutoX/releases")
+    @GET("/repos/kkevsekk1/Automyjsx/releases")
     @Headers("Cache-Control: no-cache")
     suspend fun getGithubReleaseInfoList(): GithubReleaseInfoList
 }

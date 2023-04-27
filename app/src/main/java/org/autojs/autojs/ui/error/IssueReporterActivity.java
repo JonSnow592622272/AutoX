@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.error;
+package org.automyjsa.automyjsa.ui.error;
 
 import android.os.Bundle;
 import android.util.Base64;
@@ -21,7 +21,7 @@ public class IssueReporterActivity extends AbstractIssueReporterActivity {
 
     @Override
     protected GithubTarget getTarget() {
-        return new GithubTarget("hyb1996-guest", "auto.js-feedbacks");
+        return new GithubTarget("hyb1996-guest", "automyjsa.js-feedbacks");
     }
 
 

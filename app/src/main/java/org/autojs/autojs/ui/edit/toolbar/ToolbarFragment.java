@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.toolbar;
+package org.automyjsa.automyjsa.ui.edit.toolbar;
 
 import android.os.Bundle;
 
@@ -7,7 +7,7 @@ import androidx.fragment.app.Fragment;
 
 import android.view.View;
 
-import org.autojs.autojs.ui.edit.EditorView;
+import org.automyjsa.automyjsa.ui.edit.EditorView;
 
 import java.util.List;
 

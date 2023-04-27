@@ -1,9 +1,9 @@
-package org.autojs.autojs.build.apksigner;
+package org.automyjsa.automyjsa.build.apksigner;
 
 
-import org.autojs.autojs.build.apksigner.zipio.ZioEntry;
-import org.autojs.autojs.build.apksigner.zipio.ZipInput;
-import org.autojs.autojs.build.apksigner.zipio.ZipOutput;
+import org.automyjsa.automyjsa.build.apksigner.zipio.ZioEntry;
+import org.automyjsa.automyjsa.build.apksigner.zipio.ZipInput;
+import org.automyjsa.automyjsa.build.apksigner.zipio.ZipOutput;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

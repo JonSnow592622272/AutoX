@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">El monitoreo de gestos no está habilitado, habilítelo en la configuración del software</string>
   <string name="no_write_settings_permissin">Sin permiso para modificar la configuración del sistema</string>
   <string name="exception_notification_service_disabled">El servicio de notificación no se está ejecutando, vuelva a habilitar el permiso de notificación</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Este script requiere el número de versión de Auto.js %d o superior para ejecutarse</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Este script requiere el número de versión de Automyjsa.js %d o superior para ejecutarse</string>
   <string name="text_drawer_open">Abre el menú desplegable</string>
   <string name="text_drawer_close">Cerrar el menú desplegable</string>
   <string name="no_read_phone_state_permissin">Sin permiso para leer la información del dispositivo</string>

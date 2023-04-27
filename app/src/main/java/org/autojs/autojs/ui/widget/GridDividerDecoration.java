@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget;
+package org.automyjsa.automyjsa.ui.widget;
 
 /**
  * Created by Stardust on 2017/12/9.

@@ -1,11 +1,11 @@
-package com.stardust.autojs.core.eventloop;
+package com.stardust.automyjsa.core.eventloop;
 
 import androidx.annotation.NonNull;
 
 
-import com.stardust.autojs.core.looper.Timer;
-import com.stardust.autojs.runtime.ScriptBridges;
-import com.stardust.autojs.runtime.exception.ScriptException;
+import com.stardust.automyjsa.core.looper.Timer;
+import com.stardust.automyjsa.runtime.ScriptBridges;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
 
 import java.util.ArrayList;
 import java.util.HashMap;

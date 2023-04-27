@@ -37,7 +37,7 @@
   <string name="github">Porogaramuw sɔrɔyɔrɔ kode</string>
   <string name="text_already_copy_to_clip">A bɛ kopi kɛ ka taa clipboard kɔnɔ</string>
   <string name="text_qq_already_copy_to_clip">QQ kulu nimɔrɔ kopi kɛra clipboard kɔnɔ</string>
-  <string name="share_app">[Autox.js] Télécharger ladɛrɛsi: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Télécharger ladɛrɛsi: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Fenɛtiri min bɛ panpan</string>
   <string name="text_error_report">Filiw fɔcogo</string>
   <string name="text_press_again_to_exit">A digi tugun walisa ka bɔ porogramu kɔnɔ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import ka ɲɛtaa sɔrɔ</string>
   <string name="text_current_activity">Baara min bɛ sen na sisan:</string>
   <string name="text_current_package">Aplikasiɔn foroko tɔgɔ min bɛ sen na sisan:</string>
-  <string name="go_to_accessibility_settings">Aw ye Settings->Accessibilité Services->Autox.js da wuli k’a daminɛ</string>
+  <string name="go_to_accessibility_settings">Aw ye Settings->Accessibilité Services->Automyjsx.js da wuli k’a daminɛ</string>
   <string name="text_script_running">Sɛbɛnnibolo bolicogo</string>
   <string name="text_use_volume_to_stop_running">Volume up key bɛ sɛbɛnniw bɛɛ jɔ</string>
   <string name="text_need_to_enable_accessibility_service">Seko ni dɔnko baarakɛminɛnw ka kan ka kɛ baarakɛminɛn ye</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Sigicogo filen tɛ yen</string>
   <string name="text_foreground_service">Donda</string>
   <string name="foreground_notification_channel_name">Front desk baarakɛyɔrɔ kunnafoni</string>
-  <string name="foreground_notification_title">Autox.js bɛ to ka baara kɛ</string>
+  <string name="foreground_notification_title">Automyjsx.js bɛ to ka baara kɛ</string>
   <string name="foreground_notification_text">A digi walasa ka don interface principal kɔnɔ</string>
   <string name="text_run_on_other_broadcast">Ko wɛrɛw (fɔlikan) .</string>
   <string name="text_broadcast_action">Broadcast Action (Baarakɛcogo).</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Porozɛ in maralen bɛ %s</string>
   <string name="text_project_save_error">Porozɛ kɔlɔsili dɛsɛra %s</string>
   <string name="text_night_mode">Sufɛ cogoya</string>
-  <string name="text_run_on_startup">Ni Autox.js daminɛna</string>
+  <string name="text_run_on_startup">Ni Automyjsx.js daminɛna</string>
   <string name="text_usage_stats_permission">Baarakɛcogo sɔrɔli</string>
   <string name="description_usage_stats_permission">\"View usage statistics\" yamaruya sababu fɛ, i bɛ se ka nin minɛn in baarakɛcogo tɛmɛnenw sɔrɔ, walasa a ka kɛ tiɲɛ ye ka sisan baarakɛminɛn sɔrɔ (currentPackage).</string>
   <string name="text_open_with">Sira dabɔlen</string>

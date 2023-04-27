@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.exception;
+package com.stardust.automyjsa.runtime.exception;
 
 import org.mozilla.javascript.EvaluatorException;
 import org.mozilla.javascript.RhinoException;

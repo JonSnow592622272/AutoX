@@ -1,11 +1,11 @@
-package org.autojs.autojs.external.shortcut;
+package org.automyjsa.automyjsa.external.shortcut;
 
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 
-import org.autojs.autojs.tool.BitmapTool;
+import org.automyjsa.automyjsa.tool.BitmapTool;
 
 /**
  * Created by Stardust on 2017/1/20.

@@ -1,4 +1,4 @@
-package com.stardust.autojs.project
+package com.stardust.automyjsa.project
 
 import com.google.gson.annotations.SerializedName
 

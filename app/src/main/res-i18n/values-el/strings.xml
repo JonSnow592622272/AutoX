@@ -37,7 +37,7 @@
   <string name="github">Πηγαίος κώδικας λογισμικού</string>
   <string name="text_already_copy_to_clip">Αντιγράφηκε στο πρόχειρο</string>
   <string name="text_qq_already_copy_to_clip">Ο αριθμός της ομάδας QQ έχει αντιγραφεί στο πρόχειρο</string>
-  <string name="share_app">[Autox.js] Διεύθυνση λήψης: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Διεύθυνση λήψης: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Πλωτό παράθυρο</string>
   <string name="text_error_report">Αναφορά σφάλματος</string>
   <string name="text_press_again_to_exit">Πατήστε ξανά για έξοδο από το πρόγραμμα</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Επιτυχής εισαγωγή</string>
   <string name="text_current_activity">Τρεχων ΔΡΑΣΤΗΡΙΟΤΗΤΑ:</string>
   <string name="text_current_package">Όνομα τρέχοντος πακέτου εφαρμογής:</string>
-  <string name="go_to_accessibility_settings">Ανοίξτε το Settings->Accessibility Services->Autox.js και ενεργοποιήστε το</string>
+  <string name="go_to_accessibility_settings">Ανοίξτε το Settings->Accessibility Services->Automyjsx.js και ενεργοποιήστε το</string>
   <string name="text_script_running">Εκτέλεση σεναρίου</string>
   <string name="text_use_volume_to_stop_running">Το πλήκτρο αύξησης της έντασης του ήχου σταματά όλα τα σενάρια</string>
   <string name="text_need_to_enable_accessibility_service">Οι υπηρεσίες προσβασιμότητας πρέπει να είναι ενεργοποιημένες</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Κανένα αρχείο ρυθμίσεων</string>
   <string name="text_foreground_service">Ρεσεψιόν</string>
   <string name="foreground_notification_channel_name">Ειδοποίηση υπηρεσίας ρεσεψιόν</string>
-  <string name="foreground_notification_title">Το Autox.js συνεχίζει να λειτουργεί</string>
+  <string name="foreground_notification_title">Το Automyjsx.js συνεχίζει να λειτουργεί</string>
   <string name="foreground_notification_text">Κάντε κλικ για να εισέλθετε στην κύρια διεπαφή</string>
   <string name="text_run_on_other_broadcast">Άλλες εκδηλώσεις (μετάδοση)</string>
   <string name="text_broadcast_action">Εκπομπή Δράσης</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Το έργο έχει αποθηκευτεί στο %s</string>
   <string name="text_project_save_error">Η αποθήκευση του έργου απέτυχε %s</string>
   <string name="text_night_mode">Νυχτερινή λειτουργία</string>
-  <string name="text_run_on_startup">Όταν ξεκινά το Autox.js</string>
+  <string name="text_run_on_startup">Όταν ξεκινά το Automyjsx.js</string>
   <string name="text_usage_stats_permission">Πρόσβαση χρήσης</string>
   <string name="description_usage_stats_permission">Μέσω της άδειας \"προβολή στατιστικών χρήσης\", μπορείτε να αποκτήσετε την προηγούμενη χρήση της εφαρμογής αυτής της συσκευής, ώστε να είναι πιο ακριβής η απόκτηση της τρέχουσας εφαρμογής (currentPackage).</string>
   <string name="text_open_with">Ανοιχτό δρόμο</string>

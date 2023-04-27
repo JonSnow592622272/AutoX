@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">چاودێریکردنی ئاماژە چالاک نەکراوە، تکایە لە ڕێکخستنەکانی نەرمەکاڵادا چالاک بکە</string>
   <string name="no_write_settings_permissin">مۆڵەت نییە بۆ دەستکاریکردنی ڕێکخستنەکانی سیستەم</string>
   <string name="exception_notification_service_disabled">خزمەتگوزاری ئاگادارکردنەوە کارناکات، تکایە مۆڵەتی ئاگادارکردنەوە چالاک بکەرەوە</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ئەم سکریپتە پێویستی بە ژمارەی وەشانی Auto.js %d یان بەرزتر هەیە بۆ ئەوەی کار بکات</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ئەم سکریپتە پێویستی بە ژمارەی وەشانی Automyjsa.js %d یان بەرزتر هەیە بۆ ئەوەی کار بکات</string>
   <string name="text_drawer_open">مینیوی دابەزین بکەرەوە</string>
   <string name="text_drawer_close">مینیوی دابەزین دابخە</string>
   <string name="no_read_phone_state_permissin">مۆڵەت نییە بۆ خوێندنەوەی زانیارییەکانی ئامێرەکە</string>

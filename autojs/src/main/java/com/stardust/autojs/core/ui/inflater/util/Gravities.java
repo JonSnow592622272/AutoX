@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.util;
+package com.stardust.automyjsa.core.ui.inflater.util;
 
 import android.view.Gravity;
 

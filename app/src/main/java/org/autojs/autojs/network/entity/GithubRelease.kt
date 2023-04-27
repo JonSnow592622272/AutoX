@@ -1,7 +1,7 @@
-package org.autojs.autojs.network.entity
+package org.automyjsa.automyjsa.network.entity
 
 import com.google.gson.annotations.SerializedName
-import org.autojs.autoxjs.BuildConfig
+import org.automyjsa.automyjsx.BuildConfig
 
 class GithubReleaseInfoList : ArrayList<GithubReleaseInfo>()
 

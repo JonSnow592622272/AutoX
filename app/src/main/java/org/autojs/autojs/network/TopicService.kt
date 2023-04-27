@@ -1,8 +1,8 @@
-package org.autojs.autojs.network
+package org.automyjsa.automyjsa.network
 
-import org.autojs.autojs.network.api.TopicApi
-import org.autojs.autojs.network.entity.topic.Post
-import org.autojs.autojs.network.entity.topic.Topic
+import org.automyjsa.automyjsa.network.api.TopicApi
+import org.automyjsa.automyjsa.network.entity.topic.Post
+import org.automyjsa.automyjsa.network.entity.topic.Topic
 
 object TopicService {
 

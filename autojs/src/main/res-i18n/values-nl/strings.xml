@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gebaarbewaking is niet ingeschakeld, schakel het in in de software-instellingen</string>
   <string name="no_write_settings_permissin">Geen toestemming om systeeminstellingen te wijzigen</string>
   <string name="exception_notification_service_disabled">De meldingsservice is niet actief, schakel de meldingsrechten opnieuw in</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dit script vereist Auto.js versienummer %d of hoger om te worden uitgevoerd</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dit script vereist Automyjsa.js versienummer %d of hoger om te worden uitgevoerd</string>
   <string name="text_drawer_open">Open het vervolgkeuzemenu</string>
   <string name="text_drawer_close">Sluit het vervolgkeuzemenu</string>
   <string name="no_read_phone_state_permissin">Geen toestemming om apparaatinformatie te lezen</string>

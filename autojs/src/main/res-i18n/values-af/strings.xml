@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gebaarmonitering is nie geaktiveer nie, aktiveer dit asseblief in sagteware-instellings</string>
   <string name="no_write_settings_permissin">Geen toestemming om stelselinstellings te wysig nie</string>
   <string name="exception_notification_service_disabled">Kennisgewingdiens loop nie, aktiveer asseblief kennisgewingtoestemming weer</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Hierdie skrip vereis Auto.js weergawe nommer %d of hoër om te loop</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Hierdie skrip vereis Automyjsa.js weergawe nommer %d of hoër om te loop</string>
   <string name="text_drawer_open">Maak die aftrekkieslys oop</string>
   <string name="text_drawer_close">Maak die aftrekkieslys toe</string>
   <string name="no_read_phone_state_permissin">Geen toestemming om toestelinligting te lees nie</string>

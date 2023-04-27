@@ -37,7 +37,7 @@
   <string name="github">Software mohloli khoutu</string>
   <string name="text_already_copy_to_clip">Qopisitsoe ho clipboard</string>
   <string name="text_qq_already_copy_to_clip">Nomoro ea sehlopha sa QQ e kopitsitsoe ho clipboard</string>
-  <string name="share_app">[Autox.js] Khoasolla aterese: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Khoasolla aterese: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Fesetere e phaphametseng</string>
   <string name="text_error_report">Tlaleho ea phoso</string>
   <string name="text_press_again_to_exit">Tobetsa hape ho tsoa lenaneong</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Re atlehile ho reka thepa</string>
   <string name="text_current_activity">Ts\'ebetso ea hajoale:</string>
   <string name="text_current_package">Lebitso la hajoale la sephutheloana sa ts\'ebeliso:</string>
-  <string name="go_to_accessibility_settings">Ka kopo bula Litlhophiso-> Lits\'ebeletso tsa Phihlello-> Autox.js \'me u e lumelle</string>
+  <string name="go_to_accessibility_settings">Ka kopo bula Litlhophiso-> Lits\'ebeletso tsa Phihlello-> Automyjsx.js \'me u e lumelle</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Konopo ea ho phahamisa molumo e emisa mangolo ohle</string>
   <string name="text_need_to_enable_accessibility_service">Litšebeletso tsa phihlello li hloka ho lumelloa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ha ho faele ea tlhophiso</string>
   <string name="text_foreground_service">Kamohelo</string>
   <string name="foreground_notification_channel_name">Tsebiso ea tšebeletso ea desk e ka pele</string>
-  <string name="foreground_notification_title">Autox.js e ntse e sebetsa</string>
+  <string name="foreground_notification_title">Automyjsx.js e ntse e sebetsa</string>
   <string name="foreground_notification_text">Tobetsa ho kenya segokanyimmediamentsi sa sebolokigolo</string>
   <string name="text_run_on_other_broadcast">Liketsahalo tse ling (phatlalatso)</string>
   <string name="text_broadcast_action">Ketso ea Phatlalatso</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Morero o bolokiloe ho %s</string>
   <string name="text_project_save_error">Ho boloka morero ho hlotsoe %s</string>
   <string name="text_night_mode">Mokhoa oa bosiu</string>
-  <string name="text_run_on_startup">Ha Autox.js e qala</string>
+  <string name="text_run_on_startup">Ha Automyjsx.js e qala</string>
   <string name="text_usage_stats_permission">Phihlello ya tshebediso</string>
   <string name="description_usage_stats_permission">Ka tumello ea \"sheba lipalo-palo\", u ka fumana ts\'ebeliso ea nako e fetileng ea sesebelisoa sena, e le hore se nepahale ho fumana sesebelisoa sa hajoale (currentPackage).</string>
   <string name="text_open_with">Tsela e bulehileng</string>

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.error;
+package org.automyjsa.automyjsa.ui.error;
 
 import static android.util.Patterns.EMAIL_ADDRESS;
 
@@ -39,9 +39,9 @@ import com.heinrichreimersoftware.androidissuereporter.util.ColorUtils;
 import com.heinrichreimersoftware.androidissuereporter.util.ThemeUtils;
 import com.stardust.theme.ThemeColorManager;
 
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autoxjs.BuildConfig;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsx.BuildConfig;
+import org.automyjsa.automyjsx.R;
 import org.eclipse.egit.github.core.Issue;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.RequestException;

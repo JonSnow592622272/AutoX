@@ -80,10 +80,10 @@ runtime.init();
     })(global);
 
     importClass(android.view.KeyEvent);
-    importClass(com.stardust.autojs.core.util.Shell);
+    importClass(com.stardust.automyjsa.core.util.Shell);
     importClass(android.graphics.Paint);
-    Canvas = com.stardust.autojs.core.graphics.ScriptCanvas;
-    Image = com.stardust.autojs.core.image.ImageWrapper;
+    Canvas = com.stardust.automyjsa.core.graphics.ScriptCanvas;
+    Image = com.stardust.automyjsa.core.image.ImageWrapper;
     OkHttpClient = Packages["okhttp3"].OkHttpClient;
     Intent = android.content.Intent;
 

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Noñembohapéi gesto jesareko, emboguata software ñembohekorãme</string>
   <string name="no_write_settings_permissin">Ndaipóri permiso oñemoambue hag̃ua sistema ñemboheko</string>
   <string name="exception_notification_service_disabled">Servicio de notificación ndojejapói, emboguata jey permiso momarandu rehegua</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ko script oikotevẽ Auto.js versión papapy %d térã ijyvatevéva oñemboguata hag̃ua</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ko script oikotevẽ Automyjsa.js versión papapy %d térã ijyvatevéva oñemboguata hag̃ua</string>
   <string name="text_drawer_open">Eipe’a pe menú desplegable</string>
   <string name="text_drawer_close">Oñemboty pe menú desplegable</string>
   <string name="no_read_phone_state_permissin">Ndaipóri permiso ojelee hag̃ua dispositivo marandu</string>

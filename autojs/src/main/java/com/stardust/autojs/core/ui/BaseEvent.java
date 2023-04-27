@@ -1,6 +1,6 @@
-package com.stardust.autojs.core.ui;
+package com.stardust.automyjsa.core.ui;
 
-import com.stardust.autojs.rhino.NativeJavaObjectWithPrototype;
+import com.stardust.automyjsa.rhino.NativeJavaObjectWithPrototype;
 
 import org.mozilla.javascript.NativeJavaObject;
 import org.mozilla.javascript.ScriptRuntime;

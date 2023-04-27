@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit;
+package org.automyjsa.automyjsa.ui.edit;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -16,26 +16,26 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.stardust.app.OnActivityResultDelegate;
-import com.stardust.autojs.engine.JavaScriptEngine;
-import com.stardust.autojs.execution.ScriptExecution;
+import com.stardust.automyjsa.engine.JavaScriptEngine;
+import com.stardust.automyjsa.execution.ScriptExecution;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.model.sample.SampleFile;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.common.ScriptOperations;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.model.sample.SampleFile;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.common.ScriptOperations;
 
 import com.stardust.theme.ThemeColorManager;
 import com.stardust.util.SparseArrayEntries;
 
-import org.autojs.autojs.ui.widget.ToolbarMenuItem;
+import org.automyjsa.automyjsa.ui.widget.ToolbarMenuItem;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 
-import static org.autojs.autojs.model.script.Scripts.ACTION_ON_EXECUTION_FINISHED;
-import static org.autojs.autojs.model.script.Scripts.EXTRA_EXCEPTION_MESSAGE;
+import static org.automyjsa.automyjsa.model.script.Scripts.ACTION_ON_EXECUTION_FINISHED;
+import static org.automyjsa.automyjsa.model.script.Scripts.EXTRA_EXCEPTION_MESSAGE;
 
 
 /**
@@ -151,7 +151,7 @@ public class ViewSampleActivity extends AppCompatActivity implements OnActivityR
 
 
     private void showLog() {
-        AutoJs.getInstance().getScriptEngineService().getGlobalConsole().show();
+        Automyjsa.getInstance().getScriptEngineService().getGlobalConsole().show();
     }
 
     private void showConsole() {

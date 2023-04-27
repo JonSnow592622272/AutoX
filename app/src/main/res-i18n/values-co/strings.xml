@@ -37,7 +37,7 @@
   <string name="github">Codice fonte di u software</string>
   <string name="text_already_copy_to_clip">Copiatu in u clipboard</string>
   <string name="text_qq_already_copy_to_clip">U numeru di u gruppu QQ hè statu copiatu in u clipboard</string>
-  <string name="share_app">[Autox.js] Indirizzu di scaricamentu: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Indirizzu di scaricamentu: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Finestra flottante</string>
   <string name="text_error_report">Rapportu d\'errore</string>
   <string name="text_press_again_to_exit">Preme dinò per esce da u prugramma</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importazione successu</string>
   <string name="text_current_activity">Attività attuale:</string>
   <string name="text_current_package">Nome di u pacchettu di l\'applicazione attuale:</string>
-  <string name="go_to_accessibility_settings">Per piacè apre Settings->Accessibility Services->Autox.js è attivallu</string>
+  <string name="go_to_accessibility_settings">Per piacè apre Settings->Accessibility Services->Automyjsx.js è attivallu</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">A chjave di u voluminu ferma tutti i script</string>
   <string name="text_need_to_enable_accessibility_service">I servizii d\'accessibilità anu da esse attivati</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nisun schedariu di cunfigurazione</string>
   <string name="text_foreground_service">Reception</string>
   <string name="foreground_notification_channel_name">Notificazione di serviziu di reception</string>
-  <string name="foreground_notification_title">Autox.js cuntinueghja in esecuzione</string>
+  <string name="foreground_notification_title">Automyjsx.js cuntinueghja in esecuzione</string>
   <string name="foreground_notification_text">Cliccate per entre in l\'interfaccia principale</string>
   <string name="text_run_on_other_broadcast">Altri avvenimenti (trasmissione)</string>
   <string name="text_broadcast_action">Azzione di trasmissione</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">U prughjettu hè statu salvatu in %s</string>
   <string name="text_project_save_error">A salvezza di u prugettu hà fiascatu %s</string>
   <string name="text_night_mode">Modu di notte</string>
-  <string name="text_run_on_startup">Quandu Autox.js principia</string>
+  <string name="text_run_on_startup">Quandu Automyjsx.js principia</string>
   <string name="text_usage_stats_permission">Accessu à usu</string>
   <string name="description_usage_stats_permission">Per mezu di l\'autorizazione \"Vede statistiche di l\'usu\", pudete ottene l\'utilizazione di l\'applicazione passata di stu dispositivu, in modu chì hè più precisa per ottene l\'applicazione attuale (Package currente).</string>
   <string name="text_open_with">Manera aperta</string>

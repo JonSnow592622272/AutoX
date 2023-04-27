@@ -1,14 +1,14 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
 import android.content.Context;
 import android.content.res.AssetManager;
 
-import com.stardust.autojs.project.ProjectConfig;
+import com.stardust.automyjsa.project.ProjectConfig;
 import com.stardust.pio.PFile;
 import com.stardust.pio.PFiles;
 
-import org.autojs.autojs.Pref;
-import org.autojs.autojs.model.script.ScriptFile;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
 
 import java.io.File;
 import java.io.FileFilter;

@@ -1,4 +1,4 @@
-package com.stardust.auojs.inrt.autojs
+package com.stardust.auojs.inrt.automyjsa
 
 import android.accessibilityservice.AccessibilityService
 import android.content.Context
@@ -7,7 +7,7 @@ import android.provider.Settings
 import android.text.TextUtils
 import com.stardust.app.GlobalAppContext
 import com.stardust.app.GlobalAppContext.get
-import com.stardust.autojs.core.util.ProcessShell
+import com.stardust.automyjsa.core.util.ProcessShell
 import com.stardust.view.accessibility.AccessibilityServiceUtils.isAccessibilityServiceEnabled
 import java.util.*
 
@@ -51,7 +51,7 @@ object AccessibilityServiceTool {
     }
 
     fun isAccessibilityServiceEnabled(context: Context): Boolean {
-        return isAccessibilityServiceEnabled(context, com.stardust.autojs.core.accessibility.AccessibilityService::class.java)
+        return isAccessibilityServiceEnabled(context, com.stardust.automyjsa.core.accessibility.AccessibilityService::class.java)
     }
 
 }

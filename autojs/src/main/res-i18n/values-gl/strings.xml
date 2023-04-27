@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">A supervisión de xestos non está activada, actívaa na configuración do software</string>
   <string name="no_write_settings_permissin">Sen permiso para modificar a configuración do sistema</string>
   <string name="exception_notification_service_disabled">O servizo de notificacións non se está a executar, volve activar o permiso de notificación</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Este script require o número de versión de Auto.js %d ou superior para executarse</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Este script require o número de versión de Automyjsa.js %d ou superior para executarse</string>
   <string name="text_drawer_open">Abre o menú despregable</string>
   <string name="text_drawer_close">Pecha o menú despregable</string>
   <string name="no_read_phone_state_permissin">Sen permiso para ler a información do dispositivo</string>

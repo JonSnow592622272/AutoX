@@ -1,10 +1,10 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import androidx.annotation.NonNull;
 
-import com.stardust.autojs.core.looper.MainThreadProxy;
-import com.stardust.autojs.core.looper.TimerThread;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.looper.MainThreadProxy;
+import com.stardust.automyjsa.core.looper.TimerThread;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.concurrent.VolatileDispose;
 
 import java.util.HashSet;

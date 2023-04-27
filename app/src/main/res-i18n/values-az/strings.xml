@@ -37,7 +37,7 @@
   <string name="github">Proqram təminatının mənbə kodu</string>
   <string name="text_already_copy_to_clip">Buferə kopyalandı</string>
   <string name="text_qq_already_copy_to_clip">QQ qrup nömrəsi buferə kopyalandı</string>
-  <string name="share_app">[Autox.js] Endirmə ünvanı: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Endirmə ünvanı: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Üzən pəncərə</string>
   <string name="text_error_report">Səhv hesabatı</string>
   <string name="text_press_again_to_exit">Proqramdan çıxmaq üçün yenidən basın</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">İdxal uğurlu</string>
   <string name="text_current_activity">Cari fəaliyyət:</string>
   <string name="text_current_package">Cari proqram paketinin adı:</string>
-  <string name="go_to_accessibility_settings">Lütfən, Parametrlər-> Əlçatımlılıq Xidmətləri->Autox.js-i açın və onu aktivləşdirin</string>
+  <string name="go_to_accessibility_settings">Lütfən, Parametrlər-> Əlçatımlılıq Xidmətləri->Automyjsx.js-i açın və onu aktivləşdirin</string>
   <string name="text_script_running">Skript işləməsi</string>
   <string name="text_use_volume_to_stop_running">Səs artırma düyməsi bütün skriptləri dayandırır</string>
   <string name="text_need_to_enable_accessibility_service">Əlçatanlıq xidmətləri aktivləşdirilməlidir</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Konfiqurasiya faylı yoxdur</string>
   <string name="text_foreground_service">Qəbul</string>
   <string name="foreground_notification_channel_name">Ön büro xidməti bildirişi</string>
-  <string name="foreground_notification_title">Autox.js işləməyə davam edir</string>
+  <string name="foreground_notification_title">Automyjsx.js işləməyə davam edir</string>
   <string name="foreground_notification_text">Əsas interfeysə daxil olmaq üçün klikləyin</string>
   <string name="text_run_on_other_broadcast">Digər tədbirlər (yayım)</string>
   <string name="text_broadcast_action">Yayım Fəaliyyəti</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Layihə %s -də yadda saxlanıldı</string>
   <string name="text_project_save_error">Layihə %s yadda saxlanıla bilmədi</string>
   <string name="text_night_mode">Gecə rejimi</string>
-  <string name="text_run_on_startup">Autox.js başlayanda</string>
+  <string name="text_run_on_startup">Automyjsx.js başlayanda</string>
   <string name="text_usage_stats_permission">Istifadəyə giriş</string>
   <string name="description_usage_stats_permission">\"İstifadə statistikasına baxmaq\" icazəsi vasitəsilə siz bu cihazın keçmiş proqram istifadəsini əldə edə bilərsiniz ki, cari tətbiqi (currentPackage) əldə etmək daha dəqiq olsun.</string>
   <string name="text_open_with">Açıq yol</string>

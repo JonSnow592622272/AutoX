@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.editor;
+package org.automyjsa.automyjsa.ui.edit.editor;
 
 import android.text.Editable;
 import android.text.TextWatcher;

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Мониторинги имову ишора фаъол нест, лутфан онро дар танзимоти нармафзор фаъол созед</string>
   <string name="no_write_settings_permissin">Иҷозат барои тағир додани танзимоти система нест</string>
   <string name="exception_notification_service_disabled">Хидмати огоҳинома кор намекунад, лутфан иҷозати огоҳиномаро дубора фаъол созед</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Барои иҷро кардани ин скрипт рақами версияи Auto.js %d ё болотарро талаб мекунад</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Барои иҷро кардани ин скрипт рақами версияи Automyjsa.js %d ё болотарро талаб мекунад</string>
   <string name="text_drawer_open">Менюи афтандаро кушоед</string>
   <string name="text_drawer_close">Менюи афтандаро пӯшед</string>
   <string name="no_read_phone_state_permissin">Иҷозат барои хондани маълумоти дастгоҳ нест</string>

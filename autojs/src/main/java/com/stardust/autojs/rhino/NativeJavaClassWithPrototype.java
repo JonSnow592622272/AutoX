@@ -1,4 +1,4 @@
-package com.stardust.autojs.rhino;
+package com.stardust.automyjsa.rhino;
 
 import org.mozilla.javascript.EvaluatorException;
 import org.mozilla.javascript.NativeJavaClass;
@@ -84,7 +84,7 @@ public class NativeJavaClassWithPrototype extends NativeJavaClass {
     }
 
     private static boolean memberNotFound(EvaluatorException e) {
-        return e.getMessage() != null && e.getMessage().startsWith("Java class \"com.stardust.autojs.rhino.NativeJavaObjectWithPrototype\"");
+        return e.getMessage() != null && e.getMessage().startsWith("Java class \"com.stardust.automyjsa.rhino.NativeJavaObjectWithPrototype\"");
     }
 
 }

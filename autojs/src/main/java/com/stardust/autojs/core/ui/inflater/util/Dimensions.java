@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.util;
+package com.stardust.automyjsa.core.ui.inflater.util;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -50,7 +50,7 @@ public class Dimensions {
     public static float parseToPixel(String dimension, Context context) {
         if (dimension.startsWith("?")) {
             int[] attr = {context.getResources().getIdentifier(dimension.substring(1), "attr",
-                    GlobalAppContext.getAutojsPackageName())};
+                    GlobalAppContext.getAutomyjsaPackageName())};
             TypedArray ta = context.obtainStyledAttributes(attr);
             float d = ta.getDimension(0, 0);
             ta.recycle();

@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.autocomplete;
+package org.automyjsa.automyjsa.model.autocomplete;
 
 /**
  * Created by Stardust on 2018/2/3.

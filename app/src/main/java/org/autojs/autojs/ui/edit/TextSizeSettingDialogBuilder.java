@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit;
+package org.automyjsa.automyjsa.ui.edit;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
@@ -7,8 +7,8 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

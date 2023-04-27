@@ -24,14 +24,14 @@ import androidx.annotation.RequiresApi;
 
 import com.stardust.auojs.inrt.util.MarketJavascriptInterface;
 
-import org.autojs.autoxjs.inrt.R;
+import org.automyjsa.automyjsx.inrt.R;
 
 import java.util.List;
 
 public class FeatureActivity extends Activity {
 	private WebView webView;
 	private ProgressBar mProgressBar;
-	private String url ="http://mk.autoxjs.com/pages/ykapp/choiseFeature";
+	private String url ="http://mk.automyjsx.com/pages/ykapp/choiseFeature";
 	MarketJavascriptInterface marketJavascriptInterface;
 
 

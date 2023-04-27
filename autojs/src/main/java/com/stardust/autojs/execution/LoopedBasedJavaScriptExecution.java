@@ -1,10 +1,10 @@
-package com.stardust.autojs.execution;
+package com.stardust.automyjsa.execution;
 
-import com.stardust.autojs.engine.LoopBasedJavaScriptEngine;
-import com.stardust.autojs.engine.ScriptEngine;
-import com.stardust.autojs.engine.ScriptEngineManager;
-import com.stardust.autojs.core.looper.Loopers;
-import com.stardust.autojs.script.JavaScriptSource;
+import com.stardust.automyjsa.engine.LoopBasedJavaScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngineManager;
+import com.stardust.automyjsa.core.looper.Loopers;
+import com.stardust.automyjsa.script.JavaScriptSource;
 
 /**
  * Created by Stardust on 2017/10/27.

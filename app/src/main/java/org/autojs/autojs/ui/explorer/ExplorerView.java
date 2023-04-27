@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.explorer;
+package org.automyjsa.automyjsa.ui.explorer;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -23,28 +23,28 @@ import android.widget.TextView;
 
 import com.stardust.pio.PFiles;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.explorer.Explorer;
-import org.autojs.autojs.model.explorer.ExplorerChangeEvent;
-import org.autojs.autojs.model.explorer.ExplorerDirPage;
-import org.autojs.autojs.model.explorer.ExplorerFileItem;
-import org.autojs.autojs.model.explorer.ExplorerItem;
-import org.autojs.autojs.model.explorer.ExplorerPage;
-import org.autojs.autojs.model.explorer.ExplorerProjectPage;
-import org.autojs.autojs.model.explorer.ExplorerSampleItem;
-import org.autojs.autojs.model.explorer.ExplorerSamplePage;
-import org.autojs.autojs.model.explorer.Explorers;
-import org.autojs.autojs.model.script.ScriptFile;
-import org.autojs.autojs.model.script.Scripts;
-import org.autojs.autojs.tool.Observers;
-import org.autojs.autojs.ui.build.BuildActivity;
-import org.autojs.autojs.ui.common.ScriptLoopDialog;
-import org.autojs.autojs.ui.common.ScriptOperations;
-import org.autojs.autojs.ui.viewmodel.ExplorerItemList;
-import org.autojs.autojs.ui.widget.BindableViewHolder;
-import org.autojs.autojs.theme.widget.ThemeColorSwipeRefreshLayout;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.explorer.Explorer;
+import org.automyjsa.automyjsa.model.explorer.ExplorerChangeEvent;
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerFileItem;
+import org.automyjsa.automyjsa.model.explorer.ExplorerItem;
+import org.automyjsa.automyjsa.model.explorer.ExplorerPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerProjectPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerSampleItem;
+import org.automyjsa.automyjsa.model.explorer.ExplorerSamplePage;
+import org.automyjsa.automyjsa.model.explorer.Explorers;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
+import org.automyjsa.automyjsa.model.script.Scripts;
+import org.automyjsa.automyjsa.tool.Observers;
+import org.automyjsa.automyjsa.ui.build.BuildActivity;
+import org.automyjsa.automyjsa.ui.common.ScriptLoopDialog;
+import org.automyjsa.automyjsa.ui.common.ScriptOperations;
+import org.automyjsa.automyjsa.ui.viewmodel.ExplorerItemList;
+import org.automyjsa.automyjsa.ui.widget.BindableViewHolder;
+import org.automyjsa.automyjsa.theme.widget.ThemeColorSwipeRefreshLayout;
 
-import org.autojs.autojs.workground.WrapContentGridLayoutManger;
+import org.automyjsa.automyjsa.workground.WrapContentGridLayoutManger;
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
 

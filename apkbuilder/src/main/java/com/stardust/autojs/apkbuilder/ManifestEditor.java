@@ -1,4 +1,4 @@
-package com.stardust.autojs.apkbuilder;
+package com.stardust.automyjsa.apkbuilder;
 
 import org.apache.commons.io.IOUtils;
 

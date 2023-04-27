@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">इशारा निगरानी सक्षम नेईं ऐ, कृपा करियै इसगी सॉफ्टवेयर सेटिंग्स च सक्षम करो</string>
   <string name="no_write_settings_permissin">सिस्टम सेटिंग्स गी संशोधित करने दी कोई इजाजत नेईं ऐ</string>
   <string name="exception_notification_service_disabled">सूचना सेवा नेईं चलदी ऐ, कृपा करियै सूचना अनुमति गी दुबारा सक्षम करो</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">इस स्क्रिप्ट गी चलाने आस्तै Auto.js संस्करण संख्या %d जां उस थमां मती लोड़ ऐ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">इस स्क्रिप्ट गी चलाने आस्तै Automyjsa.js संस्करण संख्या %d जां उस थमां मती लोड़ ऐ</string>
   <string name="text_drawer_open">ड्रॉप डाउन मेनू खोलो</string>
   <string name="text_drawer_close">ड्रॉप डाउन मेनू बंद करो</string>
   <string name="no_read_phone_state_permissin">डिवाइस दी जानकारी पढ़ने दी कोई इजाजत नेईं ऐ</string>

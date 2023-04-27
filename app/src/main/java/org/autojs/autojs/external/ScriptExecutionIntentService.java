@@ -1,4 +1,4 @@
-package org.autojs.autojs.external;
+package org.automyjsa.automyjsa.external;
 
 import android.app.IntentService;
 import android.content.Intent;

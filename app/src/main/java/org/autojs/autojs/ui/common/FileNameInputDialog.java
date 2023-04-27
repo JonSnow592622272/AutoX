@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
@@ -8,7 +8,7 @@ import android.widget.EditText;
 import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import java.io.File;
 

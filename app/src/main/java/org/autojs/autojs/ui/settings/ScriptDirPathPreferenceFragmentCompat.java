@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.settings;
+package org.automyjsa.automyjsa.ui.settings;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -11,12 +11,12 @@ import androidx.preference.EditTextPreferenceDialogFragmentCompat;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.explorer.Explorers;
-import org.autojs.autojs.storage.file.FileObservable;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
-import org.autojs.autojs.tool.SimpleObserver;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.explorer.Explorers;
+import org.automyjsa.automyjsa.storage.file.FileObservable;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.tool.SimpleObserver;
 
 import java.io.File;
 

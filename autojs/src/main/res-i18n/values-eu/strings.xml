@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Keinuen monitorizazioa ez dago gaituta, gaitu ezazu softwarearen ezarpenetan</string>
   <string name="no_write_settings_permissin">Ez dago sistemaren ezarpenak aldatzeko baimenik</string>
   <string name="exception_notification_service_disabled">Jakinarazpen-zerbitzua ez dago martxan. Mesedez, gaitu berriro jakinarazpen-baimena</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script honek Auto.js bertsio-zenbakia %d edo handiagoa behar du exekutatzeko</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script honek Automyjsa.js bertsio-zenbakia %d edo handiagoa behar du exekutatzeko</string>
   <string name="text_drawer_open">Ireki goitibeherako menua</string>
   <string name="text_drawer_close">Itxi goitibeherako menua</string>
   <string name="no_read_phone_state_permissin">Ez dago baimenik gailuaren informazioa irakurtzeko</string>

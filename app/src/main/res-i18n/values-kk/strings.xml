@@ -37,7 +37,7 @@
   <string name="github">Бағдарламалық құралдың бастапқы коды</string>
   <string name="text_already_copy_to_clip">Алмасу буферіне көшірілді</string>
   <string name="text_qq_already_copy_to_clip">QQ тобының нөмірі алмасу буферіне көшірілді</string>
-  <string name="share_app">[Autox.js] Жүктеп алу мекенжайы: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Жүктеп алу мекенжайы: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Қалқымалы терезе</string>
   <string name="text_error_report">Қате туралы есеп</string>
   <string name="text_press_again_to_exit">Бағдарламадан шығу үшін қайтадан басыңыз</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Импорт сәтті</string>
   <string name="text_current_activity">Ағымдағы әрекет:</string>
   <string name="text_current_package">Ағымдағы қолданба пакетінің атауы:</string>
-  <string name="go_to_accessibility_settings">Параметрлер->Арнайы мүмкіндіктер қызметтері->Autox.js ашып, оны қосыңыз</string>
+  <string name="go_to_accessibility_settings">Параметрлер->Арнайы мүмкіндіктер қызметтері->Automyjsx.js ашып, оны қосыңыз</string>
   <string name="text_script_running">Сценарийді іске қосу</string>
   <string name="text_use_volume_to_stop_running">Дыбыс деңгейін арттыру пернесі барлық сценарийлерді тоқтатады</string>
   <string name="text_need_to_enable_accessibility_service">Арнайы мүмкіндіктер қызметтерін қосу керек</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Конфигурация файлы жоқ</string>
   <string name="text_foreground_service">Қабылдау</string>
   <string name="foreground_notification_channel_name">Қабылдау үстелінің қызметі туралы хабарлама</string>
-  <string name="foreground_notification_title">Autox.js жұмысын жалғастырады</string>
+  <string name="foreground_notification_title">Automyjsx.js жұмысын жалғастырады</string>
   <string name="foreground_notification_text">Негізгі интерфейске кіру үшін басыңыз</string>
   <string name="text_run_on_other_broadcast">Басқа оқиғалар (эфир)</string>
   <string name="text_broadcast_action">Тарату әрекеті</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Жоба %s ішіне сақталды</string>
   <string name="text_project_save_error">Жоба %s сақталмады</string>
   <string name="text_night_mode">Түнгі режим</string>
-  <string name="text_run_on_startup">Autox.js іске қосылғанда</string>
+  <string name="text_run_on_startup">Automyjsx.js іске қосылғанда</string>
   <string name="text_usage_stats_permission">Пайдалану рұқсаты</string>
   <string name="description_usage_stats_permission">«Қолдану статистикасын қарау» рұқсаты арқылы ағымдағы қолданбаны (currentPackage) алу дәлірек болуы үшін осы құрылғының бұрынғы қолданбаны пайдалануын алуға болады.</string>
   <string name="text_open_with">Ашық жол</string>

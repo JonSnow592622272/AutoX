@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.console;
+package com.stardust.automyjsa.core.console;
 
 import android.content.Context;
 import android.content.ContextWrapper;
@@ -23,7 +23,7 @@ import com.stardust.enhancedfloaty.ResizableExpandableFloaty;
 import com.stardust.enhancedfloaty.ResizableExpandableFloatyWindow;
 import com.stardust.util.ScreenMetrics;
 import com.stardust.util.ViewUtil;
-import com.stardust.autojs.R;
+import com.stardust.automyjsa.R;
 import com.stardust.util.ViewUtils;
 
 /**

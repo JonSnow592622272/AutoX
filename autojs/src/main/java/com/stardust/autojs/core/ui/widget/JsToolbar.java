@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.widget;
+package com.stardust.automyjsa.core.ui.widget;
 
 import android.app.Activity;
 import android.content.Context;
@@ -10,7 +10,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.util.AttributeSet;
 
-import com.stardust.autojs.R;
+import com.stardust.automyjsa.R;
 
 public class JsToolbar extends Toolbar {
 

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating;
+package org.automyjsa.automyjsa.ui.floating;
 
 import android.view.View;
 

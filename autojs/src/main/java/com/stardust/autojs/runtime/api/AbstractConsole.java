@@ -1,9 +1,9 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import androidx.annotation.Nullable;
 import android.util.Log;
 
-import com.stardust.autojs.runtime.exception.ScriptException;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
 
 /**
  * Created by Stardust on 2017/5/1.

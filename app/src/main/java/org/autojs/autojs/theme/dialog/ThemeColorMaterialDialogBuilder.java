@@ -1,4 +1,4 @@
-package org.autojs.autojs.theme.dialog;
+package org.automyjsa.automyjsa.theme.dialog;
 
 import android.content.Context;
 import androidx.annotation.NonNull;

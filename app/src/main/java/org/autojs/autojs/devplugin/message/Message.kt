@@ -1,4 +1,4 @@
-package org.autojs.autojs.devplugin.message
+package org.automyjsa.automyjsa.devplugin.message
 
 import com.google.gson.annotations.SerializedName
 

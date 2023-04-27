@@ -1,8 +1,8 @@
-package com.stardust.autojs.core.console;
+package com.stardust.automyjsa.core.console;
 
 import androidx.annotation.Nullable;
 
-import com.stardust.autojs.runtime.api.Console;
+import com.stardust.automyjsa.runtime.api.Console;
 
 /**
  * Created by Stardust on 2017/9/21.

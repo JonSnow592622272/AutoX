@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.util
+package org.automyjsa.automyjsa.ui.util
 
 import android.content.Context
 import android.content.res.Configuration

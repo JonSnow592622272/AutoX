@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.util;
+package com.stardust.automyjsa.core.ui.inflater.util;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -17,7 +17,7 @@ import android.widget.ImageView;
 import androidx.core.content.ContextCompat;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.core.ui.inflater.ImageLoader;
+import com.stardust.automyjsa.core.ui.inflater.ImageLoader;
 
 import java.net.URL;
 import java.util.regex.Matcher;
@@ -59,7 +59,7 @@ public class Drawables {
 
     public Drawable loadDrawableResources(Context context, String value) {
         int resId = context.getResources().getIdentifier(value, "drawable",
-                GlobalAppContext.getAutojsPackageName());
+                GlobalAppContext.getAutomyjsaPackageName());
         if (resId == 0)
             throw new Resources.NotFoundException("drawable not found: " + value);
         return ContextCompat.getDrawable(context,resId);
@@ -67,7 +67,7 @@ public class Drawables {
 
     public Drawable loadAttrResources(Context context, String value) {
         int[] attr = {context.getResources().getIdentifier(value.substring(1), "attr",
-                GlobalAppContext.getAutojsPackageName())};
+                GlobalAppContext.getAutomyjsaPackageName())};
         TypedArray ta = context.obtainStyledAttributes(attr);
         Drawable drawable = ta.getDrawable(0 /* index */);
         ta.recycle();

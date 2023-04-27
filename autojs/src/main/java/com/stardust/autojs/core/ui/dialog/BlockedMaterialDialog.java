@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.dialog;
+package com.stardust.automyjsa.core.ui.dialog;
 
 import android.app.Activity;
 import android.content.Context;
@@ -13,10 +13,10 @@ import android.view.WindowManager;
 import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.Theme;
-import com.stardust.autojs.rhino.continuation.Continuation;
-import com.stardust.autojs.runtime.ScriptBridges;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.rhino.continuation.Continuation;
+import com.stardust.automyjsa.runtime.ScriptBridges;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.concurrent.VolatileDispose;
 import com.stardust.util.ArrayUtils;
 import com.stardust.util.UiHandler;

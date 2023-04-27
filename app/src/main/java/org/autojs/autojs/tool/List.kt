@@ -1,4 +1,4 @@
-package org.autojs.autojs.tool
+package org.automyjsa.automyjsa.tool
 
 fun <T : Any?> MutableList<T>.addIfNotExist(element: T): Boolean {
     if (!this.contains(element)) {

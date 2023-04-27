@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.explorer
+package org.automyjsa.automyjsa.ui.explorer
 
 import android.content.Context
 import android.util.AttributeSet
@@ -9,20 +9,20 @@ import androidx.cardview.widget.CardView
 import butterknife.BindView
 import butterknife.ButterKnife
 import butterknife.OnClick
-import com.stardust.autojs.project.ProjectConfig
-import com.stardust.autojs.project.ProjectConfig.Companion.fromProjectDirAsync
-import com.stardust.autojs.project.ProjectLauncher
+import com.stardust.automyjsa.project.ProjectConfig
+import com.stardust.automyjsa.project.ProjectConfig.Companion.fromProjectDirAsync
+import com.stardust.automyjsa.project.ProjectLauncher
 import com.stardust.pio.PFile
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.model.explorer.ExplorerChangeEvent
-import org.autojs.autojs.model.explorer.Explorers
-import org.autojs.autojs.ui.build.BuildActivity.Companion.start
-import org.autojs.autojs.ui.build.ProjectConfigActivity
-import org.autojs.autojs.ui.build.ProjectConfigActivity_
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.model.explorer.ExplorerChangeEvent
+import org.automyjsa.automyjsa.model.explorer.Explorers
+import org.automyjsa.automyjsa.ui.build.BuildActivity.Companion.start
+import org.automyjsa.automyjsa.ui.build.ProjectConfigActivity
+import org.automyjsa.automyjsa.ui.build.ProjectConfigActivity_
+import org.automyjsa.automyjsx.R
 import org.greenrobot.eventbus.Subscribe
 
 class ExplorerProjectToolbar : CardView {
@@ -77,7 +77,7 @@ class ExplorerProjectToolbar : CardView {
     fun run() {
         try {
             ProjectLauncher(mDirectory!!.path)
-                .launch(AutoJs.getInstance().scriptEngineService)
+                .launch(Automyjsa.getInstance().scriptEngineService)
         } catch (e: Exception) {
             e.printStackTrace()
             Toast.makeText(context, e.message, Toast.LENGTH_LONG).show()

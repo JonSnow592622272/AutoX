@@ -1,14 +1,14 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import androidx.annotation.Nullable;
 import android.view.ViewGroup;
 
-import com.stardust.autojs.core.ui.inflater.DynamicLayoutInflater;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.ViewCreator;
-import com.stardust.autojs.core.ui.widget.JsListView;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.workground.WrapContentLinearLayoutManager;
+import com.stardust.automyjsa.core.ui.inflater.DynamicLayoutInflater;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ViewCreator;
+import com.stardust.automyjsa.core.ui.widget.JsListView;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.workground.WrapContentLinearLayoutManager;
 
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;

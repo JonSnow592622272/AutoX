@@ -1,13 +1,13 @@
-package com.stardust.autojs.core.record.inputevent;
+package com.stardust.automyjsa.core.record.inputevent;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
 import android.util.Log;
 
-import com.stardust.autojs.core.inputevent.InputEventCodes;
-import com.stardust.autojs.core.inputevent.InputEventObserver;
-import com.stardust.autojs.core.inputevent.RootAutomator;
-import com.stardust.autojs.engine.RootAutomatorEngine;
+import com.stardust.automyjsa.core.inputevent.InputEventCodes;
+import com.stardust.automyjsa.core.inputevent.InputEventObserver;
+import com.stardust.automyjsa.core.inputevent.RootAutomator;
+import com.stardust.automyjsa.engine.RootAutomatorEngine;
 import com.stardust.pio.UncheckedIOException;
 import com.stardust.util.ScreenMetrics;
 

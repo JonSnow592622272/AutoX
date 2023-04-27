@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.attribute;
+package com.stardust.automyjsa.core.ui.attribute;
 
 import android.view.View;
 

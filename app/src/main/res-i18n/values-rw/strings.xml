@@ -37,7 +37,7 @@
   <string name="github">Kode ya software</string>
   <string name="text_already_copy_to_clip">Yandukuwe Kuri Ububiko</string>
   <string name="text_qq_already_copy_to_clip">Nomero yitsinda rya QQ ryimuwe mububiko</string>
-  <string name="share_app">[Autox.js] Gukuramo aderesi: https://github.com/kkevsekk1/AutoX/ibisohoka</string>
+  <string name="share_app">[Automyjsx.js] Gukuramo aderesi: https://github.com/kkevsekk1/Automyjsx/ibisohoka</string>
   <string name="text_floating_window">Idirishya rireremba</string>
   <string name="text_error_report">Raporo y\'amakosa</string>
   <string name="text_press_again_to_exit">Ongera ukande kuri progaramu</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Kuzana ibicuruzwa neza</string>
   <string name="text_current_activity">Igikorwa kiriho:</string>
   <string name="text_current_package">Izina rya porogaramu isaba ubu:</string>
-  <string name="go_to_accessibility_settings">Nyamuneka fungura Igenamiterere-> Serivise zoroshye-> Autox.js hanyuma ubishoboze</string>
+  <string name="go_to_accessibility_settings">Nyamuneka fungura Igenamiterere-> Serivise zoroshye-> Automyjsx.js hanyuma ubishoboze</string>
   <string name="text_script_running">Inyandiko</string>
   <string name="text_use_volume_to_stop_running">Kuzamura urufunguzo ruhagarika inyandiko zose</string>
   <string name="text_need_to_enable_accessibility_service">Serivise zigomba gukenerwa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nta dosiye iboneza</string>
   <string name="text_foreground_service">Kwakira</string>
   <string name="foreground_notification_channel_name">Kumenyesha serivisi imbere</string>
-  <string name="foreground_notification_title">Autox.js ikomeza gukora</string>
+  <string name="foreground_notification_title">Automyjsx.js ikomeza gukora</string>
   <string name="foreground_notification_text">Kanda kugirango winjire nyamukuru</string>
   <string name="text_run_on_other_broadcast">Ibindi birori (gutangaza)</string>
   <string name="text_broadcast_action">Igikorwa cyo Kwamamaza</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Umushinga wabitswe kugeza %s</string>
   <string name="text_project_save_error">Umushinga wo kuzigama watsinzwe %s</string>
   <string name="text_night_mode">Uburyo bwijoro</string>
-  <string name="text_run_on_startup">Iyo Autox.js itangiye</string>
+  <string name="text_run_on_startup">Iyo Automyjsx.js itangiye</string>
   <string name="text_usage_stats_permission">Imikoreshereze</string>
   <string name="description_usage_stats_permission">Binyuze mu ruhushya rwo \"kureba imibare ikoreshwa\", urashobora kubona imikoreshereze yashize yiki gikoresho, kugirango birusheho kuba byiza kubona porogaramu iriho (Package).</string>
   <string name="text_open_with">Inzira ifunguye</string>

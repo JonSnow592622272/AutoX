@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Bevægelsesovervågning er ikke aktiveret. Aktiver det i softwareindstillingerne</string>
   <string name="no_write_settings_permissin">Ingen tilladelse til at ændre systemindstillinger</string>
   <string name="exception_notification_service_disabled">Notifikationstjenesten kører ikke, genaktiver venligst notifikationstilladelsen</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dette script kræver Auto.js versionsnummer %d eller højere for at køre</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Dette script kræver Automyjsa.js versionsnummer %d eller højere for at køre</string>
   <string name="text_drawer_open">Åbn rullemenuen</string>
   <string name="text_drawer_close">Luk rullemenuen</string>
   <string name="no_read_phone_state_permissin">Ingen tilladelse til at læse enhedsoplysninger</string>

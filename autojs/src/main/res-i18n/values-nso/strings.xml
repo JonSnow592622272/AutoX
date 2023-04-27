@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Go hlokomela boitšhišinyo bja mmele ga go kgontšhwa, hle e kgontšhe ka go dipeakanyo tša softwere</string>
   <string name="no_write_settings_permissin">Ga go na tumelelo ya go fetoša dipeakanyo tša tshepedišo</string>
   <string name="exception_notification_service_disabled">Tirelo ya tsebišo ga e šome, hle kgontšha gape tumelelo ya tsebišo</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Sengwalwa se se nyaka nomoro ya phetolelo ya Auto.js %d goba go feta gore e šome</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Sengwalwa se se nyaka nomoro ya phetolelo ya Automyjsa.js %d goba go feta gore e šome</string>
   <string name="text_drawer_open">Bula thepo ya go theoga</string>
   <string name="text_drawer_close">Tswala menu ya go theoga</string>
   <string name="no_read_phone_state_permissin">Ga go na tumelelo ya go bala tshedimošo ya sedirišwa</string>

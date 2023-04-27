@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.theme;
+package org.automyjsa.automyjsa.ui.edit.theme;
 
 
 import org.mozilla.javascript.Token;

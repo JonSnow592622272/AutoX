@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.receiver;
+package org.automyjsa.automyjsa.external.receiver;
 
 import java.util.ArrayList;
 import java.util.Arrays;

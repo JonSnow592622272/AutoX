@@ -1,4 +1,4 @@
-package org.autojs.autojs.autojs;
+package org.automyjsa.automyjsa.automyjsa;
 
 import android.app.Application;
 import android.content.BroadcastReceiver;
@@ -11,39 +11,39 @@ import android.util.Log;
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.core.console.GlobalConsole;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.accessibility.AccessibilityConfig;
-import com.stardust.autojs.runtime.api.AppUtils;
-import com.stardust.autojs.runtime.exception.ScriptException;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.core.console.GlobalConsole;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.accessibility.AccessibilityConfig;
+import com.stardust.automyjsa.runtime.api.AppUtils;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.view.accessibility.AccessibilityService;
 import com.stardust.view.accessibility.LayoutInspector;
 import com.stardust.view.accessibility.NodeInfo;
 
-import org.autojs.autoxjs.BuildConfig;
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.devplugin.DevPlugin;
-import org.autojs.autojs.external.fileprovider.AppFileProvider;
-import org.autojs.autojs.tool.AccessibilityServiceTool;
-import org.autojs.autojs.ui.floating.FloatyWindowManger;
-import org.autojs.autojs.ui.floating.FullScreenFloatyWindow;
-import org.autojs.autojs.ui.floating.layoutinspector.LayoutBoundsFloatyWindow;
-import org.autojs.autojs.ui.floating.layoutinspector.LayoutHierarchyFloatyWindow;
-import org.autojs.autojs.ui.log.LogActivityKt;
-import org.autojs.autojs.ui.settings.SettingsActivity_;
+import org.automyjsa.automyjsx.BuildConfig;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.devplugin.DevPlugin;
+import org.automyjsa.automyjsa.external.fileprovider.AppFileProvider;
+import org.automyjsa.automyjsa.tool.AccessibilityServiceTool;
+import org.automyjsa.automyjsa.ui.floating.FloatyWindowManger;
+import org.automyjsa.automyjsa.ui.floating.FullScreenFloatyWindow;
+import org.automyjsa.automyjsa.ui.floating.layoutinspector.LayoutBoundsFloatyWindow;
+import org.automyjsa.automyjsa.ui.floating.layoutinspector.LayoutHierarchyFloatyWindow;
+import org.automyjsa.automyjsa.ui.log.LogActivityKt;
+import org.automyjsa.automyjsa.ui.settings.SettingsActivity_;
 
 
 /**
  * Created by Stardust on 2017/4/2.
  */
 
-public class AutoJs extends com.stardust.autojs.AutoJs {
+public class Automyjsa extends com.stardust.automyjsa.Automyjsa {
 
-    private static AutoJs instance;
+    private static Automyjsa instance;
 
-    public static AutoJs getInstance() {
+    public static Automyjsa getInstance() {
         return instance;
     }
 
@@ -53,7 +53,7 @@ public class AutoJs extends com.stardust.autojs.AutoJs {
         if (instance != null) {
             return;
         }
-        instance = new AutoJs(application);
+        instance = new Automyjsa(application);
     }
 
     private interface LayoutInspectFloatyWindow {
@@ -79,7 +79,7 @@ public class AutoJs extends com.stardust.autojs.AutoJs {
         }
     };
 
-    private AutoJs(final Application application) {
+    private Automyjsa(final Application application) {
         super(application);
         getScriptEngineService().registerGlobalScriptExecutionListener(new ScriptExecutionGlobalListener());
         IntentFilter intentFilter = new IntentFilter();
@@ -190,7 +190,7 @@ public class AutoJs extends com.stardust.autojs.AutoJs {
 
     public void debugInfo(String content) {
         if (this.enableDebugLog) {
-            AutoJs.getInstance().getGlobalConsole().println(Log.VERBOSE, content);
+            Automyjsa.getInstance().getGlobalConsole().println(Log.VERBOSE, content);
         }
     }
 

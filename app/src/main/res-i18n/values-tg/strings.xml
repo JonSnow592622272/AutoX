@@ -37,7 +37,7 @@
   <string name="github">Рамзи сарчашмаи нармафзор</string>
   <string name="text_already_copy_to_clip">Ба буфер нусхабардорӣ карда шуд</string>
   <string name="text_qq_already_copy_to_clip">Рақами гурӯҳи QQ ба буфер нусхабардорӣ шудааст</string>
-  <string name="share_app">[Autox.js] Суроғаи зеркашӣ: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Суроғаи зеркашӣ: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Тирезаи шинокунанда</string>
   <string name="text_error_report">Гузориши хато</string>
   <string name="text_press_again_to_exit">Барои баромадан аз барнома бори дигар пахш кунед</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Воридот муваффақ</string>
   <string name="text_current_activity">Фаъолияти ҷорӣ:</string>
   <string name="text_current_package">Номи бастаи замимаи ҷорӣ:</string>
-  <string name="go_to_accessibility_settings">Лутфан Танзимот->Хизматҳои дастрасӣ->Autox.js-ро кушоед ва онро фаъол созед</string>
+  <string name="go_to_accessibility_settings">Лутфан Танзимот->Хизматҳои дастрасӣ->Automyjsx.js-ро кушоед ва онро фаъол созед</string>
   <string name="text_script_running">Иҷро кардани скрипт</string>
   <string name="text_use_volume_to_stop_running">Калиди баланд бардоштани овоз ҳама скриптҳоро қатъ мекунад</string>
   <string name="text_need_to_enable_accessibility_service">Хидматҳои дастрасӣ бояд фаъол карда шаванд</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Файли конфигуратсия нест</string>
   <string name="text_foreground_service">Қабул</string>
   <string name="foreground_notification_channel_name">Огоҳӣ оид ба хидматрасонии офис</string>
-  <string name="foreground_notification_title">Autox.js корашро идома медиҳад</string>
+  <string name="foreground_notification_title">Automyjsx.js корашро идома медиҳад</string>
   <string name="foreground_notification_text">Барои ворид шудан ба интерфейси асосӣ клик кунед</string>
   <string name="text_run_on_other_broadcast">Чорабиниҳои дигар (паҳн)</string>
   <string name="text_broadcast_action">Амали пахш</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Лоиҳа дар %s захира карда шуд</string>
   <string name="text_project_save_error">Захираи лоиҳа муваффақ нашуд %s</string>
   <string name="text_night_mode">Режими шабона</string>
-  <string name="text_run_on_startup">Вақте ки Autox.js оғоз мешавад</string>
+  <string name="text_run_on_startup">Вақте ки Automyjsx.js оғоз мешавад</string>
   <string name="text_usage_stats_permission">Дастрасӣ ба истифода</string>
   <string name="description_usage_stats_permission">Тавассути иҷозати \"намоиши омори истифода\", шумо метавонед истифодаи гузаштаи замимаи ин дастгоҳро ба даст оред, то дарёфти замимаи ҷорӣ (currentPackage) дақиқтар бошад.</string>
   <string name="text_open_with">Роҳи кушод</string>

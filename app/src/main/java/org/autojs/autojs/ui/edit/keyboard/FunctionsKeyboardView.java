@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.keyboard;
+package org.automyjsa.automyjsa.ui.edit.keyboard;
 
 import android.content.Context;
 import android.graphics.Paint;
@@ -21,12 +21,12 @@ import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.indices.Module;
-import org.autojs.autojs.model.indices.Modules;
-import org.autojs.autojs.model.indices.Property;
-import org.autojs.autojs.ui.widget.GridDividerDecoration;
-import org.autojs.autojs.workground.WrapContentGridLayoutManger;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.indices.Module;
+import org.automyjsa.automyjsa.model.indices.Modules;
+import org.automyjsa.automyjsa.model.indices.Property;
+import org.automyjsa.automyjsa.ui.widget.GridDividerDecoration;
+import org.automyjsa.automyjsa.workground.WrapContentGridLayoutManger;
 
 import java.util.ArrayList;
 import java.util.HashMap;

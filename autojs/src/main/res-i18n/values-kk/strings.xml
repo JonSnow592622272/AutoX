@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Қимылды бақылау қосылмаған, оны бағдарламалық құрал параметрлерінде қосыңыз</string>
   <string name="no_write_settings_permissin">Жүйе параметрлерін өзгертуге рұқсат жоқ</string>
   <string name="exception_notification_service_disabled">Хабарландыру қызметі жұмыс істемейді, хабарландыру рұқсатын қайта қосыңыз</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Бұл сценарийді іске қосу үшін Auto.js нұсқасының нөмірі %d немесе одан жоғары болуы керек</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Бұл сценарийді іске қосу үшін Automyjsa.js нұсқасының нөмірі %d немесе одан жоғары болуы керек</string>
   <string name="text_drawer_open">Ашылмалы мәзірді ашыңыз</string>
   <string name="text_drawer_close">Ашылмалы мәзірді жабыңыз</string>
   <string name="no_read_phone_state_permissin">Құрылғы ақпаратын оқуға рұқсат жоқ</string>

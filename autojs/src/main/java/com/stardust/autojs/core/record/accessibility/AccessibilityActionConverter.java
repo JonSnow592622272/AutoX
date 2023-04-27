@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.record.accessibility;
+package com.stardust.automyjsa.core.record.accessibility;
 
 import android.accessibilityservice.AccessibilityService;
 import android.os.Build;

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Agbanyeghi nleba anya mmegharị anya, biko mee ya na ntọala ngwanrọ</string>
   <string name="no_write_settings_permissin">Enweghị ikike ịgbanwe ntọala sistemụ</string>
   <string name="exception_notification_service_disabled">Ọrụ ngosi anaghị arụ ọrụ, biko gbanyegharịa ikike ngosi</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Edemede a chọrọ nọmba ụdị Auto.js %d ma ọ bụ karịa ka ọ na-agba</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Edemede a chọrọ nọmba ụdị Automyjsa.js %d ma ọ bụ karịa ka ọ na-agba</string>
   <string name="text_drawer_open">Mepee menu ndọda</string>
   <string name="text_drawer_close">Mechie menu ndọda</string>
   <string name="no_read_phone_state_permissin">Enweghị ikike ịgụ ozi ngwaọrụ</string>

@@ -1,5 +1,5 @@
 //此例子仅作为演示，无法运行，因为tessdata目录下没有训练数据，
-//如需运行，可前往github下载完整例子：https://github.com/wilinz/autoxjs-tessocr
+//如需运行，可前往github下载完整例子：https://github.com/wilinz/automyjsx-tessocr
 //导包
 importClass(com.googlecode.tesseract.android.TessBaseAPI)
 //新建OCR实例

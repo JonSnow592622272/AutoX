@@ -1,7 +1,7 @@
-package org.autojs.autojs.network.api;
+package org.automyjsa.automyjsa.network.api;
 
-import org.autojs.autojs.network.entity.notification.NotificationResponse;
-import org.autojs.autojs.network.entity.user.User;
+import org.automyjsa.automyjsa.network.entity.notification.NotificationResponse;
+import org.automyjsa.automyjsa.network.entity.user.User;
 
 import java.util.Map;
 

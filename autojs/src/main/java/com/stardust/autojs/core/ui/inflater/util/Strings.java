@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.util;
+package com.stardust.automyjsa.core.ui.inflater.util;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -17,7 +17,7 @@ public class Strings {
         if (str.startsWith("@string/")) {
             Resources resources = context.getResources();
             return resources.getString(resources.getIdentifier(str, "string",
-                    GlobalAppContext.getAutojsPackageName()));
+                    GlobalAppContext.getAutomyjsaPackageName()));
         }
         return str;
     }

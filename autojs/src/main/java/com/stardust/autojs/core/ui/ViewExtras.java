@@ -1,14 +1,14 @@
-package com.stardust.autojs.core.ui;
+package com.stardust.automyjsa.core.ui;
 
 import android.util.Log;
 import android.view.View;
 
-import com.stardust.autojs.R;
-import com.stardust.autojs.core.ui.attribute.ViewAttributes;
-import com.stardust.autojs.core.ui.attribute.ViewAttributesFactory;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.nativeview.NativeView;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.R;
+import com.stardust.automyjsa.core.ui.attribute.ViewAttributes;
+import com.stardust.automyjsa.core.ui.attribute.ViewAttributesFactory;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.nativeview.NativeView;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import org.mozilla.javascript.Scriptable;
 

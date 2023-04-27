@@ -37,7 +37,7 @@
   <string name="github">Software source code</string>
   <string name="text_already_copy_to_clip">Copied ut clipboard \"</string>
   <string name="text_qq_already_copy_to_clip">QQ numerus coetus numerus est ad clipboard copied</string>
-  <string name="share_app">[Autox.js] Download inscriptio: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Download inscriptio: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Curabitur fenestra</string>
   <string name="text_error_report">Error fama</string>
   <string name="text_press_again_to_exit">Press iterum exire progressio</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import felix</string>
   <string name="text_current_activity">Actio Current:</string>
   <string name="text_current_package">Current application sarcina nomen eius</string>
-  <string name="go_to_accessibility_settings">Please open Settings-> Accessibility Services->Autox.js and enable it</string>
+  <string name="go_to_accessibility_settings">Please open Settings-> Accessibility Services->Automyjsx.js and enable it</string>
   <string name="text_script_running">Scriptum run</string>
   <string name="text_use_volume_to_stop_running">Volumen sursum clavis sistit omnia scripta</string>
   <string name="text_need_to_enable_accessibility_service">Accessibility officia postulo ut possit</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nulla configuratione file</string>
   <string name="text_foreground_service">Receptio</string>
   <string name="foreground_notification_channel_name">Ante desk opera notitia</string>
-  <string name="foreground_notification_title">Autox.js servat currit</string>
+  <string name="foreground_notification_title">Automyjsx.js servat currit</string>
   <string name="foreground_notification_text">Click ad principale interface</string>
   <string name="text_run_on_other_broadcast">Alias certe (iaci)</string>
   <string name="text_broadcast_action">Iaci Actio</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Project servata est %s</string>
   <string name="text_project_save_error">Project nisi defecit %s</string>
   <string name="text_night_mode">Nox modus</string>
-  <string name="text_run_on_startup">Cum Autox.js incipit</string>
+  <string name="text_run_on_startup">Cum Automyjsx.js incipit</string>
   <string name="text_usage_stats_permission">Usus accessum</string>
   <string name="description_usage_stats_permission">Per \"visum usum mutant\" permissionem, potes praeteritum applicationis usum huius artificii obtinere, ut accuratius ad hodiernam applicationem (currentPackage) obtineatur.</string>
   <string name="text_open_with">Aperta via</string>

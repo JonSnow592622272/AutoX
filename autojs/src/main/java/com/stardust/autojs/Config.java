@@ -1,4 +1,4 @@
-package com.stardust.autojs;
+package com.stardust.automyjsa;
 
 import android.content.Context;
 import android.content.SharedPreferences;

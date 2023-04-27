@@ -1,9 +1,9 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.content.Context;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 /**
  * Created by Stardust on 2017/7/31.

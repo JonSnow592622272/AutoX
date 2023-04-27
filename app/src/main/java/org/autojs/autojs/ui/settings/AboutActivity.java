@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.settings;
+package org.automyjsa.automyjsa.ui.settings;
 
 import android.annotation.SuppressLint;
 import android.widget.TextView;
@@ -6,17 +6,17 @@ import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autojs.tool.IntentTool;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.tool.IntentTool;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 import com.stardust.util.ClipboardUtil;
 import com.stardust.util.IntentUtil;
 import com.stardust.util.IntentUtilKt;
 import com.tencent.bugly.crashreport.CrashReport;
 
-import org.autojs.autoxjs.BuildConfig;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.BuildConfig;
+import org.automyjsa.automyjsx.R;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Click;

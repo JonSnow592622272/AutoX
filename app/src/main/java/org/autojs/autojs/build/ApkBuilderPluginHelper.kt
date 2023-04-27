@@ -1,4 +1,4 @@
-package org.autojs.autojs.build
+package org.automyjsa.automyjsa.build
 
 import android.content.Context
 import java.io.IOException

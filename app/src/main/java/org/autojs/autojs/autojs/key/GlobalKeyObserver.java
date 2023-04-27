@@ -1,14 +1,14 @@
-package org.autojs.autojs.autojs.key;
+package org.automyjsa.automyjsa.automyjsa.key;
 
 import android.util.Log;
 import android.view.KeyEvent;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.core.inputevent.InputEventObserver;
-import com.stardust.autojs.core.inputevent.ShellKeyObserver;
+import com.stardust.automyjsa.core.inputevent.InputEventObserver;
+import com.stardust.automyjsa.core.inputevent.ShellKeyObserver;
 import com.stardust.event.EventDispatcher;
-import org.autojs.autojs.Pref;
-import org.autojs.autojs.autojs.AutoJs;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
 import com.stardust.view.accessibility.AccessibilityService;
 import com.stardust.view.accessibility.OnKeyListener;
 
@@ -53,7 +53,7 @@ public class GlobalKeyObserver implements OnKeyListener, ShellKeyObserver.KeyLis
     public void onVolumeUp() {
         Log.d(LOG_TAG, "onVolumeUp at " + System.currentTimeMillis());
         if (Pref.isRunningVolumeControlEnabled()) {
-            AutoJs.getInstance().getScriptEngineService().stopAllAndToast();
+            Automyjsa.getInstance().getScriptEngineService().stopAllAndToast();
         }
     }
 

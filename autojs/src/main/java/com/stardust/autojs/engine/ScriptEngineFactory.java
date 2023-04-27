@@ -1,9 +1,9 @@
-package com.stardust.autojs.engine;
+package com.stardust.automyjsa.engine;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.script.ScriptSource;
 import com.stardust.util.Supplier;
 
 import java.util.HashMap;

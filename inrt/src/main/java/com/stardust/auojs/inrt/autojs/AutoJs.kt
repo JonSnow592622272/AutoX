@@ -1,4 +1,4 @@
-package com.stardust.auojs.inrt.autojs
+package com.stardust.auojs.inrt.automyjsa
 
 import android.annotation.SuppressLint
 import android.app.Application
@@ -8,22 +8,22 @@ import com.stardust.auojs.inrt.LogActivity
 import com.stardust.auojs.inrt.Pref
 import com.stardust.auojs.inrt.SettingsActivity
 import com.stardust.auojs.inrt.pluginclient.DevPluginService
-import com.stardust.autojs.core.console.GlobalConsole
-import com.stardust.autojs.runtime.ScriptRuntime
-import com.stardust.autojs.runtime.api.AppUtils
-import com.stardust.autojs.runtime.exception.ScriptException
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException
-import com.stardust.autojs.script.JavaScriptSource
+import com.stardust.automyjsa.core.console.GlobalConsole
+import com.stardust.automyjsa.runtime.ScriptRuntime
+import com.stardust.automyjsa.runtime.api.AppUtils
+import com.stardust.automyjsa.runtime.exception.ScriptException
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException
+import com.stardust.automyjsa.script.JavaScriptSource
 import com.stardust.view.accessibility.AccessibilityService
 import com.stardust.view.accessibility.AccessibilityServiceUtils
-import org.autojs.autoxjs.inrt.R
+import org.automyjsa.automyjsx.inrt.R
 
 
 /**
  * Created by Stardust on 2017/4/2.
  */
 
-class AutoJs private constructor(application: Application) : com.stardust.autojs.AutoJs(application) {
+class Automyjsa private constructor(application: Application) : com.stardust.automyjsa.Automyjsa(application) {
 
     init {
         scriptEngineService.registerGlobalScriptExecutionListener(ScriptExecutionGlobalListener())
@@ -109,11 +109,11 @@ class AutoJs private constructor(application: Application) : com.stardust.autojs
     companion object {
 
         @SuppressLint("StaticFieldLeak")
-        lateinit var instance: AutoJs
+        lateinit var instance: Automyjsa
             private set
 
         fun initInstance(application: Application) {
-            instance = AutoJs(application)
+            instance = Automyjsa(application)
         }
     }
 }

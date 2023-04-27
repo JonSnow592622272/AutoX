@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Nadzor s kretnjami ni omogočen, omogočite ga v nastavitvah programske opreme</string>
   <string name="no_write_settings_permissin">Ni dovoljenja za spreminjanje sistemskih nastavitev</string>
   <string name="exception_notification_service_disabled">Storitev obveščanja se ne izvaja, znova omogočite dovoljenje za obveščanje</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Za izvajanje tega skripta je potrebna številka različice Auto.js %d ali višja</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Za izvajanje tega skripta je potrebna številka različice Automyjsa.js %d ali višja</string>
   <string name="text_drawer_open">Odprite spustni meni</string>
   <string name="text_drawer_close">Zaprite spustni meni</string>
   <string name="no_read_phone_state_permissin">Ni dovoljenja za branje informacij o napravi</string>

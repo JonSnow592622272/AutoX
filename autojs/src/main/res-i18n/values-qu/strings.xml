@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesto qhawayqa mana atichisqachu, ama hina kaspa software churanakunapi atichiy</string>
   <string name="no_write_settings_permissin">Mana atiyniyuqchu llamkanakunap churanakunata tikranapaq</string>
   <string name="exception_notification_service_disabled">Willakuy yanapakuyqa manam purichkanchu, ama hina kaspa willay atiyta wakmanta atichiy</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Kay qillqaqa Auto.js laya yupayta %d utaq aswan hatun llamk\'achinapaq munan</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Kay qillqaqa Automyjsa.js laya yupayta %d utaq aswan hatun llamk\'achinapaq munan</string>
   <string name="text_drawer_open">Chay urayk’aq menú nisqapi kichay</string>
   <string name="text_drawer_close">Chay urayk’aq menú nisqapi wisq’ay</string>
   <string name="no_read_phone_state_permissin">Mana dispositivo willayta ñawirinapaq permisoyuq</string>

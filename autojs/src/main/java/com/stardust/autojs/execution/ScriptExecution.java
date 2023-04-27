@@ -1,8 +1,8 @@
-package com.stardust.autojs.execution;
+package com.stardust.automyjsa.execution;
 
-import com.stardust.autojs.engine.ScriptEngine;
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.engine.ScriptEngine;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.script.ScriptSource;
 
 import java.util.Objects;
 import java.util.concurrent.atomic.AtomicInteger;

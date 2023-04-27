@@ -1,4 +1,4 @@
-include ':app', ':automator', ':common', ':autojs', ':inrt', ':apkbuilder'
+include ':app', ':automator', ':common', ':automyjsa', ':inrt', ':apkbuilder'
 include ':LocalRepo:libtermexec'
 include ':LocalRepo:emulatorview'
 include ':LocalRepo:term'

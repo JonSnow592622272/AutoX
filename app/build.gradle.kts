@@ -12,7 +12,7 @@ plugins {
 val AAVersion = "4.5.2"
 //val SupportLibVersion = "28.0.0"
 
-val propFile: File = File("E:/资料/jks/autojs-app/sign.properties");
+val propFile: File = File("E:/资料/jks/automyjsa-app/sign.properties");
 val properties = Properties()
 if (propFile.exists()) {
     propFile.inputStream().reader().use {
@@ -31,7 +31,7 @@ android {
     compileSdk = versions.compile
 
     defaultConfig {
-        applicationId = "org.autojs.autoxjs"
+        applicationId = "org.automyjsa.automyjsx"
         minSdk = versions.mini
         targetSdk = versions.target
         versionCode = versions.appVersionCode
@@ -139,7 +139,7 @@ android {
             versionName = versions.devVersionName
             buildConfigField("String", "CHANNEL", "\"v6\"")
 //            buildConfigField("String", "APPID", "\"?id=23\"")
-            manifestPlaceholders.putAll(mapOf("appName" to "Autox.js v6"))
+            manifestPlaceholders.putAll(mapOf("appName" to "Automyjsx.js v6"))
         }
     }
 
@@ -244,7 +244,7 @@ dependencies {
     implementation("com.madgag.spongycastle:bcpkix-jdk15on:1.56.0.0")
     //Expandable RecyclerView
     implementation("com.thoughtbot:expandablerecyclerview:1.3")
-//    implementation("org.signal.autox:apkbuilder:1.0.3")
+//    implementation("org.signal.automyjsx:apkbuilder:1.0.3")
     // RxJava
     implementation("io.reactivex.rxjava2:rxjava:2.2.21")
     implementation("io.reactivex.rxjava2:rxandroid:2.1.1")
@@ -284,7 +284,7 @@ dependencies {
     // Optional, if you use support library fragments:
     implementation(project(":automator"))
     implementation(project(":common"))
-    implementation(project(":autojs"))
+    implementation(project(":automyjsa"))
     implementation(project(":apkbuilder"))
     implementation("androidx.multidex:multidex:2.0.1")
 

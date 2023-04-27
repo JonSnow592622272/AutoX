@@ -1,4 +1,4 @@
-package org.autojs.autojs;
+package org.automyjsa.automyjsa;
 
 /**
  * Created by Stardust on 2017/7/7.

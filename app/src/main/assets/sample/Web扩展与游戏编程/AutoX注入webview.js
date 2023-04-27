@@ -29,12 +29,12 @@ function callJavaScript(webViewWidget, script, callback) {
     }
 }
 
-function AutoX() {
-    let getAutoXFrame = () => {
-        let bridgeFrame = document.getElementById("AutoXFrame");
+function Automyjsx() {
+    let getAutomyjsxFrame = () => {
+        let bridgeFrame = document.getElementById("AutomyjsxFrame");
         if (!bridgeFrame) {
             bridgeFrame = document.createElement('iframe');
-            bridgeFrame.id = "AutoXFrame";
+            bridgeFrame.id = "AutomyjsxFrame";
             bridgeFrame.style = "display: none";
             document.body.append(bridgeFrame);
         }
@@ -61,9 +61,9 @@ function AutoX() {
         let callId = null;
         try {
             let paramsStr = JSON.stringify(params);
-            let AutoXFrame = getAutoXFrame();
+            let AutomyjsxFrame = getAutomyjsxFrame();
             callId = setCallback(callback);
-            AutoXFrame.src = "jsbridge://" + cmd + "/" + callId + "/" + encodeURIComponent(paramsStr);
+            AutomyjsxFrame.src = "jsbridge://" + cmd + "/" + callId + "/" + encodeURIComponent(paramsStr);
         } catch (e) {
             if (callId) {
                 getCallback(callId);
@@ -102,8 +102,8 @@ function webViewExpand_init(webViewWidget) {
     webViewWidget.webViewClient = new JavaAdapter(android.webkit.WebViewClient, {
         onPageFinished: (webView, curUrl) => {
             try {
-                // 注入 AutoX
-                callJavaScript(webView, AutoX.toString() + ";var auto0 = AutoX();auto0.invoke('mFunction','This is AutoX!',(data) => {console.log('接收到callback1:' + JSON.stringify(data));});", null);
+                // 注入 Automyjsx
+                callJavaScript(webView, Automyjsx.toString() + ";var auto0 = Automyjsx();auto0.invoke('mFunction','This is Automyjsx!',(data) => {console.log('接收到callback1:' + JSON.stringify(data));});", null);
             } catch (e) {
                 console.trace(e)
             }
@@ -120,7 +120,7 @@ function webViewExpand_init(webViewWidget) {
                     let cmd = uris[2];
                     let callId = uris[3];
                     let params = java.net.URLDecoder.decode(uris[4], "UTF-8");
-                    console.log('AutoX处理JavaScript调用请求: callId=%s, cmd=%s, params=%s', callId, cmd, params);
+                    console.log('Automyjsx处理JavaScript调用请求: callId=%s, cmd=%s, params=%s', callId, cmd, params);
                     let result = null;
                     try {
                         result = bridgeHandler_handle(cmd, JSON.parse(params));

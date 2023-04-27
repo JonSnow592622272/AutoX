@@ -37,7 +37,7 @@
   <string name="github">Programinės įrangos šaltinio kodas</string>
   <string name="text_already_copy_to_clip">Nukopijuota į mainų sritį</string>
   <string name="text_qq_already_copy_to_clip">QQ grupės numeris buvo nukopijuotas į mainų sritį</string>
-  <string name="share_app">[Autox.js] Atsisiuntimo adresas: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Atsisiuntimo adresas: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Plaukiojantis langas</string>
   <string name="text_error_report">Klaidų ataskaita</string>
   <string name="text_press_again_to_exit">Paspauskite dar kartą, kad išeitumėte iš programos</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importuoti pavyko</string>
   <string name="text_current_activity">Dabartinė veikla:</string>
   <string name="text_current_package">Dabartinis programos paketo pavadinimas:</string>
-  <string name="go_to_accessibility_settings">Atidarykite Nustatymai->Prieinamumo paslaugos->Autox.js ir įgalinkite</string>
+  <string name="go_to_accessibility_settings">Atidarykite Nustatymai->Prieinamumo paslaugos->Automyjsx.js ir įgalinkite</string>
   <string name="text_script_running">Scenarijaus paleidimas</string>
   <string name="text_use_volume_to_stop_running">Garsumo didinimo klavišas sustabdo visus scenarijus</string>
   <string name="text_need_to_enable_accessibility_service">Prieinamumo paslaugos turi būti įjungtos</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nėra konfigūracijos failo</string>
   <string name="text_foreground_service">Priėmimas</string>
   <string name="foreground_notification_channel_name">Registratūros tarnybos pranešimas</string>
-  <string name="foreground_notification_title">Autox.js veikia toliau</string>
+  <string name="foreground_notification_title">Automyjsx.js veikia toliau</string>
   <string name="foreground_notification_text">Spustelėkite norėdami patekti į pagrindinę sąsają</string>
   <string name="text_run_on_other_broadcast">Kiti renginiai (transliacija)</string>
   <string name="text_broadcast_action">Transliacijos veiksmas</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projektas išsaugotas %s</string>
   <string name="text_project_save_error">Nepavyko išsaugoti projekto %s</string>
   <string name="text_night_mode">Nakties rėžimas</string>
-  <string name="text_run_on_startup">Kai paleidžiamas Autox.js</string>
+  <string name="text_run_on_startup">Kai paleidžiamas Automyjsx.js</string>
   <string name="text_usage_stats_permission">Naudojimo prieiga</string>
   <string name="description_usage_stats_permission">Naudodami leidimą „peržiūrėti naudojimo statistiką“ galite gauti informaciją apie ankstesnį šio įrenginio naudojimą, kad būtų tiksliau gauti dabartinę programą (currentPackage).</string>
   <string name="text_open_with">Atviras kelias</string>

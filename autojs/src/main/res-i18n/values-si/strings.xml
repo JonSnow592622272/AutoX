@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">අභිනය නිරීක්ෂණය සබල කර නැත, කරුණාකර එය මෘදුකාංග සැකසුම් තුළ සබල කරන්න</string>
   <string name="no_write_settings_permissin">පද්ධති සැකසුම් වෙනස් කිරීමට අවසර නැත</string>
   <string name="exception_notification_service_disabled">දැනුම්දීම් සේවාව ක්‍රියාත්මක නොවේ, කරුණාකර දැනුම්දීම් අවසරය නැවත සක්‍රිය කරන්න</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">මෙම ස්ක්‍රිප්ටය ධාවනය කිරීමට Auto.js අනුවාද අංකය %d හෝ ඉහළ අවශ්‍ය වේ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">මෙම ස්ක්‍රිප්ටය ධාවනය කිරීමට Automyjsa.js අනුවාද අංකය %d හෝ ඉහළ අවශ්‍ය වේ</string>
   <string name="text_drawer_open">පතන මෙනුව විවෘත කරන්න</string>
   <string name="text_drawer_close">පතන මෙනුව වසන්න</string>
   <string name="no_read_phone_state_permissin">උපාංග තොරතුරු කියවීමට අවසර නැත</string>

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.common;
+package org.automyjsa.automyjsa.ui.common;
 
 import android.content.Context;
 import androidx.annotation.Nullable;
@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import java.util.ArrayList;
 

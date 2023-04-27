@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.xml;
+package com.stardust.automyjsa.core.ui.xml;
 
 import androidx.appcompat.widget.Toolbar;
 import androidx.cardview.widget.CardView;
@@ -15,21 +15,21 @@ import android.widget.TimePicker;
 
 import com.google.android.material.appbar.AppBarLayout;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.stardust.autojs.core.graphics.ScriptCanvasView;
-import com.stardust.autojs.core.ui.widget.JsButton;
-import com.stardust.autojs.core.ui.widget.JsEditText;
-import com.stardust.autojs.core.ui.widget.JsFrameLayout;
-import com.stardust.autojs.core.ui.widget.JsGridView;
-import com.stardust.autojs.core.ui.widget.JsImageView;
-import com.stardust.autojs.core.ui.widget.JsLinearLayout;
-import com.stardust.autojs.core.ui.widget.JsListView;
-import com.stardust.autojs.core.ui.widget.JsRelativeLayout;
-import com.stardust.autojs.core.ui.widget.JsSpinner;
-import com.stardust.autojs.core.ui.widget.JsTabLayout;
-import com.stardust.autojs.core.ui.widget.JsTextView;
-import com.stardust.autojs.core.ui.widget.JsToolbar;
-import com.stardust.autojs.core.ui.widget.JsViewPager;
-import com.stardust.autojs.core.ui.widget.JsWebView;
+import com.stardust.automyjsa.core.graphics.ScriptCanvasView;
+import com.stardust.automyjsa.core.ui.widget.JsButton;
+import com.stardust.automyjsa.core.ui.widget.JsEditText;
+import com.stardust.automyjsa.core.ui.widget.JsFrameLayout;
+import com.stardust.automyjsa.core.ui.widget.JsGridView;
+import com.stardust.automyjsa.core.ui.widget.JsImageView;
+import com.stardust.automyjsa.core.ui.widget.JsLinearLayout;
+import com.stardust.automyjsa.core.ui.widget.JsListView;
+import com.stardust.automyjsa.core.ui.widget.JsRelativeLayout;
+import com.stardust.automyjsa.core.ui.widget.JsSpinner;
+import com.stardust.automyjsa.core.ui.widget.JsTabLayout;
+import com.stardust.automyjsa.core.ui.widget.JsTextView;
+import com.stardust.automyjsa.core.ui.widget.JsToolbar;
+import com.stardust.automyjsa.core.ui.widget.JsViewPager;
+import com.stardust.automyjsa.core.ui.widget.JsWebView;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;

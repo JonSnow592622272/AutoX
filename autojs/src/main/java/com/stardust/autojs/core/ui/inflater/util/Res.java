@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.util;
+package com.stardust.automyjsa.core.ui.inflater.util;
 
 import android.content.Context;
 import android.view.View;
@@ -19,6 +19,6 @@ public class Res {
         if (value.startsWith("@style/")) {
             value = value.substring(7);
         }
-        return context.getResources().getIdentifier(value, "style", GlobalAppContext.getAutojsPackageName());
+        return context.getResources().getIdentifier(value, "style", GlobalAppContext.getAutomyjsaPackageName());
     }
 }

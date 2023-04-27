@@ -1,7 +1,7 @@
-package com.stardust.autojs.script
+package com.stardust.automyjsa.script
 
 import android.util.Log
-import com.stardust.autojs.rhino.TokenStream
+import com.stardust.automyjsa.rhino.TokenStream
 import com.stardust.util.MapBuilder
 import org.mozilla.javascript.Token
 import java.io.Reader
@@ -72,7 +72,7 @@ abstract class JavaScriptSource(name: String) : ScriptSource(name) {
         get() = ENGINE
 
     companion object {
-        const val ENGINE = "com.stardust.autojs.script.JavaScriptSource.Engine"
+        const val ENGINE = "com.stardust.automyjsa.script.JavaScriptSource.Engine"
         const val EXECUTION_MODE_UI_PREFIX = "\"ui\";"
         const val EXECUTION_MODE_NORMAL = 0
         const val EXECUTION_MODE_UI = 0x00000001

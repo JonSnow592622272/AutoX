@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.database;
+package com.stardust.automyjsa.core.database;
 
 import android.content.Context;
 import android.database.DatabaseErrorHandler;

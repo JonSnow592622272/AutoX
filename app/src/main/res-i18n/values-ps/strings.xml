@@ -37,7 +37,7 @@
   <string name="github">د سافټویر سرچینې کوډ</string>
   <string name="text_already_copy_to_clip">کلپ بورډ ته کاپي شوی</string>
   <string name="text_qq_already_copy_to_clip">د QQ ګروپ نمبر کلپ بورډ ته کاپي شوی</string>
-  <string name="share_app">[Autox.js] ادرس ډاونلوډ کړئ: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ادرس ډاونلوډ کړئ: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">د تیریدلو کړکۍ</string>
   <string name="text_error_report">د تېروتنې راپور</string>
   <string name="text_press_again_to_exit">د پروګرام څخه د وتلو لپاره بیا فشار ورکړئ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">واردول بریالی</string>
   <string name="text_current_activity">اوسنی فعالیت:</string>
   <string name="text_current_package">د اوسني غوښتنلیک بسته نوم:</string>
-  <string name="go_to_accessibility_settings">مهرباني وکړئ Settings->Accessibility Services->Autox.js خلاص کړئ او فعال یې کړئ</string>
+  <string name="go_to_accessibility_settings">مهرباني وکړئ Settings->Accessibility Services->Automyjsx.js خلاص کړئ او فعال یې کړئ</string>
   <string name="text_script_running">سکریپټ چلول</string>
   <string name="text_use_volume_to_stop_running">د حجم پورته کولو کیلي ټول سکریپټونه ودروي</string>
   <string name="text_need_to_enable_accessibility_service">د لاسرسي خدمتونه باید فعال شي</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">د تشکیلاتو فایل نشته</string>
   <string name="text_foreground_service">استقبال</string>
   <string name="foreground_notification_channel_name">د مخکینۍ میز خدمت خبرتیا</string>
-  <string name="foreground_notification_title">Autox.js دوام لري</string>
+  <string name="foreground_notification_title">Automyjsx.js دوام لري</string>
   <string name="foreground_notification_text">اصلي انٹرفیس ته د ننوتلو لپاره کلیک وکړئ</string>
   <string name="text_run_on_other_broadcast">نورې پیښې (خپرونه)</string>
   <string name="text_broadcast_action">د نشراتو عمل</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">پروژه %s ته خوندي شوې ده</string>
   <string name="text_project_save_error">پروژه خوندي نه شوه %s</string>
   <string name="text_night_mode">د شپې حالت</string>
-  <string name="text_run_on_startup">کله چې Autox.js پیل شي</string>
+  <string name="text_run_on_startup">کله چې Automyjsx.js پیل شي</string>
   <string name="text_usage_stats_permission">د کارولو لاسرسی</string>
   <string name="description_usage_stats_permission">د \"استعمال احصایې لید\" اجازې له لارې ، تاسو کولی شئ د دې وسیلې تیر غوښتنلیک کارول ترلاسه کړئ ، نو دا د اوسني غوښتنلیک (اوسني پیکج) ترلاسه کولو لپاره خورا دقیق دی.</string>
   <string name="text_open_with">خلاص لاره</string>

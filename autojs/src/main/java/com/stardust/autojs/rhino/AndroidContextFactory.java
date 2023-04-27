@@ -1,7 +1,7 @@
-package com.stardust.autojs.rhino;
+package com.stardust.automyjsa.rhino;
 
 
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 
 import org.mozilla.javascript.Context;
 import org.mozilla.javascript.tools.shell.ShellContextFactory;

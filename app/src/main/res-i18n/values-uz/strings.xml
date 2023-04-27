@@ -37,7 +37,7 @@
   <string name="github">Dasturiy ta\'minot manba kodi</string>
   <string name="text_already_copy_to_clip">Vaqtinchalik xotiraga nusxalangan</string>
   <string name="text_qq_already_copy_to_clip">QQ guruh raqami vaqtinchalik xotiraga ko\'chirildi</string>
-  <string name="share_app">[Autox.js] Yuklab olish manzili: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Yuklab olish manzili: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Suzuvchi oyna</string>
   <string name="text_error_report">Xato hisoboti</string>
   <string name="text_press_again_to_exit">Dasturdan chiqish uchun yana bosing</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import muvaffaqiyatli</string>
   <string name="text_current_activity">Joriy faoliyat:</string>
   <string name="text_current_package">Joriy dastur paketi nomi:</string>
-  <string name="go_to_accessibility_settings">Iltimos, Sozlamalar->Accessibility Services->Autox.js-ni oching va uni yoqing</string>
+  <string name="go_to_accessibility_settings">Iltimos, Sozlamalar->Accessibility Services->Automyjsx.js-ni oching va uni yoqing</string>
   <string name="text_script_running">Skript ishga tushirildi</string>
   <string name="text_use_volume_to_stop_running">Ovozni oshirish tugmasi barcha skriptlarni to\'xtatadi</string>
   <string name="text_need_to_enable_accessibility_service">Maxsus imkoniyatlar xizmatlarini yoqish kerak</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Konfiguratsiya fayli yo\'q</string>
   <string name="text_foreground_service">Qabul</string>
   <string name="foreground_notification_channel_name">Old stol xizmati xabarnomasi</string>
-  <string name="foreground_notification_title">Autox.js ishlashda davom etadi</string>
+  <string name="foreground_notification_title">Automyjsx.js ishlashda davom etadi</string>
   <string name="foreground_notification_text">Asosiy interfeysga kirish uchun bosing</string>
   <string name="text_run_on_other_broadcast">Boshqa tadbirlar (efir)</string>
   <string name="text_broadcast_action">Translyatsiya harakati</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Loyiha %s saqlandi</string>
   <string name="text_project_save_error">Loyihani saqlab boʻlmadi %s</string>
   <string name="text_night_mode">Tungi rejim</string>
-  <string name="text_run_on_startup">Autox.js ishga tushganda</string>
+  <string name="text_run_on_startup">Automyjsx.js ishga tushganda</string>
   <string name="text_usage_stats_permission">Foydalanish imkoniyati</string>
   <string name="description_usage_stats_permission">\"Foydalanish statistikasini ko\'rish\" ruxsati orqali siz ushbu qurilmaning o\'tgan ilovalardan foydalanishini olishingiz mumkin, shunda joriy ilovani (currentPackage) olish aniqroq bo\'ladi.</string>
   <string name="text_open_with">Ochiq yo\'l</string>

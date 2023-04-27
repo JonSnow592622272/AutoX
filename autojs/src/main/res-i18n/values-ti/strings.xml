@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ምክትታል ምልክት ምልክት ኣይተኸፍተን፣ በጃኻ ኣብ ሶፍትዌር ቅጥዕታት ኣንቅሕዎ።</string>
   <string name="no_write_settings_permissin">ንናይ ስርዓት ቅጥዕታት ንምቕያር ፍቓድ የለን</string>
   <string name="exception_notification_service_disabled">ኣገልግሎት መፍለጢ ኣይሰርሕን ኣሎ፣ በጃኹም ናይ መፍለጢ ፍቓድ ዳግማይ ኣንቅሑ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">እዚ ስክሪፕት ንኽሰርሕ Auto.js ስሪት ቁጽሪ %d ወይ ልዕሊኡ የድልዮ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">እዚ ስክሪፕት ንኽሰርሕ Automyjsa.js ስሪት ቁጽሪ %d ወይ ልዕሊኡ የድልዮ</string>
   <string name="text_drawer_open">ነቲ ንቑልቁል ዝወርድ ዝርዝር ክፈቶ</string>
   <string name="text_drawer_close">ነቲ ንቑልቁል ዝወርድ ዝርዝር ዕጸዎ።</string>
   <string name="no_read_phone_state_permissin">ሓበሬታ መሳርሒ ንምንባብ ፍቓድ የለን</string>

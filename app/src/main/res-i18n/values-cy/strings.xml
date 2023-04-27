@@ -37,7 +37,7 @@
   <string name="github">Cod ffynhonnell meddalwedd</string>
   <string name="text_already_copy_to_clip">Wedi\'i gopïo i\'r clipfwrdd</string>
   <string name="text_qq_already_copy_to_clip">Mae rhif y grŵp QQ wedi\'i gopïo i\'r clipfwrdd</string>
-  <string name="share_app">[Autox.js] Cyfeiriad lawrlwytho: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Cyfeiriad lawrlwytho: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Ffenestr arnofio</string>
   <string name="text_error_report">Adroddiad gwall</string>
   <string name="text_press_again_to_exit">Pwyswch eto i adael y rhaglen</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Mewnforio yn llwyddiannus</string>
   <string name="text_current_activity">Gweithgaredd cyfredol:</string>
   <string name="text_current_package">Enw pecyn cais cyfredol:</string>
-  <string name="go_to_accessibility_settings">Agorwch Gosodiadau->Gwasanaethau Hygyrchedd-> Autox.js a\'i alluogi</string>
+  <string name="go_to_accessibility_settings">Agorwch Gosodiadau->Gwasanaethau Hygyrchedd-> Automyjsx.js a\'i alluogi</string>
   <string name="text_script_running">Rhediad sgript</string>
   <string name="text_use_volume_to_stop_running">Mae bysell cyfaint i fyny yn atal pob sgript</string>
   <string name="text_need_to_enable_accessibility_service">Mae angen galluogi gwasanaethau hygyrchedd</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Dim ffeil ffurfweddu</string>
   <string name="text_foreground_service">Derbynfa</string>
   <string name="foreground_notification_channel_name">Hysbysiad gwasanaeth desg flaen</string>
-  <string name="foreground_notification_title">Mae Autox.js yn dal i redeg</string>
+  <string name="foreground_notification_title">Mae Automyjsx.js yn dal i redeg</string>
   <string name="foreground_notification_text">Cliciwch i fynd i mewn i\'r prif ryngwyneb</string>
   <string name="text_run_on_other_broadcast">Digwyddiadau eraill (darlledu)</string>
   <string name="text_broadcast_action">Gweithredu Darlledu</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Mae\'r prosiect wedi\'i gadw i %s</string>
   <string name="text_project_save_error">Methodd arbediad y prosiect %s</string>
   <string name="text_night_mode">Modd nos</string>
-  <string name="text_run_on_startup">Pan fydd Autox.js yn dechrau</string>
+  <string name="text_run_on_startup">Pan fydd Automyjsx.js yn dechrau</string>
   <string name="text_usage_stats_permission">Mynediad defnydd</string>
   <string name="description_usage_stats_permission">Trwy\'r caniatâd \"gweld ystadegau defnydd\", gallwch gael defnydd cymhwysiad blaenorol y ddyfais hon, fel ei bod yn fwy cywir cael y cymhwysiad cyfredol (currentPackage).</string>
   <string name="text_open_with">Ffordd agored</string>

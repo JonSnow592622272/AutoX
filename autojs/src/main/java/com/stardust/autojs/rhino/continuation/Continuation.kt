@@ -1,15 +1,15 @@
-package com.stardust.autojs.rhino.continuation
+package com.stardust.automyjsa.rhino.continuation
 
-import com.stardust.autojs.core.looper.Timer
-import com.stardust.autojs.core.looper.TimerThread
-import com.stardust.autojs.rhino.AutoJsContext
-import com.stardust.autojs.runtime.ScriptRuntime
+import com.stardust.automyjsa.core.looper.Timer
+import com.stardust.automyjsa.core.looper.TimerThread
+import com.stardust.automyjsa.rhino.AutomyjsaContext
+import com.stardust.automyjsa.runtime.ScriptRuntime
 
 import org.mozilla.javascript.Context
 import org.mozilla.javascript.ContinuationPending
 import org.mozilla.javascript.Scriptable
 
-class Continuation(val context: AutoJsContext, val scope: Scriptable, private val mTimer: Timer) {
+class Continuation(val context: AutomyjsaContext, val scope: Scriptable, private val mTimer: Timer) {
     var pending: ContinuationPending? = null
         private set
     private val mThread: Thread = Thread.currentThread()
@@ -52,7 +52,7 @@ class Continuation(val context: AutoJsContext, val scope: Scriptable, private va
     companion object {
 
         fun create(runtime: ScriptRuntime, scope: Scriptable): Continuation {
-            val context = Context.getCurrentContext() as AutoJsContext
+            val context = Context.getCurrentContext() as AutomyjsaContext
             return Continuation(context, scope, runtime.timers.timerForCurrentThread)
         }
     }

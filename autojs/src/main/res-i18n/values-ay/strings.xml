@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesto uñakipañax janiw ch’amanchatäkiti, software ukan utt’ayat ukan ch’amanchañamawa</string>
   <string name="no_write_settings_permissin">Janiw sistema ukan utt’ayatanakap mayjt’ayañatakix permiso ukax utjkiti</string>
   <string name="exception_notification_service_disabled">Yatiyaw yanapt’awix janiw phuqhaskiti, yatiyaw permiso wasitat ch’amanchañamawa</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Aka script ukax Auto.js versión %d jan ukax juk’amp jach’a jakhuwimp apnaqañatakiw wakisi</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Aka script ukax Automyjsa.js versión %d jan ukax juk’amp jach’a jakhuwimp apnaqañatakiw wakisi</string>
   <string name="text_drawer_open">Ukaxa mä menú desplegable ukankiwa</string>
   <string name="text_drawer_close">Ukax mä menú desplegable ukankiwa</string>
   <string name="no_read_phone_state_permissin">Dispositivo ukan yatiyawinak uñakipañatakix janiw permiso ukax utjkiti</string>

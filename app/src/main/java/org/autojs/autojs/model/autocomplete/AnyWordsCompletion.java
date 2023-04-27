@@ -1,8 +1,8 @@
-package org.autojs.autojs.model.autocomplete;
+package org.automyjsa.automyjsa.model.autocomplete;
 
 import android.text.Editable;
 
-import org.autojs.autojs.ui.widget.SimpleTextWatcher;
+import org.automyjsa.automyjsa.ui.widget.SimpleTextWatcher;
 
 import java.util.List;
 import java.util.concurrent.ExecutorService;

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ang pagsubaybay sa kilos ay hindi pinagana, mangyaring paganahin ito sa mga setting ng software</string>
   <string name="no_write_settings_permissin">Walang pahintulot na baguhin ang mga setting ng system</string>
   <string name="exception_notification_service_disabled">Hindi tumatakbo ang serbisyo ng notification, paki-enable muli ang pahintulot sa notification</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Nangangailangan ang script na ito ng numero ng bersyon ng Auto.js na %d o mas mataas para tumakbo</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Nangangailangan ang script na ito ng numero ng bersyon ng Automyjsa.js na %d o mas mataas para tumakbo</string>
   <string name="text_drawer_open">Buksan ang drop down na menu</string>
   <string name="text_drawer_close">Isara ang drop down na menu</string>
   <string name="no_read_phone_state_permissin">Walang pahintulot na basahin ang impormasyon ng device</string>

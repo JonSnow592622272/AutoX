@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ジェスチャー監視が有効になっていません。ソフトウェア設定で有効にしてください</string>
   <string name="no_write_settings_permissin">システム設定を変更する権限がありません</string>
   <string name="exception_notification_service_disabled">通知サービスが実行されていません。通知許可を再度有効にしてください</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">このスクリプトを実行するには、Auto.js バージョン番号%d以降が必要です</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">このスクリプトを実行するには、Automyjsa.js バージョン番号%d以降が必要です</string>
   <string name="text_drawer_open">ドロップダウンメニューを開く</string>
   <string name="text_drawer_close">ドロップダウンメニューを閉じる</string>
   <string name="no_read_phone_state_permissin">デバイス情報の読み取り権限がありません</string>

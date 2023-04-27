@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Наблюдението с жестове не е активирано, моля, активирайте го в настройките на софтуера</string>
   <string name="no_write_settings_permissin">Няма разрешение за промяна на системните настройки</string>
   <string name="exception_notification_service_disabled">Услугата за известяване не работи, моля, активирайте отново разрешението за известяване</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Този скрипт изисква версия на Auto.js номер %d или по-висока, за да работи</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Този скрипт изисква версия на Automyjsa.js номер %d или по-висока, за да работи</string>
   <string name="text_drawer_open">Отворете падащото меню</string>
   <string name="text_drawer_close">Затворете падащото меню</string>
   <string name="no_read_phone_state_permissin">Няма разрешение за четене на информация за устройството</string>

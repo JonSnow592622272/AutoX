@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.util;
+package com.stardust.automyjsa.core.ui.inflater.util;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -16,7 +16,7 @@ public class Colors {
     public static int parse(Context context, String color) {
         Resources resources = context.getResources();
         if (color.startsWith("@color/")) {
-            return resources.getColor(resources.getIdentifier(color.substring("@color/".length()), "color", GlobalAppContext.getAutojsPackageName()));
+            return resources.getColor(resources.getIdentifier(color.substring("@color/".length()), "color", GlobalAppContext.getAutomyjsaPackageName()));
         }
         if (color.startsWith("@android:color/")) {
             return Color.parseColor(color.substring(15));

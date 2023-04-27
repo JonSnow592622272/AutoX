@@ -1,19 +1,19 @@
-package org.autojs.autojs.ui.log;
+package org.automyjsa.automyjsa.ui.log;
 
 import android.os.Bundle;
 import androidx.annotation.Nullable;
 import android.view.View;
 
-import com.stardust.autojs.core.console.ConsoleView;
-import com.stardust.autojs.core.console.ConsoleImpl;
+import com.stardust.automyjsa.core.console.ConsoleView;
+import com.stardust.automyjsa.core.console.ConsoleImpl;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EActivity;
 import org.androidannotations.annotations.ViewById;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.ui.BaseActivity;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.ui.BaseActivity;
 
 @EActivity(R.layout.activity_log)
 public class LogActivity extends BaseActivity {
@@ -32,7 +32,7 @@ public class LogActivity extends BaseActivity {
     @AfterViews
     void setupViews() {
         setToolbarAsBack(getString(R.string.text_log));
-        mConsoleImpl = AutoJs.getInstance().getGlobalConsole();
+        mConsoleImpl = Automyjsa.getInstance().getGlobalConsole();
         mConsoleView.setConsole(mConsoleImpl);
         mConsoleView.findViewById(R.id.input_container).setVisibility(View.GONE);
     }

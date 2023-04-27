@@ -1,4 +1,4 @@
-package com.stardust.autojs
+package com.stardust.automyjsa
 
 import org.junit.Test
 

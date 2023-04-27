@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget
+package org.automyjsa.automyjsa.ui.widget
 
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -21,16 +21,16 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.google.gson.Gson
 import com.stardust.app.OnActivityResultDelegate
 import com.stardust.app.OnActivityResultDelegate.DelegateHost
-import com.stardust.autojs.execution.ScriptExecution
-import com.stardust.autojs.runtime.api.Files
-import com.stardust.autojs.runtime.api.SevenZip
-import com.stardust.autojs.script.StringScriptSource
+import com.stardust.automyjsa.execution.ScriptExecution
+import com.stardust.automyjsa.runtime.api.Files
+import com.stardust.automyjsa.runtime.api.SevenZip
+import com.stardust.automyjsa.script.StringScriptSource
 import io.reactivex.Observable
 import io.reactivex.android.schedulers.AndroidSchedulers
-import org.autojs.autojs.Pref
-import org.autojs.autoxjs.R
-import org.autojs.autojs.model.script.Scripts
-import org.autojs.autojs.tool.ImageSelector
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.model.script.Scripts
+import org.automyjsa.automyjsa.tool.ImageSelector
 import java.io.File
 import java.io.IOException
 import java.io.InputStream
@@ -155,7 +155,7 @@ open class EWebView : FrameLayout, SwipeRefreshLayout.OnRefreshListener,
                     .show()
             }
         }
-        mWebView.addJavascriptInterface(this, "_autojs")
+        mWebView.addJavascriptInterface(this, "_automyjsa")
         mWebView.addJavascriptInterface(Files(null), "\$files")
         mWebView.addJavascriptInterface(SevenZip(), "\$zips")
     }
@@ -216,7 +216,7 @@ open class EWebView : FrameLayout, SwipeRefreshLayout.OnRefreshListener,
                     .show()
             }
         }
-        mWebView.addJavascriptInterface(this, "_autojs")
+        mWebView.addJavascriptInterface(this, "_automyjsa")
         mWebView.addJavascriptInterface(Files(null), "\$files")
         mWebView.addJavascriptInterface(SevenZip(), "\$zips")
     }
@@ -315,7 +315,7 @@ open class EWebView : FrameLayout, SwipeRefreshLayout.OnRefreshListener,
             mProgressBar.visibility = GONE
             mSwipeRefreshLayout.isRefreshing = false
             view.evaluateJavascript(
-                "javascript: window._autojs.saveSource('<html>' + document.getElementsByTagName('html')[0].innerHTML + '</html>', 'html_source');",
+                "javascript: window._automyjsa.saveSource('<html>' + document.getElementsByTagName('html')[0].innerHTML + '</html>', 'html_source');",
                 null
             )
             if (isRescale) {
@@ -516,7 +516,7 @@ open class EWebView : FrameLayout, SwipeRefreshLayout.OnRefreshListener,
             mProgressBar.visibility = GONE
             mSwipeRefreshLayout.isRefreshing = false
             view.evaluateJavascript(
-                "javascript: window._autojs.saveSource('<html>' + document.getElementsByTagName('html')[0].innerHTML + '</html>', 'html_source');",
+                "javascript: window._automyjsa.saveSource('<html>' + document.getElementsByTagName('html')[0].innerHTML + '</html>', 'html_source');",
                 null
             )
             if (isRescale) {

@@ -51,7 +51,7 @@ jobs:
           keyStorePassword: ${{ secrets.AKEY_STORE_PASSWORD }}
           keyPassword: ${{ secrets.AKEY_PASSWORD }}
       - name: create-gh-release
-        if: github.repository == 'kkevsekk1/AutoX'
+        if: github.repository == 'kkevsekk1/Automyjsx'
         uses: taiki-e/create-gh-release-action@v1
         with:
           changelog: CHANGELOG.md
@@ -63,15 +63,15 @@ jobs:
         with:
           files: 'build/app/signed/**'
       - name: setup aliyun oss
-        if: github.repository == 'kkevsekk1/AutoX'
+        if: github.repository == 'kkevsekk1/Automyjsx'
         uses: manyuanrong/setup-ossutil@master
         with:
           endpoint: oss-cn-hangzhou.aliyuncs.com
           access-key-id: ${{ secrets.OSS_KEY_ID }}
           access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
       - name: mkdir aliyun
-        if: github.repository == 'kkevsekk1/AutoX'
-        run: ossutil mkdir oss://autoxjsoss/autoxjs/${{ steps.vars.outputs.short_ref }}
+        if: github.repository == 'kkevsekk1/Automyjsx'
+        run: ossutil mkdir oss://automyjsxoss/automyjsx/${{ steps.vars.outputs.short_ref }}
       - name: cp files to aliyun
-        if: github.repository == 'kkevsekk1/AutoX'
-        run: ossutil cp -rf build/app/signed oss://autoxjsoss/autoxjs/${{ steps.vars.outputs.short_ref }}
+        if: github.repository == 'kkevsekk1/Automyjsx'
+        run: ossutil cp -rf build/app/signed oss://automyjsxoss/automyjsx/${{ steps.vars.outputs.short_ref }}

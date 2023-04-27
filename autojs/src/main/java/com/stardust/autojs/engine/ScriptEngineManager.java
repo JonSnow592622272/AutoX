@@ -1,11 +1,11 @@
-package com.stardust.autojs.engine;
+package com.stardust.automyjsa.engine;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.script.ScriptSource;
 import com.stardust.util.Supplier;
 
 import java.util.HashMap;

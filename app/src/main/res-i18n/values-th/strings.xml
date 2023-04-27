@@ -37,7 +37,7 @@
   <string name="github">รหัสที่มาของซอฟต์แวร์</string>
   <string name="text_already_copy_to_clip">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
   <string name="text_qq_already_copy_to_clip">คัดลอกหมายเลขกลุ่ม QQ ไปยังคลิปบอร์ดแล้ว</string>
-  <string name="share_app">[Autox.js] ดาวน์โหลดที่อยู่: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ดาวน์โหลดที่อยู่: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">หน้าต่างลอยน้ำ</string>
   <string name="text_error_report">รายงานข้อผิดพลาด</string>
   <string name="text_press_again_to_exit">กดอีกครั้งเพื่อออกจากโปรแกรม</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">นำเข้าสำเร็จ</string>
   <string name="text_current_activity">กิจกรรมปัจจุบัน:</string>
   <string name="text_current_package">ชื่อแพ็คเกจแอปพลิเคชันปัจจุบัน:</string>
-  <string name="go_to_accessibility_settings">โปรดเปิดการตั้งค่า -> บริการการเข้าถึง -> Autox.js และเปิดใช้งาน</string>
+  <string name="go_to_accessibility_settings">โปรดเปิดการตั้งค่า -> บริการการเข้าถึง -> Automyjsx.js และเปิดใช้งาน</string>
   <string name="text_script_running">สคริปต์ทำงาน</string>
   <string name="text_use_volume_to_stop_running">ปุ่มเพิ่มระดับเสียงหยุดสคริปต์ทั้งหมด</string>
   <string name="text_need_to_enable_accessibility_service">ต้องเปิดใช้งานบริการการเข้าถึง</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">ไม่มีไฟล์กำหนดค่า</string>
   <string name="text_foreground_service">แผนกต้อนรับ</string>
   <string name="foreground_notification_channel_name">แจ้งบริการแผนกต้อนรับ</string>
-  <string name="foreground_notification_title">Autox.js ทำงานต่อไป</string>
+  <string name="foreground_notification_title">Automyjsx.js ทำงานต่อไป</string>
   <string name="foreground_notification_text">คลิกเพื่อเข้าสู่อินเทอร์เฟซหลัก</string>
   <string name="text_run_on_other_broadcast">เหตุการณ์อื่น ๆ (ออกอากาศ)</string>
   <string name="text_broadcast_action">การดำเนินการออกอากาศ</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">บันทึกโปรเจ็กต์ไปที่ %s</string>
   <string name="text_project_save_error">บันทึกโครงการล้มเหลว %s</string>
   <string name="text_night_mode">โหมดกลางคืน</string>
-  <string name="text_run_on_startup">เมื่อ Autox.js เริ่มทำงาน</string>
+  <string name="text_run_on_startup">เมื่อ Automyjsx.js เริ่มทำงาน</string>
   <string name="text_usage_stats_permission">การเข้าถึงการใช้งาน</string>
   <string name="description_usage_stats_permission">ผ่านการอนุญาต \"ดูสถิติการใช้งาน\" คุณสามารถรับการใช้งานแอปพลิเคชันที่ผ่านมาของอุปกรณ์นี้ เพื่อให้ได้รับแอปพลิเคชันปัจจุบัน (currentPackage) ที่แม่นยำยิ่งขึ้น</string>
   <string name="text_open_with">เปิดทาง</string>

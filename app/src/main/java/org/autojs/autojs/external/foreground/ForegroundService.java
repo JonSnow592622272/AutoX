@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.foreground;
+package org.automyjsa.automyjsa.external.foreground;
 
 import static android.app.PendingIntent.FLAG_IMMUTABLE;
 
@@ -16,8 +16,8 @@ import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 import androidx.core.app.NotificationCompat;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.main.MainActivity;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.main.MainActivity;
 
 public class ForegroundService extends Service {
 
@@ -63,7 +63,7 @@ public class ForegroundService extends Service {
         return new NotificationCompat.Builder(this, CHANEL_ID)
                 .setContentTitle(getString(R.string.foreground_notification_title))
                 .setContentText(getString(R.string.foreground_notification_text))
-                .setSmallIcon(R.drawable.autojs_logo)
+                .setSmallIcon(R.drawable.automyjsa_logo)
                 .setWhen(System.currentTimeMillis())
                 .setContentIntent(contentIntent)
                 .setChannelId(CHANEL_ID)

@@ -1,4 +1,4 @@
-package org.autojs.autojs.network.download;
+package org.automyjsa.automyjsa.network.download;
 
 import android.content.Context;
 import android.util.Log;
@@ -8,10 +8,10 @@ import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import com.stardust.concurrent.VolatileBox;
 import com.stardust.pio.PFiles;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.network.NodeBB;
-import org.autojs.autojs.network.api.DownloadApi;
-import org.autojs.autojs.tool.SimpleObserver;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.network.NodeBB;
+import org.automyjsa.automyjsa.network.api.DownloadApi;
+import org.automyjsa.automyjsa.tool.SimpleObserver;
 
 import java.io.File;
 import java.io.FileOutputStream;

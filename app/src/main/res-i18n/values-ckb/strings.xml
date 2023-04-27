@@ -37,7 +37,7 @@
   <string name="github">کۆدی سەرچاوەی نەرمەکاڵا</string>
   <string name="text_already_copy_to_clip">کۆپی کراوە بۆ کلیپبۆرد</string>
   <string name="text_qq_already_copy_to_clip">ژمارەی گروپی QQ کۆپی کراوە بۆ کلیپبۆرد</string>
-  <string name="share_app">[Autox.js] ناونیشانی دابەزاندن: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ناونیشانی دابەزاندن: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">پەنجەرەی هەڵدەفڕێت</string>
   <string name="text_error_report">ڕاپۆرتی هەڵە</string>
   <string name="text_press_again_to_exit">دووبارە فشار بدە بۆ دەرچوون لە بەرنامەکە</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">هاوردەکردن سەرکەوتوو بوو</string>
   <string name="text_current_activity">چالاکییەکانی ئێستا:</string>
   <string name="text_current_package">ناوی پاکێجی بەرنامەی ئێستا:</string>
-  <string name="go_to_accessibility_settings">تکایە Settings->Accessibility Services->Autox.js بکەرەوە و چالاک بکە</string>
+  <string name="go_to_accessibility_settings">تکایە Settings->Accessibility Services->Automyjsx.js بکەرەوە و چالاک بکە</string>
   <string name="text_script_running">سکریپتەکە جێبەجێ دەکرێت</string>
   <string name="text_use_volume_to_stop_running">کلیلی Volume up هەموو سکریپتەکان دەواسێت</string>
   <string name="text_need_to_enable_accessibility_service">خزمەتگوزارییەکانی دەستڕاگەیشتن پێویستە چالاک بکرێن</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">هیچ پەڕگەیەکی ڕێکخستن نییە</string>
   <string name="text_foreground_service">پرسگە</string>
   <string name="foreground_notification_channel_name">ئاگادارکردنەوەی خزمەتگوزاری مێزی پێشەوە</string>
-  <string name="foreground_notification_title">Autox.js بەردەوام دەبێت لە کارکردن</string>
+  <string name="foreground_notification_title">Automyjsx.js بەردەوام دەبێت لە کارکردن</string>
   <string name="foreground_notification_text">بۆ چوونە ناو ڕووکاری سەرەکی کلیک بکە</string>
   <string name="text_run_on_other_broadcast">ڕووداوەکانی تر (پەخش)</string>
   <string name="text_broadcast_action">پەخشی کردار</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">پڕۆژەکە لە %s پاشەکەوت کراوە</string>
   <string name="text_project_save_error">پاشەکەوتکردنی پڕۆژە %s شکستی هێنا</string>
   <string name="text_night_mode">کاتی شەو</string>
-  <string name="text_run_on_startup">کاتێک Autox.js دەست پێدەکات</string>
+  <string name="text_run_on_startup">کاتێک Automyjsx.js دەست پێدەکات</string>
   <string name="text_usage_stats_permission">دەستڕاگەیشتن بە بەکارهێنان</string>
   <string name="description_usage_stats_permission">لە ڕێگەی مۆڵەتی \"بینینی ئاماری بەکارهێنان\" دەتوانیت بەکارهێنانی ڕابردووی بەرنامەی ئەم ئامێرە بەدەستبهێنیت، بەجۆرێک کە وردتر بێت بۆ بەدەستهێنانی بەرنامەی ئێستا (currentPackage).</string>
   <string name="text_open_with">ڕێگای کراوە</string>

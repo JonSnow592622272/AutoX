@@ -37,7 +37,7 @@
   <string name="github">Yazılım kaynak kodu</string>
   <string name="text_already_copy_to_clip">Panoya kopyalandı</string>
   <string name="text_qq_already_copy_to_clip">QQ grup numarası panoya kopyalandı</string>
-  <string name="share_app">[Autox.js] İndirme adresi: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] İndirme adresi: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Yüzer pencere</string>
   <string name="text_error_report">Hata raporu</string>
   <string name="text_press_again_to_exit">Programdan çıkmak için tekrar basın</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">İçe aktarma başarılı</string>
   <string name="text_current_activity">Şu anki aktivite:</string>
   <string name="text_current_package">Geçerli uygulama paketi adı:</string>
-  <string name="go_to_accessibility_settings">Lütfen Ayarlar->Erişilebilirlik Hizmetleri->Autox.js\'yi açın ve etkinleştirin</string>
+  <string name="go_to_accessibility_settings">Lütfen Ayarlar->Erişilebilirlik Hizmetleri->Automyjsx.js\'yi açın ve etkinleştirin</string>
   <string name="text_script_running">Komut dosyası çalıştırma</string>
   <string name="text_use_volume_to_stop_running">Sesi açma tuşu tüm komut dosyalarını durdurur</string>
   <string name="text_need_to_enable_accessibility_service">Erişilebilirlik hizmetlerinin etkinleştirilmesi gerekiyor</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Yapılandırma dosyası yok</string>
   <string name="text_foreground_service">Resepsiyon</string>
   <string name="foreground_notification_channel_name">Ön büro hizmeti bildirimi</string>
-  <string name="foreground_notification_title">Autox.js çalışmaya devam ediyor</string>
+  <string name="foreground_notification_title">Automyjsx.js çalışmaya devam ediyor</string>
   <string name="foreground_notification_text">Ana arayüze girmek için tıklayın</string>
   <string name="text_run_on_other_broadcast">Diğer etkinlikler (yayın)</string>
   <string name="text_broadcast_action">Yayın Eylemi</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proje %s konumuna kaydedildi</string>
   <string name="text_project_save_error">Proje kaydetme başarısız %s</string>
   <string name="text_night_mode">Gece modu</string>
-  <string name="text_run_on_startup">Autox.js başladığında</string>
+  <string name="text_run_on_startup">Automyjsx.js başladığında</string>
   <string name="text_usage_stats_permission">Kullanım erişimi</string>
   <string name="description_usage_stats_permission">\"Kullanım istatistiklerini görüntüle\" izni ile, mevcut uygulamayı (currentPackage) edinmenin daha doğru olması için bu cihazın geçmiş uygulama kullanımını elde edebilirsiniz.</string>
   <string name="text_open_with">Açık yol</string>

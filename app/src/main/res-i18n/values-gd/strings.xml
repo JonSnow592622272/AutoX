@@ -37,7 +37,7 @@
   <string name="github">Còd stòr bathar-bog</string>
   <string name="text_already_copy_to_clip">Lethbhreac gu clipboard</string>
   <string name="text_qq_already_copy_to_clip">Chaidh an àireamh buidhne QQ a chopaigeadh chun chlàr bhidio</string>
-  <string name="share_app">[Autox.js] Seòladh luchdaich sìos: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Seòladh luchdaich sìos: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Uinneag air bhog</string>
   <string name="text_error_report">Aithris mearachd</string>
   <string name="text_press_again_to_exit">Brùth a-rithist gus am prògram fhàgail</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import soirbheachail</string>
   <string name="text_current_activity">Gnìomh làithreach:</string>
   <string name="text_current_package">Ainm pacaid tagraidh gnàthach:</string>
-  <string name="go_to_accessibility_settings">Feuch an fosgail thu Settings-> Seirbheisean Ruigsinneachd-> Autox.js agus cuir an comas e</string>
+  <string name="go_to_accessibility_settings">Feuch an fosgail thu Settings-> Seirbheisean Ruigsinneachd-> Automyjsx.js agus cuir an comas e</string>
   <string name="text_script_running">Ruith sgriobt</string>
   <string name="text_use_volume_to_stop_running">Bidh iuchair toirt suas a’ stad a h-uile sgriobt</string>
   <string name="text_need_to_enable_accessibility_service">Feumaidh seirbheisean ruigsinneachd a bhith air an comasachadh</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Chan eil faidhle rèiteachaidh ann</string>
   <string name="text_foreground_service">Fàilteachas</string>
   <string name="foreground_notification_channel_name">Sanas seirbheis deasg aghaidh</string>
-  <string name="foreground_notification_title">Tha Autox.js a’ cumail a’ dol</string>
+  <string name="foreground_notification_title">Tha Automyjsx.js a’ cumail a’ dol</string>
   <string name="foreground_notification_text">Cliog gus a dhol a-steach don phrìomh eadar-aghaidh</string>
   <string name="text_run_on_other_broadcast">Tachartasan eile (craoladh)</string>
   <string name="text_broadcast_action">Gnìomh Craolaidh</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Chaidh am pròiseact a shàbhaladh gu %s</string>
   <string name="text_project_save_error">Dh\'fhàillig sàbhaladh a\' phròiseict %s</string>
   <string name="text_night_mode">Modh oidhche</string>
-  <string name="text_run_on_startup">Nuair a thòisicheas Autox.js</string>
+  <string name="text_run_on_startup">Nuair a thòisicheas Automyjsx.js</string>
   <string name="text_usage_stats_permission">Ruigsinneachd cleachdaidh</string>
   <string name="description_usage_stats_permission">Tro chead “sealladh cleachdaidh staitistig”, gheibh thu cleachdadh aplacaid san àm a dh’ fhalbh den inneal seo, gus am bi e nas cruinne an tagradh gnàthach fhaighinn (currentPackage).</string>
   <string name="text_open_with">Slighe fosgailte</string>

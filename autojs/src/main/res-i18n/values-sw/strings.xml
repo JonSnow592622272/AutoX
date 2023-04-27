@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ufuatiliaji wa ishara haujawezeshwa, tafadhali uwashe katika mipangilio ya programu</string>
   <string name="no_write_settings_permissin">Hakuna ruhusa ya kurekebisha mipangilio ya mfumo</string>
   <string name="exception_notification_service_disabled">Huduma ya arifa haifanyiki, tafadhali washa tena ruhusa ya arifa</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Hati hii inahitaji nambari ya toleo la Auto.js %d au toleo jipya zaidi ili kuendeshwa</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Hati hii inahitaji nambari ya toleo la Automyjsa.js %d au toleo jipya zaidi ili kuendeshwa</string>
   <string name="text_drawer_open">Fungua menyu kunjuzi</string>
   <string name="text_drawer_close">Funga menyu kunjuzi</string>
   <string name="no_read_phone_state_permissin">Hakuna ruhusa ya kusoma maelezo ya kifaa</string>

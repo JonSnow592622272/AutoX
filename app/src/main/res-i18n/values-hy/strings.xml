@@ -37,7 +37,7 @@
   <string name="github">Ծրագրային ապահովման աղբյուրի կոդը</string>
   <string name="text_already_copy_to_clip">Պատճենված է clipboard-ում</string>
   <string name="text_qq_already_copy_to_clip">QQ խմբի համարը պատճենվել է clipboard-ում</string>
-  <string name="share_app">[Autox.js] Ներբեռնման հասցեն՝ https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Ներբեռնման հասցեն՝ https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Լողացող պատուհան</string>
   <string name="text_error_report">Սխալի հաշվետվություն</string>
   <string name="text_press_again_to_exit">Կրկին սեղմեք՝ ծրագրից դուրս գալու համար</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Ներմուծումը հաջողվեց</string>
   <string name="text_current_activity">Ընթացիկ գործունեություն.</string>
   <string name="text_current_package">Ներկայիս հավելվածի փաթեթի անվանումը.</string>
-  <string name="go_to_accessibility_settings">Խնդրում ենք բացել Settings->Accessibility Services->Autox.js և միացնել այն</string>
+  <string name="go_to_accessibility_settings">Խնդրում ենք բացել Settings->Accessibility Services->Automyjsx.js և միացնել այն</string>
   <string name="text_script_running">Սցենարի գործարկում</string>
   <string name="text_use_volume_to_stop_running">Ձայնի բարձրացման ստեղնը դադարեցնում է բոլոր սցենարները</string>
   <string name="text_need_to_enable_accessibility_service">Մատչելիության ծառայությունները պետք է միացված լինեն</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ոչ կազմաձևման ֆայլ</string>
   <string name="text_foreground_service">Ընդունելություն</string>
   <string name="foreground_notification_channel_name">Դիմացեղային սպասարկման ծանուցում</string>
-  <string name="foreground_notification_title">Autox.js-ը շարունակում է աշխատել</string>
+  <string name="foreground_notification_title">Automyjsx.js-ը շարունակում է աշխատել</string>
   <string name="foreground_notification_text">Սեղմեք՝ հիմնական ինտերֆեյսը մուտքագրելու համար</string>
   <string name="text_run_on_other_broadcast">Այլ միջոցառումներ (հեռարձակում)</string>
   <string name="text_broadcast_action">Հեռարձակման գործողություն</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Նախագիծը պահվել է %s ում</string>
   <string name="text_project_save_error">Նախագծի պահպանումը ձախողվեց %s</string>
   <string name="text_night_mode">Գիշերային ռեժիմ</string>
-  <string name="text_run_on_startup">Երբ սկսվում է Autox.js-ը</string>
+  <string name="text_run_on_startup">Երբ սկսվում է Automyjsx.js-ը</string>
   <string name="text_usage_stats_permission">Օգտագործման հասանելիություն</string>
   <string name="description_usage_stats_permission">«Դիտել օգտագործման վիճակագրության» թույլտվության միջոցով դուք կարող եք ձեռք բերել այս սարքի հավելվածի նախկին օգտագործումը, որպեսզի ավելի ճշգրիտ լինի ստանալ ընթացիկ հավելվածը (currentPackage):</string>
   <string name="text_open_with">Բաց ճանապարհ</string>

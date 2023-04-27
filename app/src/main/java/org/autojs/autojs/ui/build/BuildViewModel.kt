@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.build
+package org.automyjsa.automyjsa.ui.build
 
 import android.app.Application
 import android.net.Uri
@@ -13,9 +13,9 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import com.stardust.app.GlobalAppContext
-import com.stardust.autojs.project.Asset
-import com.stardust.autojs.project.Constant
-import com.stardust.autojs.project.ProjectConfig
+import com.stardust.automyjsa.project.Asset
+import com.stardust.automyjsa.project.Constant
+import com.stardust.automyjsa.project.ProjectConfig
 import com.stardust.pio.PFiles
 import com.stardust.toast
 import kotlinx.coroutines.CoroutineScope
@@ -25,16 +25,16 @@ import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import org.autojs.autojs.Pref
-import org.autojs.autoxjs.R
-import org.autojs.autojs.build.ApkBuilder
-import org.autojs.autojs.build.ApkBuilderPluginHelper
-import org.autojs.autojs.build.ApkKeyStore
-import org.autojs.autojs.build.ApkSigner
-import org.autojs.autojs.model.explorer.ExplorerFileItem
-import org.autojs.autojs.model.explorer.Explorers
-import org.autojs.autojs.model.script.ScriptFile
-import org.autojs.autojs.tool.*
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.build.ApkBuilder
+import org.automyjsa.automyjsa.build.ApkBuilderPluginHelper
+import org.automyjsa.automyjsa.build.ApkKeyStore
+import org.automyjsa.automyjsa.build.ApkSigner
+import org.automyjsa.automyjsa.model.explorer.ExplorerFileItem
+import org.automyjsa.automyjsa.model.explorer.Explorers
+import org.automyjsa.automyjsa.model.script.ScriptFile
+import org.automyjsa.automyjsa.tool.*
 import java.io.File
 import java.net.URLDecoder
 

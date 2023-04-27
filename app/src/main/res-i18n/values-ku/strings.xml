@@ -37,7 +37,7 @@
   <string name="github">Koda çavkaniya nivîsbariyê</string>
   <string name="text_already_copy_to_clip">Li clipboard hate kopî kirin</string>
   <string name="text_qq_already_copy_to_clip">Jimareya koma QQ li klîpboardê hate kopî kirin</string>
-  <string name="share_app">[Autox.js] Navnîşana dakêşanê: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Navnîşana dakêşanê: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Pencereya herikîn</string>
   <string name="text_error_report">Rapora çewtiyê</string>
   <string name="text_press_again_to_exit">Ji bo derketina bernameyê dîsa bitikîne</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import serkeftî</string>
   <string name="text_current_activity">Çalakiya heyî:</string>
   <string name="text_current_package">Navê pakêta serîlêdana heyî:</string>
-  <string name="go_to_accessibility_settings">Ji kerema xwe Settings-> Karûbarên Gihîştinê-> Autox.js vekin û wê çalak bikin</string>
+  <string name="go_to_accessibility_settings">Ji kerema xwe Settings-> Karûbarên Gihîştinê-> Automyjsx.js vekin û wê çalak bikin</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Bişkojka bilindkirina dengan hemî nivîsan radiwestîne</string>
   <string name="text_need_to_enable_accessibility_service">Pêdivî ye ku karûbarên gihîştinê bêne çalak kirin</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Pelê veavakirinê tune</string>
   <string name="text_foreground_service">Qebûlgeha otêlan</string>
   <string name="foreground_notification_channel_name">Agahdariya karûbarê maseya pêşîn</string>
-  <string name="foreground_notification_title">Autox.js berdewam dike</string>
+  <string name="foreground_notification_title">Automyjsx.js berdewam dike</string>
   <string name="foreground_notification_text">Bikirtînin da ku têkevin navrûya sereke</string>
   <string name="text_run_on_other_broadcast">Bûyerên din (weşan)</string>
   <string name="text_broadcast_action">Çalakiya Weşanê</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proje li %s hat tomarkirin</string>
   <string name="text_project_save_error">Projeya hilanînê %s têk çû</string>
   <string name="text_night_mode">Moda şevê</string>
-  <string name="text_run_on_startup">Dema ku Autox.js dest pê dike</string>
+  <string name="text_run_on_startup">Dema ku Automyjsx.js dest pê dike</string>
   <string name="text_usage_stats_permission">Gihîştina karanîna</string>
   <string name="description_usage_stats_permission">Bi destûra \"dîtina îstatîstîkên karanîna\" re, hûn dikarin karanîna serîlêdana berê ya vê cîhazê bistînin, da ku meriv serîlêdana heyî (Pakêta heyî) rasttir bistîne.</string>
   <string name="text_open_with">Riya vekirî</string>

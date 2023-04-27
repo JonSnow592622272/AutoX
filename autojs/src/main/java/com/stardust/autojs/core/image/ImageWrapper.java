@@ -1,12 +1,12 @@
-package com.stardust.autojs.core.image;
+package com.stardust.automyjsa.core.image;
 
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.media.Image;
 import android.os.Build;
 
-import com.stardust.autojs.core.opencv.Mat;
-import com.stardust.autojs.core.opencv.OpenCVHelper;
+import com.stardust.automyjsa.core.opencv.Mat;
+import com.stardust.automyjsa.core.opencv.OpenCVHelper;
 import com.stardust.pio.UncheckedIOException;
 
 import org.opencv.android.Utils;

@@ -1,4 +1,4 @@
-package org.autojs.autojs.build.apksigner;
+package org.automyjsa.automyjsa.build.apksigner;
 
 import java.security.PrivateKey;
 import java.security.cert.X509Certificate;

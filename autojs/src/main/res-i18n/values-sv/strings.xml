@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gestövervakning är inte aktiverad, aktivera den i programvaruinställningarna</string>
   <string name="no_write_settings_permissin">Ingen behörighet att ändra systeminställningar</string>
   <string name="exception_notification_service_disabled">Aviseringstjänsten körs inte, vänligen aktivera aviseringsbehörighet igen</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Detta skript kräver Auto.js versionsnummer %d eller högre för att köras</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Detta skript kräver Automyjsa.js versionsnummer %d eller högre för att köras</string>
   <string name="text_drawer_open">Öppna rullgardinsmenyn</string>
   <string name="text_drawer_close">Stäng rullgardinsmenyn</string>
   <string name="no_read_phone_state_permissin">Ingen behörighet att läsa enhetsinformation</string>

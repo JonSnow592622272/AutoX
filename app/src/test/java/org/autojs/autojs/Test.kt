@@ -1,4 +1,4 @@
-package org.autojs.autojs
+package org.automyjsa.automyjsa
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.editor;
+package org.automyjsa.automyjsa.ui.edit.editor;
 
 /**
  * Created by Stardust on 2018/2/25.

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ਸੰਕੇਤ ਨਿਗਰਾਨੀ ਯੋਗ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਸਾਫਟਵੇਅਰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਚਾਲੂ ਕਰੋ</string>
   <string name="no_write_settings_permissin">ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ</string>
   <string name="exception_notification_service_disabled">ਸੂਚਨਾ ਸੇਵਾ ਨਹੀਂ ਚੱਲ ਰਹੀ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਸੂਚਨਾ ਅਨੁਮਤੀ ਨੂੰ ਮੁੜ-ਯੋਗ ਕਰੋ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ਇਸ ਸਕ੍ਰਿਪਟ ਨੂੰ ਚਲਾਉਣ ਲਈ Auto.js ਸੰਸਕਰਣ ਨੰਬਰ %d ਜਾਂ ਵੱਧ ਦੀ ਲੋੜ ਹੈ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ਇਸ ਸਕ੍ਰਿਪਟ ਨੂੰ ਚਲਾਉਣ ਲਈ Automyjsa.js ਸੰਸਕਰਣ ਨੰਬਰ %d ਜਾਂ ਵੱਧ ਦੀ ਲੋੜ ਹੈ</string>
   <string name="text_drawer_open">ਡ੍ਰੌਪ ਡਾਊਨ ਮੀਨੂ ਖੋਲ੍ਹੋ</string>
   <string name="text_drawer_close">ਡ੍ਰੌਪ ਡਾਊਨ ਮੀਨੂ ਨੂੰ ਬੰਦ ਕਰੋ</string>
   <string name="no_read_phone_state_permissin">ਡਿਵਾਈਸ ਜਾਣਕਾਰੀ ਨੂੰ ਪੜ੍ਹਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ</string>

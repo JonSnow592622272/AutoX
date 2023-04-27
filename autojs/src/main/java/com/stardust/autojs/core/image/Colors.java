@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.image;
+package com.stardust.automyjsa.core.image;
 
 import android.graphics.Color;
 import android.os.Build;

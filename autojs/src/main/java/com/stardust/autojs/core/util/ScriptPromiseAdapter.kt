@@ -1,6 +1,6 @@
-package com.stardust.autojs.core.util
+package com.stardust.automyjsa.core.util
 
-import com.stardust.autojs.core.internal.Functions
+import com.stardust.automyjsa.core.internal.Functions
 
 class ScriptPromiseAdapter {
 

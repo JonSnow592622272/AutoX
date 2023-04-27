@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating;
+package org.automyjsa.automyjsa.ui.floating;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -17,7 +17,7 @@ import android.view.animation.Interpolator;
 import android.view.animation.ScaleAnimation;
 import android.widget.FrameLayout;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 

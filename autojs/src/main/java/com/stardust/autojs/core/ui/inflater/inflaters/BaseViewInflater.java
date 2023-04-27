@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import android.content.res.ColorStateList;
 import android.graphics.PorterDuff;
@@ -15,19 +15,19 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
 
-import com.stardust.autojs.core.ui.ViewExtras;
-import com.stardust.autojs.core.ui.attribute.ViewAttributes;
-import com.stardust.autojs.core.ui.inflater.DynamicLayoutInflater;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.ViewInflater;
-import com.stardust.autojs.core.ui.inflater.ViewCreator;
-import com.stardust.autojs.core.ui.inflater.util.Colors;
-import com.stardust.autojs.core.ui.inflater.util.Dimensions;
-import com.stardust.autojs.core.ui.inflater.util.Drawables;
-import com.stardust.autojs.core.ui.inflater.util.Gravities;
-import com.stardust.autojs.core.ui.inflater.util.Ids;
-import com.stardust.autojs.core.ui.inflater.util.Strings;
-import com.stardust.autojs.core.ui.inflater.util.ValueMapper;
+import com.stardust.automyjsa.core.ui.ViewExtras;
+import com.stardust.automyjsa.core.ui.attribute.ViewAttributes;
+import com.stardust.automyjsa.core.ui.inflater.DynamicLayoutInflater;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ViewInflater;
+import com.stardust.automyjsa.core.ui.inflater.ViewCreator;
+import com.stardust.automyjsa.core.ui.inflater.util.Colors;
+import com.stardust.automyjsa.core.ui.inflater.util.Dimensions;
+import com.stardust.automyjsa.core.ui.inflater.util.Drawables;
+import com.stardust.automyjsa.core.ui.inflater.util.Gravities;
+import com.stardust.automyjsa.core.ui.inflater.util.Ids;
+import com.stardust.automyjsa.core.ui.inflater.util.Strings;
+import com.stardust.automyjsa.core.ui.inflater.util.ValueMapper;
 
 import org.w3c.dom.Node;
 

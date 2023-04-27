@@ -203,7 +203,7 @@ module.exports = function(runtime, global){
 
 
     auto.setWindowFilter = function(filter){
-        runtime.accessibilityBridge.setWindowFilter(new com.stardust.autojs.core.accessibility.AccessibilityBridge.WindowFilter(filter));
+        runtime.accessibilityBridge.setWindowFilter(new com.stardust.automyjsa.core.accessibility.AccessibilityBridge.WindowFilter(filter));
     }
 
     global.auto = auto;

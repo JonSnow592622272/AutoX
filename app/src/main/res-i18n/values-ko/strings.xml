@@ -37,7 +37,7 @@
   <string name="github">소프트웨어 소스 코드</string>
   <string name="text_already_copy_to_clip">클립보드에 복사</string>
   <string name="text_qq_already_copy_to_clip">QQ 그룹 번호가 클립보드에 복사되었습니다.</string>
-  <string name="share_app">[Autox.js] 다운로드 주소: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] 다운로드 주소: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">플로팅 윈도우</string>
   <string name="text_error_report">오류 보고서</string>
   <string name="text_press_again_to_exit">프로그램을 종료하려면 다시 누르십시오.</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">가져오기 성공</string>
   <string name="text_current_activity">현재 활동:</string>
   <string name="text_current_package">현재 애플리케이션 패키지 이름:</string>
-  <string name="go_to_accessibility_settings">설정->접근성 서비스->Autox.js를 열고 활성화하십시오.</string>
+  <string name="go_to_accessibility_settings">설정->접근성 서비스->Automyjsx.js를 열고 활성화하십시오.</string>
   <string name="text_script_running">스크립트 실행</string>
   <string name="text_use_volume_to_stop_running">볼륨 높이기 키는 모든 스크립트를 중지합니다.</string>
   <string name="text_need_to_enable_accessibility_service">접근성 서비스를 활성화해야 합니다.</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">구성 파일 없음</string>
   <string name="text_foreground_service">리셉션</string>
   <string name="foreground_notification_channel_name">프론트 데스크 서비스 알림</string>
-  <string name="foreground_notification_title">Autox.js는 계속 실행됩니다.</string>
+  <string name="foreground_notification_title">Automyjsx.js는 계속 실행됩니다.</string>
   <string name="foreground_notification_text">기본 인터페이스를 입력하려면 클릭하십시오.</string>
   <string name="text_run_on_other_broadcast">기타 이벤트(방송)</string>
   <string name="text_broadcast_action">브로드캐스트 작업</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">프로젝트가 %s 에 저장되었습니다.</string>
   <string name="text_project_save_error">프로젝트 저장 실패 %s</string>
   <string name="text_night_mode">야간 모드</string>
-  <string name="text_run_on_startup">Autox.js가 시작될 때</string>
+  <string name="text_run_on_startup">Automyjsx.js가 시작될 때</string>
   <string name="text_usage_stats_permission">사용 액세스</string>
   <string name="description_usage_stats_permission">\"이용 통계 보기\" 권한을 통해 이 장치의 과거 애플리케이션 사용을 얻을 수 있으므로 현재 애플리케이션(currentPackage)을 얻는 것이 더 정확합니다.</string>
   <string name="text_open_with">열린 길</string>

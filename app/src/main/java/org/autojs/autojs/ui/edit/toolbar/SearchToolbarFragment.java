@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.toolbar;
+package org.automyjsa.automyjsa.ui.edit.toolbar;
 
 import android.os.Bundle;
 import androidx.annotation.Nullable;
@@ -6,7 +6,7 @@ import androidx.annotation.Nullable;
 import android.view.View;
 
 import org.androidannotations.annotations.EFragment;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import java.util.Arrays;
 import java.util.List;

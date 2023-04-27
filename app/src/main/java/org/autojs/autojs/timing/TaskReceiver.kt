@@ -1,11 +1,11 @@
-package org.autojs.autojs.timing
+package org.automyjsa.automyjsa.timing
 
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
 import android.util.Log
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.external.ScriptIntents
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.external.ScriptIntents
 
 /**
  * Created by Stardust on 2017/11/27.
@@ -18,7 +18,7 @@ class TaskReceiver : BroadcastReceiver() {
                     + ", path=" + intent.getStringExtra(ScriptIntents.EXTRA_KEY_PATH)
                     + "]"
         )
-        AutoJs.getInstance().debugInfo("receive intent:" + intent.action)
+        Automyjsa.getInstance().debugInfo("receive intent:" + intent.action)
         ScriptIntents.handleIntent(context, intent)
         val id = intent.getLongExtra(EXTRA_TASK_ID, -1)
         if (id >= 0) {
@@ -27,7 +27,7 @@ class TaskReceiver : BroadcastReceiver() {
     }
 
     companion object {
-        const val ACTION_TASK = "org.autojs.autojs.action.task"
+        const val ACTION_TASK = "org.automyjsa.automyjsa.action.task"
         const val EXTRA_TASK_ID = "task_id"
         private const val LOG_TAG = "TaskReceiver"
     }

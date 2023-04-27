@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.update;
+package org.automyjsa.automyjsa.ui.update;
 
 import android.content.Context;
 import android.widget.Toast;
@@ -6,10 +6,10 @@ import android.widget.Toast;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.stardust.app.GlobalAppContext;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.network.VersionService;
-import org.autojs.autojs.network.entity.VersionInfo;
-import org.autojs.autojs.tool.SimpleObserver;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.network.VersionService;
+import org.automyjsa.automyjsa.network.entity.VersionInfo;
+import org.automyjsa.automyjsa.tool.SimpleObserver;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.annotations.NonNull;

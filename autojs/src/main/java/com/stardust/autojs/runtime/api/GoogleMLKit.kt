@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api
+package com.stardust.automyjsa.runtime.api
 
 import android.util.Log
 import com.baidu.paddle.lite.demo.ocr.OcrResult
@@ -10,8 +10,8 @@ import com.google.mlkit.vision.text.devanagari.DevanagariTextRecognizerOptions
 import com.google.mlkit.vision.text.japanese.JapaneseTextRecognizerOptions
 import com.google.mlkit.vision.text.korean.KoreanTextRecognizerOptions
 import com.google.mlkit.vision.text.latin.TextRecognizerOptions
-import com.stardust.autojs.core.image.ImageWrapper
-import com.stardust.autojs.core.mlkit.GoogleMLKitOcrResult
+import com.stardust.automyjsa.core.image.ImageWrapper
+import com.stardust.automyjsa.core.mlkit.GoogleMLKitOcrResult
 import java.util.concurrent.CountDownLatch
 
 class GoogleMLKit {

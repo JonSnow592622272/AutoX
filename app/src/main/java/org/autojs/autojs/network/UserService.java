@@ -1,10 +1,10 @@
-package org.autojs.autojs.network;
+package org.automyjsa.automyjsa.network;
 
 import com.jakewharton.retrofit2.adapter.rxjava2.HttpException;
-import org.autojs.autojs.network.api.UserApi;
-import org.autojs.autojs.network.entity.notification.Notification;
-import org.autojs.autojs.network.entity.notification.NotificationResponse;
-import org.autojs.autojs.network.entity.user.User;
+import org.automyjsa.automyjsa.network.api.UserApi;
+import org.automyjsa.automyjsa.network.entity.notification.Notification;
+import org.automyjsa.automyjsa.network.entity.notification.NotificationResponse;
+import org.automyjsa.automyjsa.network.entity.user.User;
 import com.stardust.util.Objects;
 import com.tencent.bugly.crashreport.CrashReport;
 

@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.widget;
+package org.automyjsa.automyjsa.external.widget;
 
 import android.content.Context;
 import android.content.SharedPreferences;

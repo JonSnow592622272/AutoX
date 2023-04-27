@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Pemantauan gerakan tidak diaktifkan, harap aktifkan di pengaturan perangkat lunak</string>
   <string name="no_write_settings_permissin">Tidak ada izin untuk mengubah pengaturan sistem</string>
   <string name="exception_notification_service_disabled">Layanan notifikasi tidak berjalan, harap aktifkan kembali izin notifikasi</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Skrip ini memerlukan nomor versi Auto.js %d atau lebih tinggi untuk dijalankan</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Skrip ini memerlukan nomor versi Automyjsa.js %d atau lebih tinggi untuk dijalankan</string>
   <string name="text_drawer_open">Buka menu tarik-turun</string>
   <string name="text_drawer_close">Tutup menu tarik-turun</string>
   <string name="no_read_phone_state_permissin">Tidak ada izin untuk membaca informasi perangkat</string>

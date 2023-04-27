@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit;
+package org.automyjsa.automyjsa.ui.edit;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -14,13 +14,13 @@ import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.indices.AndroidClassIndices;
-import org.autojs.autojs.model.indices.ClassSearchingItem;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
-import org.autojs.autojs.ui.widget.AutoAdapter;
-import org.autojs.autojs.ui.widget.BindableViewHolder;
-import org.autojs.autojs.ui.widget.SimpleTextWatcher;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.indices.AndroidClassIndices;
+import org.automyjsa.automyjsa.model.indices.ClassSearchingItem;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.ui.widget.AutoAdapter;
+import org.automyjsa.automyjsa.ui.widget.BindableViewHolder;
+import org.automyjsa.automyjsa.ui.widget.SimpleTextWatcher;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import me.zhanghai.android.materialprogressbar.MaterialProgressBar;

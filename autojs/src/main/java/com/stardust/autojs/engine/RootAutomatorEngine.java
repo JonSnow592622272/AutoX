@@ -1,14 +1,14 @@
-package com.stardust.autojs.engine;
+package com.stardust.automyjsa.engine;
 
 import android.content.Context;
 import android.preference.PreferenceManager;
 import android.util.Log;
 
-import com.stardust.autojs.core.util.ProcessShell;
-import com.stardust.autojs.core.inputevent.InputDevices;
-import com.stardust.autojs.runtime.exception.ScriptException;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
-import com.stardust.autojs.script.AutoFileSource;
+import com.stardust.automyjsa.core.util.ProcessShell;
+import com.stardust.automyjsa.core.inputevent.InputDevices;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.script.AutoFileSource;
 import com.stardust.pio.PFiles;
 
 import java.io.BufferedReader;

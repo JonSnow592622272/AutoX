@@ -155,7 +155,7 @@ module.exports = function (runtime, global) {
     app.versionCode = context.getPackageManager().getPackageInfo(context.getPackageName(), 0).versionCode;
     app.versionName = context.getPackageManager().getPackageInfo(context.getPackageName(), 0).versionName;
     
-    app.autojs = {
+    app.automyjsa = {
         versionCode: com.stardust.app.GlobalAppContext.getBuildConfig().VERSION_CODE,
         versionName: com.stardust.app.GlobalAppContext.getBuildConfig().VERSION_NAME
     };

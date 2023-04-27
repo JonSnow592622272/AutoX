@@ -1,11 +1,11 @@
-package org.autojs.autojs.build
+package org.automyjsa.automyjsa.build
 
-import org.autojs.autojs.build.apksigner.KeyStoreFileManager
-import org.autojs.autojs.build.apksigner.ZipSigner
-import org.autojs.autojs.build.apksigner.CertCreator.DistinguishedNameValues
-import org.autojs.autojs.build.apksigner.CertCreator
+import org.automyjsa.automyjsa.build.apksigner.KeyStoreFileManager
+import org.automyjsa.automyjsa.build.apksigner.ZipSigner
+import org.automyjsa.automyjsa.build.apksigner.CertCreator.DistinguishedNameValues
+import org.automyjsa.automyjsa.build.apksigner.CertCreator
 import com.stardust.pio.PFile
-import org.autojs.autojs.Pref
+import org.automyjsa.automyjsa.Pref
 import java.io.File
 import java.io.FileNotFoundException
 import java.lang.Exception

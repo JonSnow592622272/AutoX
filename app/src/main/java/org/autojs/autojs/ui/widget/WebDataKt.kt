@@ -1,5 +1,5 @@
-package org.autojs.autojs.ui.widget
+package org.automyjsa.automyjsa.ui.widget
 
 object WebDataKt {
-    var homepage = "http://doc.autoxjs.com/"
+    var homepage = "http://doc.automyjsx.com/"
 }

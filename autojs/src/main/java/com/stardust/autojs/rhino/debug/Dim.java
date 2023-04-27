@@ -1,4 +1,4 @@
-package com.stardust.autojs.rhino.debug;
+package com.stardust.automyjsa.rhino.debug;
 
 /* -*- Mode: java; tab-width: 8; indent-tabs-mode: nil; c-basic-offset: 4 -*-
  *
@@ -6,10 +6,10 @@ package com.stardust.autojs.rhino.debug;
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-import com.stardust.autojs.ScriptEngineService;
-import com.stardust.autojs.engine.RhinoJavaScriptEngine;
-import com.stardust.autojs.engine.ScriptEngine;
-import com.stardust.autojs.engine.ScriptEngineManager;
+import com.stardust.automyjsa.ScriptEngineService;
+import com.stardust.automyjsa.engine.RhinoJavaScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngineManager;
 
 import org.mozilla.javascript.*;
 import org.mozilla.javascript.debug.*;

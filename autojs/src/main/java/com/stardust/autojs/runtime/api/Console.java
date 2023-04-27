@@ -1,10 +1,10 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.graphics.Color;
 
 import androidx.annotation.Nullable;
 
-import com.stardust.autojs.annotation.ScriptInterface;
+import com.stardust.automyjsa.annotation.ScriptInterface;
 
 /**
  * Created by Stardust on 2017/4/2.

@@ -1,4 +1,4 @@
-package com.stardust.autojs.engine.module;
+package com.stardust.automyjsa.engine.module;
 
 import org.mozilla.javascript.commonjs.module.provider.DefaultUrlConnectionExpiryCalculator;
 import org.mozilla.javascript.commonjs.module.provider.ModuleSource;

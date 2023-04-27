@@ -1,10 +1,10 @@
-package org.autojs.autojs.ui.edit.theme;
+package org.automyjsa.automyjsa.ui.edit.theme;
 
 import android.graphics.Color;
 import android.util.SparseIntArray;
 
-import org.autojs.autojs.model.editor.EditorTheme;
-import org.autojs.autojs.model.editor.TokenColor;
+import org.automyjsa.automyjsa.model.editor.EditorTheme;
+import org.automyjsa.automyjsa.model.editor.TokenColor;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

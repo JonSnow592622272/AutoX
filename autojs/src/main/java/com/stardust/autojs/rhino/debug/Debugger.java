@@ -1,13 +1,13 @@
-package com.stardust.autojs.rhino.debug;
+package com.stardust.automyjsa.rhino.debug;
 
 import android.os.Handler;
 import android.os.Looper;
 import androidx.annotation.Nullable;
 import android.util.Log;
 
-import com.stardust.autojs.ScriptEngineService;
-import com.stardust.autojs.engine.RhinoJavaScriptEngine;
-import com.stardust.autojs.execution.ScriptExecution;
+import com.stardust.automyjsa.ScriptEngineService;
+import com.stardust.automyjsa.engine.RhinoJavaScriptEngine;
+import com.stardust.automyjsa.execution.ScriptExecution;
 
 import org.mozilla.javascript.ContextFactory;
 

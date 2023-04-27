@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.editor;
+package org.automyjsa.automyjsa.ui.edit.editor;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -8,12 +8,12 @@ import android.widget.Toast;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.google.android.material.snackbar.Snackbar;
-import com.stardust.autojs.script.JsBeautifier;
+import com.stardust.automyjsa.script.JsBeautifier;
 import com.stardust.util.ClipboardUtil;
 import com.stardust.util.TextUtils;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.edit.theme.Theme;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.edit.theme.Theme;
 
 import java.util.LinkedHashMap;
 import java.util.regex.Matcher;

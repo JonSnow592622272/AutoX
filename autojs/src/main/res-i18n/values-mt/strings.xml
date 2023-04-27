@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Il-monitoraġġ tal-ġesti mhuwiex attivat, jekk jogħġbok ippermettih fis-settings tas-softwer</string>
   <string name="no_write_settings_permissin">L-ebda permess biex timmodifika s-settings tas-sistema</string>
   <string name="exception_notification_service_disabled">Is-servizz ta\' notifika mhux qed jaħdem, jekk jogħġbok erġa\' ppermetti l-permess ta\' notifika</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Din l-iskrittura teħtieġ in-numru tal-verżjoni Auto.js %d jew ogħla biex titħaddem</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Din l-iskrittura teħtieġ in-numru tal-verżjoni Automyjsa.js %d jew ogħla biex titħaddem</string>
   <string name="text_drawer_open">Iftaħ il-menu drop down</string>
   <string name="text_drawer_close">Agħlaq il-menu drop down</string>
   <string name="no_read_phone_state_permissin">L-ebda permess biex taqra l-informazzjoni tal-apparat</string>

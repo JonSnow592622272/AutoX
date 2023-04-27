@@ -1,5 +1,5 @@
 
-package org.autojs.autojs.network.entity.topic;
+package org.automyjsa.automyjsa.network.entity.topic;
 
 import com.google.gson.annotations.SerializedName;
 

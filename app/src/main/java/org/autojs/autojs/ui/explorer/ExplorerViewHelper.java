@@ -1,21 +1,21 @@
-package org.autojs.autojs.ui.explorer;
+package org.automyjsa.automyjsa.ui.explorer;
 
 import android.graphics.Color;
 
 import com.stardust.app.GlobalAppContext;
 import com.stardust.pio.PFiles;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.explorer.ExplorerFileItem;
-import org.autojs.autojs.model.explorer.ExplorerItem;
-import org.autojs.autojs.model.explorer.ExplorerPage;
-import org.autojs.autojs.model.explorer.ExplorerProjectPage;
-import org.autojs.autojs.model.explorer.ExplorerSamplePage;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.explorer.ExplorerFileItem;
+import org.automyjsa.automyjsa.model.explorer.ExplorerItem;
+import org.automyjsa.automyjsa.model.explorer.ExplorerPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerProjectPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerSamplePage;
 
 import static androidx.core.content.ContextCompat.getColor;
-import static org.autojs.autojs.model.explorer.ExplorerItem.TYPE_AUTO_FILE;
-import static org.autojs.autojs.model.explorer.ExplorerItem.TYPE_JAVASCRIPT;
-import static org.autojs.autojs.model.explorer.ExplorerItem.TYPE_UNKNOWN;
+import static org.automyjsa.automyjsa.model.explorer.ExplorerItem.TYPE_AUTO_FILE;
+import static org.automyjsa.automyjsa.model.explorer.ExplorerItem.TYPE_JAVASCRIPT;
+import static org.automyjsa.automyjsa.model.explorer.ExplorerItem.TYPE_UNKNOWN;
 
 public class ExplorerViewHelper {
 

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">A gesztusfigyelés nincs engedélyezve, kérjük, engedélyezze a szoftverbeállításokban</string>
   <string name="no_write_settings_permissin">Nincs engedély a rendszerbeállítások módosítására</string>
   <string name="exception_notification_service_disabled">Az értesítési szolgáltatás nem fut, kérjük, engedélyezze újra az értesítési engedélyt</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">A szkript futtatásához az Auto.js %d vagy magasabb verziószámú verziója szükséges</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">A szkript futtatásához az Automyjsa.js %d vagy magasabb verziószámú verziója szükséges</string>
   <string name="text_drawer_open">Nyissa meg a legördülő menüt</string>
   <string name="text_drawer_close">Zárja be a legördülő menüt</string>
   <string name="no_read_phone_state_permissin">Nincs engedély az eszköz információinak olvasására</string>

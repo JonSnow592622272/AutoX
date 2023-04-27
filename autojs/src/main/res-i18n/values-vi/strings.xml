@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Giám sát cử chỉ chưa được bật, vui lòng bật tính năng này trong cài đặt phần mềm</string>
   <string name="no_write_settings_permissin">Không có quyền sửa đổi cài đặt hệ thống</string>
   <string name="exception_notification_service_disabled">Dịch vụ thông báo không chạy, vui lòng bật lại quyền thông báo</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tập lệnh này yêu cầu phiên bản Auto.js %d trở lên để chạy</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tập lệnh này yêu cầu phiên bản Automyjsa.js %d trở lên để chạy</string>
   <string name="text_drawer_open">Mở menu thả xuống</string>
   <string name="text_drawer_close">Đóng menu thả xuống</string>
   <string name="no_read_phone_state_permissin">Không có quyền đọc thông tin thiết bị</string>

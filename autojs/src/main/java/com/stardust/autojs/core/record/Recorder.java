@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.record;
+package com.stardust.automyjsa.core.record;
 
 import java.util.Arrays;
 

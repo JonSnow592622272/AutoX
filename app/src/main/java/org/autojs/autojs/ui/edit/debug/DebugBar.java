@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.debug;
+package org.automyjsa.automyjsa.ui.edit.debug;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
@@ -14,10 +14,10 @@ import android.widget.TextView;
 
 import com.stardust.util.ClipboardUtil;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
-import org.autojs.autojs.ui.widget.AutoAdapter;
-import org.autojs.autojs.ui.widget.BindableViewHolder;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.ui.widget.AutoAdapter;
+import org.automyjsa.automyjsa.ui.widget.BindableViewHolder;
 
 import java.util.List;
 

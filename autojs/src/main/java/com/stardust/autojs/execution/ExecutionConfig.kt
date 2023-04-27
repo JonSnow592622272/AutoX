@@ -1,8 +1,8 @@
-package com.stardust.autojs.execution
+package com.stardust.automyjsa.execution
 
 import android.os.Parcel
 import android.os.Parcelable
-import com.stardust.autojs.project.ScriptConfig
+import com.stardust.automyjsa.project.ScriptConfig
 import java.util.*
 
 /**

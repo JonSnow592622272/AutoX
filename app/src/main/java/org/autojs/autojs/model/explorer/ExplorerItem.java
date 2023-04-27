@@ -1,6 +1,6 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
-import org.autojs.autojs.model.script.ScriptFile;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
 
 public interface ExplorerItem {
 

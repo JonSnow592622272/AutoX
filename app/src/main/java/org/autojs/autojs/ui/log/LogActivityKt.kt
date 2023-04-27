@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.log
+package org.automyjsa.automyjsa.ui.log
 
 import android.content.Context
 import android.content.Intent
@@ -18,13 +18,13 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.viewinterop.AndroidView
-import com.stardust.autojs.core.console.ConsoleView
-import com.stardust.autojs.core.console.GlobalConsole
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.ui.compose.theme.AutoXJsTheme
-import org.autojs.autojs.ui.compose.util.SetSystemUI
-import org.autojs.autojs.ui.widget.fillMaxSize
-import org.autojs.autoxjs.R
+import com.stardust.automyjsa.core.console.ConsoleView
+import com.stardust.automyjsa.core.console.GlobalConsole
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.ui.compose.theme.AutomyjsxTheme
+import org.automyjsa.automyjsa.ui.compose.util.SetSystemUI
+import org.automyjsa.automyjsa.ui.widget.fillMaxSize
+import org.automyjsa.automyjsx.R
 
 class LogActivityKt : ComponentActivity() {
 
@@ -38,7 +38,7 @@ class LogActivityKt : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            AutoXJsTheme {
+            AutomyjsxTheme {
                 Surface(color = MaterialTheme.colors.surface) {
                     SetSystemUI()
                     Content()
@@ -50,7 +50,7 @@ class LogActivityKt : ComponentActivity() {
     @Composable
     fun Content() {
         val consoleImpl = remember {
-            AutoJs.getInstance().globalConsole
+            Automyjsa.getInstance().globalConsole
         }
         Scaffold(
             topBar = {

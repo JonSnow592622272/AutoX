@@ -37,7 +37,7 @@
   <string name="github">ሶፍትዌር ምንጪ ኮድ</string>
   <string name="text_already_copy_to_clip">ናብ ቅንጥብጣብ ተቐዲሑ</string>
   <string name="text_qq_already_copy_to_clip">ቁጽሪ ጉጅለ QQ ናብቲ ቅንጥብጣብ ተቐዲሑ ኣሎ።</string>
-  <string name="share_app">[Autox.js] ኣድራሻ ምውራድ፡ https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ኣድራሻ ምውራድ፡ https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ተንሳፋፊ መስኮት።</string>
   <string name="text_error_report">ጸብጻብ ጌጋ</string>
   <string name="text_press_again_to_exit">ካብቲ ፕሮግራም ንምውጻእ ደጊምካ ምጽቃጥ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">ኣእትዎ ዕዉት እዩ።</string>
   <string name="text_current_activity">እዋናዊ ንጥፈታት፤</string>
   <string name="text_current_package">ናይ ሕጂ ስም ፓኬጅ መተግበሪ፤</string>
-  <string name="go_to_accessibility_settings">በጃኹም Settings->Accessibility Services->Autox.js ከፊትና ኣንቅሕዎ።</string>
+  <string name="go_to_accessibility_settings">በጃኹም Settings->Accessibility Services->Automyjsx.js ከፊትና ኣንቅሕዎ።</string>
   <string name="text_script_running">ስክሪፕት ምጉያይ</string>
   <string name="text_use_volume_to_stop_running">Volume up key ንኹሉ ስክሪፕት ደው የብሎ</string>
   <string name="text_need_to_enable_accessibility_service">ኣገልግሎት ተበፃሕነት ምኽፋት የድሊ</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">ዝኾነ ናይ ውቅር ፋይል የለን</string>
   <string name="text_foreground_service">መቐበሊ ጋሻ</string>
   <string name="foreground_notification_channel_name">ናይ ቅድሚት ጣውላ ኣገልግሎት መፍለጢ</string>
-  <string name="foreground_notification_title">Autox.js ምጉያይ ይቕጽል</string>
+  <string name="foreground_notification_title">Automyjsx.js ምጉያይ ይቕጽል</string>
   <string name="foreground_notification_text">ናብቲ ቀንዲ መተሓላለፊ ንምእታው ጠውቕ</string>
   <string name="text_run_on_other_broadcast">ካልኦት ፍጻሜታት (ፈነወ)</string>
   <string name="text_broadcast_action">ፈነወ ተግባር</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">ፕሮጀክት ናብ %s ኣሎ።</string>
   <string name="text_project_save_error">ፕሮጀክት ምዕቃብ ኣይተዓወተን %s</string>
   <string name="text_night_mode">ናይ ለይቲ ሞድ</string>
-  <string name="text_run_on_startup">Autox.js ምስ ተጀመረ</string>
+  <string name="text_run_on_startup">Automyjsx.js ምስ ተጀመረ</string>
   <string name="text_usage_stats_permission">ናይ ኣጠቓቕማ ምብጻሕ</string>
   <string name="description_usage_stats_permission">ብመንገዲ \"view usage statistics\" ዝብል ፍቓድ፡ ሕሉፍ ኣጠቓቕማ መተግበሪ ናይዚ መሳርሒ ክትረክብ ትኽእል ኢኻ፡ ምእንቲ እቲ ናይ ሕጂ መተግበሪ (currentPackage) ንምርካብ ዝያዳ ልክዕ ይኸውን።</string>
   <string name="text_open_with">ክፉት መንገዲ</string>

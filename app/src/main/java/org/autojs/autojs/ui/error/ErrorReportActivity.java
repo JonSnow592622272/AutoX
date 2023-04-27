@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.error;
+package org.automyjsa.automyjsa.ui.error;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
@@ -11,10 +11,10 @@ import android.util.Log;
 import android.util.SparseIntArray;
 import android.widget.Toast;
 
-import org.autojs.autoxjs.BuildConfig;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.BuildConfig;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsx.R;
 
 import java.util.Locale;
 import java.util.Timer;

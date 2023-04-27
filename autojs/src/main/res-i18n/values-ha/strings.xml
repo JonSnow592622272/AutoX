@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ba a kunna saka idanu ba, da fatan za a kunna shi a cikin saitunan software</string>
   <string name="no_write_settings_permissin">Babu izini don gyara saitunan tsarin</string>
   <string name="exception_notification_service_disabled">Sabis na sanarwa baya gudana, da fatan za a sake kunna izinin sanarwa</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Wannan rubutun yana buƙatar lambar sigar Auto.js %d ko sama don aiki</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Wannan rubutun yana buƙatar lambar sigar Automyjsa.js %d ko sama don aiki</string>
   <string name="text_drawer_open">Bude menu na saukewa</string>
   <string name="text_drawer_close">Rufe menu na saukewa</string>
   <string name="no_read_phone_state_permissin">Babu izini don karanta bayanan na\'urar</string>

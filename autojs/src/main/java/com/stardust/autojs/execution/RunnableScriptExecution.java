@@ -1,11 +1,11 @@
-package com.stardust.autojs.execution;
+package com.stardust.automyjsa.execution;
 
 import android.util.Log;
 
-import com.stardust.autojs.engine.ScriptEngine;
-import com.stardust.autojs.engine.ScriptEngineManager;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.engine.ScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngineManager;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.script.ScriptSource;
 import com.stardust.lang.ThreadCompat;
 
 import org.mozilla.javascript.ContinuationPending;

@@ -1,11 +1,11 @@
-package com.stardust.autojs.core.inputevent;
+package com.stardust.automyjsa.core.inputevent;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
 import android.text.TextUtils;
 
-import com.stardust.autojs.core.record.inputevent.EventFormatException;
-import com.stardust.autojs.core.util.Shell;
+import com.stardust.automyjsa.core.record.inputevent.EventFormatException;
+import com.stardust.automyjsa.core.util.Shell;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.regex.Matcher;

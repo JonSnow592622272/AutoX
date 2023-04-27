@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.http;
+package com.stardust.automyjsa.core.http;
 
 import java.net.SocketTimeoutException;
 import java.util.Collections;

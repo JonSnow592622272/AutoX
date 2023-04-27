@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.nativeview;
+package com.stardust.automyjsa.core.ui.nativeview;
 
 import android.annotation.SuppressLint;
 import android.os.Build;
@@ -8,11 +8,11 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.CompoundButton;
 
-import com.stardust.autojs.core.eventloop.EventEmitter;
-import com.stardust.autojs.core.ui.BaseEvent;
-import com.stardust.autojs.core.ui.attribute.ViewAttributes;
-import com.stardust.autojs.core.ui.widget.JsListView;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.eventloop.EventEmitter;
+import com.stardust.automyjsa.core.ui.BaseEvent;
+import com.stardust.automyjsa.core.ui.attribute.ViewAttributes;
+import com.stardust.automyjsa.core.ui.widget.JsListView;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import org.mozilla.javascript.Scriptable;
 import org.mozilla.javascript.Undefined;

@@ -1,4 +1,4 @@
-package org.autojs.autojs.tool;
+package org.automyjsa.automyjsa.tool;
 
 import io.reactivex.Observer;
 import io.reactivex.annotations.NonNull;

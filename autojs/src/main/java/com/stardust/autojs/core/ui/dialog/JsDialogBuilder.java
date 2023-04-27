@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.dialog;
+package com.stardust.automyjsa.core.ui.dialog;
 
 import android.content.Context;
 
@@ -10,10 +10,10 @@ import com.afollestad.materialdialogs.GravityEnum;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.StackingBehavior;
 import com.afollestad.materialdialogs.Theme;
-import com.stardust.autojs.core.eventloop.EventEmitter;
-import com.stardust.autojs.core.looper.Loopers;
-import com.stardust.autojs.core.looper.Timer;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.eventloop.EventEmitter;
+import com.stardust.automyjsa.core.looper.Loopers;
+import com.stardust.automyjsa.core.looper.Timer;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.util.UiHandler;
 
 /**

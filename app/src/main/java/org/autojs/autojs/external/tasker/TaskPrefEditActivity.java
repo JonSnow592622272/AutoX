@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.tasker;
+package org.automyjsa.automyjsa.external.tasker;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,14 +14,14 @@ import com.twofortyfouram.locale.sdk.client.ui.activity.AbstractAppCompatPluginA
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EActivity;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.external.ScriptIntents;
-import org.autojs.autojs.model.explorer.ExplorerDirPage;
-import org.autojs.autojs.model.explorer.Explorers;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.explorer.ExplorerViewKt;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.external.ScriptIntents;
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage;
+import org.automyjsa.automyjsa.model.explorer.Explorers;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.explorer.ExplorerViewKt;
 
-import static org.autojs.autojs.ui.edit.EditorView.EXTRA_CONTENT;
+import static org.automyjsa.automyjsa.ui.edit.EditorView.EXTRA_CONTENT;
 
 
 /**

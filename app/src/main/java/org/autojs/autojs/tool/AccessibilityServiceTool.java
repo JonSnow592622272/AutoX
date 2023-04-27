@@ -1,15 +1,15 @@
-package org.autojs.autojs.tool;
+package org.automyjsa.automyjsa.tool;
 
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.text.TextUtils;
 
 import com.stardust.app.GlobalAppContext;
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
 
-import com.stardust.autojs.core.accessibility.AccessibilityService;
-import com.stardust.autojs.core.util.ProcessShell;
+import com.stardust.automyjsa.core.accessibility.AccessibilityService;
+import com.stardust.automyjsa.core.util.ProcessShell;
 import com.stardust.view.accessibility.AccessibilityServiceUtils;
 
 import java.util.Locale;

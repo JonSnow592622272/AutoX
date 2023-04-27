@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Hareket izleme etkin değil, lütfen yazılım ayarlarından etkinleştirin</string>
   <string name="no_write_settings_permissin">Sistem ayarlarını değiştirme izni yok</string>
   <string name="exception_notification_service_disabled">Bildirim hizmeti çalışmıyor, lütfen bildirim iznini yeniden etkinleştirin</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Bu betiğin çalışması için Auto.js sürüm numarası %d veya üzeri gerekiyor</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Bu betiğin çalışması için Automyjsa.js sürüm numarası %d veya üzeri gerekiyor</string>
   <string name="text_drawer_open">Açılır menüyü açın</string>
   <string name="text_drawer_close">Açılır menüyü kapat</string>
   <string name="no_read_phone_state_permissin">Cihaz bilgilerini okuma izni yok</string>

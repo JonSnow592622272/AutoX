@@ -1,4 +1,4 @@
-package org.autojs.autojs.devplugin
+package org.automyjsa.automyjsa.devplugin
 
 import android.util.Log
 import io.ktor.client.*

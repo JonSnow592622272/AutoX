@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating.layoutinspector
+package org.automyjsa.automyjsa.ui.floating.layoutinspector
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -16,8 +16,8 @@ import android.widget.ListView
 import android.widget.TextView
 import com.stardust.util.ViewUtil
 import com.stardust.view.accessibility.NodeInfo
-import org.autojs.autojs.ui.widget.LevelBeamView
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.ui.widget.LevelBeamView
+import org.automyjsa.automyjsx.R
 import pl.openrnd.multilevellistview.*
 import java.util.*
 

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ไม่ได้เปิดใช้งานการตรวจสอบท่าทางสัมผัส โปรดเปิดใช้งานในการตั้งค่าซอฟต์แวร์</string>
   <string name="no_write_settings_permissin">ไม่อนุญาตให้แก้ไขการตั้งค่าระบบ</string>
   <string name="exception_notification_service_disabled">บริการแจ้งเตือนไม่ทำงาน โปรดเปิดใช้งานการอนุญาตการแจ้งเตือนอีกครั้ง</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">สคริปต์นี้ต้องใช้ Auto.js หมายเลขเวอร์ชัน %d หรือสูงกว่าจึงจะทำงานได้</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">สคริปต์นี้ต้องใช้ Automyjsa.js หมายเลขเวอร์ชัน %d หรือสูงกว่าจึงจะทำงานได้</string>
   <string name="text_drawer_open">เปิดเมนูแบบเลื่อนลง</string>
   <string name="text_drawer_close">ปิดเมนูแบบเลื่อนลง</string>
   <string name="no_read_phone_state_permissin">ไม่อนุญาตให้อ่านข้อมูลอุปกรณ์</string>

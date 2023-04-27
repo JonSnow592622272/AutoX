@@ -1,13 +1,13 @@
-package org.autojs.autojs.external.shortcut;
+package org.automyjsa.automyjsa.external.shortcut;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import org.autojs.autojs.model.script.PathChecker;
-import org.autojs.autojs.external.ScriptIntents;
-import org.autojs.autojs.model.script.ScriptFile;
-import org.autojs.autojs.model.script.Scripts;
+import org.automyjsa.automyjsa.model.script.PathChecker;
+import org.automyjsa.automyjsa.external.ScriptIntents;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
+import org.automyjsa.automyjsa.model.script.Scripts;
 
 /**
  * Created by Stardust on 2017/1/23.

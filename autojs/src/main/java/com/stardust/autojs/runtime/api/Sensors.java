@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.content.Context;
 import android.hardware.Sensor;
@@ -7,10 +7,10 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import androidx.annotation.NonNull;
 
-import com.stardust.autojs.core.eventloop.EventEmitter;
-import com.stardust.autojs.core.looper.Loopers;
-import com.stardust.autojs.runtime.ScriptBridges;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.eventloop.EventEmitter;
+import com.stardust.automyjsa.core.looper.Loopers;
+import com.stardust.automyjsa.runtime.ScriptBridges;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.util.MapBuilder;
 
 import java.lang.reflect.Field;

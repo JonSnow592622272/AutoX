@@ -1,15 +1,15 @@
-package org.autojs.autojs.ui.main.task;
+package org.automyjsa.automyjsa.ui.main.task;
 
 import android.content.Context;
 
 import com.bignerdranch.expandablerecyclerview.model.Parent;
-import com.stardust.autojs.execution.ScriptExecution;
+import com.stardust.automyjsa.execution.ScriptExecution;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.timing.IntentTask;
-import org.autojs.autojs.timing.TimedTask;
-import org.autojs.autojs.timing.TimedTaskManager;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.timing.IntentTask;
+import org.automyjsa.automyjsa.timing.TimedTask;
+import org.automyjsa.automyjsa.timing.TimedTaskManager;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -117,7 +117,7 @@ public abstract class TaskGroup implements Parent<Task> {
 
         @Override
         public void refresh() {
-            Collection<ScriptExecution> executions = AutoJs.getInstance().getScriptEngineService().getScriptExecutions();
+            Collection<ScriptExecution> executions = Automyjsa.getInstance().getScriptEngineService().getScriptExecutions();
             mTasks.clear();
             for (ScriptExecution execution : executions) {
                 mTasks.add(new Task.RunningTask(execution));

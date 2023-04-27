@@ -37,7 +37,7 @@
   <string name="github">Програм хангамжийн эх код</string>
   <string name="text_already_copy_to_clip">Санах ой руу хуулсан</string>
   <string name="text_qq_already_copy_to_clip">QQ бүлгийн дугаарыг санах ойд хуулсан</string>
-  <string name="share_app">[Autox.js] Татаж авах хаяг: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Татаж авах хаяг: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Хөвөгч цонх</string>
   <string name="text_error_report">Алдааны тайлан</string>
   <string name="text_press_again_to_exit">Програмаас гарахын тулд дахин дарна уу</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Импорт амжилттай</string>
   <string name="text_current_activity">Одоогийн үйл ажиллагаа:</string>
   <string name="text_current_package">Одоогийн програмын багцын нэр:</string>
-  <string name="go_to_accessibility_settings">Settings->Accessibility Services->Autox.js-г нээж идэвхжүүлнэ үү</string>
+  <string name="go_to_accessibility_settings">Settings->Accessibility Services->Automyjsx.js-г нээж идэвхжүүлнэ үү</string>
   <string name="text_script_running">Скрипт ажиллуулах</string>
   <string name="text_use_volume_to_stop_running">Дууг нэмэгдүүлэх товчлуур нь бүх скриптийг зогсооно</string>
   <string name="text_need_to_enable_accessibility_service">Хандалтын үйлчилгээг идэвхжүүлэх шаардлагатай</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Тохиргооны файл байхгүй</string>
   <string name="text_foreground_service">Хүлээн авалт</string>
   <string name="foreground_notification_channel_name">Урд ширээний үйлчилгээний мэдэгдэл</string>
-  <string name="foreground_notification_title">Autox.js ажиллаж байна</string>
+  <string name="foreground_notification_title">Automyjsx.js ажиллаж байна</string>
   <string name="foreground_notification_text">Үндсэн интерфейс рүү орохын тулд товшино уу</string>
   <string name="text_run_on_other_broadcast">Бусад арга хэмжээ (нэвтрүүлэг)</string>
   <string name="text_broadcast_action">Өргөн нэвтрүүлгийн үйлдэл</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Төсөл %s -д хадгалагдсан</string>
   <string name="text_project_save_error">Төслийг хадгалж чадсангүй %s</string>
   <string name="text_night_mode">Шөнийн горим</string>
-  <string name="text_run_on_startup">Autox.js эхлэх үед</string>
+  <string name="text_run_on_startup">Automyjsx.js эхлэх үед</string>
   <string name="text_usage_stats_permission">Ашиглалтын хандалт</string>
   <string name="description_usage_stats_permission">\"Хэрэглээний статистикийг харах\" зөвшөөрлөөр дамжуулан та энэ төхөөрөмжийн өмнөх хэрэглээний хэрэглээг олж авах боломжтой бөгөөд ингэснээр одоогийн програмыг (currentPackage) авахад илүү нарийвчлалтай болно.</string>
   <string name="text_open_with">Нээлттэй зам</string>

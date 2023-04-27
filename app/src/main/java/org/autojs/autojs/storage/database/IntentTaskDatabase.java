@@ -1,4 +1,4 @@
-package org.autojs.autojs.storage.database;
+package org.automyjsa.automyjsa.storage.database;
 
 
 import android.content.ContentValues;
@@ -7,7 +7,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import org.autojs.autojs.timing.IntentTask;
+import org.automyjsa.automyjsa.timing.IntentTask;
 
 public class IntentTaskDatabase extends Database<IntentTask> {
 

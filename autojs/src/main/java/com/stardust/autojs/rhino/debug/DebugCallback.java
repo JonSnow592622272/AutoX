@@ -1,4 +1,4 @@
-package com.stardust.autojs.rhino.debug;
+package com.stardust.automyjsa.rhino.debug;
 
 public interface DebugCallback {
 

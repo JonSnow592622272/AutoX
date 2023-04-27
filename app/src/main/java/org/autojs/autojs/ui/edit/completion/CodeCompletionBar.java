@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.completion;
+package org.automyjsa.automyjsa.ui.edit.completion;
 
 import android.content.Context;
 import android.os.Looper;
@@ -9,10 +9,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.stardust.autojs.workground.WrapContentLinearLayoutManager;
+import com.stardust.automyjsa.workground.WrapContentLinearLayoutManager;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.autocomplete.CodeCompletions;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.autocomplete.CodeCompletions;
 
 /**
  * Created by Stardust on 2017/2/17.

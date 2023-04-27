@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesture yekutarisa haina kugoneswa, ndapota igonese muzvirongwa zvesoftware</string>
   <string name="no_write_settings_permissin">Hapana mvumo yekugadzirisa masisitimu</string>
   <string name="exception_notification_service_disabled">Sevhisi yekuzivisa haisi kushanda, ndapota shandisa mvumo yekuzivisa</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ichi chinyorwa chinoda Auto.js nhamba yeshanduro %d kana kupfuura kuti ishande</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Ichi chinyorwa chinoda Automyjsa.js nhamba yeshanduro %d kana kupfuura kuti ishande</string>
   <string name="text_drawer_open">Vhura menyu yekudonha</string>
   <string name="text_drawer_close">Vhara menyu yekudonha</string>
   <string name="no_read_phone_state_permissin">Hapana mvumo yekuverenga ruzivo rwemudziyo</string>

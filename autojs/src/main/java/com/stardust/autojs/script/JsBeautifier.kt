@@ -1,8 +1,8 @@
-package com.stardust.autojs.script
+package com.stardust.automyjsa.script
 
 import android.content.Context
 import android.view.View
-import com.stardust.autojs.engine.module.AssetAndUrlModuleSourceProvider
+import com.stardust.automyjsa.engine.module.AssetAndUrlModuleSourceProvider
 import com.stardust.pio.PFiles.join
 import com.stardust.pio.PFiles.read
 import com.stardust.pio.UncheckedIOException

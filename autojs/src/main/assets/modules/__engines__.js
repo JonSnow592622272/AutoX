@@ -29,7 +29,7 @@ module.exports = function(__runtime__, scope){
     engines.stopAllAndToast = rtEngines.stopAllAndToast.bind(rtEngines);
 
     function fillConfig(c){
-        var config = new com.stardust.autojs.execution.ExecutionConfig();
+        var config = new com.stardust.automyjsa.execution.ExecutionConfig();
         c = c || {};
         c.path = c.path || files.cwd();
         if(c.path){

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.compose.util
+package org.automyjsa.automyjsa.ui.compose.util
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.primarySurface

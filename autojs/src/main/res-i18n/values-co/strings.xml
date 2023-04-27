@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">U monitoraghju di i gesti ùn hè micca attivatu, per piacè attivallu in i paràmetri di u software</string>
   <string name="no_write_settings_permissin">Nisun permessu per mudificà i paràmetri di u sistema</string>
   <string name="exception_notification_service_disabled">U serviziu di notificazione ùn hè micca in esecuzione, per piacè riattivate u permessu di notificazione</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Stu script richiede u numeru di versione di Auto.js %d o più altu per eseguisce</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Stu script richiede u numeru di versione di Automyjsa.js %d o più altu per eseguisce</string>
   <string name="text_drawer_open">Aprite u menù a tendina</string>
   <string name="text_drawer_close">Chiudi u menù a tendina</string>
   <string name="no_read_phone_state_permissin">Nisun permessu di leghje l\'infurmazioni di u dispusitivu</string>

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.edit.editor;
+package org.automyjsa.automyjsa.ui.edit.editor;
 
 import android.content.Context;
 import android.graphics.Rect;
@@ -14,7 +14,7 @@ import android.view.ViewParent;
 import android.widget.ScrollView;
 import android.widget.Scroller;
 
-import org.autojs.autojs.Pref;
+import org.automyjsa.automyjsa.Pref;
 
 import java.util.List;
 

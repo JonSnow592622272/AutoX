@@ -1,4 +1,4 @@
-package org.autojs.autojs.build
+package org.automyjsa.automyjsa.build
 
 import android.util.Base64
 import com.stardust.pio.PFiles
@@ -137,7 +137,7 @@ object DefaultSign {
         zipAndSha1(dir, zos, dos, manifest)
         val main = manifest.mainAttributes
         main.putValue("Manifest-Version", "1.0")
-        main.putValue("Created-By", "Auto.js")
+        main.putValue("Created-By", "Automyjsa.js")
         zos.putNextEntry(ZipEntry("META-INF/MANIFEST.MF"))
         manifest.write(dos)
         zos.closeEntry()

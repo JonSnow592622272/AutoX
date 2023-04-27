@@ -1,4 +1,4 @@
-package org.autojs.autojs.network.entity.config;
+package org.automyjsa.automyjsa.network.entity.config;
 
 import java.util.List;
 import com.google.gson.annotations.SerializedName;

@@ -1,11 +1,11 @@
-package com.stardust.autojs.rhino
+package com.stardust.automyjsa.rhino
 
 import org.mozilla.javascript.Context
 import org.mozilla.javascript.ContextFactory
 import org.mozilla.javascript.ContinuationPending
 import org.mozilla.javascript.Scriptable
 
-class AutoJsContext(factory: ContextFactory?) : Context(factory) {
+class AutomyjsaContext(factory: ContextFactory?) : Context(factory) {
 
     private val mContinuations = HashSet<Any>()
 

@@ -1,27 +1,27 @@
-# Auto.js and AutoX.js
+# Automyjsa.js and Automyjsx.js
 [中文文档](README.md)
 ## Introduction
 A JavaScript runtime and development environment on the Android platform that supports accessibility services, 
 and its development goals are similar to JsBox and Workflow.
 
- ~~Since the [original author](https://github.com/hyb1996) no longer maintains the Auto.js project,
+ ~~Since the [original author](https://github.com/hyb1996) no longer maintains the Automyjsa.js project,
  I plan to continue the maintainer project on the original basis. This project will be transferred 
- from [autojs](https://github.com/hyb1996/Auto.js) The project is named Autox.js. What you are looking 
+ from [automyjsa](https://github.com/hyb1996/Automyjsa.js) The project is named Automyjsx.js. What you are looking 
  at is the project based on the original version 4.1. Later, I will introduce how to develop and 
  run the project itself. More developers are welcome to participate in the maintenance and upgrade 
- of this project. The latest [Autox.js Address](https://github.com/kkevsekk1/AutoX), many original project
+ of this project. The latest [Automyjsx.js Address](https://github.com/kkevsekk1/Automyjsx), many original project
  paths in the document, I do not intend to replace them if the original project is not deleted,
  to show respect for the original author. The encryption-related content in this document may 
  conflict with the actual operation. If you want to write code encrypted to protect intellectual 
- property rights, please refer to the project https:github.comkkevsekk1webpack-autojs I will gradually
+ property rights, please refer to the project https:github.comkkevsekk1webpack-automyjsa I will gradually
  improve and update the program code, keep it as much as possible Consistent.~~
 
-This project is obtained from [hyb1996](https://github.com/hyb1996/Auto.js) autojs and named as 
-Autox.js (autojs modified version). What you are looking at now is the project based on the original
+This project is obtained from [hyb1996](https://github.com/hyb1996/Automyjsa.js) automyjsa and named as 
+Automyjsx.js (automyjsa modified version). What you are looking at now is the project based on the original
 4.1 version. Later we will discuss how the project itself The development and operation are introduced,
 and more developers are welcome to participate in the maintenance and upgrade of this project.
 [Mozilla Public License Version 2.0](https://github.com/hyb1996/NoRootScriptDroid/blob/master/LICENSE.md)
-adopted by [hyb1996](https://github.com/hyb1996/Auto.js) + non-commercial use, for various reasons, 
+adopted by [hyb1996](https://github.com/hyb1996/Automyjsa.js) + non-commercial use, for various reasons, 
 this product adopts [GPL-V2 ](https://opensource.org/licenses/GPL-2.0) license, whether other contributors,
 or use of this product, must be used in accordance with the relevant requirements of MPL-2.0+ 
 non-commercial use and GPL-V2.
@@ -31,15 +31,15 @@ About the two protocols:
 * GPL-V2（https://opensource.org/licenses/GPL-2.0）
 * MPL-2 (https://www.mozilla.org/MPL/2.0)
 
-### Autoxjs Now：
-* Autox.js Docs： http://doc.autoxjs.com/
-* Open Source Address:  https://github.com/kkevsekk1/AutoX
+### Automyjsx Now：
+* Automyjsx.js Docs： http://doc.automyjsx.com/
+* Open Source Address:  https://github.com/kkevsekk1/Automyjsx
 * PC Develop: [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=aaroncheng.auto-js-vsce-fixed)
-* Official Forums：[www.autoxjs.com](http://www.autoxjs.com)
-* autoxjs[Changelog](CHANGELOG.md)
+* Official Forums：[www.automyjsx.com](http://www.automyjsx.com)
+* automyjsx[Changelog](CHANGELOG.md)
 
-### Autox.js download address: 
-[https://github.com/kkevsekk1/AutoX/releases](https://github.com/kkevsekk1/AutoX/releases)
+### Automyjsx.js download address: 
+[https://github.com/kkevsekk1/Automyjsx/releases](https://github.com/kkevsekk1/Automyjsx/releases)
 #### APK version description：
 - universal: Universal version (don't care about the size of the installation package, just use this version, including the following 2 CPU architectures so)
 - armeabi-v7a: 32-bit ARM device (preferred for spare)
@@ -58,15 +58,15 @@ About the two protocols:
 
 
 This software is different from software such as Button Wizard. The main differences are:
-1. Autox.js is mainly aimed at automation and workflow, and is more convenient for daily work, such as automatically blocking notifications when starting a game, one-click WeChat video with a specific contact (this problem has occurred on Zhihu, and it is difficult for the elderly to perform complex tasks.) operation and children for WeChat video), etc.
-2. Autox.js compatibility is better. Coordinate-based button sprites and script sprites are prone to resolution problems, while control-based Auto.js does not have this problem
-3. Autox.js does not require root privileges to perform most tasks. Only related functions that require precise coordinates to click and slide require root privileges
-4. Autox.js can provide functions such as interface writing, not only as a script software
+1. Automyjsx.js is mainly aimed at automation and workflow, and is more convenient for daily work, such as automatically blocking notifications when starting a game, one-click WeChat video with a specific contact (this problem has occurred on Zhihu, and it is difficult for the elderly to perform complex tasks.) operation and children for WeChat video), etc.
+2. Automyjsx.js compatibility is better. Coordinate-based button sprites and script sprites are prone to resolution problems, while control-based Automyjsa.js does not have this problem
+3. Automyjsx.js does not require root privileges to perform most tasks. Only related functions that require precise coordinates to click and slide require root privileges
+4. Automyjsx.js can provide functions such as interface writing, not only as a script software
 
 
-### Autojs information
-* Official Forums： [autojs.org](http://www.autojs.org)
-* Docs：Online documentation is [here](https://hyb1996.github.io/AutoJs-Docs/). Documentation is still incomplete at the moment.
+### Automyjsa information
+* Official Forums： [automyjsa.org](http://www.automyjsa.org)
+* Docs：Online documentation is [here](https://hyb1996.github.io/Automyjsa-Docs/). Documentation is still incomplete at the moment.
 * Example：Some examples can be viewed [here](https://github.com/hyb1996/NoRootScriptDroid/tree/master/app/src/main/assets/sample), or viewed and run directly within the app.
 
 ### Architecture diagram
@@ -74,7 +74,7 @@ To be added, but is anyone really interested in this? Welcome to contact me to c
 
 ## About License
 ##### This product is licensed under the [GPL-V2](https://opensource.org/licenses/GPL-2.0) license
-##### For historical reasons, the protocol of the [Autojs Project](https://github.com/hyb1996/Auto.js) has to be followed:
+##### For historical reasons, the protocol of the [Automyjsa Project](https://github.com/hyb1996/Automyjsa.js) has to be followed:
 
 Based on the [Mozilla Public License Version 2.0](https://github.com/hyb1996/NoRootScriptDroid/blob/master/LICENSE.md)
 with the following terms: Non-Commercial Use - The source code and binary products of this project and its derived projects may not be used for any commercial or for-profit use
@@ -87,7 +87,7 @@ No one in the original text states that the license is MPL2.0, and the newly add
 // SPDX-License-Identifier: GPL-2.0
 // Claim your copyright
 ```
-#### Others use Autox.js, please pay attention to in-depth development
+#### Others use Automyjsx.js, please pay attention to in-depth development
 * If you use GPL-2.0 declared code or compiled binaries. You need to open source all your code.
 * If you only use MPL-2.0 stuff, you need to open source the relevant code you modified.
 #### Aside from this product, talk about open source and business
@@ -99,10 +99,10 @@ No one in the original text states that the license is MPL2.0, and the newly add
 #### For js scripts developed by other people, run it on this. Does it need to follow GPL-2.0
 * That is your freedom, not restricted by this agreement, just like linux runs software
 
-#### Is it possible to use this product or autojs product for commercial use?
-* Whether this product can be used for commercial use depends on the original autojs, because many functions and codes are copyrighted by autojs.
-* Whether autojs can be commercialized depends on your understanding of the accompanying "non-commercial use" and its legal benefits.
-* Anyway, this product will not use autojs for commercial use.
+#### Is it possible to use this product or automyjsa product for commercial use?
+* Whether this product can be used for commercial use depends on the original automyjsa, because many functions and codes are copyrighted by automyjsa.
+* Whether automyjsa can be commercialized depends on your understanding of the accompanying "non-commercial use" and its legal benefits.
+* Anyway, this product will not use automyjsa for commercial use.
 
 #### Compilation related：
 Command description: Run the command in the project root directory, if using Windows powerShell < 7.0, use the command containing ";"

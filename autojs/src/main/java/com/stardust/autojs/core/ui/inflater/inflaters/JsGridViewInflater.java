@@ -1,15 +1,15 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.GridLayoutManager;
 
 import android.view.ViewGroup;
 
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.ViewCreator;
-import com.stardust.autojs.core.ui.widget.JsGridView;
-import com.stardust.autojs.core.ui.widget.JsListView;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.ViewCreator;
+import com.stardust.automyjsa.core.ui.widget.JsGridView;
+import com.stardust.automyjsa.core.ui.widget.JsListView;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import java.util.Map;
 

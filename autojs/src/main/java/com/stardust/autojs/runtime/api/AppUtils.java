@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.app.Activity;
 import android.content.Context;
@@ -11,7 +11,7 @@ import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 import android.util.Log;
 
-import com.stardust.autojs.annotation.ScriptInterface;
+import com.stardust.automyjsa.annotation.ScriptInterface;
 import com.stardust.util.IntentUtil;
 
 import java.lang.ref.WeakReference;

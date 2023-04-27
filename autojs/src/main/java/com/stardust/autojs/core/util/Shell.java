@@ -1,13 +1,13 @@
-package com.stardust.autojs.core.util;
+package com.stardust.automyjsa.core.util;
 
 import android.content.Context;
 import android.os.Handler;
 import android.preference.PreferenceManager;
 import android.util.Log;
 
-import com.stardust.autojs.runtime.ScriptRuntime;
-import com.stardust.autojs.runtime.api.AbstractShell;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.api.AbstractShell;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.pio.UncheckedIOException;
 
 import java.io.IOException;

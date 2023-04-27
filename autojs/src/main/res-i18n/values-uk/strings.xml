@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Моніторинг жестів не ввімкнено, увімкніть його в налаштуваннях програмного забезпечення</string>
   <string name="no_write_settings_permissin">Немає дозволу змінювати налаштування системи</string>
   <string name="exception_notification_service_disabled">Служба сповіщень не працює, увімкніть знову дозвіл на сповіщення</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Для запуску цього сценарію потрібен номер версії Auto.js %d або вище</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Для запуску цього сценарію потрібен номер версії Automyjsa.js %d або вище</string>
   <string name="text_drawer_open">Відкрийте спадне меню</string>
   <string name="text_drawer_close">Закрийте спадне меню</string>
   <string name="no_read_phone_state_permissin">Немає дозволу на читання інформації про пристрій</string>

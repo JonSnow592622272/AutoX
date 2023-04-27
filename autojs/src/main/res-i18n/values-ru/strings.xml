@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Мониторинг жестов не включен, включите его в настройках программы.</string>
   <string name="no_write_settings_permissin">Нет разрешения на изменение системных настроек</string>
   <string name="exception_notification_service_disabled">Служба уведомлений не работает, повторно включите разрешение на уведомления</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Для запуска этого скрипта требуется номер версии Auto.js %d или выше.</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Для запуска этого скрипта требуется номер версии Automyjsa.js %d или выше.</string>
   <string name="text_drawer_open">Откройте выпадающее меню</string>
   <string name="text_drawer_close">Закрыть выпадающее меню</string>
   <string name="no_read_phone_state_permissin">Нет разрешения на чтение информации об устройстве</string>

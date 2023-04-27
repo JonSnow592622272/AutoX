@@ -37,7 +37,7 @@
   <string name="github">ລະຫັດແຫຼ່ງຊອບແວ</string>
   <string name="text_already_copy_to_clip">ສຳເນົາໃສ່ຄລິບບອດແລ້ວ</string>
   <string name="text_qq_already_copy_to_clip">ໝາຍເລກກຸ່ມ QQ ໄດ້ຖືກສຳເນົາໃສ່ຄລິບບອດແລ້ວ</string>
-  <string name="share_app">[Autox.js] ທີ່ຢູ່ດາວໂຫຼດ: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] ທີ່ຢູ່ດາວໂຫຼດ: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ປ່ອງຢ້ຽມທີ່ເລື່ອນໄດ້</string>
   <string name="text_error_report">ບົດ​ລາຍ​ງານ​ຄວາມ​ຜິດ​ພາດ​</string>
   <string name="text_press_again_to_exit">ກົດອີກເທື່ອຫນຶ່ງເພື່ອອອກຈາກໂຄງການ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">ນຳເຂົ້າສຳເລັດ</string>
   <string name="text_current_activity">ການເຄື່ອນໄຫວປະຈຸບັນ:</string>
   <string name="text_current_package">ຊື່ແພັກເກດແອັບພລິເຄຊັນປັດຈຸບັນ:</string>
-  <string name="go_to_accessibility_settings">ກະລຸນາເປີດ Settings->Accessibility Services->Autox.js ແລະເປີດໃຊ້ມັນ</string>
+  <string name="go_to_accessibility_settings">ກະລຸນາເປີດ Settings->Accessibility Services->Automyjsx.js ແລະເປີດໃຊ້ມັນ</string>
   <string name="text_script_running">ແລ່ນສະຄຣິບ</string>
   <string name="text_use_volume_to_stop_running">ປຸ່ມເພີ່ມສຽງຈະຢຸດສະຄຣິບທັງໝົດ</string>
   <string name="text_need_to_enable_accessibility_service">ບໍລິການຊ່ວຍເຂົ້າເຖິງຕ້ອງຖືກເປີດໃຊ້</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">ບໍ່ມີໄຟລ໌ການຕັ້ງຄ່າ</string>
   <string name="text_foreground_service">ການຕ້ອນຮັບ</string>
   <string name="foreground_notification_channel_name">ແຈ້ງການບໍລິການດ້ານໜ້າ</string>
-  <string name="foreground_notification_title">Autox.js ແລ່ນຕໍ່ໄປ</string>
+  <string name="foreground_notification_title">Automyjsx.js ແລ່ນຕໍ່ໄປ</string>
   <string name="foreground_notification_text">ຄລິກເພື່ອເຂົ້າສູ່ການໂຕ້ຕອບຫຼັກ</string>
   <string name="text_run_on_other_broadcast">ເຫດການອື່ນໆ (ອອກອາກາດ)</string>
   <string name="text_broadcast_action">ການ​ປະ​ຕິ​ບັດ​ການ​ອອກ​ອາ​ກາດ​</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">ໂຄງການໄດ້ຖືກບັນທຶກໄປໃສ່ %s ແລ້ວ</string>
   <string name="text_project_save_error">ບັນທຶກໂຄງການລົ້ມເຫລວ %s</string>
   <string name="text_night_mode">ໂໝດກາງຄືນ</string>
-  <string name="text_run_on_startup">ເມື່ອ Autox.js ເລີ່ມຕົ້ນ</string>
+  <string name="text_run_on_startup">ເມື່ອ Automyjsx.js ເລີ່ມຕົ້ນ</string>
   <string name="text_usage_stats_permission">ການ​ເຂົ້າ​ເຖິງ​ການ​ນໍາ​ໃຊ້​</string>
   <string name="description_usage_stats_permission">ໂດຍຜ່ານການອະນຸຍາດ \"ເບິ່ງສະຖິຕິການນໍາໃຊ້\", ທ່ານສາມາດໄດ້ຮັບການນໍາໃຊ້ຄໍາຮ້ອງສະຫມັກທີ່ຜ່ານມາຂອງອຸປະກອນດັ່ງກ່າວນີ້, ເພື່ອໃຫ້ມີຄວາມຖືກຕ້ອງຫຼາຍທີ່ຈະໄດ້ຮັບຄໍາຮ້ອງສະຫມັກໃນປະຈຸບັນ (ປະຈຸບັນຊຸດ).</string>
   <string name="text_open_with">ເປີດທາງ</string>

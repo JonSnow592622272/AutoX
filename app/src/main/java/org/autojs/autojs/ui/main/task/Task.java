@@ -1,20 +1,20 @@
-package org.autojs.autojs.ui.main.task;
+package org.automyjsa.automyjsa.ui.main.task;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.engine.ScriptEngine;
-import com.stardust.autojs.execution.ScriptExecution;
-import com.stardust.autojs.script.AutoFileSource;
-import com.stardust.autojs.script.JavaScriptSource;
+import com.stardust.automyjsa.engine.ScriptEngine;
+import com.stardust.automyjsa.execution.ScriptExecution;
+import com.stardust.automyjsa.script.AutoFileSource;
+import com.stardust.automyjsa.script.JavaScriptSource;
 import com.stardust.pio.PFiles;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.timing.IntentTask;
-import org.autojs.autojs.timing.TimedTask;
-import org.autojs.autojs.timing.TimedTaskManager;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.timing.IntentTask;
+import org.automyjsa.automyjsa.timing.TimedTask;
+import org.automyjsa.automyjsa.timing.TimedTaskManager;
 
 import org.joda.time.format.DateTimeFormat;
 
-import static org.autojs.autojs.ui.timing.TimedTaskSettingActivity.ACTION_DESC_MAP;
+import static org.automyjsa.automyjsa.ui.timing.TimedTaskSettingActivity.ACTION_DESC_MAP;
 
 /**
  * Created by Stardust on 2017/11/28.

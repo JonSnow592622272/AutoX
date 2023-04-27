@@ -117,7 +117,7 @@ module.exports = function (runtime, scope) {
         org.opencv.core.RotatedRect,
         org.opencv.core.Range,
         org.opencv.imgproc.Imgproc,
-        com.stardust.autojs.core.opencv
+        com.stardust.automyjsa.core.opencv
     );
     with (images.opencvImporter) {
         const defaultColorThreshold = 4;
@@ -154,7 +154,7 @@ module.exports = function (runtime, scope) {
         var colorFinder = javaImages.colorFinder;
 
         images.requestScreenCapture = function (landscape) {
-            let ScreenCapturer = com.stardust.autojs.core.image.capture.ScreenCapturer;
+            let ScreenCapturer = com.stardust.automyjsa.core.image.capture.ScreenCapturer;
             var orientation = ScreenCapturer.ORIENTATION_AUTO;
             if (landscape === true) {
                 orientation = ScreenCapturer.ORIENTATION_LANDSCAPE;
@@ -488,15 +488,15 @@ module.exports = function (runtime, scope) {
         function getColorDetector(color, algorithm, threshold) {
             switch (algorithm) {
                 case "rgb":
-                    return new com.stardust.autojs.core.image.ColorDetector.RGBDistanceDetector(color, threshold);
+                    return new com.stardust.automyjsa.core.image.ColorDetector.RGBDistanceDetector(color, threshold);
                 case "equal":
-                    return new com.stardust.autojs.core.image.ColorDetector.EqualityDetector(color);
+                    return new com.stardust.automyjsa.core.image.ColorDetector.EqualityDetector(color);
                 case "diff":
-                    return new com.stardust.autojs.core.image.ColorDetector.DifferenceDetector(color, threshold);
+                    return new com.stardust.automyjsa.core.image.ColorDetector.DifferenceDetector(color, threshold);
                 case "rgb+":
-                    return new com.stardust.autojs.core.image.ColorDetector.WeightedRGBDistanceDetector(color, threshold);
+                    return new com.stardust.automyjsa.core.image.ColorDetector.WeightedRGBDistanceDetector(color, threshold);
                 case "hs":
-                    return new com.stardust.autojs.core.image.ColorDetector.HSDistanceDetector(color, threshold);
+                    return new com.stardust.automyjsa.core.image.ColorDetector.HSDistanceDetector(color, threshold);
             }
             throw new Error("Unknown algorithm: " + algorithm);
         }

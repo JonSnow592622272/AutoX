@@ -1,5 +1,5 @@
 module.exports = function (runtime, global) {
-    let paddleApi = new com.stardust.autojs.runtime.api.Paddle();
+    let paddleApi = new com.stardust.automyjsa.runtime.api.Paddle();
     let paddle = {}
 
     paddle.ocr = function () {

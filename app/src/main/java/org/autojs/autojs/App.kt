@@ -1,4 +1,4 @@
-package org.autojs.autojs
+package org.automyjsa.automyjsa
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -15,21 +15,21 @@ import com.bumptech.glide.request.target.SimpleTarget
 import com.bumptech.glide.request.transition.Transition
 import com.flurry.android.FlurryAgent
 import com.stardust.app.GlobalAppContext
-import com.stardust.autojs.core.ui.inflater.ImageLoader
-import com.stardust.autojs.core.ui.inflater.util.Drawables
+import com.stardust.automyjsa.core.ui.inflater.ImageLoader
+import com.stardust.automyjsa.core.ui.inflater.util.Drawables
 import com.stardust.theme.ThemeColor
 import com.tencent.bugly.Bugly
 import com.tencent.bugly.crashreport.CrashReport
-import org.autojs.autojs.autojs.AutoJs
-import org.autojs.autojs.autojs.key.GlobalKeyObserver
-import org.autojs.autojs.external.receiver.DynamicBroadcastReceivers
-import org.autojs.autojs.theme.ThemeColorManagerCompat
-import org.autojs.autojs.timing.TimedTaskManager
-import org.autojs.autojs.timing.TimedTaskScheduler
-import org.autojs.autojs.tool.CrashHandler
-import org.autojs.autojs.ui.error.ErrorReportActivity
-import org.autojs.autoxjs.BuildConfig
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.automyjsa.Automyjsa
+import org.automyjsa.automyjsa.automyjsa.key.GlobalKeyObserver
+import org.automyjsa.automyjsa.external.receiver.DynamicBroadcastReceivers
+import org.automyjsa.automyjsa.theme.ThemeColorManagerCompat
+import org.automyjsa.automyjsa.timing.TimedTaskManager
+import org.automyjsa.automyjsa.timing.TimedTaskScheduler
+import org.automyjsa.automyjsa.tool.CrashHandler
+import org.automyjsa.automyjsa.ui.error.ErrorReportActivity
+import org.automyjsa.automyjsx.BuildConfig
+import org.automyjsa.automyjsx.R
 import java.lang.ref.WeakReference
 
 /**
@@ -81,7 +81,7 @@ class App : MultiDexApplication() {
                 ContextCompat.getColor(this, R.color.colorAccent)
             )
         )
-        AutoJs.initInstance(this)
+        Automyjsa.initInstance(this)
         if (Pref.isRunningVolumeControlEnabled()) {
             GlobalKeyObserver.init()
         }

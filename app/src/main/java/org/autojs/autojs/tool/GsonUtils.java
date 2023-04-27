@@ -1,4 +1,4 @@
-package org.autojs.autojs.tool;
+package org.automyjsa.automyjsa.tool;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;

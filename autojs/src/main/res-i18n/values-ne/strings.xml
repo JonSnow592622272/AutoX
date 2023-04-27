@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">इशारा अनुगमन सक्षम गरिएको छैन, कृपया यसलाई सफ्टवेयर सेटिङहरूमा सक्षम गर्नुहोस्</string>
   <string name="no_write_settings_permissin">प्रणाली सेटिङहरू परिमार्जन गर्न कुनै अनुमति छैन</string>
   <string name="exception_notification_service_disabled">सूचना सेवा चलिरहेको छैन, कृपया सूचना अनुमति पुन: सक्षम गर्नुहोस्</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">यो स्क्रिप्ट चलाउन Auto.js संस्करण नम्बर %d वा उच्च चाहिन्छ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">यो स्क्रिप्ट चलाउन Automyjsa.js संस्करण नम्बर %d वा उच्च चाहिन्छ</string>
   <string name="text_drawer_open">ड्रप डाउन मेनु खोल्नुहोस्</string>
   <string name="text_drawer_close">ड्रप डाउन मेनु बन्द गर्नुहोस्</string>
   <string name="no_read_phone_state_permissin">उपकरण जानकारी पढ्न अनुमति छैन</string>

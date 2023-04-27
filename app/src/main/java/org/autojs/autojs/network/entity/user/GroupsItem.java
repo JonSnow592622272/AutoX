@@ -1,4 +1,4 @@
-package org.autojs.autojs.network.entity.user;
+package org.automyjsa.automyjsa.network.entity.user;
 
 import com.google.gson.annotations.SerializedName;
 

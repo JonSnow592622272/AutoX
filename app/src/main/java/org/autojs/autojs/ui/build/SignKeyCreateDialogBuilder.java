@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.build;
+package org.automyjsa.automyjsa.ui.build;
 
 import android.content.Context;
 import android.text.TextUtils;
@@ -10,15 +10,15 @@ import androidx.annotation.StringRes;
 import androidx.appcompat.widget.AppCompatEditText;
 
 import com.google.android.material.textfield.TextInputLayout;
-import com.stardust.autojs.core.image.Colors;
+import com.stardust.automyjsa.core.image.Colors;
 import com.stardust.pio.PFile;
 import com.stardust.pio.PFiles;
 
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.build.ApkSigner;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.build.ApkSigner;
 
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -86,7 +86,7 @@ public class SignKeyCreateDialogBuilder extends ThemeColorMaterialDialogBuilder 
     private void setDefaultValue() {
         String keyPath = PFiles.getSimplifiedPath(mKeyStoreDir);
         mPathTip.setHint(getString(R.string.text_sign_hint_key_path).concat("(" + keyPath + ")"));
-        mPath.setText("AutoX.keystore");
+        mPath.setText("Automyjsx.keystore");
     }
 
     public SignKeyCreateDialogBuilder whenCreated(SignKeyCreatedCallback callback) {

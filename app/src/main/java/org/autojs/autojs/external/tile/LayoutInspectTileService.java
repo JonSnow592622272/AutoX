@@ -1,4 +1,4 @@
-package org.autojs.autojs.external.tile;
+package org.automyjsa.automyjsa.external.tile;
 
 import android.content.Intent;
 import android.os.Build;
@@ -13,11 +13,11 @@ import com.stardust.view.accessibility.AccessibilityService;
 import com.stardust.view.accessibility.LayoutInspector;
 import com.stardust.view.accessibility.NodeInfo;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.tool.AccessibilityServiceTool;
-import org.autojs.autojs.ui.floating.FloatyWindowManger;
-import org.autojs.autojs.ui.floating.FullScreenFloatyWindow;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.tool.AccessibilityServiceTool;
+import org.automyjsa.automyjsa.ui.floating.FloatyWindowManger;
+import org.automyjsa.automyjsa.ui.floating.FullScreenFloatyWindow;
 
 @RequiresApi(api = Build.VERSION_CODES.N)
 public abstract class LayoutInspectTileService extends TileService implements LayoutInspector.CaptureAvailableListener {
@@ -28,7 +28,7 @@ public abstract class LayoutInspectTileService extends TileService implements La
     public void onCreate() {
         super.onCreate();
         Log.d(getClass().getName(), "onCreate");
-        AutoJs.getInstance().getLayoutInspector().addCaptureAvailableListener(this);
+        Automyjsa.getInstance().getLayoutInspector().addCaptureAvailableListener(this);
     }
 
     @Override
@@ -42,7 +42,7 @@ public abstract class LayoutInspectTileService extends TileService implements La
     public void onDestroy() {
         super.onDestroy();
         Log.d(getClass().getName(), "onDestroy");
-        AutoJs.getInstance().getLayoutInspector().removeCaptureAvailableListener(this);
+        Automyjsa.getInstance().getLayoutInspector().removeCaptureAvailableListener(this);
     }
 
     @Override
@@ -58,7 +58,7 @@ public abstract class LayoutInspectTileService extends TileService implements La
         }
         mCapturing = true;
         GlobalAppContext.postDelayed(() ->
-                        AutoJs.getInstance().getLayoutInspector().captureCurrentWindow()
+                        Automyjsa.getInstance().getLayoutInspector().captureCurrentWindow()
                 , 1000);
     }
 

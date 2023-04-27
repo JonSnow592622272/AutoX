@@ -1,7 +1,7 @@
-package org.autojs.autojs.model.project
+package org.automyjsa.automyjsa.model.project
 
-import com.stardust.autojs.project.ProjectConfig
-import com.stardust.autojs.project.ProjectConfig.Companion.configFileOfDir
+import com.stardust.automyjsa.project.ProjectConfig
+import com.stardust.automyjsa.project.ProjectConfig.Companion.configFileOfDir
 import com.stardust.pio.PFiles.write
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

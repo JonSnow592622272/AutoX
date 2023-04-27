@@ -1,4 +1,4 @@
-package org.autojs.autojs.theme.widget;
+package org.automyjsa.automyjsa.theme.widget;
 
 import android.content.Context;
 import android.graphics.PorterDuff;

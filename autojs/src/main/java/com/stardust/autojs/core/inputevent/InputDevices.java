@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.inputevent;
+package com.stardust.automyjsa.core.inputevent;
 
 import androidx.annotation.Nullable;
 import android.util.Log;

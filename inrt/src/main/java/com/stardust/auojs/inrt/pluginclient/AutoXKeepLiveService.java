@@ -6,8 +6,8 @@ import android.util.Log;
 import com.fanjun.keeplive.config.KeepLiveService;
 import com.stardust.auojs.inrt.Pref;
 
-public class AutoXKeepLiveService implements KeepLiveService {
-    public static String TAG = "inrt.AutoXKeepLiveService";
+public class AutomyjsxKeepLiveService implements KeepLiveService {
+    public static String TAG = "inrt.AutomyjsxKeepLiveService";
 
     @Override
     public void onWorking() {

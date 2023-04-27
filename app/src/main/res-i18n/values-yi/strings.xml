@@ -37,7 +37,7 @@
   <string name="github">ווייכווארג מקור קאָד</string>
   <string name="text_already_copy_to_clip">קאַפּיד צו קליפּבאָרד</string>
   <string name="text_qq_already_copy_to_clip">די QQ גרופּע נומער איז קאַפּיד צו די קליפּבאָרד</string>
-  <string name="share_app">[Autox.js] אראפקאפיע אַדרעס: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] אראפקאפיע אַדרעס: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">פלאָוטינג פֿענצטער</string>
   <string name="text_error_report">טעות באַריכט</string>
   <string name="text_press_again_to_exit">דרוק ווידער צו אַרויסגאַנג דעם פּראָגראַם</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">ימפּאָרט געראָטן</string>
   <string name="text_current_activity">איצטיקע טעטיקייט:</string>
   <string name="text_current_package">קראַנט אַפּלאַקיישאַן פּעקל נאָמען:</string>
-  <string name="go_to_accessibility_settings">עפֿענען סעטטינגס -> אַקסעסאַביליטי באַדינונגס - Autox.js און געבן עס</string>
+  <string name="go_to_accessibility_settings">עפֿענען סעטטינגס -> אַקסעסאַביליטי באַדינונגס - Automyjsx.js און געבן עס</string>
   <string name="text_script_running">שריפט לויפן</string>
   <string name="text_use_volume_to_stop_running">באַנד אַרויף שליסל סטאַפּס אַלע סקריפּס</string>
   <string name="text_need_to_enable_accessibility_service">אַקסעסאַביליטי סערוויסעס דאַרפֿן צו זיין ענייבאַלד</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">קיין קאַנפיגיעריישאַן טעקע</string>
   <string name="text_foreground_service">אָפּטראָג</string>
   <string name="foreground_notification_channel_name">פראָנט שרייַבטיש דינסט אָנזאָג</string>
-  <string name="foreground_notification_title">Autox.js האלט פליסנדיק</string>
+  <string name="foreground_notification_title">Automyjsx.js האלט פליסנדיק</string>
   <string name="foreground_notification_text">גיט צו אַרייַן די הויפּט צובינד</string>
   <string name="text_run_on_other_broadcast">אנדערע געשעענישן (בראָדקאַסט)</string>
   <string name="text_broadcast_action">בראָדקאַסט קאַמף</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">פּראָיעקט איז געראטעוועט צו %s</string>
   <string name="text_project_save_error">פּראָיעקט ראַטעווען ניט אַנדערש %s</string>
   <string name="text_night_mode">נאַכט מאָדע</string>
-  <string name="text_run_on_startup">ווען Autox.js סטאַרץ</string>
+  <string name="text_run_on_startup">ווען Automyjsx.js סטאַרץ</string>
   <string name="text_usage_stats_permission">באַניץ צוטריט</string>
   <string name="description_usage_stats_permission">דורך דער דערלויבעניש \"זען באַניץ סטאַטיסטיק\", איר קענען באַקומען די לעצטע אַפּלאַקיישאַן באַניץ פון דעם מיטל, אַזוי עס איז מער פּינטלעך צו באַקומען די קראַנט אַפּלאַקיישאַן (CurrentPackage).</string>
   <string name="text_open_with">עפענען וועג</string>

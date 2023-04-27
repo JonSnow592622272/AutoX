@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">ജെസ്റ്റർ മോണിറ്ററിംഗ് പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ല, സോഫ്റ്റ്‌വെയർ ക്രമീകരണങ്ങളിൽ ഇത് പ്രവർത്തനക്ഷമമാക്കുക</string>
   <string name="no_write_settings_permissin">സിസ്റ്റം ക്രമീകരണങ്ങൾ പരിഷ്‌ക്കരിക്കുന്നതിന് അനുമതിയില്ല</string>
   <string name="exception_notification_service_disabled">അറിയിപ്പ് സേവനം പ്രവർത്തിക്കുന്നില്ല, അറിയിപ്പ് അനുമതി വീണ്ടും പ്രവർത്തനക്ഷമമാക്കുക</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ഈ സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുന്നതിന് Auto.js പതിപ്പ് നമ്പർ %d അല്ലെങ്കിൽ ഉയർന്നത് ആവശ്യമാണ്</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ഈ സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുന്നതിന് Automyjsa.js പതിപ്പ് നമ്പർ %d അല്ലെങ്കിൽ ഉയർന്നത് ആവശ്യമാണ്</string>
   <string name="text_drawer_open">ഡ്രോപ്പ് ഡൗൺ മെനു തുറക്കുക</string>
   <string name="text_drawer_close">ഡ്രോപ്പ് ഡൗൺ മെനു അടയ്ക്കുക</string>
   <string name="no_read_phone_state_permissin">ഉപകരണ വിവരങ്ങൾ വായിക്കാൻ അനുമതിയില്ല</string>

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Kuwunika kwa manja sikuyatsidwa, chonde yambitsani pazokonda zamapulogalamu</string>
   <string name="no_write_settings_permissin">Palibe chilolezo chosintha makonda adongosolo</string>
   <string name="exception_notification_service_disabled">Zidziwitso sizikuyenda, chonde yambitsaninso chilolezo chazidziwitso</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Izi zimafuna nambala ya mtundu wa Auto.js %d kapena kupitilira apo kuti igwiritse ntchito</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Izi zimafuna nambala ya mtundu wa Automyjsa.js %d kapena kupitilira apo kuti igwiritse ntchito</string>
   <string name="text_drawer_open">Tsegulani menyu yotsitsa</string>
   <string name="text_drawer_close">Tsekani menyu yotsitsa</string>
   <string name="no_read_phone_state_permissin">Palibe chilolezo chowerengera zambiri zachipangizo</string>

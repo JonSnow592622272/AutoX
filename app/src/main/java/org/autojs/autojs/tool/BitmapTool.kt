@@ -1,4 +1,4 @@
-package org.autojs.autojs.tool
+package org.automyjsa.automyjsa.tool
 
 import android.content.Context
 import android.graphics.Bitmap

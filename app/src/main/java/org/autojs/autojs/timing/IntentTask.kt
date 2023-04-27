@@ -1,6 +1,6 @@
-package org.autojs.autojs.timing
+package org.automyjsa.automyjsa.timing
 
-import org.autojs.autojs.storage.database.BaseModel
+import org.automyjsa.automyjsa.storage.database.BaseModel
 import android.content.IntentFilter
 import android.content.IntentFilter.MalformedMimeTypeException
 

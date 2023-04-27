@@ -22,12 +22,12 @@ import androidx.core.content.ContextCompat;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.stardust.app.GlobalAppContext;
-import com.stardust.auojs.inrt.autojs.AccessibilityServiceTool;
+import com.stardust.auojs.inrt.automyjsa.AccessibilityServiceTool;
 import com.stardust.auojs.inrt.launch.GlobalProjectLauncher;
 import com.stardust.auojs.inrt.pluginclient.DevPluginService;
 import com.stardust.auojs.inrt.util.UpdateUtil;
 
-import org.autojs.autoxjs.inrt.R;
+import org.automyjsa.automyjsx.inrt.R;
 
 import java.security.SecureRandom;
 import java.util.Random;

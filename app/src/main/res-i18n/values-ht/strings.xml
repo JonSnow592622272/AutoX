@@ -37,7 +37,7 @@
   <string name="github">Kòd sous lojisyèl</string>
   <string name="text_already_copy_to_clip">Kopye nan clipboard</string>
   <string name="text_qq_already_copy_to_clip">Nimewo gwoup QQ a te kopye nan clipboard la</string>
-  <string name="share_app">[Autox.js] Telechaje adrès: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Telechaje adrès: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Fenèt k ap flote</string>
   <string name="text_error_report">Rapò erè</string>
   <string name="text_press_again_to_exit">Peze ankò pou sòti nan pwogram nan</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Enpòte siksè</string>
   <string name="text_current_activity">Aktivite aktyèl:</string>
   <string name="text_current_package">Non pakè aplikasyon aktyèl la:</string>
-  <string name="go_to_accessibility_settings">Tanpri louvri Anviwònman->Sèvis Aksesiblite->Autox.js epi pèmèt li</string>
+  <string name="go_to_accessibility_settings">Tanpri louvri Anviwònman->Sèvis Aksesiblite->Automyjsx.js epi pèmèt li</string>
   <string name="text_script_running">Script kouri</string>
   <string name="text_use_volume_to_stop_running">Volim monte kle sispann tout scripts</string>
   <string name="text_need_to_enable_accessibility_service">Sèvis Aksè yo dwe aktive</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Pa gen okenn dosye konfigirasyon</string>
   <string name="text_foreground_service">Resepsyon</string>
   <string name="foreground_notification_channel_name">Notifikasyon sèvis devan biwo</string>
-  <string name="foreground_notification_title">Autox.js kontinye ap kouri</string>
+  <string name="foreground_notification_title">Automyjsx.js kontinye ap kouri</string>
   <string name="foreground_notification_text">Klike pou antre nan koòdone prensipal la</string>
   <string name="text_run_on_other_broadcast">Lòt evènman (emisyon)</string>
   <string name="text_broadcast_action">Emisyon Aksyon</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Pwojè a te sove nan %s</string>
   <string name="text_project_save_error">Sove pwojè a echwe %s</string>
   <string name="text_night_mode">Mòd lannwit</string>
-  <string name="text_run_on_startup">Lè Autox.js kòmanse</string>
+  <string name="text_run_on_startup">Lè Automyjsx.js kòmanse</string>
   <string name="text_usage_stats_permission">Aksè itilizasyon</string>
   <string name="description_usage_stats_permission">Atravè pèmisyon \"wè estatistik itilizasyon\", ou ka jwenn itilizasyon aplikasyon ki sot pase a nan aparèy sa a, pou li pi egzak pou jwenn aplikasyon aktyèl la (currentPackage).</string>
   <string name="text_open_with">Fason ouvè</string>

@@ -12,7 +12,7 @@ module.exports = function(__runtime__, scope){
     return storages;
 
     function LocalStorage(name){
-        this._storage = new com.stardust.autojs.core.storage.LocalStorage(context, name);
+        this._storage = new com.stardust.automyjsa.core.storage.LocalStorage(context, name);
         this.put = function(key, value){
             if(typeof(value) == 'undefined'){
                 throw new TypeError('value cannot be undefined');

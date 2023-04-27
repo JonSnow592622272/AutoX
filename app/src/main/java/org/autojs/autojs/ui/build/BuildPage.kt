@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.build
+package org.automyjsa.automyjsa.ui.build
 
 import android.app.Activity
 import android.content.Context
@@ -46,15 +46,15 @@ import com.stardust.app.DialogUtils
 import com.stardust.pio.PFile
 import com.stardust.pio.PFiles
 import com.stardust.util.IntentUtil
-import org.autojs.autojs.Pref
-import org.autojs.autoxjs.R
-import org.autojs.autojs.build.ApkKeyStore
-import org.autojs.autojs.build.ApkSigner
-import org.autojs.autojs.external.fileprovider.AppFileProvider
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder
-import org.autojs.autojs.ui.compose.widget.ProgressDialog
-import org.autojs.autojs.ui.filechooser.FileChooserDialogBuilder
-import org.autojs.autojs.ui.shortcut.ShortcutIconSelectResult
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.build.ApkKeyStore
+import org.automyjsa.automyjsa.build.ApkSigner
+import org.automyjsa.automyjsa.external.fileprovider.AppFileProvider
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder
+import org.automyjsa.automyjsa.ui.compose.widget.ProgressDialog
+import org.automyjsa.automyjsa.ui.filechooser.FileChooserDialogBuilder
+import org.automyjsa.automyjsa.ui.shortcut.ShortcutIconSelectResult
 import java.io.File
 
 /**

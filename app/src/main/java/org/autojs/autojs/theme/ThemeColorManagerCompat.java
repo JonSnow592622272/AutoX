@@ -1,4 +1,4 @@
-package org.autojs.autojs.theme;
+package org.automyjsa.automyjsa.theme;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatDelegate;
 
 import com.stardust.app.GlobalAppContext;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import com.stardust.theme.ThemeColor;
 import com.stardust.theme.ThemeColorManager;

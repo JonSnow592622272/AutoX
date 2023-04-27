@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.accessibility
+package com.stardust.automyjsa.core.accessibility
 
 import android.accessibilityservice.AccessibilityService
 import android.accessibilityservice.GestureDescription
@@ -7,9 +7,9 @@ import android.os.Build
 import android.os.Handler
 import android.view.accessibility.AccessibilityNodeInfo
 import androidx.annotation.RequiresApi
-import com.stardust.autojs.annotation.ScriptInterface
-import com.stardust.autojs.runtime.ScriptRuntime
-import com.stardust.autojs.runtime.accessibility.AccessibilityConfig
+import com.stardust.automyjsa.annotation.ScriptInterface
+import com.stardust.automyjsa.runtime.ScriptRuntime
+import com.stardust.automyjsa.runtime.accessibility.AccessibilityConfig
 import com.stardust.automator.GlobalActionAutomator
 import com.stardust.automator.UiObject
 import com.stardust.automator.simple_action.ActionFactory

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ku vekiwa tihlo ka swikombiso swa mavoko a swi tirhisiwi, hi kombela u swi pfumelela eka swiletelo swa software</string>
   <string name="no_write_settings_permissin">Ku hava mpfumelelo wo cinca swiletelo swa sisiteme</string>
   <string name="exception_notification_service_disabled">Vukorhokeri bya switiviso a byi tirhi, hi kombela u tlhela u pfumelela mpfumelelo wa xitiviso</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Xitshuriwa lexi xi lava nomboro ya vuhundzuluxeri bya Auto.js %d kumbe ku tlula leswaku yi tirha</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Xitshuriwa lexi xi lava nomboro ya vuhundzuluxeri bya Automyjsa.js %d kumbe ku tlula leswaku yi tirha</string>
   <string name="text_drawer_open">Pfula menyu leyi nga ehansi</string>
   <string name="text_drawer_close">Pfala menyu leyi nga ehansi</string>
   <string name="no_read_phone_state_permissin">Ku hava mpfumelelo wo hlaya rungula ra xitirhisiwa</string>

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Womewɔ asiwɔwɔ ɖe nya dzi ƒe ŋkuléle ɖe nu ŋu ŋudɔ o, taflatse wɔe le kɔmpiutadziɖoɖowo ƒe ɖoɖowo me</string>
   <string name="no_write_settings_permissin">Mɔɖeɖe aɖeke meli be woatrɔ asi le ɖoɖoa ƒe ɖoɖowo ŋu o</string>
   <string name="exception_notification_service_disabled">Nyatakakadɔa mele dɔ wɔm o, taflatse gbugbɔ wɔ gbeƒãɖeɖe ƒe mɔɖeɖe ŋudɔ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script sia bia Auto.js ƒe tɔtrɔ xexlẽdzesi %d alo esi wu nenema be wòawɔ dɔ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Script sia bia Automyjsa.js ƒe tɔtrɔ xexlẽdzesi %d alo esi wu nenema be wòawɔ dɔ</string>
   <string name="text_drawer_open">Ʋu nusiwo le fli dzi la</string>
   <string name="text_drawer_close">Do nu siwo le fli dzi la nu</string>
   <string name="no_read_phone_state_permissin">Mɔɖeɖe aɖeke meli be woaxlẽ mɔ̃a ŋuti nyatakakawo o</string>

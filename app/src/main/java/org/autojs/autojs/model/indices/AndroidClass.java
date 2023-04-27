@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.indices;
+package org.automyjsa.automyjsa.model.indices;
 
 import com.google.gson.annotations.SerializedName;
 

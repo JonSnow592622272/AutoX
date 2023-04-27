@@ -1,4 +1,4 @@
-package org.autojs.autojs.tool
+package org.automyjsa.automyjsa.tool
 
 fun getRandomString(length: Int) : String {
     val charset = ('a'..'z')

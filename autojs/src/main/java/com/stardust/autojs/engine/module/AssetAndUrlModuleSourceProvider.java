@@ -1,9 +1,9 @@
-package com.stardust.autojs.engine.module;
+package com.stardust.automyjsa.engine.module;
 
 import android.content.res.AssetManager;
 
-import com.stardust.autojs.engine.encryption.ScriptEncryption;
-import com.stardust.autojs.script.EncryptedScriptFileHeader;
+import com.stardust.automyjsa.engine.encryption.ScriptEncryption;
+import com.stardust.automyjsa.script.EncryptedScriptFileHeader;
 
 import org.mozilla.javascript.commonjs.module.provider.ModuleSource;
 

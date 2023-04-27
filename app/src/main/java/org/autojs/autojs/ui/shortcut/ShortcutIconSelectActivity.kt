@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.shortcut
+package org.automyjsa.automyjsa.ui.shortcut
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -21,11 +21,11 @@ import kotlinx.coroutines.withContext
 import org.androidannotations.annotations.AfterViews
 import org.androidannotations.annotations.EActivity
 import org.androidannotations.annotations.ViewById
-import org.autojs.autoxjs.R
-import org.autojs.autojs.tool.BitmapTool
-import org.autojs.autojs.tool.writeTo
-import org.autojs.autojs.ui.BaseActivity
-import org.autojs.autojs.workground.WrapContentGridLayoutManger
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.tool.BitmapTool
+import org.automyjsa.automyjsa.tool.writeTo
+import org.automyjsa.automyjsa.ui.BaseActivity
+import org.automyjsa.automyjsa.workground.WrapContentGridLayoutManger
 import java.io.File
 
 
@@ -139,7 +139,7 @@ open class ShortcutIconSelectActivity : BaseActivity() {
         const val EXTRA_PACKAGE_NAME = "extra_package_name"
 
         @JvmStatic
-        @Deprecated("Use org/autojs/autojs/ui/shortcut/ShortcutIconSelectResult")
+        @Deprecated("Use org/automyjsa/automyjsa/ui/shortcut/ShortcutIconSelectResult")
         fun getBitmapFromIntent(context: Context, data: Intent): Observable<Bitmap> {
             val packageName = data.getStringExtra(EXTRA_PACKAGE_NAME)
             if (packageName != null) {

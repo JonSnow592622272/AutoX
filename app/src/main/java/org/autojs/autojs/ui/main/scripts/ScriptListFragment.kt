@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.main.scripts
+package org.automyjsa.automyjsa.ui.main.scripts
 
 import android.content.Context
 import android.os.Bundle
@@ -32,20 +32,20 @@ import com.leinardi.android.speeddial.compose.SpeedDialScope
 import com.leinardi.android.speeddial.compose.SpeedDialState
 import com.stardust.app.GlobalAppContext.get
 import com.stardust.util.IntentUtil
-import org.autojs.autojs.Pref
-import org.autojs.autojs.external.fileprovider.AppFileProvider
-import org.autojs.autojs.model.explorer.ExplorerDirPage
-import org.autojs.autojs.model.explorer.Explorers
-import org.autojs.autojs.model.script.Scripts.edit
-import org.autojs.autojs.ui.common.ScriptOperations
-import org.autojs.autojs.ui.explorer.ExplorerViewKt
-import org.autojs.autojs.ui.main.rememberExternalStoragePermissionsState
-import org.autojs.autojs.ui.main.showExternalStoragePermissionToast
-import org.autojs.autojs.ui.build.ProjectConfigActivity
-import org.autojs.autojs.ui.build.ProjectConfigActivity_
-import org.autojs.autojs.ui.viewmodel.ExplorerItemList.SortConfig
-import org.autojs.autojs.ui.widget.fillMaxSize
-import org.autojs.autoxjs.R
+import org.automyjsa.automyjsa.Pref
+import org.automyjsa.automyjsa.external.fileprovider.AppFileProvider
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage
+import org.automyjsa.automyjsa.model.explorer.Explorers
+import org.automyjsa.automyjsa.model.script.Scripts.edit
+import org.automyjsa.automyjsa.ui.common.ScriptOperations
+import org.automyjsa.automyjsa.ui.explorer.ExplorerViewKt
+import org.automyjsa.automyjsa.ui.main.rememberExternalStoragePermissionsState
+import org.automyjsa.automyjsa.ui.main.showExternalStoragePermissionToast
+import org.automyjsa.automyjsa.ui.build.ProjectConfigActivity
+import org.automyjsa.automyjsa.ui.build.ProjectConfigActivity_
+import org.automyjsa.automyjsa.ui.viewmodel.ExplorerItemList.SortConfig
+import org.automyjsa.automyjsa.ui.widget.fillMaxSize
+import org.automyjsa.automyjsx.R
 
 /**
  * Created by wilinz on 2022/7/15.

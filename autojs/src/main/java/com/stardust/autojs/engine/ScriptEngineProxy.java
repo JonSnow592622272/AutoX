@@ -1,6 +1,6 @@
-package com.stardust.autojs.engine;
+package com.stardust.automyjsa.engine;
 
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.script.ScriptSource;
 
 /**
  * Created by Stardust on 2018/3/17.

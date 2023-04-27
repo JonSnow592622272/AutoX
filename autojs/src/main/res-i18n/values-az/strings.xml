@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Jest monitorinqi aktiv edilməyib, lütfən, onu proqram parametrlərində aktivləşdirin</string>
   <string name="no_write_settings_permissin">Sistem parametrlərini dəyişdirmək icazəsi yoxdur</string>
   <string name="exception_notification_service_disabled">Bildiriş xidməti işləmir, bildiriş icazəsini yenidən aktiv edin</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Bu skriptin işləməsi üçün Auto.js versiya nömrəsi %d və ya daha yüksək tələb olunur</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Bu skriptin işləməsi üçün Automyjsa.js versiya nömrəsi %d və ya daha yüksək tələb olunur</string>
   <string name="text_drawer_open">Açılan menyunu açın</string>
   <string name="text_drawer_close">Açılan menyunu bağlayın</string>
   <string name="no_read_phone_state_permissin">Cihaz məlumatlarını oxumaq icazəsi yoxdur</string>

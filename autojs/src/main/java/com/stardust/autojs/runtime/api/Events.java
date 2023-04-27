@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.accessibilityservice.AccessibilityServiceInfo;
 import android.content.Context;
@@ -12,19 +12,19 @@ import androidx.annotation.RequiresApi;
 
 import android.view.KeyEvent;
 
-import com.stardust.autojs.R;
-import com.stardust.autojs.core.accessibility.AccessibilityBridge;
-import com.stardust.autojs.core.boardcast.BroadcastEmitter;
-import com.stardust.autojs.core.eventloop.EventEmitter;
-import com.stardust.autojs.core.looper.Loopers;
-import com.stardust.autojs.core.looper.MainThreadProxy;
-import com.stardust.autojs.core.looper.Timer;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.R;
+import com.stardust.automyjsa.core.accessibility.AccessibilityBridge;
+import com.stardust.automyjsa.core.boardcast.BroadcastEmitter;
+import com.stardust.automyjsa.core.eventloop.EventEmitter;
+import com.stardust.automyjsa.core.looper.Loopers;
+import com.stardust.automyjsa.core.looper.MainThreadProxy;
+import com.stardust.automyjsa.core.looper.Timer;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.notification.Notification;
 import com.stardust.notification.NotificationListenerService;
-import com.stardust.autojs.runtime.exception.ScriptException;
-import com.stardust.autojs.core.inputevent.InputEventObserver;
-import com.stardust.autojs.core.inputevent.TouchObserver;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
+import com.stardust.automyjsa.core.inputevent.InputEventObserver;
+import com.stardust.automyjsa.core.inputevent.TouchObserver;
 import com.stardust.util.MapBuilder;
 import com.stardust.view.accessibility.AccessibilityNotificationObserver;
 import com.stardust.view.accessibility.AccessibilityService;

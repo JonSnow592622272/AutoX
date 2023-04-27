@@ -37,7 +37,7 @@
   <string name="github">کد منبع نرم افزار</string>
   <string name="text_already_copy_to_clip">در کلیپ بورد کپی شد</string>
   <string name="text_qq_already_copy_to_clip">شماره گروه QQ در کلیپ بورد کپی شده است</string>
-  <string name="share_app">[Autox.js] آدرس دانلود: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] آدرس دانلود: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">پنجره شناور</string>
   <string name="text_error_report">گزارش خطا</string>
   <string name="text_press_again_to_exit">دوباره فشار دهید تا از برنامه خارج شوید</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">واردات با موفقیت انجام شد</string>
   <string name="text_current_activity">فعالیت فعلی:</string>
   <string name="text_current_package">نام بسته برنامه فعلی:</string>
-  <string name="go_to_accessibility_settings">لطفاً Settings->Accessibility Services->Autox.js را باز کرده و آن را فعال کنید</string>
+  <string name="go_to_accessibility_settings">لطفاً Settings->Accessibility Services->Automyjsx.js را باز کرده و آن را فعال کنید</string>
   <string name="text_script_running">اجرای اسکریپت</string>
   <string name="text_use_volume_to_stop_running">کلید افزایش صدا همه اسکریپت ها را متوقف می کند</string>
   <string name="text_need_to_enable_accessibility_service">خدمات دسترس‌پذیری باید فعال شوند</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">بدون فایل پیکربندی</string>
   <string name="text_foreground_service">پذیرایی</string>
   <string name="foreground_notification_channel_name">اطلاعیه خدمات میز جلو</string>
-  <string name="foreground_notification_title">Autox.js به کار خود ادامه می دهد</string>
+  <string name="foreground_notification_title">Automyjsx.js به کار خود ادامه می دهد</string>
   <string name="foreground_notification_text">برای ورود به رابط اصلی کلیک کنید</string>
   <string name="text_run_on_other_broadcast">رویدادهای دیگر (پخش)</string>
   <string name="text_broadcast_action">اقدام پخش</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">پروژه در %s ذخیره شده است</string>
   <string name="text_project_save_error">ذخیره پروژه %s ناموفق بود</string>
   <string name="text_night_mode">حالت شب</string>
-  <string name="text_run_on_startup">هنگامی که Autox.js شروع می شود</string>
+  <string name="text_run_on_startup">هنگامی که Automyjsx.js شروع می شود</string>
   <string name="text_usage_stats_permission">دسترسی استفاده</string>
   <string name="description_usage_stats_permission">از طریق مجوز «مشاهده آمار استفاده» می‌توانید استفاده‌های قبلی اپلیکیشن این دستگاه را به دست آورید تا با دقت بیشتری به اپلیکیشن فعلی (currentPackage) دست پیدا کنید.</string>
   <string name="text_open_with">راه باز</string>

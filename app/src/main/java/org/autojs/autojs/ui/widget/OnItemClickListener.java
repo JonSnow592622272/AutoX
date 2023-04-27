@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.widget;
+package org.automyjsa.automyjsa.ui.widget;
 
 import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;

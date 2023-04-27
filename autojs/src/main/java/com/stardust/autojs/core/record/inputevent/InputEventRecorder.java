@@ -1,9 +1,9 @@
-package com.stardust.autojs.core.record.inputevent;
+package com.stardust.automyjsa.core.record.inputevent;
 
 import androidx.annotation.NonNull;
 
-import com.stardust.autojs.core.inputevent.InputEventObserver;
-import com.stardust.autojs.core.record.Recorder;
+import com.stardust.automyjsa.core.inputevent.InputEventObserver;
+import com.stardust.automyjsa.core.record.Recorder;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

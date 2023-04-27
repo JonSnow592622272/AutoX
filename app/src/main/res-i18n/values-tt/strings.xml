@@ -37,7 +37,7 @@
   <string name="github">Программа тәэминаты чыганагы</string>
   <string name="text_already_copy_to_clip">Буфер тактасына күчерелгән</string>
   <string name="text_qq_already_copy_to_clip">QQ төркем номеры буферга күчерелде</string>
-  <string name="share_app">[Autox.js] Йөкләү адресы: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Йөкләү адресы: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Йөзүче тәрәзә</string>
   <string name="text_error_report">Хата турында хәбәр</string>
   <string name="text_press_again_to_exit">Программадан чыгу өчен кабат басыгыз</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Уңышлы импорт</string>
   <string name="text_current_activity">Хәзерге эшчәнлек:</string>
   <string name="text_current_package">Хәзерге кушымта пакеты исеме:</string>
-  <string name="go_to_accessibility_settings">Зинһар, көйләүләр-> Уңайлык хезмәтләре-> Autox.js ачыгыз һәм аны эшләгез</string>
+  <string name="go_to_accessibility_settings">Зинһар, көйләүләр-> Уңайлык хезмәтләре-> Automyjsx.js ачыгыз һәм аны эшләгез</string>
   <string name="text_script_running">Сценарий</string>
   <string name="text_use_volume_to_stop_running">Күчереп алу ачкычы барлык сценарийларны туктата</string>
   <string name="text_need_to_enable_accessibility_service">Рөхсәтле хезмәтләр кушылырга тиеш</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Конфигурация файллары юк</string>
   <string name="text_foreground_service">Кабул итү</string>
   <string name="foreground_notification_channel_name">Алгы парталарга хезмәт күрсәтү</string>
-  <string name="foreground_notification_title">Autox.js эшләвен дәвам итә</string>
+  <string name="foreground_notification_title">Automyjsx.js эшләвен дәвам итә</string>
   <string name="foreground_notification_text">Төп интерфейсны кертү өчен басыгыз</string>
   <string name="text_run_on_other_broadcast">Бүтән вакыйгалар (тапшыру)</string>
   <string name="text_broadcast_action">Трансляция</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Проект %s сакланган</string>
   <string name="text_project_save_error">Проектны саклап калу уңышсыз %s</string>
   <string name="text_night_mode">Төн режимы</string>
-  <string name="text_run_on_startup">Autox.js башлангач</string>
+  <string name="text_run_on_startup">Automyjsx.js башлангач</string>
   <string name="text_usage_stats_permission">Куллану мөмкинлеге</string>
   <string name="description_usage_stats_permission">\"Куллану статистикасын карау\" рөхсәте аша сез бу җайланманың элеккеге кулланылышын ала аласыз, шулай итеп хәзерге кушымтаны алу төгәлрәк (currentPackage).</string>
   <string name="text_open_with">Ачык юл</string>

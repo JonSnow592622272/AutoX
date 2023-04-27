@@ -37,7 +37,7 @@
   <string name="github">Software source code</string>
   <string name="text_already_copy_to_clip">Theej rau daim ntawv teev cia</string>
   <string name="text_qq_already_copy_to_clip">QQ pawg naj npawb tau muab luam rau hauv daim ntawv teev cia</string>
-  <string name="share_app">[Autox.js] Download chaw nyob: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Download chaw nyob: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Qhov rai ntab</string>
   <string name="text_error_report">Yuam kev ceeb toom</string>
   <string name="text_press_again_to_exit">Nias dua kom tawm hauv qhov program</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import tiav</string>
   <string name="text_current_activity">Cov haujlwm tam sim no:</string>
   <string name="text_current_package">Tam sim no daim ntawv thov pob npe:</string>
-  <string name="go_to_accessibility_settings">Thov qhib Settings->Accessibility Services-> Autox.js thiab pab nws</string>
+  <string name="go_to_accessibility_settings">Thov qhib Settings->Accessibility Services-> Automyjsx.js thiab pab nws</string>
   <string name="text_script_running">Tsab ntawv khiav</string>
   <string name="text_use_volume_to_stop_running">Volume up key nres tag nrho cov ntawv sau</string>
   <string name="text_need_to_enable_accessibility_service">Cov kev pabcuam nkag mus tau yuav tsum tau qhib</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Tsis muaj configuration file</string>
   <string name="text_foreground_service">Txais tos</string>
   <string name="foreground_notification_channel_name">Pem hauv ntej lub rooj pabcuam ceeb toom</string>
-  <string name="foreground_notification_title">Autox.js tseem khiav</string>
+  <string name="foreground_notification_title">Automyjsx.js tseem khiav</string>
   <string name="foreground_notification_text">Nyem rau nkag mus rau lub ntsiab interface</string>
   <string name="text_run_on_other_broadcast">Lwm yam xwm txheej (tshaj tawm)</string>
   <string name="text_broadcast_action">Tshaj tawm Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Qhov project tau raug cawm rau %s</string>
   <string name="text_project_save_error">Qhov project txuag tsis tau %s</string>
   <string name="text_night_mode">Hmo ntuj hom</string>
-  <string name="text_run_on_startup">Thaum Autox.js pib</string>
+  <string name="text_run_on_startup">Thaum Automyjsx.js pib</string>
   <string name="text_usage_stats_permission">Kev siv nkag</string>
   <string name="description_usage_stats_permission">Los ntawm \"saib kev siv txheeb cais\" tso cai, koj tuaj yeem tau txais daim ntawv thov kev siv yav dhau los ntawm cov cuab yeej no, kom nws muaj tseeb dua kom tau txais daim ntawv thov tam sim no (currentPackage).</string>
   <string name="text_open_with">Qhib txoj kev</string>

@@ -1,10 +1,10 @@
-package org.autojs.autojs.model.explorer;
+package org.automyjsa.automyjsa.model.explorer;
 
 import com.stardust.pio.PFile;
 import com.stardust.util.ObjectHelper;
 import com.stardust.util.Objects;
 
-import org.autojs.autojs.model.script.ScriptFile;
+import org.automyjsa.automyjsa.model.script.ScriptFile;
 
 import java.io.File;
 import java.util.Arrays;

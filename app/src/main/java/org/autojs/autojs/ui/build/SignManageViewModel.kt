@@ -1,9 +1,9 @@
-package org.autojs.autojs.ui.build
+package org.automyjsa.automyjsa.ui.build
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel
-import org.autojs.autojs.build.ApkKeyStore
-import org.autojs.autojs.build.ApkSigner
+import org.automyjsa.automyjsa.build.ApkKeyStore
+import org.automyjsa.automyjsa.build.ApkSigner
 
 /**
  * @author wilinz

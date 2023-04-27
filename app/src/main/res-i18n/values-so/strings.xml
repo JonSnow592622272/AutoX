@@ -37,7 +37,7 @@
   <string name="github">Code isha software</string>
   <string name="text_already_copy_to_clip">Loo guuriyay sabuuraddii</string>
   <string name="text_qq_already_copy_to_clip">Nambarka kooxda QQ waxaa lagu koobiyeeyay sabuuradda</string>
-  <string name="share_app">[Autox.js] Soo deji cinwaanka: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Soo deji cinwaanka: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Daaqadda sabaynaysa</string>
   <string name="text_error_report">Warbixinta qaladka</string>
   <string name="text_press_again_to_exit">Mar kale taabo si aad uga baxdo barnaamijka</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Soo dejinta guul</string>
   <string name="text_current_activity">Hawsha hadda:</string>
   <string name="text_current_package">Magaca xirmada codsiga hadda:</string>
-  <string name="go_to_accessibility_settings">Fadlan fur Settings->Adeegyada gelitaanka->Autox.js oo awood u yeelo</string>
+  <string name="go_to_accessibility_settings">Fadlan fur Settings->Adeegyada gelitaanka->Automyjsx.js oo awood u yeelo</string>
   <string name="text_script_running">Orod qoraal</string>
   <string name="text_use_volume_to_stop_running">Furaha kor u qaadista ayaa joojiya dhammaan qoraallada</string>
   <string name="text_need_to_enable_accessibility_service">Adeegyada gelitaanka ayaa loo baahan yahay in la furo</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ma jiro faylka qaabeynta</string>
   <string name="text_foreground_service">Soo dhawaynta</string>
   <string name="foreground_notification_channel_name">Ogeysiinta adeegga miiska hore</string>
-  <string name="foreground_notification_title">Autox.js way sii socotaa</string>
+  <string name="foreground_notification_title">Automyjsx.js way sii socotaa</string>
   <string name="foreground_notification_text">Guji si aad u gasho interface-ka ugu weyn</string>
   <string name="text_run_on_other_broadcast">Dhacdooyinka kale (baahinta)</string>
   <string name="text_broadcast_action">Ficilka Baahinta</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Mashruuca waxa loo kaydiyay %s</string>
   <string name="text_project_save_error">Badbaadinta mashruuca ayaa ku guuldareysatay %s</string>
   <string name="text_night_mode">Hab habeen</string>
-  <string name="text_run_on_startup">Marka Autox.js bilaabo</string>
+  <string name="text_run_on_startup">Marka Automyjsx.js bilaabo</string>
   <string name="text_usage_stats_permission">Isticmaalka isticmaalka</string>
   <string name="description_usage_stats_permission">Ogolaanshiyaha \"aragtida isticmaalka statistics\", waxaad ku heli kartaa isticmaalkii hore ee arjigii hore ee qalabkan, si ay u noqoto mid sax ah si aad u hesho codsiga hadda (currentPackage).</string>
   <string name="text_open_with">Jid furan</string>

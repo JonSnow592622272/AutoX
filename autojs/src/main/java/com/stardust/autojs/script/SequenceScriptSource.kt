@@ -1,4 +1,4 @@
-package com.stardust.autojs.script
+package com.stardust.automyjsa.script
 
 import com.stardust.io.ConcatReader
 import java.io.Reader

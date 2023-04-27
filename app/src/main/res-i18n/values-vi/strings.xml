@@ -37,7 +37,7 @@
   <string name="github">Mã nguồn phần mềm</string>
   <string name="text_already_copy_to_clip">Sao chép vào clipboard</string>
   <string name="text_qq_already_copy_to_clip">Số nhóm QQ đã được sao chép vào khay nhớ tạm</string>
-  <string name="share_app">[Autox.js] Địa chỉ tải xuống: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Địa chỉ tải xuống: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Cửa sổ nổi</string>
   <string name="text_error_report">Báo cáo lỗi</string>
   <string name="text_press_again_to_exit">Nhấn lại để thoát khỏi chương trình</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Nhập thành công</string>
   <string name="text_current_activity">Hoạt động hiện tại:</string>
   <string name="text_current_package">Tên gói ứng dụng hiện tại:</string>
-  <string name="go_to_accessibility_settings">Vui lòng mở Cài đặt-> Dịch vụ trợ năng-> Autox.js và bật nó</string>
+  <string name="go_to_accessibility_settings">Vui lòng mở Cài đặt-> Dịch vụ trợ năng-> Automyjsx.js và bật nó</string>
   <string name="text_script_running">Tập lệnh chạy</string>
   <string name="text_use_volume_to_stop_running">Phím tăng âm lượng dừng tất cả các tập lệnh</string>
   <string name="text_need_to_enable_accessibility_service">Các dịch vụ trợ năng cần được bật</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Không có tệp cấu hình</string>
   <string name="text_foreground_service">Thu nhận</string>
   <string name="foreground_notification_channel_name">Thông báo dịch vụ lễ tân</string>
-  <string name="foreground_notification_title">Autox.js tiếp tục chạy</string>
+  <string name="foreground_notification_title">Automyjsx.js tiếp tục chạy</string>
   <string name="foreground_notification_text">Bấm để vào giao diện chính</string>
   <string name="text_run_on_other_broadcast">Các sự kiện khác (phát sóng)</string>
   <string name="text_broadcast_action">Hành động phát sóng</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Dự án đã được lưu vào %s</string>
   <string name="text_project_save_error">Không lưu được dự án %s</string>
   <string name="text_night_mode">Chế độ ban đêm</string>
-  <string name="text_run_on_startup">Khi Autox.js bắt đầu</string>
+  <string name="text_run_on_startup">Khi Automyjsx.js bắt đầu</string>
   <string name="text_usage_stats_permission">Truy cập sử dụng</string>
   <string name="description_usage_stats_permission">Thông qua quyền \"xem số liệu thống kê sử dụng\", bạn có thể có được việc sử dụng ứng dụng trong quá khứ của thiết bị này, để có được ứng dụng hiện tại (Gói hiện tại) chính xác hơn.</string>
   <string name="text_open_with">Mở đường</string>

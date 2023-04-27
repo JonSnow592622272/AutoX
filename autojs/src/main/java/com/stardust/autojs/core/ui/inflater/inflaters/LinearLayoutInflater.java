@@ -1,11 +1,11 @@
-package com.stardust.autojs.core.ui.inflater.inflaters;
+package com.stardust.automyjsa.core.ui.inflater.inflaters;
 
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.util.Gravities;
-import com.stardust.autojs.core.ui.inflater.util.ValueMapper;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.util.Gravities;
+import com.stardust.automyjsa.core.ui.inflater.util.ValueMapper;
 
 import java.util.Map;
 

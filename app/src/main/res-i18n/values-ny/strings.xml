@@ -37,7 +37,7 @@
   <string name="github">Software source kodi</string>
   <string name="text_already_copy_to_clip">Koperedwa pa clipboard</string>
   <string name="text_qq_already_copy_to_clip">Nambala ya gulu la QQ yakopedwa pa clipboard</string>
-  <string name="share_app">[Autox.js] Tsitsani adilesi: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Tsitsani adilesi: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Zenera loyandama</string>
   <string name="text_error_report">Lipoti lolakwika</string>
   <string name="text_press_again_to_exit">Dinani kachiwiri kuti mutuluke pulogalamuyi</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Kulowetsa mwapambana</string>
   <string name="text_current_activity">Zomwe zikuchitika pano:</string>
   <string name="text_current_package">Dzina la phukusi lamakono:</string>
-  <string name="go_to_accessibility_settings">Chonde tsegulani Zikhazikiko-> Ntchito Zofikira-> Autox.js ndikuyiyambitsa</string>
+  <string name="go_to_accessibility_settings">Chonde tsegulani Zikhazikiko-> Ntchito Zofikira-> Automyjsx.js ndikuyiyambitsa</string>
   <string name="text_script_running">Script run</string>
   <string name="text_use_volume_to_stop_running">Kiyi yokweza mawu imayimitsa zolemba zonse</string>
   <string name="text_need_to_enable_accessibility_service">Ntchito zofikira zikuyenera kuyatsidwa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Palibe fayilo yosintha</string>
   <string name="text_foreground_service">Kulandila</string>
   <string name="foreground_notification_channel_name">Chidziwitso cha utumiki wapadesi lakutsogolo</string>
-  <string name="foreground_notification_title">Autox.js ikugwirabe ntchito</string>
+  <string name="foreground_notification_title">Automyjsx.js ikugwirabe ntchito</string>
   <string name="foreground_notification_text">Dinani kulowa waukulu mawonekedwe</string>
   <string name="text_run_on_other_broadcast">Zochitika zina (kuwulutsa)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Ntchitoyi yasungidwa ku %s</string>
   <string name="text_project_save_error">Kusunga ntchito kwalephera %s</string>
   <string name="text_night_mode">Usiku mode</string>
-  <string name="text_run_on_startup">Pamene Autox.js iyamba</string>
+  <string name="text_run_on_startup">Pamene Automyjsx.js iyamba</string>
   <string name="text_usage_stats_permission">Kugwiritsa ntchito</string>
   <string name="description_usage_stats_permission">Kupyolera mu chilolezo cha \"mawonedwe a kagwiritsidwe ntchito\", mutha kupeza momwe mungagwiritsire ntchito chipangizochi m\'mbuyomu, kuti chikhale cholondola kwambiri kupeza pulogalamu yamakono (currentPackage).</string>
   <string name="text_open_with">Njira yotseguka</string>

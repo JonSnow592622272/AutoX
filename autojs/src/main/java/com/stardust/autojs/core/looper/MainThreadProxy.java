@@ -1,6 +1,6 @@
-package com.stardust.autojs.core.looper;
+package com.stardust.automyjsa.core.looper;
 
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.lang.ThreadCompat;
 
 import java.util.Map;

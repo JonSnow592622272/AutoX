@@ -37,7 +37,7 @@
   <string name="github">Khodi ya xihlovo xa software</string>
   <string name="text_already_copy_to_clip">Yi kopiwile eka clipboard</string>
   <string name="text_qq_already_copy_to_clip">Nomboro ya ntlawa wa QQ yi kopiwile eka clipboard</string>
-  <string name="share_app">[Autox.js] Adirese yo dawuniloda: https://github.com/kkevsekk1/AutoX/ku humesiwa</string>
+  <string name="share_app">[Automyjsx.js] Adirese yo dawuniloda: https://github.com/kkevsekk1/Automyjsx/ku humesiwa</string>
   <string name="text_floating_window">Fasitere leri papamalaka</string>
   <string name="text_error_report">Xiviko xa xihoxo</string>
   <string name="text_press_again_to_exit">Cinca nakambe leswaku u huma eka nongonoko</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Ku nghenisa swi humelerile</string>
   <string name="text_current_activity">Ntirho wa sweswi:</string>
   <string name="text_current_package">Vito ra phasela ra xikombelo ra sweswi:</string>
-  <string name="go_to_accessibility_settings">Hi kombela u pfula Settings->Accessibility Services->Autox.js u yi pfumelela</string>
+  <string name="go_to_accessibility_settings">Hi kombela u pfula Settings->Accessibility Services->Automyjsx.js u yi pfumelela</string>
   <string name="text_script_running">Ku tsutsuma ka tsalwa</string>
   <string name="text_use_volume_to_stop_running">Volume up key yi yimisa switshuriwa hinkwaswo</string>
   <string name="text_need_to_enable_accessibility_service">Vukorhokeri bya mfikelelo byi lava ku tirhisiwa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ku hava fayili ya vuhlanganisi</string>
   <string name="text_foreground_service">Vuamukeri</string>
   <string name="foreground_notification_channel_name">Xitiviso xa vukorhokeri bya le mahlweni</string>
-  <string name="foreground_notification_title">Autox.js yi tshama yi ri karhi yi tirha</string>
+  <string name="foreground_notification_title">Automyjsx.js yi tshama yi ri karhi yi tirha</string>
   <string name="foreground_notification_text">Click ku nghena eka interface leyikulu</string>
   <string name="text_run_on_other_broadcast">Swiendlakalo swin’wana (ku haxiwa) .</string>
   <string name="text_broadcast_action">Xiendlo xa Vuhaxi</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Phurojeke yi hlayisiwile eka %s</string>
   <string name="text_project_save_error">Ku hlayisa phurojeke ku tsandzekile %s</string>
   <string name="text_night_mode">Movha wa vusiku</string>
-  <string name="text_run_on_startup">Loko Autox.js yi sungula</string>
+  <string name="text_run_on_startup">Loko Automyjsx.js yi sungula</string>
   <string name="text_usage_stats_permission">Mfikelelo wa matirhiselo</string>
   <string name="description_usage_stats_permission">Hi ku tirhisa mpfumelelo wa \"view usage statistics\", u nga kuma matirhiselo ya nkarhi lowu hundzeke ya xitirhisiwa xa xitirhisiwa lexi, leswaku swi va leswi kongomeke swinene ku kuma xitirhisiwa xa sweswi (currentPackage).</string>
   <string name="text_open_with">Ndlela leyi pfulekeke</string>

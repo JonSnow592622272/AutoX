@@ -23,7 +23,7 @@ ui.layout(
         </appbar>
         <Switch id="permissions" text="音频录制及存储权限" checked="true" gravity="center"/>
         <frame gravity="center">
-            <text text="AutoX" gravity="center" />
+            <text text="Automyjsx" gravity="center" />
         </frame>
         <button text="免root屏幕录制" style="Widget.AppCompat.Button.Colored" id="button" />
     </vertical>

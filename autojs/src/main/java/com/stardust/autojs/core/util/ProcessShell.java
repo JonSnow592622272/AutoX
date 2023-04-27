@@ -1,11 +1,11 @@
-package com.stardust.autojs.core.util;
+package com.stardust.automyjsa.core.util;
 
 
 import android.util.Log;
 
-import com.stardust.autojs.runtime.api.AbstractShell;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
-import com.stardust.autojs.util.ProcessUtils;
+import com.stardust.automyjsa.runtime.api.AbstractShell;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.util.ProcessUtils;
 import com.stardust.pio.UncheckedIOException;
 
 import java.io.BufferedReader;

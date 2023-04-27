@@ -23,7 +23,7 @@ module.exports = function(runtime, global){
     }
 
     function wrap(window){
-        var proxyObject = new com.stardust.autojs.rhino.ProxyJavaObject(global, window, window.getClass());
+        var proxyObject = new com.stardust.automyjsa.rhino.ProxyJavaObject(global, window, window.getClass());
         var viewCache = {};
         proxyObject.__proxy__ = {
             set: function(name, value){

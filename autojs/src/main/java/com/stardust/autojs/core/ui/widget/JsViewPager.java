@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.widget;
+package com.stardust.automyjsa.core.ui.widget;
 
 import android.content.Context;
 
@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.stardust.autojs.core.ui.inflater.ShouldCallOnFinishInflate;
+import com.stardust.automyjsa.core.ui.inflater.ShouldCallOnFinishInflate;
 
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;

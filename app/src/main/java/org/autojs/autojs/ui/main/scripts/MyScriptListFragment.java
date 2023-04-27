@@ -1,5 +1,5 @@
 /*
-package org.autojs.autojs.ui.main.scripts;
+package org.automyjsa.automyjsa.ui.main.scripts;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -14,25 +14,25 @@ import com.stardust.util.IntentUtil;
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EFragment;
 import org.androidannotations.annotations.ViewById;
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.external.fileprovider.AppFileProvider;
-import org.autojs.autojs.external.foreground.ForegroundService;
-import org.autojs.autojs.model.explorer.ExplorerDirPage;
-import org.autojs.autojs.model.explorer.Explorers;
-import org.autojs.autojs.model.script.Scripts;
-import org.autojs.autojs.tool.SimpleObserver;
-import org.autojs.autojs.ui.common.ScriptOperations;
-import org.autojs.autojs.ui.explorer.ExplorerView;
-import org.autojs.autojs.ui.floating.FloatyWindowManger;
-import org.autojs.autojs.ui.main.FloatingActionMenu;
-import org.autojs.autojs.ui.main.QueryEvent;
-import org.autojs.autojs.ui.main.ViewPagerFragment;
-import org.autojs.autojs.ui.project.ProjectConfigActivity;
-import org.autojs.autojs.ui.project.ProjectConfigActivity_;
-import org.autojs.autojs.ui.settings.SettingsActivity_;
-import org.autojs.autojs.ui.viewmodel.ExplorerItemList;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.external.fileprovider.AppFileProvider;
+import org.automyjsa.automyjsa.external.foreground.ForegroundService;
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage;
+import org.automyjsa.automyjsa.model.explorer.Explorers;
+import org.automyjsa.automyjsa.model.script.Scripts;
+import org.automyjsa.automyjsa.tool.SimpleObserver;
+import org.automyjsa.automyjsa.ui.common.ScriptOperations;
+import org.automyjsa.automyjsa.ui.explorer.ExplorerView;
+import org.automyjsa.automyjsa.ui.floating.FloatyWindowManger;
+import org.automyjsa.automyjsa.ui.main.FloatingActionMenu;
+import org.automyjsa.automyjsa.ui.main.QueryEvent;
+import org.automyjsa.automyjsa.ui.main.ViewPagerFragment;
+import org.automyjsa.automyjsa.ui.project.ProjectConfigActivity;
+import org.automyjsa.automyjsa.ui.project.ProjectConfigActivity_;
+import org.automyjsa.automyjsa.ui.settings.SettingsActivity_;
+import org.automyjsa.automyjsa.ui.viewmodel.ExplorerItemList;
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
 
@@ -202,7 +202,7 @@ public class MyScriptListFragment extends ViewPagerFragment implements FloatingA
                 FloatyWindowManger.hideCircularMenu();
                 ForegroundService.stop(requireContext());
                 requireActivity().stopService(new Intent(getContext(), FloatyService.class));
-                AutoJs.getInstance().getScriptEngineService().stopAll();
+                Automyjsa.getInstance().getScriptEngineService().stopAll();
                 break;
             default:
                 break;

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Η παρακολούθηση χειρονομιών δεν είναι ενεργοποιημένη, ενεργοποιήστε την στις ρυθμίσεις λογισμικού</string>
   <string name="no_write_settings_permissin">Δεν επιτρέπεται η τροποποίηση των ρυθμίσεων συστήματος</string>
   <string name="exception_notification_service_disabled">Η υπηρεσία ειδοποιήσεων δεν εκτελείται, ενεργοποιήστε ξανά την άδεια ειδοποίησης</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Αυτό το σενάριο απαιτεί τον αριθμό έκδοσης Auto.js %d ή μεγαλύτερο για να εκτελεστεί</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Αυτό το σενάριο απαιτεί τον αριθμό έκδοσης Automyjsa.js %d ή μεγαλύτερο για να εκτελεστεί</string>
   <string name="text_drawer_open">Ανοίξτε το αναπτυσσόμενο μενού</string>
   <string name="text_drawer_close">Κλείστε το αναπτυσσόμενο μενού</string>
   <string name="no_read_phone_state_permissin">Δεν επιτρέπεται η ανάγνωση πληροφοριών συσκευής</string>

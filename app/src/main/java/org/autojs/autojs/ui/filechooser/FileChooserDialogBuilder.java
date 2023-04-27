@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.filechooser;
+package org.automyjsa.automyjsa.ui.filechooser;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
@@ -7,13 +7,13 @@ import androidx.annotation.StringRes;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.stardust.pio.PFile;
 
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.model.explorer.Explorer;
-import org.autojs.autojs.model.explorer.ExplorerDirPage;
-import org.autojs.autojs.model.explorer.ExplorerFileProvider;
-import org.autojs.autojs.model.explorer.Explorers;
-import org.autojs.autojs.model.script.Scripts;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.model.explorer.Explorer;
+import org.automyjsa.automyjsa.model.explorer.ExplorerDirPage;
+import org.automyjsa.automyjsa.model.explorer.ExplorerFileProvider;
+import org.automyjsa.automyjsa.model.explorer.Explorers;
+import org.automyjsa.automyjsa.model.script.Scripts;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 
 import java.io.File;
 import java.io.FileFilter;

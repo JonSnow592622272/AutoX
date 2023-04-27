@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.editor;
+package org.automyjsa.automyjsa.model.editor;
 
 import com.google.gson.annotations.SerializedName;
 

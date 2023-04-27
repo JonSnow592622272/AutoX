@@ -1,4 +1,4 @@
-package org.autojs.autojs.storage.database;
+package org.automyjsa.automyjsa.storage.database;
 
 
 public abstract class BaseModel {

@@ -37,7 +37,7 @@
   <string name="github">Lambar tushe software</string>
   <string name="text_already_copy_to_clip">Kofe zuwa allo</string>
   <string name="text_qq_already_copy_to_clip">An kwafi lambar ƙungiyar QQ zuwa allon allo</string>
-  <string name="share_app">[Autox.js] Zazzage adireshin: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Zazzage adireshin: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Tagan mai iyo</string>
   <string name="text_error_report">Rahoton kuskure</string>
   <string name="text_press_again_to_exit">Latsa sake don fita shirin</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">An yi nasarar shigo da shi</string>
   <string name="text_current_activity">Ayyukan na yanzu:</string>
   <string name="text_current_package">Sunan kunshin aikace-aikacen yanzu:</string>
-  <string name="go_to_accessibility_settings">Da fatan za a buɗe Saituna-> Sabis na Dama->Autox.js kuma kunna shi</string>
+  <string name="go_to_accessibility_settings">Da fatan za a buɗe Saituna-> Sabis na Dama->Automyjsx.js kuma kunna shi</string>
   <string name="text_script_running">Aikin rubutun</string>
   <string name="text_use_volume_to_stop_running">Maɓallin ƙarar ƙara yana dakatar da duk rubutun</string>
   <string name="text_need_to_enable_accessibility_service">Ana buƙatar kunna sabis na samun dama</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Babu fayil ɗin sanyi</string>
   <string name="text_foreground_service">Liyafar</string>
   <string name="foreground_notification_channel_name">Sanarwa na sabis na tebur na gaba</string>
-  <string name="foreground_notification_title">Autox.js yana ci gaba da gudana</string>
+  <string name="foreground_notification_title">Automyjsx.js yana ci gaba da gudana</string>
   <string name="foreground_notification_text">Danna don shigar da babban dubawa</string>
   <string name="text_run_on_other_broadcast">Sauran abubuwan da suka faru (watsawa)</string>
   <string name="text_broadcast_action">Ayyukan Watsa shirye-shirye</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">An ajiye aikin zuwa %s</string>
   <string name="text_project_save_error">Ajiye aikin ya kasa %s</string>
   <string name="text_night_mode">Yanayin dare</string>
-  <string name="text_run_on_startup">Lokacin da Autox.js ya fara</string>
+  <string name="text_run_on_startup">Lokacin da Automyjsx.js ya fara</string>
   <string name="text_usage_stats_permission">Damar amfani</string>
   <string name="description_usage_stats_permission">Ta hanyar izinin \"ƙididdigar amfani da duba\", za ku iya samun amfani da aikace-aikacen da aka yi amfani da su a baya na wannan na\'urar, ta yadda zai fi dacewa don samun aikace-aikacen yanzu (currentPackage).</string>
   <string name="text_open_with">Bude hanya</string>

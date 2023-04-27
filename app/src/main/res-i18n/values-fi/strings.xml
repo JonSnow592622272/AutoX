@@ -37,7 +37,7 @@
   <string name="github">Ohjelmiston lähdekoodi</string>
   <string name="text_already_copy_to_clip">Kopioitu leikepöydälle</string>
   <string name="text_qq_already_copy_to_clip">QQ-ryhmän numero on kopioitu leikepöydälle</string>
-  <string name="share_app">[Autox.js] Latausosoite: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Latausosoite: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Kelluva ikkuna</string>
   <string name="text_error_report">Virhe raportti</string>
   <string name="text_press_again_to_exit">Paina uudelleen poistuaksesi ohjelmasta</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Tuonti onnistui</string>
   <string name="text_current_activity">Tämänhetkinen toiminta:</string>
   <string name="text_current_package">Nykyisen sovelluspaketin nimi:</string>
-  <string name="go_to_accessibility_settings">Avaa Asetukset->Esteettömyyspalvelut->Autox.js ja ota se käyttöön</string>
+  <string name="go_to_accessibility_settings">Avaa Asetukset->Esteettömyyspalvelut->Automyjsx.js ja ota se käyttöön</string>
   <string name="text_script_running">Skriptin ajo</string>
   <string name="text_use_volume_to_stop_running">Äänenvoimakkuuden lisäysnäppäin pysäyttää kaikki komentosarjat</string>
   <string name="text_need_to_enable_accessibility_service">Esteettömyyspalvelut on otettava käyttöön</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ei asetustiedostoa</string>
   <string name="text_foreground_service">Vastaanotto</string>
   <string name="foreground_notification_channel_name">Vastaanottopalvelun ilmoitus</string>
-  <string name="foreground_notification_title">Autox.js jatkaa toimintaansa</string>
+  <string name="foreground_notification_title">Automyjsx.js jatkaa toimintaansa</string>
   <string name="foreground_notification_text">Napsauta päästäksesi pääkäyttöliittymään</string>
   <string name="text_run_on_other_broadcast">Muut tapahtumat (lähetys)</string>
   <string name="text_broadcast_action">Lähetystoiminta</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekti on tallennettu kohteeseen %s</string>
   <string name="text_project_save_error">Projektin tallennus epäonnistui %s</string>
   <string name="text_night_mode">Yötila</string>
-  <string name="text_run_on_startup">Kun Autox.js käynnistyy</string>
+  <string name="text_run_on_startup">Kun Automyjsx.js käynnistyy</string>
   <string name="text_usage_stats_permission">Käyttöoikeus</string>
   <string name="description_usage_stats_permission">\"Näytä käyttötilastot\" -oikeudella voit saada selville tämän laitteen aiemman sovellusten käytön, jotta nykyisen sovelluksen (currentPackage) hankkiminen on tarkempaa.</string>
   <string name="text_open_with">Avoin tapa</string>

@@ -1,6 +1,6 @@
 module.exports = function (runtime, scope) {
     importPackage(Packages["okhttp3"]);
-    importClass(com.stardust.autojs.core.http.MutableOkHttp);
+    importClass(com.stardust.automyjsa.core.http.MutableOkHttp);
     var http = {};
 
     http.__okhttp__ = new MutableOkHttp();

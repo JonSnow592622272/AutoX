@@ -1,9 +1,9 @@
-package com.stardust.autojs.core.record.accessibility;
+package com.stardust.automyjsa.core.record.accessibility;
 
 import android.accessibilityservice.AccessibilityService;
 import android.view.accessibility.AccessibilityEvent;
 
-import com.stardust.autojs.core.record.Recorder;
+import com.stardust.automyjsa.core.record.Recorder;
 import com.stardust.view.accessibility.AccessibilityDelegate;
 
 import java.util.Arrays;

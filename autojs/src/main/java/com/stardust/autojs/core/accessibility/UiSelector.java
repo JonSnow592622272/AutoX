@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.accessibility;
+package com.stardust.automyjsa.core.accessibility;
 
 import android.os.Looper;
 import android.os.SystemClock;
@@ -8,9 +8,9 @@ import androidx.annotation.NonNull;
 import android.util.Log;
 import android.view.accessibility.AccessibilityNodeInfo;
 
-import com.stardust.autojs.BuildConfig;
-import com.stardust.autojs.annotation.ScriptInterface;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.BuildConfig;
+import com.stardust.automyjsa.annotation.ScriptInterface;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.automator.ActionArgument;
 import com.stardust.automator.UiGlobalSelector;
 import com.stardust.automator.UiObject;

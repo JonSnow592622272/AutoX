@@ -1,4 +1,4 @@
-package com.stardust.autojs.engine;
+package com.stardust.automyjsa.engine;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,9 +7,9 @@ import android.os.Looper;
 import android.os.MessageQueue;
 import android.util.Log;
 
-import com.stardust.autojs.core.looper.LooperHelper;
-import com.stardust.autojs.script.JavaScriptSource;
-import com.stardust.autojs.script.ScriptSource;
+import com.stardust.automyjsa.core.looper.LooperHelper;
+import com.stardust.automyjsa.script.JavaScriptSource;
+import com.stardust.automyjsa.script.ScriptSource;
 import com.stardust.util.Callback;
 
 import org.mozilla.javascript.ContinuationPending;

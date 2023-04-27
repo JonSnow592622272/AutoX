@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Pemantauan gerak isyarat tidak didayakan, sila dayakannya dalam tetapan perisian</string>
   <string name="no_write_settings_permissin">Tiada kebenaran untuk mengubah suai tetapan sistem</string>
   <string name="exception_notification_service_disabled">Perkhidmatan pemberitahuan tidak berjalan, sila dayakan semula kebenaran pemberitahuan</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Skrip ini memerlukan nombor versi Auto.js %d atau lebih tinggi untuk dijalankan</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Skrip ini memerlukan nombor versi Automyjsa.js %d atau lebih tinggi untuk dijalankan</string>
   <string name="text_drawer_open">Buka menu lungsur turun</string>
   <string name="text_drawer_close">Tutup menu lungsur turun</string>
   <string name="no_read_phone_state_permissin">Tiada kebenaran untuk membaca maklumat peranti</string>

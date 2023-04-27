@@ -1,4 +1,4 @@
-package com.stardust.autojs.util;
+package com.stardust.automyjsa.util;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,7 +13,7 @@ import androidx.annotation.RequiresApi;
 import android.text.TextUtils;
 import android.widget.Toast;
 
-import com.stardust.autojs.R;
+import com.stardust.automyjsa.R;
 import com.stardust.enhancedfloaty.util.FloatingWindowPermissionUtil;
 
 import java.lang.reflect.Method;

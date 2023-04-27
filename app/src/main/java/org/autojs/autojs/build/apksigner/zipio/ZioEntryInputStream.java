@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.autojs.autojs.build.apksigner.zipio;
+package org.automyjsa.automyjsa.build.apksigner.zipio;
 
 import java.io.IOException;
 import java.io.InputStream;

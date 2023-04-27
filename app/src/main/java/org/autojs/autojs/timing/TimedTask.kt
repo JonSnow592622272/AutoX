@@ -1,14 +1,14 @@
-package org.autojs.autojs.timing
+package org.automyjsa.automyjsa.timing
 
 import android.app.PendingIntent
 import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
 import android.os.Build
-import com.stardust.autojs.execution.ExecutionConfig
-import org.autojs.autoxjs.BuildConfig
-import org.autojs.autojs.external.ScriptIntents
-import org.autojs.autojs.storage.database.BaseModel
+import com.stardust.automyjsa.execution.ExecutionConfig
+import org.automyjsa.automyjsx.BuildConfig
+import org.automyjsa.automyjsa.external.ScriptIntents
+import org.automyjsa.automyjsa.storage.database.BaseModel
 import org.joda.time.DateTime
 import org.joda.time.DateTimeConstants
 import org.joda.time.LocalDateTime

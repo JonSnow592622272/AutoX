@@ -7,7 +7,7 @@ plugins {
     id("kotlin-android-extensions")
 }
 
-val propFile: File = File("E:/资料/jks/autojs-inrt/sign.properties");
+val propFile: File = File("E:/资料/jks/automyjsa-inrt/sign.properties");
 val properties = Properties()
 if (propFile.exists()) {
     propFile.reader().use {
@@ -19,7 +19,7 @@ android {
     buildToolsVersion = versions.buildTool
     compileSdk = versions.compile
     defaultConfig {
-        applicationId = "org.autojs.autoxjs.inrt"
+        applicationId = "org.automyjsa.automyjsx.inrt"
         minSdk = versions.mini
         targetSdk = versions.target
         versionCode = versions.appVersionCode
@@ -216,7 +216,7 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     implementation(project(":automator"))
     implementation(project(":common"))
-    implementation(project(":autojs"))
+    implementation(project(":automyjsa"))
     implementation("androidx.multidex:multidex:2.0.1")
     api(fileTree("../app/libs") { include("dx.jar", "rhino-1.7.14-jdk7.jar") })
 }

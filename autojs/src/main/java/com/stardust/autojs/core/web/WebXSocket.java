@@ -1,10 +1,10 @@
-package com.stardust.autojs.core.web;
+package com.stardust.automyjsa.core.web;
 
 import androidx.annotation.NonNull;
 
-import com.stardust.autojs.core.eventloop.EventEmitter;
-import com.stardust.autojs.runtime.ScriptBridges;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.core.eventloop.EventEmitter;
+import com.stardust.automyjsa.runtime.ScriptBridges;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 
 import okhttp3.OkHttpClient;
 import okhttp3.Request;

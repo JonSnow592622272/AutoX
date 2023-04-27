@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.app.Activity;
 import android.content.Context;
@@ -17,17 +17,17 @@ import androidx.annotation.RequiresApi;
 import android.util.Base64;
 import android.view.Gravity;
 
-import com.stardust.autojs.annotation.ScriptVariable;
-import com.stardust.autojs.core.image.ColorFinder;
-import com.stardust.autojs.core.image.ImageWrapper;
-import com.stardust.autojs.core.image.TemplateMatching;
-import com.stardust.autojs.core.image.capture.ScreenCaptureRequester;
-import com.stardust.autojs.core.image.capture.ScreenCapturer;
-import com.stardust.autojs.core.opencv.Mat;
-import com.stardust.autojs.core.opencv.OpenCVHelper;
-import com.stardust.autojs.core.ui.inflater.util.Drawables;
-import com.stardust.autojs.core.util.ScriptPromiseAdapter;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.annotation.ScriptVariable;
+import com.stardust.automyjsa.core.image.ColorFinder;
+import com.stardust.automyjsa.core.image.ImageWrapper;
+import com.stardust.automyjsa.core.image.TemplateMatching;
+import com.stardust.automyjsa.core.image.capture.ScreenCaptureRequester;
+import com.stardust.automyjsa.core.image.capture.ScreenCapturer;
+import com.stardust.automyjsa.core.opencv.Mat;
+import com.stardust.automyjsa.core.opencv.OpenCVHelper;
+import com.stardust.automyjsa.core.ui.inflater.util.Drawables;
+import com.stardust.automyjsa.core.util.ScriptPromiseAdapter;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.concurrent.VolatileDispose;
 import com.stardust.pio.UncheckedIOException;
 import com.stardust.util.ScreenMetrics;

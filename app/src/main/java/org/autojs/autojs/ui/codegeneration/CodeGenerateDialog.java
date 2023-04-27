@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.codegeneration;
+package org.automyjsa.automyjsa.ui.codegeneration;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
@@ -17,10 +17,10 @@ import com.bignerdranch.expandablerecyclerview.ExpandableRecyclerAdapter;
 import com.bignerdranch.expandablerecyclerview.ParentViewHolder;
 import com.bignerdranch.expandablerecyclerview.model.Parent;
 import com.stardust.app.DialogUtils;
-import com.stardust.autojs.codegeneration.CodeGenerator;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.widget.CheckBoxCompat;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import com.stardust.automyjsa.codegeneration.CodeGenerator;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.widget.CheckBoxCompat;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 import com.stardust.theme.util.ListBuilder;
 import com.stardust.util.ClipboardUtil;
 import com.stardust.view.accessibility.NodeInfo;

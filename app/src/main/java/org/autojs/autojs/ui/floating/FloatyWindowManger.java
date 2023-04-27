@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.floating;
+package org.automyjsa.automyjsa.ui.floating;
 
 import android.content.Context;
 import android.content.Intent;
@@ -6,15 +6,15 @@ import android.os.Build;
 import android.view.WindowManager;
 
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.util.FloatingPermission;
+import com.stardust.automyjsa.util.FloatingPermission;
 import com.stardust.enhancedfloaty.FloatyService;
 import com.stardust.enhancedfloaty.FloatyWindow;
 
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 import java.lang.ref.WeakReference;
 
-import static com.stardust.autojs.util.FloatingPermission.manageDrawOverlays;
+import static com.stardust.automyjsa.util.FloatingPermission.manageDrawOverlays;
 
 /**
  * Created by Stardust on 2017/9/30.
@@ -30,7 +30,7 @@ public class FloatyWindowManger {
         try {
             FloatyService.addWindow(window);
             return true;
-            // SecurityException: https://github.com/hyb1996-guest/AutoJsIssueReport/issues/4781
+            // SecurityException: https://github.com/hyb1996-guest/AutomyjsaIssueReport/issues/4781
         } catch (Exception e) {
             e.printStackTrace();
             if (hasPermission) {

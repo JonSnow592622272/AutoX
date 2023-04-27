@@ -37,7 +37,7 @@
   <string name="github">የሶፍትዌር ምንጭ ኮድ</string>
   <string name="text_already_copy_to_clip">ወደ ቅንጥብ ሰሌዳ ተቀድቷል።</string>
   <string name="text_qq_already_copy_to_clip">የQQ ቡድን ቁጥሩ ወደ ቅንጥብ ሰሌዳው ተቀድቷል።</string>
-  <string name="share_app">[Autox.js] አውርድ አድራሻ፡ https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] አውርድ አድራሻ፡ https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">ተንሳፋፊ መስኮት</string>
   <string name="text_error_report">የስህተት ሪፖርት</string>
   <string name="text_press_again_to_exit">ከፕሮግራሙ ለመውጣት እንደገና ይጫኑ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">ማስመጣት ተሳክቷል።</string>
   <string name="text_current_activity">የአሁኑ እንቅስቃሴ፡-</string>
   <string name="text_current_package">የአሁኑ የመተግበሪያ ጥቅል ስም፡-</string>
-  <string name="go_to_accessibility_settings">እባክህ Settings->የተደራሽነት አገልግሎቶች->Autox.jsን ክፈትና አንቃው።</string>
+  <string name="go_to_accessibility_settings">እባክህ Settings->የተደራሽነት አገልግሎቶች->Automyjsx.jsን ክፈትና አንቃው።</string>
   <string name="text_script_running">ስክሪፕት አሂድ</string>
   <string name="text_use_volume_to_stop_running">የድምጽ መጨመሪያ ቁልፍ ሁሉንም ስክሪፕቶች ያቆማል</string>
   <string name="text_need_to_enable_accessibility_service">የተደራሽነት አገልግሎቶች መንቃት አለባቸው</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">ምንም የማዋቀር ፋይል የለም</string>
   <string name="text_foreground_service">መቀበያ</string>
   <string name="foreground_notification_channel_name">የፊት ጠረጴዛ አገልግሎት ማሳወቂያ</string>
-  <string name="foreground_notification_title">Autox.js መስራቱን ቀጥሏል።</string>
+  <string name="foreground_notification_title">Automyjsx.js መስራቱን ቀጥሏል።</string>
   <string name="foreground_notification_text">ወደ ዋናው በይነገጽ ለመግባት ጠቅ ያድርጉ</string>
   <string name="text_run_on_other_broadcast">ሌሎች ክስተቶች (ስርጭት)</string>
   <string name="text_broadcast_action">የስርጭት እርምጃ</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">ፕሮጀክቱ ወደ %s ተቀምጧል</string>
   <string name="text_project_save_error">የፕሮጀክት ቁጠባ %s አልተሳካም።</string>
   <string name="text_night_mode">የምሽት ሁነታ</string>
-  <string name="text_run_on_startup">Autox.js ሲጀምር</string>
+  <string name="text_run_on_startup">Automyjsx.js ሲጀምር</string>
   <string name="text_usage_stats_permission">የአጠቃቀም መዳረሻ</string>
   <string name="description_usage_stats_permission">በ \"ዕይታ አጠቃቀም ስታቲስቲክስ\" ፈቃድ አማካኝነት የአሁኑን መተግበሪያ (የአሁኑ ፓኬጅ) ማግኘት የበለጠ ትክክለኛ እንዲሆን የዚህን መሣሪያ ያለፈውን የመተግበሪያ አጠቃቀም ማግኘት ይችላሉ።</string>
   <string name="text_open_with">ክፍት መንገድ</string>

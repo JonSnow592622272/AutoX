@@ -1,5 +1,5 @@
 // filename: CallbackBundle.java
-package org.autojs.autojs.ui.widget;
+package org.automyjsa.automyjsa.ui.widget;
 
 import android.os.Bundle;
 

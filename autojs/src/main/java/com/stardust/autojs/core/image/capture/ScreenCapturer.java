@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.image.capture;
+package com.stardust.automyjsa.core.image.capture;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -21,8 +21,8 @@ import android.view.OrientationEventListener;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
-import com.stardust.autojs.runtime.exception.ScriptException;
-import com.stardust.autojs.runtime.exception.ScriptInterruptedException;
+import com.stardust.automyjsa.runtime.exception.ScriptException;
+import com.stardust.automyjsa.runtime.exception.ScriptInterruptedException;
 import com.stardust.lang.ThreadCompat;
 import com.stardust.util.ScreenMetrics;
 
@@ -31,7 +31,7 @@ import java.util.concurrent.atomic.AtomicReference;
 /**
  * Created by Stardust on 2017/5/17.
  * Improvedd by TonyJiangWJ(https://github.com/TonyJiangWJ).
- * From [TonyJiangWJ/Auto.js](https://github.com/TonyJiangWJ/Auto.js)
+ * From [TonyJiangWJ/Automyjsa.js](https://github.com/TonyJiangWJ/Automyjsa.js)
  */
 
 @RequiresApi(Build.VERSION_CODES.LOLLIPOP)

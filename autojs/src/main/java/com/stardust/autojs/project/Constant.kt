@@ -1,4 +1,4 @@
-package com.stardust.autojs.project
+package com.stardust.automyjsa.project
 
 /**
  * @author wilinz
@@ -55,6 +55,6 @@ object Constant {
 
     object ResourceId {
         const val LAUNCHER_ICON = "ic_launcher"
-        const val SPLASH_ICON = "autojs_logo"
+        const val SPLASH_ICON = "automyjsa_logo"
     }
 }

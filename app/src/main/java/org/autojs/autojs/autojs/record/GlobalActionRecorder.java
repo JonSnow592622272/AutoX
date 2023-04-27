@@ -1,4 +1,4 @@
-package org.autojs.autojs.autojs.record;
+package org.automyjsa.automyjsa.automyjsa.record;
 
 import android.content.Context;
 import android.os.Looper;
@@ -7,15 +7,15 @@ import android.widget.Toast;
 
 import com.stardust.app.DialogUtils;
 import com.stardust.app.GlobalAppContext;
-import com.stardust.autojs.core.record.Recorder;
-import com.stardust.autojs.core.record.inputevent.InputEventRecorder;
-import com.stardust.autojs.core.record.inputevent.InputEventToAutoFileRecorder;
-import com.stardust.autojs.core.record.inputevent.InputEventToRootAutomatorRecorder;
-import com.stardust.autojs.core.record.inputevent.TouchRecorder;
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.common.ScriptOperations;
-import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
+import com.stardust.automyjsa.core.record.Recorder;
+import com.stardust.automyjsa.core.record.inputevent.InputEventRecorder;
+import com.stardust.automyjsa.core.record.inputevent.InputEventToAutoFileRecorder;
+import com.stardust.automyjsa.core.record.inputevent.InputEventToRootAutomatorRecorder;
+import com.stardust.automyjsa.core.record.inputevent.TouchRecorder;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.common.ScriptOperations;
+import org.automyjsa.automyjsa.theme.dialog.ThemeColorMaterialDialogBuilder;
 import com.stardust.util.ClipboardUtil;
 
 

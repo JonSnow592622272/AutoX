@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.looper;
+package com.stardust.automyjsa.core.looper;
 
 import android.os.Looper;
 

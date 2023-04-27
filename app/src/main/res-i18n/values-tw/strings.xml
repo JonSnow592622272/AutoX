@@ -37,7 +37,7 @@
   <string name="github">Softwea no fibea koodu</string>
   <string name="text_already_copy_to_clip">Wɔayɛ no kɔpi wɔ clipboard so</string>
   <string name="text_qq_already_copy_to_clip">Wɔayɛ QQ kuw nɔma no ho mfonini akɔ clipboard no so</string>
-  <string name="share_app">[Autox.js] Twe address: https://github.com/kkevsekk1/AutoX/a wɔayi no adi</string>
+  <string name="share_app">[Automyjsx.js] Twe address: https://github.com/kkevsekk1/Automyjsx/a wɔayi no adi</string>
   <string name="text_floating_window">Mfɛnsere a ɛsensɛn nsu so</string>
   <string name="text_error_report">Mfomso ho amanneɛbɔ</string>
   <string name="text_press_again_to_exit">Mia so bio na fi dwumadi no mu</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import a ɛyɛ yiye</string>
   <string name="text_current_activity">Dwumadi a ɛrekɔ so mprempren:</string>
   <string name="text_current_package">Mprempren application package din:</string>
-  <string name="go_to_accessibility_settings">Yɛsrɛ wo bue Settings->Accessibility Services->Autox.js na ma ɛnyɛ adwuma</string>
+  <string name="go_to_accessibility_settings">Yɛsrɛ wo bue Settings->Accessibility Services->Automyjsx.js na ma ɛnyɛ adwuma</string>
   <string name="text_script_running">Script no tu mmirika</string>
   <string name="text_use_volume_to_stop_running">Volume up key no gyae script ahorow no nyinaa</string>
   <string name="text_need_to_enable_accessibility_service">Ɛsɛ sɛ wɔma akwan a wɔfa so nya nneɛma no yɛ adwuma</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nhyehyɛe fael biara nni hɔ</string>
   <string name="text_foreground_service">Ɔgyeɛ</string>
   <string name="foreground_notification_channel_name">Front desk som ho amanneɛbɔ</string>
-  <string name="foreground_notification_title">Autox.js kɔ so yɛ adwuma</string>
+  <string name="foreground_notification_title">Automyjsx.js kɔ so yɛ adwuma</string>
   <string name="foreground_notification_text">Klik so na hyɛ interface titiriw no mu</string>
   <string name="text_run_on_other_broadcast">Nsɛm afoforo a esisi (a wɔbɔ ho dawuru) .</string>
   <string name="text_broadcast_action">Broadcast Adeyɛ</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Wɔakora adwuma no so wɔ %s</string>
   <string name="text_project_save_error">Project save no adi nkogu %s</string>
   <string name="text_night_mode">Anadwo mode</string>
-  <string name="text_run_on_startup">Bere a Autox.js fi ase no</string>
+  <string name="text_run_on_startup">Bere a Automyjsx.js fi ase no</string>
   <string name="text_usage_stats_permission">Dwumadie ho kwan</string>
   <string name="description_usage_stats_permission">Ɛnam \"hwɛ dwumadie akontabuo\" kwan no so no, wobɛtumi anya aplikeshɔn dwumadie a atwam a ɛwɔ saa afiri yi mu, sɛdeɛ ɛbɛyɛ a ɛbɛyɛ pɛpɛɛpɛ sɛ wobɛnya aplikeshɔn a ɛwɔ hɔ seesei (currentPackage).</string>
   <string name="text_open_with">Kwan a wɔabue ano</string>

@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.database;
+package com.stardust.automyjsa.core.database;
 
 import android.database.Cursor;
 

@@ -37,7 +37,7 @@
   <string name="github">Frumkóða hugbúnaðar</string>
   <string name="text_already_copy_to_clip">Afritað á klemmuspjald</string>
   <string name="text_qq_already_copy_to_clip">QQ hópnúmerið hefur verið afritað á klemmuspjaldið</string>
-  <string name="share_app">[Autox.js] Heimilisfang niðurhals: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Heimilisfang niðurhals: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Fljótandi gluggi</string>
   <string name="text_error_report">Villuskýrslu</string>
   <string name="text_press_again_to_exit">Ýttu aftur til að hætta forritinu</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Innflutningur tókst</string>
   <string name="text_current_activity">Núverandi virkni:</string>
   <string name="text_current_package">Núverandi nafn umsóknarpakka:</string>
-  <string name="go_to_accessibility_settings">Vinsamlegast opnaðu Stillingar->Aðgengisþjónusta->Autox.js og virkjaðu það</string>
+  <string name="go_to_accessibility_settings">Vinsamlegast opnaðu Stillingar->Aðgengisþjónusta->Automyjsx.js og virkjaðu það</string>
   <string name="text_script_running">Script keyrt</string>
   <string name="text_use_volume_to_stop_running">Hljóðstyrkslykill stöðvar allar forskriftir</string>
   <string name="text_need_to_enable_accessibility_service">Það þarf að virkja aðgengisþjónustu</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Engin stillingarskrá</string>
   <string name="text_foreground_service">Móttaka</string>
   <string name="foreground_notification_channel_name">Tilkynning um þjónustu í móttöku</string>
-  <string name="foreground_notification_title">Autox.js heldur áfram að keyra</string>
+  <string name="foreground_notification_title">Automyjsx.js heldur áfram að keyra</string>
   <string name="foreground_notification_text">Smelltu til að fara inn í aðalviðmótið</string>
   <string name="text_run_on_other_broadcast">Aðrir viðburðir (útsending)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Verkefnið hefur verið vistað í %s</string>
   <string name="text_project_save_error">Verkefnavistun mistókst %s</string>
   <string name="text_night_mode">Næturstillingu</string>
-  <string name="text_run_on_startup">Þegar Autox.js byrjar</string>
+  <string name="text_run_on_startup">Þegar Automyjsx.js byrjar</string>
   <string name="text_usage_stats_permission">Notkunaraðgangur</string>
   <string name="description_usage_stats_permission">Með leyfinu „skoða notkunartölfræði“ geturðu fengið fyrri notkunarnotkun þessa tækis, svo að það sé nákvæmara að fá núverandi forrit (currentPackage).</string>
   <string name="text_open_with">Opinn leið</string>

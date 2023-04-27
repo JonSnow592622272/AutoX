@@ -37,7 +37,7 @@
   <string name="github">Koodii madda sooftiweerii</string>
   <string name="text_already_copy_to_clip">Gara gabatee muraatti waraabame</string>
   <string name="text_qq_already_copy_to_clip">Lakkoofsi garee QQ gara gabatee muraatti waraabameera</string>
-  <string name="share_app">[Autox.js] Teessoo buufachuuf: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Teessoo buufachuuf: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Foddaa lola\'aa</string>
   <string name="text_error_report">Gabaasa dogoggoraa</string>
   <string name="text_press_again_to_exit">Sagantaa keessaa ba\'uuf ammas dhiibi</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import milkaa\'e</string>
   <string name="text_current_activity">Sochii yeroo ammaa:</string>
   <string name="text_current_package">Maqaa paakeejii aplikeeshinii ammaa:</string>
-  <string name="go_to_accessibility_settings">Mee Settings->Accessibility Services->Autox.js banaatii dandeessisaa</string>
+  <string name="go_to_accessibility_settings">Mee Settings->Accessibility Services->Automyjsx.js banaatii dandeessisaa</string>
   <string name="text_script_running">Iskiriiptii fiigicha</string>
   <string name="text_use_volume_to_stop_running">Furtuun sagalee ol kaasu iskiriiptii hunda dhaaba</string>
   <string name="text_need_to_enable_accessibility_service">Tajaajilli dhaqqabummaa dandeessisuun barbaachisaadha</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Faayilii qindeessaa hin qabu</string>
   <string name="text_foreground_service">Simannaa</string>
   <string name="foreground_notification_channel_name">Beeksisa tajaajila fuulduraa</string>
-  <string name="foreground_notification_title">Autox.js hojjechuu itti fufa</string>
+  <string name="foreground_notification_title">Automyjsx.js hojjechuu itti fufa</string>
   <string name="foreground_notification_text">Interface guddaa galchuuf cuqaasi</string>
   <string name="text_run_on_other_broadcast">Taateewwan biroo (tamsaasa) .</string>
   <string name="text_broadcast_action">Tarkaanfii Tamsaasaa</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Pirojektiin gara %s tti qusatameera</string>
   <string name="text_project_save_error">Qusannaan pirojektii %s hin milkoofne</string>
   <string name="text_night_mode">Haala halkanii</string>
-  <string name="text_run_on_startup">Yeroo Autox.js jalqabu</string>
+  <string name="text_run_on_startup">Yeroo Automyjsx.js jalqabu</string>
   <string name="text_usage_stats_permission">Itti fayyadama qaqqabummaa</string>
   <string name="description_usage_stats_permission">Karaa hayyama \"istaatiksii fayyadama ilaalchaa\", fayyadama aplikeeshinii darbe meeshaa kanaa argachuu dandeessa, akka aplikeeshinii ammaa (currentPackage) argachuuf caalaatti sirrii ta\'uuf.</string>
   <string name="text_open_with">Karaa banaa ta’e</string>

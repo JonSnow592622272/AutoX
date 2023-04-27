@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.xml;
+package com.stardust.automyjsa.core.ui.xml;
 
 import android.util.Log;
 

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Nid yw monitro ystumiau wedi\'i alluogi, galluogwch ef mewn gosodiadau meddalwedd</string>
   <string name="no_write_settings_permissin">Dim caniatâd i addasu gosodiadau system</string>
   <string name="exception_notification_service_disabled">Nid yw\'r gwasanaeth hysbysu yn rhedeg, a wnewch chi ail-alluogi caniatâd hysbysu</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Mae angen rhif fersiwn Auto.js %d neu uwch ar y sgript hon i redeg</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Mae angen rhif fersiwn Automyjsa.js %d neu uwch ar y sgript hon i redeg</string>
   <string name="text_drawer_open">Agorwch y gwymplen</string>
   <string name="text_drawer_close">Caewch y gwymplen</string>
   <string name="no_read_phone_state_permissin">Dim caniatâd i ddarllen gwybodaeth dyfais</string>

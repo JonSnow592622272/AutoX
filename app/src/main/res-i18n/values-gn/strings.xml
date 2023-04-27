@@ -37,7 +37,7 @@
   <string name="github">Software código fuente rehegua</string>
   <string name="text_already_copy_to_clip">Ojekopia portapapeles-pe</string>
   <string name="text_qq_already_copy_to_clip">Pe QQ aty papapy ojekopia porapapeles-pe</string>
-  <string name="share_app">[Autox.js] Ñemboguejyha renda: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Ñemboguejyha renda: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Ventana otyryrýva</string>
   <string name="text_error_report">Marandu jejavy rehegua</string>
   <string name="text_press_again_to_exit">Emboguejy jey resẽ hag̃ua pe prográmagui</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Importación osẽ porãva</string>
   <string name="text_current_activity">Tembiapo ko’áĝagua:</string>
   <string name="text_current_package">Ko’áĝagua purupyrã paquete réra:</string>
-  <string name="go_to_accessibility_settings">Eipe’a Ñemboheko->Servicios de Accesibilidad->Autox.js ha emboguata</string>
+  <string name="go_to_accessibility_settings">Eipe’a Ñemboheko->Servicios de Accesibilidad->Automyjsx.js ha emboguata</string>
   <string name="text_script_running">Script ñemboguata</string>
   <string name="text_use_volume_to_stop_running">Tecla volumen ojupíva ojoko opaite script</string>
   <string name="text_need_to_enable_accessibility_service">Tekotevê oñemboguata umi servicio de accesibilidad</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ndaipóri vore configuración rehegua</string>
   <string name="text_foreground_service">Mog̃uahẽ</string>
   <string name="foreground_notification_channel_name">Marandu servicio de recepción rehegua</string>
-  <string name="foreground_notification_title">Autox.js oñemboguata meme</string>
+  <string name="foreground_notification_title">Automyjsx.js oñemboguata meme</string>
   <string name="foreground_notification_text">Emboguejy reike hag̃ua interfaz principal-pe</string>
   <string name="text_run_on_other_broadcast">Ambue mba’e ojehúva (transmisión) .</string>
   <string name="text_broadcast_action">Acción de Difusión rehegua</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Proyecto oñeñongatu %s -pe</string>
   <string name="text_project_save_error">Proyecto ñeñongatu ndoikói %s</string>
   <string name="text_night_mode">Modo pyhare rehegua</string>
-  <string name="text_run_on_startup">Oñepyrũvo Autox.js</string>
+  <string name="text_run_on_startup">Oñepyrũvo Automyjsx.js</string>
   <string name="text_usage_stats_permission">Jeporu jeike rehegua</string>
   <string name="description_usage_stats_permission">\"Ehecha jepuru estadística\" permiso rupive, ikatu rehupyty ko tembipuru purupyrã jepuru ohasavaꞌekue, ikatu hag̃uáicha hekopeteve ojehupyty hag̃ua purupyrã koꞌag̃agua (currentPackage).</string>
   <string name="text_open_with">Tape ojepe’áva</string>

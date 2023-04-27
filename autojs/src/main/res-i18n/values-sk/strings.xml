@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Monitorovanie gest nie je povolené, povoľte ho v nastaveniach softvéru</string>
   <string name="no_write_settings_permissin">Žiadne povolenie na úpravu systémových nastavení</string>
   <string name="exception_notification_service_disabled">Služba upozornení nie je spustená, znova povoľte povolenie na upozornenia</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tento skript vyžaduje na spustenie verziu Auto.js %d alebo vyššiu</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Tento skript vyžaduje na spustenie verziu Automyjsa.js %d alebo vyššiu</string>
   <string name="text_drawer_open">Otvorte rozbaľovaciu ponuku</string>
   <string name="text_drawer_close">Zatvorte rozbaľovaciu ponuku</string>
   <string name="no_read_phone_state_permissin">Žiadne povolenie na čítanie informácií o zariadení</string>

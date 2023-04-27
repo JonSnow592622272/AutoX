@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">சைகை கண்காணிப்பு இயக்கப்படவில்லை, மென்பொருள் அமைப்புகளில் அதை இயக்கவும்</string>
   <string name="no_write_settings_permissin">கணினி அமைப்புகளை மாற்ற அனுமதி இல்லை</string>
   <string name="exception_notification_service_disabled">அறிவிப்புச் சேவை இயங்கவில்லை, அறிவிப்பு அனுமதியை மீண்டும் இயக்கவும்</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">இந்த ஸ்கிரிப்டை இயக்க, Auto.js பதிப்பு எண் %d அல்லது அதற்கு மேற்பட்டது தேவை</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">இந்த ஸ்கிரிப்டை இயக்க, Automyjsa.js பதிப்பு எண் %d அல்லது அதற்கு மேற்பட்டது தேவை</string>
   <string name="text_drawer_open">கீழ்தோன்றும் மெனுவைத் திறக்கவும்</string>
   <string name="text_drawer_close">கீழ்தோன்றும் மெனுவை மூடு</string>
   <string name="no_read_phone_state_permissin">சாதனத் தகவலைப் படிக்க அனுமதி இல்லை</string>

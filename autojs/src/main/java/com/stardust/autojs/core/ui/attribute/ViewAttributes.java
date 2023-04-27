@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.attribute;
+package com.stardust.automyjsa.core.ui.attribute;
 
 import android.annotation.SuppressLint;
 import android.content.res.ColorStateList;
@@ -15,13 +15,13 @@ import android.widget.CompoundButton;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-import com.stardust.autojs.core.internal.Functions;
-import com.stardust.autojs.core.ui.inflater.ResourceParser;
-import com.stardust.autojs.core.ui.inflater.util.Dimensions;
-import com.stardust.autojs.core.ui.inflater.util.Drawables;
-import com.stardust.autojs.core.ui.inflater.util.Gravities;
-import com.stardust.autojs.core.ui.inflater.util.Ids;
-import com.stardust.autojs.core.ui.inflater.util.Strings;
+import com.stardust.automyjsa.core.internal.Functions;
+import com.stardust.automyjsa.core.ui.inflater.ResourceParser;
+import com.stardust.automyjsa.core.ui.inflater.util.Dimensions;
+import com.stardust.automyjsa.core.ui.inflater.util.Drawables;
+import com.stardust.automyjsa.core.ui.inflater.util.Gravities;
+import com.stardust.automyjsa.core.ui.inflater.util.Ids;
+import com.stardust.automyjsa.core.ui.inflater.util.Strings;
 import com.stardust.util.BiMap;
 
 import java.lang.reflect.Field;
@@ -29,15 +29,15 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.DRAWABLE_CACHE_QUALITIES;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.IMPORTANT_FOR_ACCESSIBILITY;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.LAYOUT_DIRECTIONS;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.SCROLLBARS_STYLES;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.SCROLL_INDICATORS;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.TEXT_ALIGNMENTS;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.TEXT_DIRECTIONS;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.TINT_MODES;
-import static com.stardust.autojs.core.ui.inflater.inflaters.BaseViewInflater.VISIBILITY;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.DRAWABLE_CACHE_QUALITIES;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.IMPORTANT_FOR_ACCESSIBILITY;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.LAYOUT_DIRECTIONS;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.SCROLLBARS_STYLES;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.SCROLL_INDICATORS;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.TEXT_ALIGNMENTS;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.TEXT_DIRECTIONS;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.TINT_MODES;
+import static com.stardust.automyjsa.core.ui.inflater.inflaters.BaseViewInflater.VISIBILITY;
 
 public class ViewAttributes {
 

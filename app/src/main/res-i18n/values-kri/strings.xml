@@ -37,7 +37,7 @@
   <string name="github">Softwea sɔs kɔd</string>
   <string name="text_already_copy_to_clip">Dɛn dɔn kɔpi am na klipbɔd</string>
   <string name="text_qq_already_copy_to_clip">Di QQ grup nɔmba dɔn kɔpi na di klipbɔd</string>
-  <string name="share_app">[Autox.js] Daunlod adrɛs: https://github.com/kkevsekk1/AutoX/rilis dɛn</string>
+  <string name="share_app">[Automyjsx.js] Daunlod adrɛs: https://github.com/kkevsekk1/Automyjsx/rilis dɛn</string>
   <string name="text_floating_window">Winda we de flɔt</string>
   <string name="text_error_report">Ripɔt bɔt mistek</string>
   <string name="text_press_again_to_exit">Pres bak fɔ kɔmɔt na di program</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Impɔt saksesful</string>
   <string name="text_current_activity">Di tin dɛn we dɛn de du naw:</string>
   <string name="text_current_package">Di nem fɔ di aplikeshɔn pakej we de naw:</string>
-  <string name="go_to_accessibility_settings">Duya opin Sɛtin->Aksesibiliti Savis->Autox.js ɛn ɛnabul am</string>
+  <string name="go_to_accessibility_settings">Duya opin Sɛtin->Aksesibiliti Savis->Automyjsx.js ɛn ɛnabul am</string>
   <string name="text_script_running">Skript de rɔn</string>
   <string name="text_use_volume_to_stop_running">Volume up key de stɔp ɔl di skript dɛn</string>
   <string name="text_need_to_enable_accessibility_service">Aksesibiliti savis dɛn nid fɔ ɛnabul</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Nɔ kɔnfigyushɔn fayl</string>
   <string name="text_foreground_service">Risɛpshɔn</string>
   <string name="foreground_notification_channel_name">Frɔnt dɛsk savis notis</string>
-  <string name="foreground_notification_title">Autox.js de kip de rɔn</string>
+  <string name="foreground_notification_title">Automyjsx.js de kip de rɔn</string>
   <string name="foreground_notification_text">Klik fɔ go insay di men intafays</string>
   <string name="text_run_on_other_broadcast">Ɔda tin dɛn we kin apin (brodkas) .</string>
   <string name="text_broadcast_action">Brodkas Akshɔn</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Projekt dɔn sev to %s</string>
   <string name="text_project_save_error">Projekt sev nɔ wok %s</string>
   <string name="text_night_mode">Nɛt mɔd</string>
-  <string name="text_run_on_startup">We Autox.js bigin</string>
+  <string name="text_run_on_startup">We Automyjsx.js bigin</string>
   <string name="text_usage_stats_permission">Yuz akses</string>
   <string name="description_usage_stats_permission">Tru di \"view usage statistics\" permishɔn, yu kin gɛt di past aplikeshɔn yuz fɔ dis divays, so dat i go kɔrɛkt fɔ gɛt di aplikeshɔn we de naw (currentPackage).</string>
   <string name="text_open_with">Opin we</string>

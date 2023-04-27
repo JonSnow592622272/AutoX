@@ -1,19 +1,19 @@
 # Change Log
-autoxjs 整个项目的一些更新日志,双版本号为稳定版，单版本号为激进版本。
+automyjsx 整个项目的一些更新日志,双版本号为稳定版，单版本号为激进版本。
 
-## [Unreleased](https://github.com/kkevsekk1/AutoX/compare/6.3.5...HEAD) 未发布
+## [Unreleased](https://github.com/kkevsekk1/Automyjsx/compare/6.3.5...HEAD) 未发布
 
 ## [6.3.6] - 2023-1-8
 
 @gucong3000 调整如下内容
 1.将console打印Error对象时的行为，调整为与Chrome和Node.js等平台保持一致，打印堆栈信息。
 
-[6.3.6]:https://github.com/kkevsekk1/AutoX/compare/6.3.5...6.3.6
+[6.3.6]:https://github.com/kkevsekk1/Automyjsx/compare/6.3.5...6.3.6
 
 下载地址： \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.6/app-v6-arm64-v8a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.6/app-v6-armeabi-v7a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.6/app-v6-universal-release-unsigned-signed.apk
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.6/app-v6-arm64-v8a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.6/app-v6-armeabi-v7a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.6/app-v6-universal-release-unsigned-signed.apk
 
 
 ## [6.3.5] - 2022-9-28
@@ -23,43 +23,43 @@ autoxjs 整个项目的一些更新日志,双版本号为稳定版，单版本�
 1. 修复 PC端日志输出先后顺序有问题
 2. 其他js等实例脚本问题
 
-[6.3.5]:https://github.com/kkevsekk1/AutoX/compare/6.3.4...6.3.5
+[6.3.5]:https://github.com/kkevsekk1/Automyjsx/compare/6.3.4...6.3.5
 
  下载地址： \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.5/app-v6-arm64-v8a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.5/app-v6-armeabi-v7a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.5/app-v6-universal-release-unsigned-signed.apk
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.5/app-v6-arm64-v8a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.5/app-v6-armeabi-v7a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.5/app-v6-universal-release-unsigned-signed.apk
 
 ## [6.3.4] - 2022-9-4
 
-1. [更新paddle api并向后兼容](https://github.com/wilinz/AutoX/commit/5fae0643a563b69c7691f55ee3e3ec2771a656e3)
+1. [更新paddle api并向后兼容](https://github.com/wilinz/Automyjsx/commit/5fae0643a563b69c7691f55ee3e3ec2771a656e3)
 2. 添加Google ML kIT OCR API
-3. [修复toast bug](https://github.com/wilinz/AutoX/commit/ea1e7663af7069a3750b64cd838d0148a7dae9b9)
-4. [迁移到 kotlin build.gradle](https://github.com/wilinz/AutoX/commit/fc6d740afe1004bc4cd68dcb814afc52e5dba419)
+3. [修复toast bug](https://github.com/wilinz/Automyjsx/commit/ea1e7663af7069a3750b64cd838d0148a7dae9b9)
+4. [迁移到 kotlin build.gradle](https://github.com/wilinz/Automyjsx/commit/fc6d740afe1004bc4cd68dcb814afc52e5dba419)
 5. 修复打包BUG
 
 下载地址： \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.4/app-v6-arm64-v8a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.4/app-v6-armeabi-v7a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.4/app-v6-universal-release-unsigned-signed.apk 
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.4/app-v6-arm64-v8a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.4/app-v6-armeabi-v7a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.4/app-v6-universal-release-unsigned-signed.apk 
 
-[6.3.4]:https://github.com/kkevsekk1/AutoX/compare/6.2.3...6.3.4
+[6.3.4]:https://github.com/kkevsekk1/Automyjsx/compare/6.2.3...6.3.4
 
 
 ## [6.3.3] - 2022-8-25
 
-*  apk 使用cdn加速,地址格式：http://autoxoss.autoxjs.com/autoxjs/{版本号}/xxx.apk 
+*  apk 使用cdn加速,地址格式：http://automyjsxoss.automyjsx.com/automyjsx/{版本号}/xxx.apk 
 *  apk发布oss
 *  根据changelog自动发布release note
 *  增加版本之间的比较 点击版本号
 *  workflow 不好使 跳跃了基本版本
 
 下载地址： \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.3/app-v6-arm64-v8a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.3/app-v6-armeabi-v7a-release-unsigned-signed.apk \
-  http://autoxoss.autoxjs.com/autoxjs/6.3.3/app-v6-universal-release-unsigned-signed.apk 
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.3/app-v6-arm64-v8a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.3/app-v6-armeabi-v7a-release-unsigned-signed.apk \
+  http://automyjsxoss.automyjsx.com/automyjsx/6.3.3/app-v6-universal-release-unsigned-signed.apk 
 
-[6.3.3]:https://github.com/kkevsekk1/AutoX/compare/6.2.9...6.3.3
+[6.3.3]:https://github.com/kkevsekk1/Automyjsx/compare/6.2.9...6.3.3
 
 
 ## [6.2.9] - 2022-8-22
@@ -67,71 +67,71 @@ autoxjs 整个项目的一些更新日志,双版本号为稳定版，单版本�
 @wilinz  调整如下功能
 
 
-1. [打包的APK日志页面增加 重新运行，停止运行，清除日志 3个按钮](https://github.com/wilinz/AutoX/commit/32541253d870d6b752b9c436ca6676f59638655d)
-2. [优化异步读取配置文件](https://github.com/wilinz/AutoX/commit/eca3c20ae32651fde526ef75f1cbd8c761999bd8)
-3. [连接电脑增加断线重连和心跳检测（需要更新VSCODE Autox 插件到 1.109.0 以上才会启用）](https://github.com/wilinz/AutoX/commit/a703977fcfdeda32b0d40424f7f3933f0a274a3c)
-4. [添加TessractOCR及例子](https://github.com/wilinz/AutoX/commit/1ab2345d01860b134b622d27cb3f8b7a9a14bbee)
-5. [远程项目临时文件夹改回MD5命名](https://github.com/wilinz/AutoX/commit/a654bdb727fb14997f6c696a077a8c094d3175ab)
-6. [修复 PFile.copyAssetDir() 空目录报错（打包后的APK闪退问题）](https://github.com/wilinz/AutoX/commit/0f6a7945729871fae160ad81d61c964ffb018e92) https://github.com/kkevsekk1/AutoX/issues/411
-7. [修复打包Bug & 优化](https://github.com/wilinz/AutoX/commit/81703d29b775ee11cbbe6e05a0fea2f85560f943)
+1. [打包的APK日志页面增加 重新运行，停止运行，清除日志 3个按钮](https://github.com/wilinz/Automyjsx/commit/32541253d870d6b752b9c436ca6676f59638655d)
+2. [优化异步读取配置文件](https://github.com/wilinz/Automyjsx/commit/eca3c20ae32651fde526ef75f1cbd8c761999bd8)
+3. [连接电脑增加断线重连和心跳检测（需要更新VSCODE Automyjsx 插件到 1.109.0 以上才会启用）](https://github.com/wilinz/Automyjsx/commit/a703977fcfdeda32b0d40424f7f3933f0a274a3c)
+4. [添加TessractOCR及例子](https://github.com/wilinz/Automyjsx/commit/1ab2345d01860b134b622d27cb3f8b7a9a14bbee)
+5. [远程项目临时文件夹改回MD5命名](https://github.com/wilinz/Automyjsx/commit/a654bdb727fb14997f6c696a077a8c094d3175ab)
+6. [修复 PFile.copyAssetDir() 空目录报错（打包后的APK闪退问题）](https://github.com/wilinz/Automyjsx/commit/0f6a7945729871fae160ad81d61c964ffb018e92) https://github.com/kkevsekk1/Automyjsx/issues/411
+7. [修复打包Bug & 优化](https://github.com/wilinz/Automyjsx/commit/81703d29b775ee11cbbe6e05a0fea2f85560f943)
 
-[6.2.9]:https://github.com/kkevsekk1/AutoX/compare/6.2.8...6.2.9
+[6.2.9]:https://github.com/kkevsekk1/Automyjsx/compare/6.2.8...6.2.9
 
 ## [6.2.8] - 2022-8-20
 
 @wilinz 调整如下功能
-1. [修复 “运行项目” 与 “保存项目” bug](https://github.com/wilinz/AutoX/commit/683d81eae440b53fbbd4ce57bccad1fb24124dd8)
-2. [修复打包完成之后某些ui样式失效 #397 ](https://github.com/wilinz/AutoX/commit/b118b11fd4d40bc477e0a35bf529ec0017b73964)
-3. [修复示例代码"表格控件-内置图标查看器"打包后不能正常运行BUG](https://github.com/wilinz/AutoX/commit/d72ef148cc6c258e33570125f54c756f5dfa1a3f)
-4. [修复打包的一些BUG（自定义签名BUG未修复，预计下版本修复）](https://github.com/wilinz/AutoX/commit/37762e5b4d9c6481d532094c1494c6960207b0a7)
-5. [优化ocr](https://github.com/wilinz/AutoX/commit/2724484a065d70a747653e3f1b4960e11319e239)
-6. [解决 Web注入 invoke 不指定回调方法就报错的bug](https://github.com/kkevsekk1/AutoX/commit/b7778cef2b5f0d0d875a4bf9c016092527668458)
+1. [修复 “运行项目” 与 “保存项目” bug](https://github.com/wilinz/Automyjsx/commit/683d81eae440b53fbbd4ce57bccad1fb24124dd8)
+2. [修复打包完成之后某些ui样式失效 #397 ](https://github.com/wilinz/Automyjsx/commit/b118b11fd4d40bc477e0a35bf529ec0017b73964)
+3. [修复示例代码"表格控件-内置图标查看器"打包后不能正常运行BUG](https://github.com/wilinz/Automyjsx/commit/d72ef148cc6c258e33570125f54c756f5dfa1a3f)
+4. [修复打包的一些BUG（自定义签名BUG未修复，预计下版本修复）](https://github.com/wilinz/Automyjsx/commit/37762e5b4d9c6481d532094c1494c6960207b0a7)
+5. [优化ocr](https://github.com/wilinz/Automyjsx/commit/2724484a065d70a747653e3f1b4960e11319e239)
+6. [解决 Web注入 invoke 不指定回调方法就报错的bug](https://github.com/kkevsekk1/Automyjsx/commit/b7778cef2b5f0d0d875a4bf9c016092527668458)
 @xxxxue 修复示例中的一些问题
 
-[6.2.8]:https://github.com/kkevsekk1/AutoX/compare/6.2.7...6.2.8
+[6.2.8]:https://github.com/kkevsekk1/Automyjsx/compare/6.2.7...6.2.8
 
 ## [6.2.7] - 2022-8-15
 
 @wilinz   调整如下功能：
 
-1. [修改优化OCR示例](https://github.com/wilinz/AutoX/commit/b07aa38770e3d4a832223625886939d094c98980)
-2. [优化打包后的Apk自动使用root权限开启无障碍服务](https://github.com/wilinz/AutoX/commit/1ab37c9e8fd8e635cfa5464bd9f4af94248f0ba2)
-3. [修复OCR BUG](https://github.com/wilinz/AutoX/commit/58f763f061f121c3eb47505a70eb8ee0fd111ebb)
-4. [修复打包BUG，打包编辑框自动填充BUG](https://github.com/wilinz/AutoX/commit/8031a8e9cc0e4d70429e7f067f15876f1d789b7e)
+1. [修改优化OCR示例](https://github.com/wilinz/Automyjsx/commit/b07aa38770e3d4a832223625886939d094c98980)
+2. [优化打包后的Apk自动使用root权限开启无障碍服务](https://github.com/wilinz/Automyjsx/commit/1ab37c9e8fd8e635cfa5464bd9f4af94248f0ba2)
+3. [修复OCR BUG](https://github.com/wilinz/Automyjsx/commit/58f763f061f121c3eb47505a70eb8ee0fd111ebb)
+4. [修复打包BUG，打包编辑框自动填充BUG](https://github.com/wilinz/Automyjsx/commit/8031a8e9cc0e4d70429e7f067f15876f1d789b7e)
 
-[6.2.7]:https://github.com/kkevsekk1/AutoX/compare/6.2.6...6.2.7
+[6.2.7]:https://github.com/kkevsekk1/Automyjsx/compare/6.2.6...6.2.7
 
 ## [6.2.6] - 2022-8-14
 
 @wilinz 增加如下功能
-1. [修复](https://github.com/wilinz/AutoX/commit/3d04d498d4c5ebdae60a41c02abd3dd43c374040) https://github.com/kkevsekk1/AutoX/issues/392 [root权限直接打开无障碍](https://github.com/wilinz/AutoX/commit/3d04d498d4c5ebdae60a41c02abd3dd43c374040)
-2. [文档页面工具栏添加在浏览器打开按钮，侧滑菜单添加切换定时任务调度器按钮](https://github.com/wilinz/AutoX/commit/991de7fb687c561c0ad9064dae3ca192bb541c22) 
-3. [修复定时任务无效问题](https://github.com/wilinz/AutoX/commit/362a1f31bc8df682f138d9d86c0d9229c8fb241f)
-4. [修复打包BUG，以及打包后的App闪退的问题](https://github.com/wilinz/AutoX/commit/2a1e5c0edb2d70ce88a07cc5f5ba608c1e4e7b8c)
-5. [修复app.autojs.versionName和app.autojs.versionCode问题](https://github.com/wilinz/AutoX/commit/af54fd82996941752d3dd5d9888fd1f4d8df7416)
-6. [新增退出布局分析悬浮窗按钮](https://github.com/wilinz/AutoX/commit/8f5a5f886d8d1071ca6b6cb5a0d67c9fb7375fff)
-7. [优化topAppBar弹出菜单, 确保点击后关闭菜单](https://github.com/wilinz/AutoX/commit/3fdd4a239b12e1c5518c5893ff9b8d65060a20d2)
+1. [修复](https://github.com/wilinz/Automyjsx/commit/3d04d498d4c5ebdae60a41c02abd3dd43c374040) https://github.com/kkevsekk1/Automyjsx/issues/392 [root权限直接打开无障碍](https://github.com/wilinz/Automyjsx/commit/3d04d498d4c5ebdae60a41c02abd3dd43c374040)
+2. [文档页面工具栏添加在浏览器打开按钮，侧滑菜单添加切换定时任务调度器按钮](https://github.com/wilinz/Automyjsx/commit/991de7fb687c561c0ad9064dae3ca192bb541c22) 
+3. [修复定时任务无效问题](https://github.com/wilinz/Automyjsx/commit/362a1f31bc8df682f138d9d86c0d9229c8fb241f)
+4. [修复打包BUG，以及打包后的App闪退的问题](https://github.com/wilinz/Automyjsx/commit/2a1e5c0edb2d70ce88a07cc5f5ba608c1e4e7b8c)
+5. [修复app.automyjsa.versionName和app.automyjsa.versionCode问题](https://github.com/wilinz/Automyjsx/commit/af54fd82996941752d3dd5d9888fd1f4d8df7416)
+6. [新增退出布局分析悬浮窗按钮](https://github.com/wilinz/Automyjsx/commit/8f5a5f886d8d1071ca6b6cb5a0d67c9fb7375fff)
+7. [优化topAppBar弹出菜单, 确保点击后关闭菜单](https://github.com/wilinz/Automyjsx/commit/3fdd4a239b12e1c5518c5893ff9b8d65060a20d2)
 8. 修复连接vscode URL解析BUG，增加扫码连接后记住扫码结果功能
 
-[6.2.6]:https://github.com/kkevsekk1/AutoX/compare/6.2.5...6.2.6
+[6.2.6]:https://github.com/kkevsekk1/Automyjsx/compare/6.2.5...6.2.6
 
 ## [6.2.5] -- 2022-8-13
 
-[6.2.5]:https://github.com/kkevsekk1/AutoX/compare/6.2.3...6.2.5
+[6.2.5]:https://github.com/kkevsekk1/Automyjsx/compare/6.2.3...6.2.5
 
 @wilinz 增加如下功能
 
-1. [调整UI避免文件操作按钮被挡住](https://github.com/wilinz/AutoX/commit/b65fd14d9ed01601affd9822dfbab5c54b94ee19)
-2. [调整资源文件, 添加多语言支持](https://github.com/wilinz/AutoX/commit/b9e29c663288e1cd9458a73a0deb0a99b955c65a) by [Globalization Translator](https://github.com/wilinz/globalization-translator) 
-3. [添加英文Readme](https://github.com/wilinz/AutoX/commit/7941357d0fbee713b45c3454cd27a2b3c9b657b4)
-4. [修复打包后不显示 logo 和 底部splashText 的问题](https://github.com/wilinz/AutoX/commit/35e71046e98149d74bdeb150b6900e5edea61fab)
-5. [优化文件操作，确保正常关闭文件流](https://github.com/wilinz/AutoX/commit/1bb4a1fceb13c3e87c6cc600be1afdcd560b056c)
-6. [修复http模块response.close()错误](https://github.com/wilinz/AutoX/commit/3b2f58ff0ed10ee8243fbc8d7ccc4e0e47aa187e)
-7. [优化打包，新增打包abi过滤，支持保存打包配置文件，可保存为项目。](https://github.com/wilinz/AutoX/commit/8b6776cff8b0fca4be4a52719b7d7d07c0a058f3) 
-8. [修复打包的APK不支持armeabi-v7a的BUG，优化模板apk，与Autox.js共享二进制库和Assets, 以减少Autox.js Apk 大小](https://github.com/wilinz/AutoX/commit/8b6776cff8b0fca4be4a52719b7d7d07c0a058f3) 
-9. [修改包名使Autox.js可以和Auto.js共存](https://github.com/wilinz/AutoX/commit/8b6776cff8b0fca4be4a52719b7d7d07c0a058f3)
-10. [优化检查更新](https://github.com/wilinz/AutoX/commit/629e8d90317b12ac7109ea808689c8072dd8cd83)
-11. [修复crypto模块BUG](https://github.com/kkevsekk1/AutoX/pull/391/commits/28913396430f0189a3cd0334382f44178bba55de)
+1. [调整UI避免文件操作按钮被挡住](https://github.com/wilinz/Automyjsx/commit/b65fd14d9ed01601affd9822dfbab5c54b94ee19)
+2. [调整资源文件, 添加多语言支持](https://github.com/wilinz/Automyjsx/commit/b9e29c663288e1cd9458a73a0deb0a99b955c65a) by [Globalization Translator](https://github.com/wilinz/globalization-translator) 
+3. [添加英文Readme](https://github.com/wilinz/Automyjsx/commit/7941357d0fbee713b45c3454cd27a2b3c9b657b4)
+4. [修复打包后不显示 logo 和 底部splashText 的问题](https://github.com/wilinz/Automyjsx/commit/35e71046e98149d74bdeb150b6900e5edea61fab)
+5. [优化文件操作，确保正常关闭文件流](https://github.com/wilinz/Automyjsx/commit/1bb4a1fceb13c3e87c6cc600be1afdcd560b056c)
+6. [修复http模块response.close()错误](https://github.com/wilinz/Automyjsx/commit/3b2f58ff0ed10ee8243fbc8d7ccc4e0e47aa187e)
+7. [优化打包，新增打包abi过滤，支持保存打包配置文件，可保存为项目。](https://github.com/wilinz/Automyjsx/commit/8b6776cff8b0fca4be4a52719b7d7d07c0a058f3) 
+8. [修复打包的APK不支持armeabi-v7a的BUG，优化模板apk，与Automyjsx.js共享二进制库和Assets, 以减少Automyjsx.js Apk 大小](https://github.com/wilinz/Automyjsx/commit/8b6776cff8b0fca4be4a52719b7d7d07c0a058f3) 
+9. [修改包名使Automyjsx.js可以和Automyjsa.js共存](https://github.com/wilinz/Automyjsx/commit/8b6776cff8b0fca4be4a52719b7d7d07c0a058f3)
+10. [优化检查更新](https://github.com/wilinz/Automyjsx/commit/629e8d90317b12ac7109ea808689c8072dd8cd83)
+11. [修复crypto模块BUG](https://github.com/kkevsekk1/Automyjsx/pull/391/commits/28913396430f0189a3cd0334382f44178bba55de)
 
 
 
@@ -316,13 +316,13 @@ autoxjs 整个项目的一些更新日志,双版本号为稳定版，单版本�
 *  邀请第三方上线 【AIX】独立apk，支持单独或批量运行授权应用
 *  第三方独立apk，AIX,知斗云等 支持vscode或商店服务器，websocket自动重连
 *I 重启后console无法使用的bug
-* autoxjs 上线：脚本（应用）商店
-* autoxjs 支持试运行商店中的脚本（应用）。
-* autoxjs 支持自助线授权脚本（应用）到第三方(AIX)中稳定运行，批量运行。
-* autoxjs 开发者发布脚本，可以授权给第三方使用。
-* autoxjs 上线推荐(码)奖励功能（分成比例，开发者70%，邀请20%[邀请人和开发者同一人90%]）
-* autoxjs 支持AIX,AUTOXJS下载，分享下载。
-* autoxjs 脚本备份，变成可配置，默认打开。
+* automyjsx 上线：脚本（应用）商店
+* automyjsx 支持试运行商店中的脚本（应用）。
+* automyjsx 支持自助线授权脚本（应用）到第三方(AIX)中稳定运行，批量运行。
+* automyjsx 开发者发布脚本，可以授权给第三方使用。
+* automyjsx 上线推荐(码)奖励功能（分成比例，开发者70%，邀请20%[邀请人和开发者同一人90%]）
+* automyjsx 支持AIX,Automyjsx下载，分享下载。
+* automyjsx 脚本备份，变成可配置，默认打开。
 * 上线web端开发者平台
 * 开发平台 可发布脚本（应用）到商店。
 * 开发平台 提供自助授权配置（免费，按量，包年包月）
@@ -387,7 +387,7 @@ autoxjs 整个项目的一些更新日志,双版本号为稳定版，单版本�
 ## 4.2.13
 优化以下特性：
 * 修复打包后的app启动另一个独立ui脚本无法执行的bug
-* webpack-autox 项目支持可以输出多个文件，有需要请更新
+* webpack-automyjsx 项目支持可以输出多个文件，有需要请更新
 * 注意解决第一个bug 是之前修复另一bug引起的，但是现在不知道是哪个bug了，发现请反馈
 * 感谢大家支持
 
@@ -419,7 +419,7 @@ autoxjs 整个项目的一些更新日志,双版本号为稳定版，单版本�
 优化以下特性：
 * 调整模板app，添加常驻前台，现在是统一自动开启
 * 修复打包插件，无法识别空目录，导致无法重新打包识别
-* 统一模板app和autoxjs，不再采用插件形式打包
+* 统一模板app和automyjsx，不再采用插件形式打包
 * 修复了4.2.7 的遗留问题
 
 
@@ -429,7 +429,7 @@ autoxjs 整个项目的一些更新日志,双版本号为稳定版，单版本�
 * 去除打包插件机制，直接使用模板打包
 * 修复release发布，不能运行bug
 * 修复release模式下语言包找不到问题
-`注意`遗留一个问题这里面的模板不是最新,最新升级的接口，打包出来无法使用,在autoxjs中可以正常使用
+`注意`遗留一个问题这里面的模板不是最新,最新升级的接口，打包出来无法使用,在automyjsx中可以正常使用
 
 
 ## 4.2.6

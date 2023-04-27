@@ -37,7 +37,7 @@
   <string name="github">軟件源代碼</string>
   <string name="text_already_copy_to_clip">已復製到剪貼板</string>
   <string name="text_qq_already_copy_to_clip">QQ群號已復製到剪貼板</string>
-  <string name="share_app">[Autox.js]下載地址：https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js]下載地址：https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">懸浮窗</string>
   <string name="text_error_report">錯誤報告</string>
   <string name="text_press_again_to_exit">再按一次退出程序</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">導入成功</string>
   <string name="text_current_activity">當前活動:</string>
   <string name="text_current_package">當前應用包名:</string>
-  <string name="go_to_accessibility_settings">請打開設置->無障礙服務->Autox.js並開啟</string>
+  <string name="go_to_accessibility_settings">請打開設置->無障礙服務->Automyjsx.js並開啟</string>
   <string name="text_script_running">腳本運行</string>
   <string name="text_use_volume_to_stop_running">音量上鍵停止所有腳本</string>
   <string name="text_need_to_enable_accessibility_service">需要啟用無障礙服務</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">沒有配置文件</string>
   <string name="text_foreground_service">前台服務</string>
   <string name="foreground_notification_channel_name">前台服務通知</string>
-  <string name="foreground_notification_title">Autox.js保持運行中</string>
+  <string name="foreground_notification_title">Automyjsx.js保持運行中</string>
   <string name="foreground_notification_text">點擊進入主界面</string>
   <string name="text_run_on_other_broadcast">其他事件(廣播)</string>
   <string name="text_broadcast_action">廣播Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">項目已經保存到%s</string>
   <string name="text_project_save_error">項目保存失敗%s</string>
   <string name="text_night_mode">夜間模式</string>
-  <string name="text_run_on_startup">Autox.js啟動時</string>
+  <string name="text_run_on_startup">Automyjsx.js啟動時</string>
   <string name="text_usage_stats_permission">使用情況訪問權限</string>
   <string name="description_usage_stats_permission">通過\"查看使用統計\"權限可以獲取本設備過去使用應用的情況，從而使獲取當前應用(currentPackage)時更準確。</string>
   <string name="text_open_with">打開方式</string>

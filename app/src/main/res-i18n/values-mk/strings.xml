@@ -37,7 +37,7 @@
   <string name="github">Изворниот код на софтверот</string>
   <string name="text_already_copy_to_clip">Копирани во таблата со исечоци</string>
   <string name="text_qq_already_copy_to_clip">Бројот на групата QQ е копиран на таблата со исечоци</string>
-  <string name="share_app">[Autox.js] Адреса за преземање: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Адреса за преземање: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Лебдечки прозорец</string>
   <string name="text_error_report">Извештај за грешка</string>
   <string name="text_press_again_to_exit">Притиснете повторно за да излезете од програмата</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Увозот е успешен</string>
   <string name="text_current_activity">Тековна активност:</string>
   <string name="text_current_package">Име на тековниот пакет на апликација:</string>
-  <string name="go_to_accessibility_settings">Отворете Поставки->Услуги за пристапност->Autox.js и овозможете го</string>
+  <string name="go_to_accessibility_settings">Отворете Поставки->Услуги за пристапност->Automyjsx.js и овозможете го</string>
   <string name="text_script_running">Извршување на скрипта</string>
   <string name="text_use_volume_to_stop_running">Копчето за зголемување на јачината на звукот ги запира сите скрипти</string>
   <string name="text_need_to_enable_accessibility_service">Услугите за пристапност треба да се овозможат</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Нема конфигурациска датотека</string>
   <string name="text_foreground_service">Прием</string>
   <string name="foreground_notification_channel_name">Известување за пред бирото</string>
-  <string name="foreground_notification_title">Autox.js продолжува да работи</string>
+  <string name="foreground_notification_title">Automyjsx.js продолжува да работи</string>
   <string name="foreground_notification_text">Кликнете за да влезете во главниот интерфејс</string>
   <string name="text_run_on_other_broadcast">Други настани (пренос)</string>
   <string name="text_broadcast_action">Акција за емитување</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Проектот е зачуван во %s</string>
   <string name="text_project_save_error">Зачувувањето на проектот не успеа %s</string>
   <string name="text_night_mode">Ноќен режим</string>
-  <string name="text_run_on_startup">Кога ќе започне Autox.js</string>
+  <string name="text_run_on_startup">Кога ќе започне Automyjsx.js</string>
   <string name="text_usage_stats_permission">Користење пристап</string>
   <string name="description_usage_stats_permission">Преку дозволата за „преглед на статистика за користење“, можете да го добиете досегашното користење на апликацијата на овој уред, за да биде попрецизно да се добие тековната апликација (currentPackage).</string>
   <string name="text_open_with">Отворен пат</string>

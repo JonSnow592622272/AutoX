@@ -37,7 +37,7 @@
   <string name="github">ソフトウェアのソースコード</string>
   <string name="text_already_copy_to_clip">クリップボードにコピー</string>
   <string name="text_qq_already_copy_to_clip">QQ グループ番号がクリップボードにコピーされました</string>
-  <string name="share_app">【Autox.js】ダウンロードアドレス：https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">【Automyjsx.js】ダウンロードアドレス：https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">フローティングウィンドウ</string>
   <string name="text_error_report">エラーレポート</string>
   <string name="text_press_again_to_exit">もう一度押すと、プログラムを終了します</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">インポート成功</string>
   <string name="text_current_activity">最近の活動：</string>
   <string name="text_current_package">現在のアプリケーション パッケージ名:</string>
-  <string name="go_to_accessibility_settings">設定 -> ユーザー補助サービス -> Autox.js を開いて有効にしてください</string>
+  <string name="go_to_accessibility_settings">設定 -> ユーザー補助サービス -> Automyjsx.js を開いて有効にしてください</string>
   <string name="text_script_running">スクリプトの実行</string>
   <string name="text_use_volume_to_stop_running">ボリュームアップキーはすべてのスクリプトを停止します</string>
   <string name="text_need_to_enable_accessibility_service">ユーザー補助サービスを有効にする必要があります</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">構成ファイルがありません</string>
   <string name="text_foreground_service">受信</string>
   <string name="foreground_notification_channel_name">フロントサービスのお知らせ</string>
-  <string name="foreground_notification_title">Autox.js は実行を続けます</string>
+  <string name="foreground_notification_title">Automyjsx.js は実行を続けます</string>
   <string name="foreground_notification_text">クリックしてメインインターフェイスに入ります</string>
   <string name="text_run_on_other_broadcast">その他のイベント（放送）</string>
   <string name="text_broadcast_action">ブロードキャスト アクション</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">プロジェクトは%sに保存されました</string>
   <string name="text_project_save_error">プロジェクトの保存に失敗しました%s</string>
   <string name="text_night_mode">ナイトモード</string>
-  <string name="text_run_on_startup">Autox.js 起動時</string>
+  <string name="text_run_on_startup">Automyjsx.js 起動時</string>
   <string name="text_usage_stats_permission">使用アクセス</string>
   <string name="description_usage_stats_permission">「使用統計の表示」権限により、このデバイスの過去のアプリケーション使用状況を取得できるため、現在のアプリケーション (currentPackage) をより正確に取得できます。</string>
   <string name="text_open_with">道を開く</string>

@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">اشارو مانيٽرنگ فعال نه آهي، مهرباني ڪري ان کي سافٽ ويئر سيٽنگون ۾ فعال ڪريو</string>
   <string name="no_write_settings_permissin">سسٽم سيٽنگون تبديل ڪرڻ جي اجازت ناهي</string>
   <string name="exception_notification_service_disabled">نوٽيفڪيشن سروس نه هلي رهي آهي، مهرباني ڪري نوٽيفڪيشن جي اجازت کي ٻيهر فعال ڪريو</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">ھن اسڪرپٽ کي هلائڻ لاءِ Auto.js ورجن نمبر %d يا وڌيڪ جي ضرورت آھي</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">ھن اسڪرپٽ کي هلائڻ لاءِ Automyjsa.js ورجن نمبر %d يا وڌيڪ جي ضرورت آھي</string>
   <string name="text_drawer_open">ڊراپ ڊائون مينيو کوليو</string>
   <string name="text_drawer_close">ڊراپ ڊائون مينيو بند ڪريو</string>
   <string name="no_read_phone_state_permissin">ڊوائيس جي معلومات پڙهڻ جي اجازت ناهي</string>

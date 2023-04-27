@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gukurikirana ibimenyetso ntibishoboka, nyamuneka ubishoboze mumiterere ya software</string>
   <string name="no_write_settings_permissin">Nta ruhushya rwo guhindura igenamiterere rya sisitemu</string>
   <string name="exception_notification_service_disabled">Serivisi yo kumenyesha ntabwo ikora, nyamuneka ongera ushoboze uruhushya rwo kumenyesha</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Iyi nyandiko isaba Auto.js numero %d cyangwa irenga kugirango ikore</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Iyi nyandiko isaba Automyjsa.js numero %d cyangwa irenga kugirango ikore</string>
   <string name="text_drawer_open">Fungura menu yamanutse</string>
   <string name="text_drawer_close">Funga menu yamanutse</string>
   <string name="no_read_phone_state_permissin">Nta ruhushya rwo gusoma amakuru yibikoresho</string>

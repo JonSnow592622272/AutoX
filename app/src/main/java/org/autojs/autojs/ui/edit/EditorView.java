@@ -1,9 +1,9 @@
-package org.autojs.autojs.ui.edit;
+package org.automyjsa.automyjsa.ui.edit;
 
-import static org.autojs.autojs.model.script.Scripts.ACTION_ON_EXECUTION_FINISHED;
-import static org.autojs.autojs.model.script.Scripts.EXTRA_EXCEPTION_COLUMN_NUMBER;
-import static org.autojs.autojs.model.script.Scripts.EXTRA_EXCEPTION_LINE_NUMBER;
-import static org.autojs.autojs.model.script.Scripts.EXTRA_EXCEPTION_MESSAGE;
+import static org.automyjsa.automyjsa.model.script.Scripts.ACTION_ON_EXECUTION_FINISHED;
+import static org.automyjsa.automyjsa.model.script.Scripts.EXTRA_EXCEPTION_COLUMN_NUMBER;
+import static org.automyjsa.automyjsa.model.script.Scripts.EXTRA_EXCEPTION_LINE_NUMBER;
+import static org.automyjsa.automyjsa.model.script.Scripts.EXTRA_EXCEPTION_MESSAGE;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -32,9 +32,9 @@ import androidx.fragment.app.FragmentManager;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.google.android.material.snackbar.Snackbar;
-import com.stardust.autojs.engine.JavaScriptEngine;
-import com.stardust.autojs.engine.ScriptEngine;
-import com.stardust.autojs.execution.ScriptExecution;
+import com.stardust.automyjsa.engine.JavaScriptEngine;
+import com.stardust.automyjsa.engine.ScriptEngine;
+import com.stardust.automyjsa.execution.ScriptExecution;
 import com.stardust.pio.PFiles;
 import com.stardust.util.BackPressedHandler;
 import com.stardust.util.Callback;
@@ -43,35 +43,35 @@ import com.stardust.util.ViewUtils;
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EViewGroup;
 import org.androidannotations.annotations.ViewById;
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.autojs.AutoJs;
-import org.autojs.autojs.model.autocomplete.AutoCompletion;
-import org.autojs.autojs.model.autocomplete.CodeCompletion;
-import org.autojs.autojs.model.autocomplete.CodeCompletions;
-import org.autojs.autojs.model.autocomplete.Symbols;
-import org.autojs.autojs.model.indices.Module;
-import org.autojs.autojs.model.indices.Property;
-import org.autojs.autojs.model.script.Scripts;
-import org.autojs.autojs.tool.Observers;
-import org.autojs.autojs.ui.doc.ManualDialog;
-import org.autojs.autojs.ui.edit.completion.CodeCompletionBar;
-import org.autojs.autojs.ui.edit.debug.DebugBar;
-import org.autojs.autojs.ui.edit.editor.CodeEditor;
-import org.autojs.autojs.ui.edit.keyboard.FunctionsKeyboardHelper;
-import org.autojs.autojs.ui.edit.keyboard.FunctionsKeyboardView;
-import org.autojs.autojs.ui.edit.theme.Theme;
-import org.autojs.autojs.ui.edit.theme.Themes;
-import org.autojs.autojs.ui.edit.toolbar.DebugToolbarFragment;
-import org.autojs.autojs.ui.edit.toolbar.DebugToolbarFragment_;
-import org.autojs.autojs.ui.edit.toolbar.NormalToolbarFragment;
-import org.autojs.autojs.ui.edit.toolbar.NormalToolbarFragment_;
-import org.autojs.autojs.ui.edit.toolbar.SearchToolbarFragment;
-import org.autojs.autojs.ui.edit.toolbar.SearchToolbarFragment_;
-import org.autojs.autojs.ui.edit.toolbar.ToolbarFragment;
-import org.autojs.autojs.ui.log.LogActivityKt;
-import org.autojs.autojs.ui.widget.EWebView;
-import org.autojs.autojs.ui.widget.SimpleTextWatcher;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.automyjsa.Automyjsa;
+import org.automyjsa.automyjsa.model.autocomplete.AutoCompletion;
+import org.automyjsa.automyjsa.model.autocomplete.CodeCompletion;
+import org.automyjsa.automyjsa.model.autocomplete.CodeCompletions;
+import org.automyjsa.automyjsa.model.autocomplete.Symbols;
+import org.automyjsa.automyjsa.model.indices.Module;
+import org.automyjsa.automyjsa.model.indices.Property;
+import org.automyjsa.automyjsa.model.script.Scripts;
+import org.automyjsa.automyjsa.tool.Observers;
+import org.automyjsa.automyjsa.ui.doc.ManualDialog;
+import org.automyjsa.automyjsa.ui.edit.completion.CodeCompletionBar;
+import org.automyjsa.automyjsa.ui.edit.debug.DebugBar;
+import org.automyjsa.automyjsa.ui.edit.editor.CodeEditor;
+import org.automyjsa.automyjsa.ui.edit.keyboard.FunctionsKeyboardHelper;
+import org.automyjsa.automyjsa.ui.edit.keyboard.FunctionsKeyboardView;
+import org.automyjsa.automyjsa.ui.edit.theme.Theme;
+import org.automyjsa.automyjsa.ui.edit.theme.Themes;
+import org.automyjsa.automyjsa.ui.edit.toolbar.DebugToolbarFragment;
+import org.automyjsa.automyjsa.ui.edit.toolbar.DebugToolbarFragment_;
+import org.automyjsa.automyjsa.ui.edit.toolbar.NormalToolbarFragment;
+import org.automyjsa.automyjsa.ui.edit.toolbar.NormalToolbarFragment_;
+import org.automyjsa.automyjsa.ui.edit.toolbar.SearchToolbarFragment;
+import org.automyjsa.automyjsa.ui.edit.toolbar.SearchToolbarFragment_;
+import org.automyjsa.automyjsa.ui.edit.toolbar.ToolbarFragment;
+import org.automyjsa.automyjsa.ui.log.LogActivityKt;
+import org.automyjsa.automyjsa.ui.widget.EWebView;
+import org.automyjsa.automyjsa.ui.widget.SimpleTextWatcher;
 
 import java.io.File;
 import java.util.List;
@@ -462,7 +462,7 @@ public class EditorView extends FrameLayout implements CodeCompletionBar.OnHintC
     }
 
     private void doWithCurrentEngine(Callback<ScriptEngine> callback) {
-        ScriptExecution execution = AutoJs.getInstance().getScriptEngineService().getScriptExecution(mScriptExecutionId);
+        ScriptExecution execution = Automyjsa.getInstance().getScriptEngineService().getScriptExecution(mScriptExecutionId);
         if (execution != null) {
             ScriptEngine engine = execution.getEngine();
             if (engine != null) {
@@ -711,7 +711,7 @@ public class EditorView extends FrameLayout implements CodeCompletionBar.OnHintC
 
     @Nullable
     public ScriptExecution getScriptExecution() {
-        return AutoJs.getInstance().getScriptEngineService().getScriptExecution(mScriptExecutionId);
+        return Automyjsa.getInstance().getScriptEngineService().getScriptExecution(mScriptExecutionId);
     }
 
     @Nullable

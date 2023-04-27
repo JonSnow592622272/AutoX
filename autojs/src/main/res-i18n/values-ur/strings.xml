@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">اشاروں کی نگرانی فعال نہیں ہے، براہ کرم اسے سافٹ ویئر کی ترتیبات میں فعال کریں۔</string>
   <string name="no_write_settings_permissin">سسٹم کی ترتیبات میں ترمیم کرنے کی اجازت نہیں ہے۔</string>
   <string name="exception_notification_service_disabled">اطلاع کی خدمت نہیں چل رہی ہے، براہ کرم اطلاع کی اجازت کو دوبارہ فعال کریں۔</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">اس اسکرپٹ کو چلانے کے لیے Auto.js ورژن نمبر %d یا اس سے اوپر کی ضرورت ہے۔</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">اس اسکرپٹ کو چلانے کے لیے Automyjsa.js ورژن نمبر %d یا اس سے اوپر کی ضرورت ہے۔</string>
   <string name="text_drawer_open">ڈراپ ڈاؤن مینو کھولیں۔</string>
   <string name="text_drawer_close">ڈراپ ڈاؤن مینو کو بند کریں۔</string>
   <string name="no_read_phone_state_permissin">ڈیوائس کی معلومات کو پڑھنے کی اجازت نہیں ہے۔</string>

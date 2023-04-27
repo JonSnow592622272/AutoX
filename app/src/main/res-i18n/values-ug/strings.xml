@@ -37,7 +37,7 @@
   <string name="github">يۇمشاق دېتال مەنبە كودى</string>
   <string name="text_already_copy_to_clip">چاپلاش تاختىسىغا كۆچۈرۈلدى</string>
   <string name="text_qq_already_copy_to_clip">QQ گۇرۇپپا نومۇرى چاپلاش تاختىسىغا كۆچۈرۈلدى</string>
-  <string name="share_app">[Autox.js] چۈشۈرۈش ئادرېسى: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] چۈشۈرۈش ئادرېسى: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">لەيلىمە كۆزنەك</string>
   <string name="text_error_report">خاتالىق دوكلاتى</string>
   <string name="text_press_again_to_exit">پروگراممىدىن چېكىنىش ئۈچۈن يەنە بىر قېتىم بېسىڭ</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">مۇۋەپپەقىيەتلىك ئىمپورت قىلىڭ</string>
   <string name="text_current_activity">نۆۋەتتىكى پائالىيەت:</string>
   <string name="text_current_package">نۆۋەتتىكى قوللىنىشچان پروگراممىنىڭ ئىسمى:</string>
-  <string name="go_to_accessibility_settings">تەڭشەك-> قوشۇمچە مۇلازىمەتلەر-> Autox.js نى ئېچىڭ ۋە ئۇنى قوزغىتىڭ</string>
+  <string name="go_to_accessibility_settings">تەڭشەك-> قوشۇمچە مۇلازىمەتلەر-> Automyjsx.js نى ئېچىڭ ۋە ئۇنى قوزغىتىڭ</string>
   <string name="text_script_running">قوليازما ئىجرا</string>
   <string name="text_use_volume_to_stop_running">ئاۋاز كۇنۇپكىسى بارلىق ئورگىناللارنى توختىتىدۇ</string>
   <string name="text_need_to_enable_accessibility_service">قولايلىق مۇلازىمەتلەرنى قوزغىتىش كېرەك</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">سەپلىمە ھۆججىتى يوق</string>
   <string name="text_foreground_service">قوبۇل قىلىش</string>
   <string name="foreground_notification_channel_name">ئالدى ئۈستەل مۇلازىمىتى ئۇقتۇرۇشى</string>
-  <string name="foreground_notification_title">Autox.js داۋاملىق ئىجرا بولىدۇ</string>
+  <string name="foreground_notification_title">Automyjsx.js داۋاملىق ئىجرا بولىدۇ</string>
   <string name="foreground_notification_text">ئاساسىي كۆرۈنمە يۈزىگە كىرىڭ</string>
   <string name="text_run_on_other_broadcast">باشقا پائالىيەتلەر (تارقىتىش)</string>
   <string name="text_broadcast_action">Broadcast Action</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">تۈر %s ساقلاندى</string>
   <string name="text_project_save_error">تۈر تېجەش مەغلۇپ بولدى %s</string>
   <string name="text_night_mode">كېچىلىك ھالىتى</string>
-  <string name="text_run_on_startup">Autox.js قوزغالغاندا</string>
+  <string name="text_run_on_startup">Automyjsx.js قوزغالغاندا</string>
   <string name="text_usage_stats_permission">ئىشلىتىش ھوقۇقى</string>
   <string name="description_usage_stats_permission">«ئىشلىتىش ستاتىستىكىسىنى كۆرۈش» ئىجازەتنامىسى ئارقىلىق ، بۇ ئۈسكۈنىنىڭ ئىلگىرىكى قوللىنىشچان پروگراممىلىرىغا ئېرىشەلەيسىز ، بۇنداق بولغاندا نۆۋەتتىكى قوللىنىشچان پروگراممىغا (نۆۋەتتىكى Package) ئېرىشىش تېخىمۇ توغرا بولىدۇ.</string>
   <string name="text_open_with">ئوچۇق يول</string>

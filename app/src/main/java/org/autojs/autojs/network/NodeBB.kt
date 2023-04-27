@@ -1,4 +1,4 @@
-package org.autojs.autojs.network
+package org.automyjsa.automyjsa.network
 
 import android.content.Context
 import android.util.Log
@@ -8,9 +8,9 @@ import com.jakewharton.retrofit2.adapter.rxjava2.HttpException
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import io.reactivex.Observable
 import okhttp3.OkHttpClient
-import org.autojs.autoxjs.R
-import org.autojs.autojs.network.api.ConfigApi
-import org.autojs.autojs.network.util.WebkitCookieManagerProxy
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.network.api.ConfigApi
+import org.automyjsa.automyjsa.network.util.WebkitCookieManagerProxy
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.io.IOException
@@ -56,7 +56,7 @@ class NodeBB internal constructor() {
     }
 
     companion object {
-        const val BASE_URL = "http://www.autoxjs.com/"
+        const val BASE_URL = "http://www.automyjsx.com/"
         @JvmField
         val instance = NodeBB()
         private const val LOG_TAG = "NodeBB"

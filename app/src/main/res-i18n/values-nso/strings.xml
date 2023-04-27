@@ -37,7 +37,7 @@
   <string name="github">Khoutu ya mohlodi ya software</string>
   <string name="text_already_copy_to_clip">E kopišitšwe go clipboard</string>
   <string name="text_qq_already_copy_to_clip">Nomoro ya sehlopha sa QQ e kopišitšwe go clipboard</string>
-  <string name="share_app">[Autox.js] Aterese ya go taonelouta: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Aterese ya go taonelouta: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Lefasetere le le phaphametšego</string>
   <string name="text_error_report">Pego ya phošo</string>
   <string name="text_press_again_to_exit">Tobetsa gape go tšwa lenaneong</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Import e atlegile</string>
   <string name="text_current_activity">Mošomo wa bjale:</string>
   <string name="text_current_package">Leina la sephuthelwana sa tirišo sa bjale:</string>
-  <string name="go_to_accessibility_settings">Hle bula Dipeakanyo->Ditirelo tša Phihlelelo->Autox.js gomme o e kgontšhe</string>
+  <string name="go_to_accessibility_settings">Hle bula Dipeakanyo->Ditirelo tša Phihlelelo->Automyjsx.js gomme o e kgontšhe</string>
   <string name="text_script_running">Sengwalwa matha</string>
   <string name="text_use_volume_to_stop_running">Volume up key emisa dingwalwa ka moka</string>
   <string name="text_need_to_enable_accessibility_service">Ditirelo tša phihlelelo di swanetše go kgontšhwa</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Ga go na faele ya peakanyo</string>
   <string name="text_foreground_service">Boamogelabaeng</string>
   <string name="foreground_notification_channel_name">Tsebiso ya tirelo ya tafoleng ya ka pele</string>
-  <string name="foreground_notification_title">Autox.js e dula e šoma</string>
+  <string name="foreground_notification_title">Automyjsx.js e dula e šoma</string>
   <string name="foreground_notification_text">Tobetsa ho kena segokanyimmediamentsi sa sebolokigolo se seholo</string>
   <string name="text_run_on_other_broadcast">Ditiragalo tše dingwe (kgašo) .</string>
   <string name="text_broadcast_action">Kgašo ya Kgašo</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Protšeke e bolokilwe go %s</string>
   <string name="text_project_save_error">Polokelo ya porojeke e paletšwe %s</string>
   <string name="text_night_mode">Mokgwa wa bosiu</string>
-  <string name="text_run_on_startup">Ge Autox.js e thoma</string>
+  <string name="text_run_on_startup">Ge Automyjsx.js e thoma</string>
   <string name="text_usage_stats_permission">Phihlelelo ya tšhomišo</string>
   <string name="description_usage_stats_permission">Ka tumelelo ya \"dipalopalo tša tšhomišo ya go lebelela\", o ka hwetša tšhomišo ya tirišo ya nakong ye e fetilego ya sedirišwa se, gore e be ye e nepagetšego kudu go hwetša tirišo ya bjale (currentPackage).</string>
   <string name="text_open_with">Tsela e bulehileng</string>

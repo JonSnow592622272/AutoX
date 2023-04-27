@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.console;
+package com.stardust.automyjsa.core.console;
 
 import com.stardust.util.UiHandler;
 

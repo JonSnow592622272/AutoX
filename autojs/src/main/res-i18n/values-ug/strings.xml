@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">قول ئىشارىسىنى نازارەت قىلىش قوزغىتىلمىدى ، يۇمشاق دېتال تەڭشىكىدە قوزغىتىڭ</string>
   <string name="no_write_settings_permissin">سىستېما تەڭشىكىنى ئۆزگەرتىشكە ئىجازەت يوق</string>
   <string name="exception_notification_service_disabled">ئۇقتۇرۇش مۇلازىمىتى ئىجرا قىلىنمايدۇ ، ئۇقتۇرۇش ئىجازىتىنى قايتا قوزغىتىڭ</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">بۇ قوليازما ئىجرا قىلىش ئۈچۈن Auto.js نەشرىنىڭ %d ياكى ئۇنىڭدىن يۇقىرى نەشرىنى تەلەپ قىلىدۇ</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">بۇ قوليازما ئىجرا قىلىش ئۈچۈن Automyjsa.js نەشرىنىڭ %d ياكى ئۇنىڭدىن يۇقىرى نەشرىنى تەلەپ قىلىدۇ</string>
   <string name="text_drawer_open">ئېسىلما تىزىملىكنى ئېچىڭ</string>
   <string name="text_drawer_close">ئېسىلما تىزىملىكنى تاقاڭ</string>
   <string name="no_read_phone_state_permissin">ئۈسكۈنىنىڭ ئۇچۇرلىرىنى ئوقۇشقا ئىجازەت يوق</string>

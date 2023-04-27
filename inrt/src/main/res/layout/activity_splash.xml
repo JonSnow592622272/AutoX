@@ -8,7 +8,7 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
-        android:src="@drawable/autojs_logo"/>
+        android:src="@drawable/automyjsa_logo"/>
 
     <TextView
         android:id="@+id/slug"

@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.main.drawer
+package org.automyjsa.automyjsa.ui.main.drawer
 
 import android.app.Application
 import android.widget.Toast
@@ -8,10 +8,10 @@ import androidx.compose.runtime.setValue
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.launch
-import org.autojs.autoxjs.R
-import org.autojs.autojs.network.VersionService2
-import org.autojs.autojs.network.entity.GithubReleaseInfo
-import org.autojs.autojs.network.entity.isLatestVersion
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.network.VersionService2
+import org.automyjsa.automyjsa.network.entity.GithubReleaseInfo
+import org.automyjsa.automyjsa.network.entity.isLatestVersion
 
 class DrawerViewModel(private val context: Application) : AndroidViewModel(context) {
 

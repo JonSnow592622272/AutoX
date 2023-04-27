@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime.api;
+package com.stardust.automyjsa.runtime.api;
 
 import android.app.Activity;
 import android.content.Context;
@@ -8,13 +8,13 @@ import android.widget.CompoundButton;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.Theme;
-import com.stardust.autojs.R;
-import com.stardust.autojs.annotation.ScriptInterface;
-import com.stardust.autojs.annotation.ScriptVariable;
-import com.stardust.autojs.core.ui.dialog.BlockedMaterialDialog;
-import com.stardust.autojs.core.ui.dialog.JsDialogBuilder;
-import com.stardust.autojs.runtime.ScriptBridges;
-import com.stardust.autojs.runtime.ScriptRuntime;
+import com.stardust.automyjsa.R;
+import com.stardust.automyjsa.annotation.ScriptInterface;
+import com.stardust.automyjsa.annotation.ScriptVariable;
+import com.stardust.automyjsa.core.ui.dialog.BlockedMaterialDialog;
+import com.stardust.automyjsa.core.ui.dialog.JsDialogBuilder;
+import com.stardust.automyjsa.runtime.ScriptBridges;
+import com.stardust.automyjsa.runtime.ScriptRuntime;
 import com.stardust.util.ArrayUtils;
 import com.stardust.util.UiHandler;
 

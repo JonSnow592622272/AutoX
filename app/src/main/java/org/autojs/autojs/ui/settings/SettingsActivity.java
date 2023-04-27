@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.settings;
+package org.automyjsa.automyjsa.ui.settings;
 
 import android.content.Context;
 import android.content.Intent;
@@ -17,9 +17,9 @@ import com.stardust.util.MapBuilder;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.EActivity;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.ui.BaseActivity;
-import org.autojs.autojs.ui.widget.CommonMarkdownView;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.ui.BaseActivity;
+import org.automyjsa.automyjsa.ui.widget.CommonMarkdownView;
 
 import java.util.ArrayList;
 import java.util.List;

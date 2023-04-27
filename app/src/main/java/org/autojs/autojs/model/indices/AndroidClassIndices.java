@@ -1,4 +1,4 @@
-package org.autojs.autojs.model.indices;
+package org.automyjsa.automyjsa.model.indices;
 
 
 import android.annotation.SuppressLint;
@@ -8,7 +8,7 @@ import android.text.TextUtils;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
-import org.autojs.autojs.tool.Observers;
+import org.automyjsa.automyjsa.tool.Observers;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

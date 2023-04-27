@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.ui.inflater;
+package com.stardust.automyjsa.core.ui.inflater;
 
 import android.content.Context;
 import android.view.View;

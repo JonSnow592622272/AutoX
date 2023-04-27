@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Ишарә мониторингы кушылмый, зинһар, аны программа көйләүләрендә эшләгез</string>
   <string name="no_write_settings_permissin">Система көйләүләрен үзгәртергә рөхсәт юк</string>
   <string name="exception_notification_service_disabled">Хәбәрләр хезмәте эшләми, зинһар, хәбәр итү рөхсәтен яңадан эшләгез</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Бу сценарий эшләү өчен Auto.js версиясе %d яки югарырак</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Бу сценарий эшләү өчен Automyjsa.js версиясе %d яки югарырак</string>
   <string name="text_drawer_open">Ашаучы менюны ачыгыз</string>
   <string name="text_drawer_close">Ашаучы менюны ябыгыз</string>
   <string name="no_read_phone_state_permissin">Deviceайланма мәгълүматын укырга рөхсәт юк</string>

@@ -1,4 +1,4 @@
-package com.stardust.autojs.core.pref
+package com.stardust.automyjsa.core.pref
 
 import androidx.preference.PreferenceManager;
 import com.stardust.app.GlobalAppContext

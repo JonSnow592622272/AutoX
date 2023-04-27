@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gestus vigilantia non est enabled, quaeso, id fac in uncinis programmatis</string>
   <string name="no_write_settings_permissin">Nulla licentia mutare ratio occasus</string>
   <string name="exception_notification_service_disabled">Notification officii non est currens, quaeso rursus enable notificationem permission</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Hoc scriptum requirit Auto.js version numerum %d vel altius currere</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Hoc scriptum requirit Automyjsa.js version numerum %d vel altius currere</string>
   <string name="text_drawer_open">Aperi gutta descendit menu</string>
   <string name="text_drawer_close">Claudere gutta descendit menu</string>
   <string name="no_read_phone_state_permissin">Nulla licentia fabrica notitia legere</string>

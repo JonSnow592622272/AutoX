@@ -1,11 +1,11 @@
-package org.autojs.autojs.tool;
+package org.automyjsa.automyjsa.tool;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 
 import com.stardust.app.OnActivityResultDelegate;
-import org.autojs.autoxjs.R;
+import org.automyjsa.automyjsx.R;
 
 /**
  * Created by Stardust on 2017/3/5.

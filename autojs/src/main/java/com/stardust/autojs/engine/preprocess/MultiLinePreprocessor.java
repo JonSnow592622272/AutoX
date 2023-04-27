@@ -1,4 +1,4 @@
-package com.stardust.autojs.engine.preprocess;
+package com.stardust.automyjsa.engine.preprocess;
 
 import androidx.annotation.VisibleForTesting;
 

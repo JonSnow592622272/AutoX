@@ -1,6 +1,6 @@
-package org.autojs.autojs.network
+package org.automyjsa.automyjsa.network
 
-import org.autojs.autojs.network.api.GithubUpdateCheckApi
+import org.automyjsa.automyjsa.network.api.GithubUpdateCheckApi
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.create

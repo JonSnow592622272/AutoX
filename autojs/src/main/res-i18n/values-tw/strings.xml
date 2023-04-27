@@ -19,7 +19,7 @@
   <string name="text_should_enable_gesture_observing">Gesture monitoring no nnyɛ adwuma, yɛsrɛ wo ma ɛnyɛ adwuma wɔ software nhyehyɛe mu</string>
   <string name="no_write_settings_permissin">Mma ho kwan biara nni hɔ sɛ wobɛsesa nhyehyɛe nhyehyɛe ahorow</string>
   <string name="exception_notification_service_disabled">Notification service no nnyɛ adwuma, yɛsrɛ wo san ma notification permission no nyɛ adwuma</string>
-  <string name="text_requires_app_version_to_run_the_script" formatted="true">Saa script yi hwehwɛ Auto.js version number %d anaa nea ɛboro saa na ama ayɛ adwuma</string>
+  <string name="text_requires_app_version_to_run_the_script" formatted="true">Saa script yi hwehwɛ Automyjsa.js version number %d anaa nea ɛboro saa na ama ayɛ adwuma</string>
   <string name="text_drawer_open">Bue menu a ɛwɔ ase hɔ no</string>
   <string name="text_drawer_close">To menu a ɛwɔ ase hɔ no mu</string>
   <string name="no_read_phone_state_permissin">Hokwan biara nni hɔ sɛ wobɛkenkan mfiri ho nsɛm</string>

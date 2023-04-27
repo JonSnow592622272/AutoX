@@ -37,7 +37,7 @@
   <string name="github">Вихідний код програмного забезпечення</string>
   <string name="text_already_copy_to_clip">Скопійовано в буфер обміну</string>
   <string name="text_qq_already_copy_to_clip">Номер групи QQ скопійовано в буфер обміну</string>
-  <string name="share_app">[Autox.js] Адреса завантаження: https://github.com/kkevsekk1/AutoX/releases</string>
+  <string name="share_app">[Automyjsx.js] Адреса завантаження: https://github.com/kkevsekk1/Automyjsx/releases</string>
   <string name="text_floating_window">Плаваюче вікно</string>
   <string name="text_error_report">Звіт про помилку</string>
   <string name="text_press_again_to_exit">Натисніть ще раз, щоб вийти з програми</string>
@@ -94,7 +94,7 @@
   <string name="text_import_succeed">Імпорт успішний</string>
   <string name="text_current_activity">Поточна діяльність:</string>
   <string name="text_current_package">Поточна назва пакета програми:</string>
-  <string name="go_to_accessibility_settings">Будь ласка, відкрийте Налаштування->Служби доступності->Autox.js і ввімкніть його</string>
+  <string name="go_to_accessibility_settings">Будь ласка, відкрийте Налаштування->Служби доступності->Automyjsx.js і ввімкніть його</string>
   <string name="text_script_running">Виконання сценарію</string>
   <string name="text_use_volume_to_stop_running">Клавіша збільшення гучності зупиняє всі сценарії</string>
   <string name="text_need_to_enable_accessibility_service">Необхідно ввімкнути служби доступності</string>
@@ -395,7 +395,7 @@
   <string name="text_invalid_project_config">Немає файлу конфігурації</string>
   <string name="text_foreground_service">Рецепція</string>
   <string name="foreground_notification_channel_name">Повідомлення служби реєстрації</string>
-  <string name="foreground_notification_title">Autox.js продовжує працювати</string>
+  <string name="foreground_notification_title">Automyjsx.js продовжує працювати</string>
   <string name="foreground_notification_text">Натисніть, щоб увійти в головний інтерфейс</string>
   <string name="text_run_on_other_broadcast">Інші події (трансляція)</string>
   <string name="text_broadcast_action">Трансляція дії</string>
@@ -420,7 +420,7 @@
   <string name="text_project_save_success">Проект збережено в %s</string>
   <string name="text_project_save_error">Не вдалося зберегти проект %s</string>
   <string name="text_night_mode">Нічний режим</string>
-  <string name="text_run_on_startup">Коли запускається Autox.js</string>
+  <string name="text_run_on_startup">Коли запускається Automyjsx.js</string>
   <string name="text_usage_stats_permission">Доступ до використання</string>
   <string name="description_usage_stats_permission">За допомогою дозволу «перегляд статистики використання» ви можете отримати минуле використання програми на цьому пристрої, щоб було точніше отримати поточну програму (currentPackage).</string>
   <string name="text_open_with">Відкритий шлях</string>

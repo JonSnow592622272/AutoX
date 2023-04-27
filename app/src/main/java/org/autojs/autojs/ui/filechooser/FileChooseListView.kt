@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.filechooser
+package org.automyjsa.automyjsa.ui.filechooser
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -16,14 +16,14 @@ import butterknife.OnCheckedChanged
 import butterknife.OnClick
 import com.stardust.pio.PFile
 import com.stardust.pio.PFiles
-import org.autojs.autoxjs.R
-import org.autojs.autojs.model.explorer.ExplorerItem
-import org.autojs.autojs.model.explorer.ExplorerPage
-import org.autojs.autojs.model.script.ScriptFile
-import org.autojs.autojs.ui.explorer.ExplorerViewHelper
-import org.autojs.autojs.ui.explorer.ExplorerViewKt
-import org.autojs.autojs.ui.widget.BindableViewHolder
-import org.autojs.autojs.ui.widget.CheckBoxCompat
+import org.automyjsa.automyjsx.R
+import org.automyjsa.automyjsa.model.explorer.ExplorerItem
+import org.automyjsa.automyjsa.model.explorer.ExplorerPage
+import org.automyjsa.automyjsa.model.script.ScriptFile
+import org.automyjsa.automyjsa.ui.explorer.ExplorerViewHelper
+import org.automyjsa.automyjsa.ui.explorer.ExplorerViewKt
+import org.automyjsa.automyjsa.ui.widget.BindableViewHolder
+import org.automyjsa.automyjsa.ui.widget.CheckBoxCompat
 
 /**
  * Created by Stardust on 2017/10/19.

@@ -1,4 +1,4 @@
-package org.autojs.autojs.network.api;
+package org.automyjsa.automyjsa.network.api;
 
 import io.reactivex.Observable;
 import okhttp3.ResponseBody;

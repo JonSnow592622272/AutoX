@@ -1,4 +1,4 @@
-package org.autojs.autojs.ui.update;
+package org.automyjsa.automyjsa.ui.update;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -19,13 +19,13 @@ import android.widget.Toast;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.stardust.util.IntentUtil;
 
-import org.autojs.autojs.Pref;
-import org.autojs.autoxjs.R;
-import org.autojs.autojs.external.fileprovider.AppFileProvider;
-import org.autojs.autojs.network.download.DownloadManager;
-import org.autojs.autojs.network.entity.VersionInfo;
-import org.autojs.autojs.tool.IntentTool;
-import org.autojs.autojs.ui.widget.CommonMarkdownView;
+import org.automyjsa.automyjsa.Pref;
+import org.automyjsa.automyjsx.R;
+import org.automyjsa.automyjsa.external.fileprovider.AppFileProvider;
+import org.automyjsa.automyjsa.network.download.DownloadManager;
+import org.automyjsa.automyjsa.network.entity.VersionInfo;
+import org.automyjsa.automyjsa.tool.IntentTool;
+import org.automyjsa.automyjsa.ui.widget.CommonMarkdownView;
 
 import java.io.File;
 
@@ -118,7 +118,7 @@ public class UpdateInfoDialogBuilder extends MaterialDialog.Builder {
 
     @SuppressLint("CheckResult")
     private void directlyDownload(String downloadUrl) {
-        final String path = new File(Pref.getScriptDirPath(), "AutoxJs.apk").getPath();
+        final String path = new File(Pref.getScriptDirPath(), "Automyjsx.apk").getPath();
         DownloadManager.getInstance().downloadWithProgress(getContext(), downloadUrl, path)
                 .subscribeOn(AndroidSchedulers.mainThread())
                 .subscribe(file -> IntentUtil.installApkOrToast(getContext(), file.getPath(), AppFileProvider.AUTHORITY),

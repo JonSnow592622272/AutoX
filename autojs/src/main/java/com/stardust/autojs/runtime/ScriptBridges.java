@@ -1,4 +1,4 @@
-package com.stardust.autojs.runtime;
+package com.stardust.automyjsa.runtime;
 
 /**
  * Created by Stardust on 2017/7/21.
