@@ -169,3 +169,15 @@
     #gradle环境  建议7或以上
     #androidSdk  要求32版本 并且配置ANDROID_HOME
     #编译时注意看编译错误信息，找到对应错误查看，通常都是环境问题导致，无需更改代码。
+    
+    #当前项目名称已经批量更改为：
+    （可以通过名称查找批量替换字符串，然后并且将文件、文件夹名称同时替换成其他的项目名称）
+    automyjsa
+    automyjsa.js
+    Automyjsa
+    Automyjsa.js
+    
+    automyjsx
+    automyjsx.js
+    Automyjsx
+    Automyjsx.js
