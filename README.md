@@ -132,7 +132,7 @@
 ```
 生成的调试版本APK文件在 app/build/outputs/apk/v6/debug 下，使用默认签名
 
-##### 本地编译发布版本：
+##### 本地编译发布版本：（I use it.）
 ```shell
 ./gradlew inrt:assembleTemplate && ./gradlew inrt:cp2APP && ./gradlew app:assembleV6
 #或

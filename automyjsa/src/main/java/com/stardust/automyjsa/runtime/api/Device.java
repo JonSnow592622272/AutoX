@@ -137,6 +137,32 @@ public class Device {
         Settings.System.putInt(mContext.getContentResolver(), Settings.System.SCREEN_BRIGHTNESS_MODE, b);
     }
 
+    /**
+     * 增加方法，可以修改系统设置
+     *
+     * @author wulingming
+     **/
+    public void setSettings(String name, int value) throws Settings.SettingNotFoundException {
+            checkWriteSettingsPermission();
+            Settings.System.putInt(mContext.getContentResolver(), name, value);
+        }
+
+    /**
+     * 修改系统设置 使用Settings.Global。避免“Settings.System.putInt”方式报错
+     *
+     * @author wulingming
+     **/
+    public void setSettingsGlobal(String name, int value) throws Settings.SettingNotFoundException {
+        checkWriteSettingsPermission();
+        boolean secureSettingsGranted = mContext.checkSelfPermission(Manifest.permission.WRITE_SECURE_SETTINGS) == PackageManager.PERMISSION_GRANTED;
+        if (secureSettingsGranted) {
+
+        }
+        Settings.Global.putInt(mContext.getContentResolver(), name, value);
+    }
+
+
+
     public int getMusicVolume() {
         return ((AudioManager) getSystemService(Context.AUDIO_SERVICE))
                 .getStreamVolume(AudioManager.STREAM_MUSIC);
